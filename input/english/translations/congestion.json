@@ -1,0 +1,198 @@
+[
+  {
+    "english": "congestion",
+    "german": "Verstopfung (f, 3129)"
+  },
+  {
+    "english": "congestion",
+    "german": "Stau (m, 1621)"
+  },
+  {
+    "english": "congestion",
+    "german": "Andrang (m, 507)"
+  },
+  {
+    "english": "congestion (traffic)",
+    "german": "Verkehrsbelastung (f, 277)"
+  },
+  {
+    "english": "congestion",
+    "german": "Überlastung (f, 202)"
+  },
+  {
+    "english": "congestion",
+    "german": "Stauung (f, 131)"
+  },
+  {
+    "english": "congestion",
+    "german": "Überfüllung (f, 119)"
+  },
+  {
+    "english": "congestion",
+    "german": "Anhäufung (f, 58)"
+  },
+  {
+    "english": "congestion",
+    "german": "Übervölkerung (f, 45)"
+  },
+  {
+    "english": "congestion (med.)",
+    "german": "Blutandrang (m, 36)"
+  },
+  {
+    "english": "congestion (telecom.)",
+    "german": "Überbelegung (Datenstau, Verstopfung, von, Leitungen, Frequenzkanlen, f, 25)"
+  },
+  {
+    "english": "congestion (med.)",
+    "german": "Blutwallung (f, 18)"
+  },
+  {
+    "english": "congestion (med.)",
+    "german": "Kongestion (f, 10)"
+  },
+  {
+    "english": "congestion (med.)",
+    "german": "Anschoppung (f)"
+  },
+  {
+    "english": "(road) congestion (traffic, transp.)",
+    "german": "Straßenverstopfung (f)"
+  },
+  {
+    "english": "blood congestion (med.)",
+    "german": "Blutandrang (m)"
+  },
+  {
+    "english": "bronchial congestion (med.)",
+    "german": "Bronchialanschoppung (f)"
+  },
+  {
+    "english": "congestion charge (transp.)",
+    "german": "Staugebühr (f)"
+  },
+  {
+    "english": "congestion charge (traffic)",
+    "german": "City-Maut (f)"
+  },
+  {
+    "english": "congestion charge (traffic)",
+    "german": "Anti-Stau-Gebühr (f)"
+  },
+  {
+    "english": "congestion fee (traffic)",
+    "german": "Anti-Stau-Gebühr (f)"
+  },
+  {
+    "english": "congestion formation (traffic)",
+    "german": "Staubildung (f)"
+  },
+  {
+    "english": "congestion pricing (traffic)",
+    "german": "Citymaut (f)"
+  },
+  {
+    "english": "congestion pricing (traffic)",
+    "german": "Innenstadtmaut (f)"
+  },
+  {
+    "english": "congestion pricing (traffic)",
+    "german": "Road-Pricing (schweiz, Innenstadtmaut, n)"
+  },
+  {
+    "english": "congestion signal (comp., telecom.)",
+    "german": "Überlastungssignal (n)"
+  },
+  {
+    "english": "congestion signal (telecom., IEC, 60050)",
+    "german": "Gassenbesetztzeichen (auch, GassenbesetztZeichen, IEC, 60050, n)"
+  },
+  {
+    "english": "congestion surcharge (naut., transp.)",
+    "german": "Verstopfungszuschlag (m)"
+  },
+  {
+    "english": "congestion trap (traffic, coll, traffic, trouble, spot)",
+    "german": "Staufalle (ugs, auch, StauFalle, f)"
+  },
+  {
+    "english": "ear congestion (med., VetMed., otocleisis)",
+    "german": "Ohrverstopfung (f)"
+  },
+  {
+    "english": "liver congestion (med.)",
+    "german": "Leberstauung (f)"
+  },
+  {
+    "english": "mucous congestion",
+    "german": "Verschleimung (f)"
+  },
+  {
+    "english": "nasal congestion (med.)",
+    "german": "verstopfte Nase (f)"
+  },
+  {
+    "english": "pulmonary congestion (med.)",
+    "german": "Stauungslunge (f)"
+  },
+  {
+    "english": "route congestion",
+    "german": "Überlastung (f)"
+  },
+  {
+    "english": "shelf congestion (comm., chronic, shortage, of, shelf, space)",
+    "german": "Regalverstopfung (ugs, leicht, hum, f)"
+  },
+  {
+    "english": "traffic congestion (traffic, transp.)",
+    "german": "Stau (m)"
+  },
+  {
+    "english": "traffic congestion (traffic, transp.)",
+    "german": "Verkehrsstau (m)"
+  },
+  {
+    "english": "traffic congestion (traffic, transp.)",
+    "german": "Verkehrsstockung (f)"
+  },
+  {
+    "english": "plagued by congestion (traffic, adj)",
+    "german": "staugeplagt"
+  },
+  {
+    "english": "congestion of population",
+    "german": "Übervölkerung (f)"
+  },
+  {
+    "english": "congestion of traffic (traffic, transp.)",
+    "german": "Verkehrsstau (m)"
+  },
+  {
+    "english": "pelvic congestion syndrome \u003cPCS\u003e (med.)",
+    "german": "Beckenvenensyndrom \u003cBVS\u003e (n)"
+  },
+  {
+    "english": "pulmonary vascular congestion (med.)",
+    "german": "Lungenstauung (f)"
+  },
+  {
+    "english": "venous congestion plethysmography \u003cVCP\u003e (MedTech.)",
+    "german": "Venenverschlussplethysmographie \u003cVVP\u003e (f)"
+  },
+  {
+    "english": "venous congestion plethysmography \u003cVCP\u003e (MedTech.)",
+    "german": "venöse Verschlussplethysmographie \u003cVVP\u003e (f)"
+  },
+  {
+    "english": "(central) London congestion charge \u003cLCC\u003e (traffic, travel, also, Londons, congestion, charge)",
+    "german": "Londoner Staugebühr (f)"
+  },
+  {
+    "english": "chronic passive congestion of (the) liver (med., ICD10)",
+    "german": "chronische Stauungsleber (ICD10, f)"
+  },
+  {
+    "english": "congestion of housing and places of work",
+    "german": "Verdichtung von Wohn- und Arbeitsstätten (f)"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "english": "thyroid (med., adj)",
+    "german": "thyreoidal (20)"
+  },
+  {
+    "english": "thyroid (med.)",
+    "german": "Thyreoidea (f, 6)"
+  },
+  {
+    "english": "thyroid-stimulating (biol., adj)",
+    "german": "thyreoideastimulierend"
+  },
+  {
+    "english": "thyroid (gland) (anat., biol., Glandula, thyreoidea, Glandula, thyroidea)",
+    "german": "Schilddrüse (f)"
+  },
+  {
+    "english": "thyroid antibodies (med.)",
+    "german": "Schilddrüsenantikörper (pl)"
+  },
+  {
+    "english": "thyroid artery \u003cTA\u003e (anat., Arteria, thyroidea)",
+    "german": "Schilddrüsenschlagader (f)"
+  },
+  {
+    "english": "thyroid cancer (med.)",
+    "german": "Schilddrüsenkrebs (m)"
+  },
+  {
+    "english": "thyroid cancer \u003cTC\u003e (med., Struma, maligna)",
+    "german": "Schilddrüsenkarzinom (n)"
+  },
+  {
+    "english": "thyroid carcinoma (med.)",
+    "german": "Schilddrüsenkarzinom (n)"
+  },
+  {
+    "english": "thyroid cartilage (anat.)",
+    "german": "Schilddrüsenknorpel (m)"
+  },
+  {
+    "english": "thyroid cartilage (anat., Cartilago, thyroidea)",
+    "german": "Schildknorpel (am, Kehlkopf, m)"
+  },
+  {
+    "english": "thyroid cell (anat., biol.)",
+    "german": "Schilddrüsenzelle (f)"
+  },
+  {
+    "english": "thyroid deficiency (med.)",
+    "german": "Schilddrüsenunterfunktion (f)"
+  },
+  {
+    "english": "thyroid diagnostics (med.)",
+    "german": "Schilddrüsendiagnostik (f)"
+  },
+  {
+    "english": "thyroid disease (med.)",
+    "german": "Schilddrüsenerkrankung (f)"
+  },
+  {
+    "english": "thyroid disorder (med.)",
+    "german": "Schilddrüsenstörung (f)"
+  },
+  {
+    "english": "thyroid dysfunction (med.)",
+    "german": "Schilddrüsenstörung (f)"
+  },
+  {
+    "english": "thyroid dysfunction (med.)",
+    "german": "Fehlfunktion der Schilddrüse (f)"
+  },
+  {
+    "english": "thyroid glands (anat.)",
+    "german": "Schilddrüsen (pl)"
+  },
+  {
+    "english": "thyroid heart (med.)",
+    "german": "Kropfherz (n)"
+  },
+  {
+    "english": "thyroid hormone (biol.)",
+    "german": "Schilddrüsenhormon (n)"
+  },
+  {
+    "english": "thyroid hormones (chem.)",
+    "german": "Schilddrüsenhormone (pl)"
+  },
+  {
+    "english": "thyroid hyperfunction (med.)",
+    "german": "Schilddrüsenüberfunktion (f)"
+  },
+  {
+    "english": "thyroid hyperfunction (med.)",
+    "german": "Überfunktion der Schilddrüse (f)"
+  },
+  {
+    "english": "thyroid hypofunction (med.)",
+    "german": "Schilddrüsenunterfunktion (f)"
+  },
+  {
+    "english": "thyroid isthmus (anat., isthmus, of, thyroid)",
+    "german": "Schilddrüsenenge (ugs, f)"
+  },
+  {
+    "english": "thyroid nodule (med.)",
+    "german": "Schilddrüsenknoten (m)"
+  },
+  {
+    "english": "thyroid nodules (med.)",
+    "german": "Knoten (in) der Schilddrüse (pl)"
+  },
+  {
+    "english": "thyroid peroxidase (med.)",
+    "german": "Schilddrüsenperoxidase (f)"
+  },
+  {
+    "english": "thyroid peroxidase \u003cTPO\u003e (med.)",
+    "german": "Thyreoperoxidase \u003cTPO\u003e (f)"
+  },
+  {
+    "english": "thyroid scan (med., MedTech., thyroid, scintigraphy)",
+    "german": "Schilddrüsenscan \u003cSD-Scan\u003e (m)"
+  },
+  {
+    "english": "thyroid scintigraphy (med.)",
+    "german": "Schilddrüsenszintigrafie (f)"
+  },
+  {
+    "english": "thyroid scintigraphy (med.)",
+    "german": "Schilddrüsenszintigraphie (f)"
+  },
+  {
+    "english": "thyroid shield (MedTech.)",
+    "german": "Schilddrüsenschutz (m)"
+  },
+  {
+    "english": "thyroid sonography (MedTech.)",
+    "german": "Schilddrüsensonografie (f)"
+  },
+  {
+    "english": "thyroid sonography (MedTech.)",
+    "german": "Schilddrüsensonographie (f)"
+  },
+  {
+    "english": "thyroid storm (med., thyrotoxic, crisis)",
+    "german": "thyreotoxische Krise (f)"
+  },
+  {
+    "english": "thyroid surgery (med.)",
+    "german": "Schilddrüsenchirurgie (f)"
+  },
+  {
+    "english": "thyroid therapy (med.)",
+    "german": "Therapie von Schilddrüsenerkrankungen (f)"
+  },
+  {
+    "english": "thyroid tissue (med.)",
+    "german": "Schilddrüsengewebe (n)"
+  },
+  {
+    "english": "thyroid tumor (med., Am)",
+    "german": "Schilddrüsentumor (m)"
+  },
+  {
+    "english": "thyroid tumour (med., Br)",
+    "german": "Schilddrüsentumor (m)"
+  },
+  {
+    "english": "thyroid uptake (med., coll, radioactive, iodine, uptake, test)",
+    "german": "Radiojodtest (Schilddrsenfunktionstest, m)"
+  },
+  {
+    "english": "thyroid veins (anat., VetMed.)",
+    "german": "Schilddrüsenvenen (pl)"
+  },
+  {
+    "english": "underactive thyroid (med.)",
+    "german": "Schilddrüsenunterfunktion (f)"
+  },
+  {
+    "english": "(lead) thyroid collar (dent., MedTech.)",
+    "german": "Schilddrüsenkragen (m)"
+  },
+  {
+    "english": "anaplastic thyroid cancer \u003cATC\u003e (med.)",
+    "german": "anaplastischer Schilddrüsenkrebs (m)"
+  },
+  {
+    "english": "cold thyroid nodule (med.)",
+    "german": "kalter Knoten (m)"
+  },
+  {
+    "english": "follicular thyroid cancer \u003cFTC\u003e (med.)",
+    "german": "follikulärer Schilddrüsenkrebs (m)"
+  },
+  {
+    "english": "hot thyroid nodule (med.)",
+    "german": "heißer Knoten (m)"
+  }
+]

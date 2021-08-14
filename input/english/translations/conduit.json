@@ -1,0 +1,234 @@
+[
+  {
+    "english": "conduit (tech.)",
+    "german": "Leitung (f, 753)"
+  },
+  {
+    "english": "conduit (fig)",
+    "german": "Verbindung (Verbindungsstelle, f, 423)"
+  },
+  {
+    "english": "conduit",
+    "german": "Kanal (m, 201)"
+  },
+  {
+    "english": "conduit (electr., telecom.)",
+    "german": "Kabelkanal (m, 174)"
+  },
+  {
+    "english": "conduit",
+    "german": "Rohr (n, 94)"
+  },
+  {
+    "english": "conduit (fin.)",
+    "german": "Zweckgesellschaft (f, 71)"
+  },
+  {
+    "english": "conduit",
+    "german": "Verbindungsmann (m, 50)"
+  },
+  {
+    "english": "conduit",
+    "german": "Wasserleitung (f, 43)"
+  },
+  {
+    "english": "conduit",
+    "german": "Röhre (f, 34)"
+  },
+  {
+    "english": "conduit (electr.)",
+    "german": "Isolierrohr (n, 24)"
+  },
+  {
+    "english": "conduit (tech.)",
+    "german": "Leitungsrohr (n, 22)"
+  },
+  {
+    "english": "conduit (tech., also, fig)",
+    "german": "Leitkanal (auch, fig, m, 18)"
+  },
+  {
+    "english": "conduit (fig)",
+    "german": "Verbindungslinie (f, 18)"
+  },
+  {
+    "english": "conduit",
+    "german": "Aquädukt (auch, n, m, 16)"
+  },
+  {
+    "english": "conduit",
+    "german": "Rohrleitung (f, 16)"
+  },
+  {
+    "english": "conduit",
+    "german": "Leitungsröhre (f, 8)"
+  },
+  {
+    "english": "conduit (water)",
+    "german": "Gerinne (n, 7)"
+  },
+  {
+    "english": "conduit (tech.)",
+    "german": "Leitungsschlauch (m)"
+  },
+  {
+    "english": "armored conduit (electr., Am, for, protection, of, power, cable)",
+    "german": "Panzerrohr (n)"
+  },
+  {
+    "english": "armoured conduit (Br)",
+    "german": "Panzerrohr (n)"
+  },
+  {
+    "english": "brake conduit (tech.)",
+    "german": "Bremsleitung (f)"
+  },
+  {
+    "english": "cable conduit (electr.)",
+    "german": "Kabelkanal (m)"
+  },
+  {
+    "english": "cable conduit",
+    "german": "Kabelrohr (n)"
+  },
+  {
+    "english": "cable conduit (tech.)",
+    "german": "Kabelschlauch (m)"
+  },
+  {
+    "english": "cable conduit (electr.)",
+    "german": "Kabelschutzrohr (n)"
+  },
+  {
+    "english": "conduit (pipe)",
+    "german": "Wellschlauch (m)"
+  },
+  {
+    "english": "conduit box (electr.)",
+    "german": "Abzweigdose (f)"
+  },
+  {
+    "english": "conduit box (constr., electr.)",
+    "german": "Verteilerkasten (Baustrom, m)"
+  },
+  {
+    "english": "conduit cable (electr.)",
+    "german": "Leitungskabel (n)"
+  },
+  {
+    "english": "conduit entry",
+    "german": "Leitereinführung (f)"
+  },
+  {
+    "english": "conduit pipe",
+    "german": "Leitungsrohr (n)"
+  },
+  {
+    "english": "conduit system",
+    "german": "Leitungssystem (n)"
+  },
+  {
+    "english": "conduit wire",
+    "german": "Rohrdraht (m)"
+  },
+  {
+    "english": "conduit wiring (tech.)",
+    "german": "Verlegung in Rohrleitungen (f)"
+  },
+  {
+    "english": "discharge conduit (nucl.)",
+    "german": "Abführungsleitung (f)"
+  },
+  {
+    "english": "distribution conduit (electr.)",
+    "german": "Verteilungskanal (m)"
+  },
+  {
+    "english": "empty conduit (constr.)",
+    "german": "Leerrohr (n)"
+  },
+  {
+    "english": "flexible conduit (electr.)",
+    "german": "flexibles Kabelrohr (n)"
+  },
+  {
+    "english": "gas conduit (tech.)",
+    "german": "Gasrohrleitung (f)"
+  },
+  {
+    "english": "installation conduit (electr.)",
+    "german": "Installationsrohr (n)"
+  },
+  {
+    "english": "magma conduit (geol.)",
+    "german": "Vulkanschlot (m)"
+  },
+  {
+    "english": "reserve conduit (constr., tech.)",
+    "german": "Leerrohr (n)"
+  },
+  {
+    "english": "steel conduit (electr., for, protection, of, power, cable)",
+    "german": "Panzerrohr (n)"
+  },
+  {
+    "english": "ventilation conduit",
+    "german": "Lüftungskanal (m)"
+  },
+  {
+    "english": "water conduit",
+    "german": "Wasserleitung (f)"
+  },
+  {
+    "english": "water conduit (hydro., tech.)",
+    "german": "Wasserzuleitung (f)"
+  },
+  {
+    "english": "(rigid) steel conduit",
+    "german": "Stahlpanzerrohr (Kabelschutz, n)"
+  },
+  {
+    "english": "armoured conduit thread (tech., Br)",
+    "german": "Panzerrohrgewinde \u003cPG\u003e (n)"
+  },
+  {
+    "english": "conduit for water",
+    "german": "Wasserleitung (f)"
+  },
+  {
+    "english": "conduit of pipes",
+    "german": "Röhrenführung (f)"
+  },
+  {
+    "english": "corrugated steel conduit",
+    "german": "gewelltes Stahlpanzerrohr (n)"
+  },
+  {
+    "english": "empty conduit system (constr.)",
+    "german": "Leerrohranlage (f)"
+  },
+  {
+    "english": "steel conduit clamp",
+    "german": "Stahlrohrschelle (f)"
+  },
+  {
+    "english": "steel conduit clamp",
+    "german": "Stahlschelle (Rohrschelle, f)"
+  },
+  {
+    "english": "steel conduit clip",
+    "german": "Stahlrohrschelle (f)"
+  },
+  {
+    "english": "steel conduit clip",
+    "german": "Stahlschelle (Rohrschelle, f)"
+  },
+  {
+    "english": "steel conduit (pipe) thread",
+    "german": "Stahlpanzerrohrgewinde (n)"
+  },
+  {
+    "english": "high-strength plastic sleeve conduit (constr.)",
+    "german": "Panzersteckrohr (n)"
+  }
+]

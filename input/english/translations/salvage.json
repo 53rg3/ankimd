@@ -1,0 +1,294 @@
+[
+  {
+    "english": "salvage (adj)",
+    "german": "Bergungs- (269)"
+  },
+  {
+    "english": "Salvage!",
+    "german": "Birg! (19)"
+  },
+  {
+    "english": "to salvage",
+    "german": "retten (1759)"
+  },
+  {
+    "english": "to salvage",
+    "german": "bergen (950)"
+  },
+  {
+    "english": "to salvage",
+    "german": "wiedergewinnen (423)"
+  },
+  {
+    "english": "to salvage",
+    "german": "erretten (geh, 137)"
+  },
+  {
+    "english": "to salvage sth.",
+    "german": "etw. ausschlachten (ugs, brauchbare, Teile, ausbauen, 112)"
+  },
+  {
+    "english": "salvage",
+    "german": "Rettung (f, 594)"
+  },
+  {
+    "english": "salvage",
+    "german": "Altmaterial (n, 331)"
+  },
+  {
+    "english": "salvage (naut.)",
+    "german": "Bergung (auf, See, f, 214)"
+  },
+  {
+    "english": "salvage (ecol., material, extracted, from, rubbish, as, useful)",
+    "german": "Abfallverwertung (f, 50)"
+  },
+  {
+    "english": "salvage",
+    "german": "Altmaterialverwertung (f, 40)"
+  },
+  {
+    "english": "salvage (naut., of, a, ship)",
+    "german": "Bergen (auf, See, Bergung, n, 23)"
+  },
+  {
+    "english": "salvage (naut.)",
+    "german": "Bergelohn (m, 20)"
+  },
+  {
+    "english": "salvage (med.)",
+    "german": "Erhalt (Erhaltung, Rettung, eines, Organs, etc, m, 19)"
+  },
+  {
+    "english": "salvage (naut.)",
+    "german": "Bergungsgut (n, 18)"
+  },
+  {
+    "english": "salvage (naut.)",
+    "german": "Bergungslohn (m, 18)"
+  },
+  {
+    "english": "sb. would salvage",
+    "german": "jd. bärge"
+  },
+  {
+    "english": "to salvage from",
+    "german": "bergen aus"
+  },
+  {
+    "english": "cell salvage \u003cCS\u003e (med.)",
+    "german": "Blutrückgewinnung (auch, Cell, Salvage, f, f)"
+  },
+  {
+    "english": "foot salvage (med., eg, diabetic, foot)",
+    "german": "Fußerhalt (z, B, bei, diabetischem, Fu, m)"
+  },
+  {
+    "english": "limb salvage (med.)",
+    "german": "Extremitätenerhalt (m)"
+  },
+  {
+    "english": "maritime salvage (FireResc, naut.)",
+    "german": "Bergung aus Seenot (f)"
+  },
+  {
+    "english": "salvage agreement",
+    "german": "Bergungsvertrag (m)"
+  },
+  {
+    "english": "salvage attempt",
+    "german": "Bergungsversuch (m)"
+  },
+  {
+    "english": "salvage award",
+    "german": "Bergungslohn (m)"
+  },
+  {
+    "english": "salvage bond (stocks)",
+    "german": "Restanleihe (f)"
+  },
+  {
+    "english": "salvage car (automot.)",
+    "german": "Unfallfahrzeug (Schrottauto, n)"
+  },
+  {
+    "english": "salvage charges (FireResc)",
+    "german": "Bergungskosten (pl)"
+  },
+  {
+    "english": "salvage company (econ.)",
+    "german": "Bergungsfirma (f)"
+  },
+  {
+    "english": "salvage company (naut.)",
+    "german": "Bergungsunternehmen (n)"
+  },
+  {
+    "english": "salvage costs (FireResc)",
+    "german": "Bergungskosten (pl)"
+  },
+  {
+    "english": "salvage costs (FireResc)",
+    "german": "Rettungskosten (pl)"
+  },
+  {
+    "english": "salvage crane",
+    "german": "Abschleppkran (m)"
+  },
+  {
+    "english": "salvage crane",
+    "german": "Bergekran (m)"
+  },
+  {
+    "english": "salvage crane",
+    "german": "Bergungskran (m)"
+  },
+  {
+    "english": "salvage crew (FireResc)",
+    "german": "Aufräumtrupp (m)"
+  },
+  {
+    "english": "salvage crew (FireResc)",
+    "german": "Bergungsmannschaft (f)"
+  },
+  {
+    "english": "salvage experts (FireResc, naut.)",
+    "german": "Bergungsspezialisten (pl)"
+  },
+  {
+    "english": "salvage fee (insur.)",
+    "german": "Bergelohn (m)"
+  },
+  {
+    "english": "salvage helicopter",
+    "german": "Bergungshubschrauber (Einsatz, ber, See, m)"
+  },
+  {
+    "english": "salvage lighter (naut.)",
+    "german": "Bergungsprahm (m)"
+  },
+  {
+    "english": "salvage loss",
+    "german": "Bergungsschaden (m)"
+  },
+  {
+    "english": "salvage money",
+    "german": "Bergegeld (n)"
+  },
+  {
+    "english": "salvage money (insur.)",
+    "german": "Bergelohn (m)"
+  },
+  {
+    "english": "salvage money",
+    "german": "Bergungsgeld (n)"
+  },
+  {
+    "english": "salvage money",
+    "german": "Bergungslohn (m)"
+  },
+  {
+    "english": "salvage operation (FireResc)",
+    "german": "Bergungsaktion (f)"
+  },
+  {
+    "english": "salvage operation",
+    "german": "Bergungsoperation (f)"
+  },
+  {
+    "english": "salvage operation (FireResc)",
+    "german": "Rettungsaktion (f)"
+  },
+  {
+    "english": "salvage party",
+    "german": "Bergungskommando (n)"
+  },
+  {
+    "english": "salvage receptacle (FireResc)",
+    "german": "Bergebehälter (m)"
+  },
+  {
+    "english": "salvage ship (FireResc, naut.)",
+    "german": "Bergungsschiff (n)"
+  },
+  {
+    "english": "salvage team (FireResc)",
+    "german": "Bergungsteam (n)"
+  },
+  {
+    "english": "salvage therapy (med.)",
+    "german": "Salvage-Therapie (f)"
+  },
+  {
+    "english": "salvage treatment (med.)",
+    "german": "Salvagebehandlung (f)"
+  },
+  {
+    "english": "salvage tug (naut.)",
+    "german": "Bergungsschlepper (m)"
+  },
+  {
+    "english": "salvage tug (naut.)",
+    "german": "Notfallschlepper (m)"
+  },
+  {
+    "english": "salvage value",
+    "german": "Bergungswert (m)"
+  },
+  {
+    "english": "salvage value (acc.)",
+    "german": "Restwert (m)"
+  },
+  {
+    "english": "salvage value",
+    "german": "Schrottwert (m)"
+  },
+  {
+    "english": "salvage vessel (naut.)",
+    "german": "Bergungsfahrzeug (n)"
+  },
+  {
+    "english": "salvage vessel (naut.)",
+    "german": "Bergungsschiff (n)"
+  },
+  {
+    "english": "salvage winch (FireResc)",
+    "german": "Bergungsseilwinde (fr, Rettungszwecke, f)"
+  },
+  {
+    "english": "salvage winch (FireResc)",
+    "german": "Bergungswinde (fr, Rettungszwecke, f)"
+  },
+  {
+    "english": "salvage work (sg)",
+    "german": "Bergungsarbeiten (pl)"
+  },
+  {
+    "english": "salvage yard (Am)",
+    "german": "Schrottplatz (m)"
+  },
+  {
+    "english": "ship salvage (naut.)",
+    "german": "Schiffsbergung (f)"
+  },
+  {
+    "english": "to salvage a deal",
+    "german": "ein Abkommen retten"
+  },
+  {
+    "english": "attempt at salvage",
+    "german": "Rettungsversuch (m)"
+  },
+  {
+    "english": "right of salvage (naut.)",
+    "german": "Bergungsrecht (n)"
+  },
+  {
+    "english": "ship salvage company (econ., naut.)",
+    "german": "Schiffsbergungsunternehmen (n)"
+  },
+  {
+    "english": "to salvage a ship\u0027s cargo (naut.)",
+    "german": "eine Schiffsladung bergen"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "english": "borne (adj, pastp)",
+    "german": "getragen (580)"
+  },
+  {
+    "english": "borne (adj, pastp)",
+    "german": "ertragen (260)"
+  },
+  {
+    "english": "borne (endured, adj, pastp)",
+    "german": "ausgestanden (84)"
+  },
+  {
+    "english": "borne away (pastp)",
+    "german": "davongetragen"
+  },
+  {
+    "english": "borne before (adj, pastp)",
+    "german": "vorangetragen"
+  },
+  {
+    "english": "camel-borne (adj)",
+    "german": "auf einem Kamel"
+  },
+  {
+    "english": "carrier-borne (aviat., mil., on, an, aircraft, carrier, adj)",
+    "german": "trägergestützt"
+  },
+  {
+    "english": "gas-borne (tech., adj)",
+    "german": "gasgetragen"
+  },
+  {
+    "english": "helicopter-borne (adj)",
+    "german": "hubschraubergestützt"
+  },
+  {
+    "english": "mosquito-borne (med., adj)",
+    "german": "durch Moskitos übertragen"
+  },
+  {
+    "english": "mucosa-borne (dent., adj)",
+    "german": "schleimhautgetragen"
+  },
+  {
+    "english": "rail-borne (rail, transp., adj)",
+    "german": "schienengebunden"
+  },
+  {
+    "english": "soil-borne (agr., hort., adj)",
+    "german": "bodenbürtig"
+  },
+  {
+    "english": "solvent-borne (chem., adj)",
+    "german": "lösemittelhaltig"
+  },
+  {
+    "english": "spring-borne (tech., adj)",
+    "german": "gefedert"
+  },
+  {
+    "english": "tooth-borne (dent., adj)",
+    "german": "zahngetragen"
+  },
+  {
+    "english": "tooth-borne (dent., adj)",
+    "german": "dental abgestützt (Prothesen)"
+  },
+  {
+    "english": "water-borne (adj)",
+    "german": "auf Wasserbasis"
+  },
+  {
+    "english": "water-borne (adj)",
+    "german": "durch Wasser übertragen"
+  },
+  {
+    "english": "wind-borne (adj)",
+    "german": "durch Wind übertragen"
+  },
+  {
+    "english": "sb./sth. has / had borne",
+    "german": "jd./etw. hat / hatte geboren"
+  },
+  {
+    "english": "sth. is borne by",
+    "german": "etw. geht zu Lasten von"
+  },
+  {
+    "english": "sth. is borne out (e, g, a, guess)",
+    "german": "etw. erhärtet sich ] (fig, z, B, eine, Vermutung)"
+  },
+  {
+    "english": "to be borne by",
+    "german": "getragen werden von"
+  },
+  {
+    "english": "to be borne by sb. (fin.)",
+    "german": "zu jds. Lasten gehen"
+  },
+  {
+    "english": "blood-borne disease (med.)",
+    "german": "durch Blut übertragene Krankheit (f)"
+  },
+  {
+    "english": "blood-borne infection (med.)",
+    "german": "hämatogene Infektion (f)"
+  },
+  {
+    "english": "blood-borne infection (med.)",
+    "german": "auf dem Blutweg übertragene Infektion (f)"
+  },
+  {
+    "english": "body-borne noise (audio)",
+    "german": "Körperschall (m)"
+  },
+  {
+    "english": "body-borne sound (audio)",
+    "german": "Körperschall (m)"
+  },
+  {
+    "english": "flea-borne typhus (med.)",
+    "german": "Flohfleckfieber (n)"
+  },
+  {
+    "english": "food-borne disease (FoodInd., gastr., med.)",
+    "german": "Lebensmittelvergiftung (f)"
+  },
+  {
+    "english": "helicopter-borne sonar",
+    "german": "Hubschraubersonar (n)"
+  },
+  {
+    "english": "helicopter-borne sonar",
+    "german": "Hubschraubersonargerät (n)"
+  },
+  {
+    "english": "insect-borne disease (med.)",
+    "german": "durch Insekten übertragene Krankheit (f)"
+  },
+  {
+    "english": "mucosa-borne denture (dent.)",
+    "german": "schleimhautgetragene Prothese (f)"
+  },
+  {
+    "english": "structure-borne noise (audio, tech.)",
+    "german": "Körperschall (m)"
+  },
+  {
+    "english": "structure-borne sound",
+    "german": "Körperschall (m)"
+  },
+  {
+    "english": "tick-borne disease (med.)",
+    "german": "durch Zecken übertragene Krankheit (f)"
+  },
+  {
+    "english": "tick-borne encephalitis (med.)",
+    "german": "Zeckenenzephalitis (f)"
+  },
+  {
+    "english": "tick-borne encephalitis \u003cTBE\u003e (med.)",
+    "german": "Frühsommermeningoenzephalitis \u003cFSME\u003e (f)"
+  },
+  {
+    "english": "tick-borne encephalitis \u003cTBE\u003e (med.)",
+    "german": "Frühsommer-Meningoenzephalitis \u003cFSME\u003e (f)"
+  },
+  {
+    "english": "tick-borne encephalitis \u003cTBE\u003e (med.)",
+    "german": "Frühsommer-Meningo-Enzephalitis \u003cFSME\u003e (f)"
+  },
+  {
+    "english": "tooth-borne prosthesis (dent.)",
+    "german": "abgestützte Prothese (f)"
+  },
+  {
+    "english": "tooth-borne prosthesis (dent.)",
+    "german": "zahngetragene Prothese (f)"
+  },
+  {
+    "english": "tooth-borne prosthesis (dent.)",
+    "german": "dental getragene Prothese (f)"
+  },
+  {
+    "english": "water-borne adhesive",
+    "german": "wasserhaltiger Klebstoff (m)"
+  },
+  {
+    "english": "water-borne adhesive",
+    "german": "wässriger Klebstoff (m)"
+  },
+  {
+    "english": "water-borne basecoat",
+    "german": "Wasser-Basecoat (m)"
+  },
+  {
+    "english": "water-borne basecoat",
+    "german": "Wasser-Grundlack (m)"
+  },
+  {
+    "english": "water-borne coating (ind.)",
+    "german": "Wasserbasislack (m)"
+  },
+  {
+    "english": "water-borne filler",
+    "german": "Wasserfüller (m)"
+  },
+  {
+    "english": "wind-borne sand",
+    "german": "Flugsand (m)"
+  },
+  {
+    "english": "which shall be borne (fin., things)",
+    "german": "die getragen werden müssen (Dinge)"
+  },
+  {
+    "english": "// were borne in mind (we, they, you)",
+    "german": "// wurden berücksichtigt (wir, sie, Sie)"
+  },
+  {
+    "english": "carrier-borne combat aircraft (aviat., mil., naut.)",
+    "german": "trägergestütztes Kampfflugzeug (n)"
+  },
+  {
+    "english": "carrier-borne reconnaissance group (mil.)",
+    "german": "Trägeraufklärungsgruppe (f)"
+  },
+  {
+    "english": "louse-borne relapsing fever (med.)",
+    "german": "durch Läuse übertragenes Rückfallfieber (n)"
+  },
+  {
+    "english": "louse-borne relapsing fever \u003cLBRF\u003e (med.)",
+    "german": "Läuserückfallfieber (n)"
+  },
+  {
+    "english": "structure-borne sound attenuation (audio, constr.)",
+    "german": "Körperschalldämpfung (f)"
+  },
+  {
+    "english": "structure-borne sound insulation (audio, constr., tech.)",
+    "german": "Körperschalldämmung (f)"
+  },
+  {
+    "english": "tick-borne relapsing fever (med.)",
+    "german": "durch Zecken übertragenes Rückfallfieber (n)"
+  },
+  {
+    "english": "tick-borne relapsing fever \u003cTBRF\u003e (med.)",
+    "german": "Zeckenrückfallfieber (n)"
+  },
+  {
+    "english": "have been borne in mind (they)",
+    "german": "sind berücksichtigt worden (sie)"
+  },
+  {
+    "english": "He was borne from the place.",
+    "german": "Er wurde vom Platz getragen."
+  },
+  {
+    "english": "It was borne in on him.",
+    "german": "Es wurde ihm klar."
+  },
+  {
+    "english": "It was borne in on me that ...",
+    "german": "Mir wurde klar, dass ..."
+  },
+  {
+    "english": "They must be borne by the principal. (constr.)",
+    "german": "Sie müssen vom Auftraggeber getragen werden."
+  },
+  {
+    "english": "Russian spring-summer (tick-borne) encephalitis (med.)",
+    "german": "russische Frühsommer-Meningoenzephalitis \u003cR-FSME\u003e (f)"
+  },
+  {
+    "english": "water-borne wood floor finish (constr.)",
+    "german": "Wassersiegel (n)"
+  }
+]

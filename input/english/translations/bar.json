@@ -1,0 +1,202 @@
+[
+  {
+    "english": "cash (fin., adj)",
+    "german": "bar (554)"
+  },
+  {
+    "english": "sheer (adj)",
+    "german": "bar (z, B, Unfug, 408)"
+  },
+  {
+    "english": "utter (nonsense, etc, adj)",
+    "german": "bar (Unsinn, etc, 333)"
+  },
+  {
+    "english": "bar sb./sth. (eg, bar, none, bar, accidents, prep)",
+    "german": "außer jdm./etw. (bis, auf, abgesehen, von, 41)"
+  },
+  {
+    "english": "bare (adj)",
+    "german": "bar (blo, nackt, 33)"
+  },
+  {
+    "english": "-able (suffix)",
+    "german": "-bar (15)"
+  },
+  {
+    "english": "pure (adj)",
+    "german": "bar (z, B, Gold, 10)"
+  },
+  {
+    "english": "absolute (adj)",
+    "german": "bar (rein, z, B, Unsinn)"
+  },
+  {
+    "english": "bar (except, for, prep)",
+    "german": "abgesehen von"
+  },
+  {
+    "english": "bar (except, for, prep)",
+    "german": "bis auf (Akk)"
+  },
+  {
+    "english": "bar (except, for, prep)",
+    "german": "mit Ausnahme von (Dat)"
+  },
+  {
+    "english": "unliquidable (adj)",
+    "german": "nicht gegen bar zu verkaufen"
+  },
+  {
+    "english": "to bar sb./sth. (lock, out)",
+    "german": "jdn./etw. aussperren (743)"
+  },
+  {
+    "english": "to bar sth.",
+    "german": "etw.Akk. versperren (564)"
+  },
+  {
+    "english": "to bar sth. (ban)",
+    "german": "etw.Akk. verbieten (485)"
+  },
+  {
+    "english": "to bar sb./sth.",
+    "german": "jdn./etw. ausschließen (350)"
+  },
+  {
+    "english": "to bar sth. (interdict)",
+    "german": "etw.Akk. untersagen (verbieten, 168)"
+  },
+  {
+    "english": "to bar sb./sth.",
+    "german": "jdn./etw. sperren (65)"
+  },
+  {
+    "english": "to bar sth. (lock, latch)",
+    "german": "etw.Akk. verriegeln (47)"
+  },
+  {
+    "english": "to bar sb./sth.",
+    "german": "jdn./etw. barrikadieren (selten, verbarrikadieren, 30)"
+  },
+  {
+    "english": "to bar sth. (area, door, etc)",
+    "german": "etw. abriegeln (29)"
+  },
+  {
+    "english": "to bar sth. (eg, place, bars, in, front, of, a, window)",
+    "german": "etw. verrammeln (ugs, 22)"
+  },
+  {
+    "english": "to bar sth. (grate, lattice)",
+    "german": "etw.Akk. vergittern (19)"
+  },
+  {
+    "english": "to bar sth. (area, door, etc)",
+    "german": "etw.Akk. absperren (11)"
+  },
+  {
+    "english": "to bar sth. (road, etc)",
+    "german": "etw. blockieren (9)"
+  },
+  {
+    "english": "bar",
+    "german": "Balken (m, 1006)"
+  },
+  {
+    "english": "bar (eg, of, chocolate)",
+    "german": "Riegel (Seife, Schokolade, etc, m, 606)"
+  },
+  {
+    "english": "bar",
+    "german": "Stange (f, 516)"
+  },
+  {
+    "english": "bar (gastr., in, a, pub, etc)",
+    "german": "Theke (Schanktisch, f, 387)"
+  },
+  {
+    "english": "bar (gastr.)",
+    "german": "Bar2 (f, 385)"
+  },
+  {
+    "english": "bar (law)",
+    "german": "Gericht (n, 239)"
+  },
+  {
+    "english": "barrister \u003cbar.\u003e (jobs, law, Br)",
+    "german": "Rechtsanwalt \u003cRA\u003e (bei, oberen, Gerichten, m, 237)"
+  },
+  {
+    "english": "bar (gastr.)",
+    "german": "Kneipe (f, 226)"
+  },
+  {
+    "english": "bar (mus.)",
+    "german": "Takt (Einheit, m, 129)"
+  },
+  {
+    "english": "bar",
+    "german": "Stab (Gitterstab, Stange, m, 120)"
+  },
+  {
+    "english": "bar (gastr., in, a, pub, etc)",
+    "german": "Tresen (Theke, m, 116)"
+  },
+  {
+    "english": "bar (sports, crossbar)",
+    "german": "Latte (f, 111)"
+  },
+  {
+    "english": "bar",
+    "german": "Leiste (f, 110)"
+  },
+  {
+    "english": "bar (gastr., of, chocolate)",
+    "german": "Tafel (Schokolade, f, 56)"
+  },
+  {
+    "english": "bar (constr.)",
+    "german": "Gitterstab (m, 54)"
+  },
+  {
+    "english": "bar (mus.)",
+    "german": "Taktstrich (m, 48)"
+  },
+  {
+    "english": "bar (gastr.)",
+    "german": "Ausschank (Schnke, m, 46)"
+  },
+  {
+    "english": "bar (gastr., Am)",
+    "german": "Lokal (n, 40)"
+  },
+  {
+    "english": "bar (pike, gate, barrier)",
+    "german": "Schranke (f, 34)"
+  },
+  {
+    "english": "bar (electr., busbar)",
+    "german": "Schiene (f, 29)"
+  },
+  {
+    "english": "bar",
+    "german": "Barriere (f, 26)"
+  },
+  {
+    "english": "bar (line)",
+    "german": "Strich (m, 22)"
+  },
+  {
+    "english": "bar (constr.)",
+    "german": "Trägerstab (m, 21)"
+  },
+  {
+    "english": "bar (metal)",
+    "german": "Barren (m, 21)"
+  },
+  {
+    "english": "barrister \u003cbar.\u003e (jobs, law, Br)",
+    "german": "Barrister (Rechtsanwalt, bei, den, Obergerichten, in, Grobritannien, m, 20)"
+  }
+]

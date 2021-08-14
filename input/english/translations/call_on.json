@@ -1,0 +1,294 @@
+[
+  {
+    "english": "on call (zool., adj)",
+    "german": "rollig (Katze)"
+  },
+  {
+    "english": "on call (adv)",
+    "german": "auf Abruf"
+  },
+  {
+    "english": "on-call (attr, room, duty, bus, doctor, etc, adj)",
+    "german": "Bereitschafts- (Raum, Dienst, Bus, Arzt, usw)"
+  },
+  {
+    "english": "to call on",
+    "german": "besuchen"
+  },
+  {
+    "english": "to call on",
+    "german": "heranziehen (zu, Diensten)"
+  },
+  {
+    "english": "to call on",
+    "german": "sich wenden an"
+  },
+  {
+    "english": "to call on sb.",
+    "german": "jdn. ersuchen (geh)"
+  },
+  {
+    "english": "to call on sb. (pay, a, visit, to, sb, esp, in, order, to, ask, a, favour)",
+    "german": "bei jdm. vorsprechen (jdn, einen, Besuch, abstatten, bes, um, ein, Anliegen, vorzubringen)"
+  },
+  {
+    "english": "to call sb. on sth. (telecom.)",
+    "german": "jdn. auf etw. ansprechen (Akk)"
+  },
+  {
+    "english": "on short call",
+    "german": "kurzfristig verfügbar"
+  },
+  {
+    "english": "to be on call",
+    "german": "Bereitschaftsdienst haben"
+  },
+  {
+    "english": "to be on call",
+    "german": "Notdienst haben (Arzt, Elektriker)"
+  },
+  {
+    "english": "to be on call",
+    "german": "in Bereitschaft sein"
+  },
+  {
+    "english": "to be on call (by, telephone)",
+    "german": "telefonisch erreichbar sein"
+  },
+  {
+    "english": "to be on call (on, standby)",
+    "german": "auf Pikett sein (schweiz)"
+  },
+  {
+    "english": "to call dibs on sth. (Am, coll)",
+    "german": "sichDat. etw. reservieren"
+  },
+  {
+    "english": "to call in on sb.",
+    "german": "bei jdm. vorbeischauen"
+  },
+  {
+    "english": "to call on / upon sb.",
+    "german": "jdn. aufsuchen"
+  },
+  {
+    "english": "to call on / upon sb.",
+    "german": "jdn. besuchen"
+  },
+  {
+    "english": "to call on / upon sth.",
+    "german": "an etw. appellieren"
+  },
+  {
+    "english": "to call on God",
+    "german": "Gott anrufen"
+  },
+  {
+    "english": "to call on sb.\u0027s services",
+    "german": "jds. Dienste in Anspruch nehmen"
+  },
+  {
+    "english": "to call sb. out on sth.",
+    "german": "jdn. wegen etw. zur Rede stellen"
+  },
+  {
+    "english": "to call time on sb./sth. (Br)",
+    "german": "das Ende von jdm./etw. einläuten"
+  },
+  {
+    "english": "call on customers",
+    "german": "Kundenbesuch (m)"
+  },
+  {
+    "english": "call on shares (stocks)",
+    "german": "Aktienaufruf (m)"
+  },
+  {
+    "english": "delivery on call",
+    "german": "Lieferung auf Abruf (f)"
+  },
+  {
+    "english": "doctor on call (med.)",
+    "german": "Bereitschaftsarzt (m)"
+  },
+  {
+    "english": "doctor on call (jobs, med.)",
+    "german": "Notarzt (Arzt, der, Bereitschaftsdienst, hat, m)"
+  },
+  {
+    "english": "doctor on call (med.)",
+    "german": "Notfallarzt (m)"
+  },
+  {
+    "english": "doctor on call (med., female)",
+    "german": "Notärztin (Notfallrztin, nicht, im, Rettungsdienst, ttig, f)"
+  },
+  {
+    "english": "on call duty",
+    "german": "Dienst auf Abruf (m)"
+  },
+  {
+    "english": "on-call bus (transp.)",
+    "german": "Anrufbus (m)"
+  },
+  {
+    "english": "on-call bus (transp.)",
+    "german": "Rufbus (m)"
+  },
+  {
+    "english": "on-call duties",
+    "german": "Bereitschaftsdienste (pl)"
+  },
+  {
+    "english": "on-call duty",
+    "german": "Bereitschaft (kurz, fr, Bereitschaftsdienst, f)"
+  },
+  {
+    "english": "on-call duty",
+    "german": "Bereitschaftsdienst (m)"
+  },
+  {
+    "english": "on-call duty",
+    "german": "Rufbereitschaft (f)"
+  },
+  {
+    "english": "on-call maintenance",
+    "german": "ständige Wartungsbereitschaft (f)"
+  },
+  {
+    "english": "on-call room (FireResc, med.)",
+    "german": "Bereitschaftszimmer (n)"
+  },
+  {
+    "english": "on-call room (FireResc, med.)",
+    "german": "Bereitsschaftsraum (m)"
+  },
+  {
+    "english": "on-call service",
+    "german": "Bereitschaftsdienst (m)"
+  },
+  {
+    "english": "on-call service",
+    "german": "Pikettdienst (schweiz, m)"
+  },
+  {
+    "english": "on-call service",
+    "german": "Rufbereitschaft (f)"
+  },
+  {
+    "english": "on-call service",
+    "german": "Rufbereitschaftsdienst (m)"
+  },
+  {
+    "english": "made a call on (pastp)",
+    "german": "einen Besuch abgestattet"
+  },
+  {
+    "english": "making a call on",
+    "german": "abstattend"
+  },
+  {
+    "english": "to call on sb. as witness",
+    "german": "jdn. als Zeugen anrufen"
+  },
+  {
+    "english": "to call on sb. for help",
+    "german": "jdn. um Hilfe bitten"
+  },
+  {
+    "english": "to call on sb. to do sth.",
+    "german": "jdn. zu etw.Dat. auffordern"
+  },
+  {
+    "english": "to call on sb. to do sth.",
+    "german": "jdn. zu etw. einladen"
+  },
+  {
+    "english": "to call on sb. to do sth.",
+    "german": "jdn. bitten, etw. zu tun"
+  },
+  {
+    "english": "to call on sb. to do sth.",
+    "german": "an jdn. appellieren, etw. zu tun"
+  },
+  {
+    "english": "to call on sb. to do sth.",
+    "german": "jdn. (dazu) auffordern, etw. zu tun"
+  },
+  {
+    "english": "to call out on strike",
+    "german": "einen Streik ausrufen"
+  },
+  {
+    "english": "to call out on strike",
+    "german": "zum Streik ausrufen (ugs, einen, Streik, ausrufen)"
+  },
+  {
+    "english": "to call sb. on the carpet (Am, fig)",
+    "german": "jdm. die Leviten lesen (ugs)"
+  },
+  {
+    "english": "to call sb. on the landline (telecom.)",
+    "german": "jdn. auf dem Festnetz anrufen"
+  },
+  {
+    "english": "to call sb. out on strike",
+    "german": "jdn. zum Streik ausrufen (ugs)"
+  },
+  {
+    "english": "to call upon / on sb. for sth.",
+    "german": "sich an jdn. um etw. wenden"
+  },
+  {
+    "english": "to have first call on sth. (idiom)",
+    "german": "ein Vorrecht auf etw.Akk. haben"
+  },
+  {
+    "english": "to pay a call on sb.",
+    "german": "jdn. besuchen"
+  },
+  {
+    "english": "to pay a call on sb.",
+    "german": "jdm. einen Besuch abstatten"
+  },
+  {
+    "english": "call on the guarantee (fin., law)",
+    "german": "Abrufung der Garantie (f)"
+  },
+  {
+    "english": "doctor on emergency call (med.)",
+    "german": "Notarzt (m)"
+  },
+  {
+    "english": "And do not call anyone on earth \u0027father\u0027, for you have one Father, and he is in heaven. (bibl., quote, Mt, 239, NIV)",
+    "german": "Und ihr sollt niemanden unter euch Vater nennen auf Erden; denn einer ist euer Vater, der im Himmel ist. (Mt, 239, Luther, 1984)"
+  },
+  {
+    "english": "Our Mr. Smith will call on you.",
+    "german": "Unser Herr Smith wird Sie besuchen."
+  },
+  {
+    "english": "Why don\u0027t you call on me?",
+    "german": "Warum kommst du nicht mal vorbei? (ugs)"
+  },
+  {
+    "english": "to call for a moratorium on sth. (admin., law)",
+    "german": "einen Stopp von etw.Dat. fordern"
+  },
+  {
+    "english": "to call on / upon sb. to do sth.",
+    "german": "jdn. dazu aufrufen, etw. zu tun"
+  },
+  {
+    "english": "to call on sb. to leave the room",
+    "german": "jdn. auffordern, den Raum zu verlassen"
+  },
+  {
+    "english": "to call on sb. to think about the consequences of their actions",
+    "german": "jdn. zur Besinnung rufen / aufrufen"
+  },
+  {
+    "english": "to get a trace on a call (telecom.)",
+    "german": "einen Anruf zurückverfolgen (den, Ursprung, orten)"
+  }
+]

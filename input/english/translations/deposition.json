@@ -1,0 +1,202 @@
+[
+  {
+    "english": "deposition",
+    "german": "Ablage (f, 457)"
+  },
+  {
+    "english": "deposition (geol.)",
+    "german": "Ablagerung (f, 161)"
+  },
+  {
+    "english": "deposition",
+    "german": "Amtsenthebung (f, 129)"
+  },
+  {
+    "english": "deposition",
+    "german": "Deponierung (f, 31)"
+  },
+  {
+    "english": "deposition (phys., desublimation)",
+    "german": "Resublimation (f, 20)"
+  },
+  {
+    "english": "deposition (chem., phys., esp, in, chemical, and, physical, vapor, deposition)",
+    "german": "Beschichtung (Abscheidung, Deposition, f, 10)"
+  },
+  {
+    "english": "deposition (law)",
+    "german": "eidesstattliche Aussage (f)"
+  },
+  {
+    "english": "deposition",
+    "german": "Absetzung eines Monarchen (f)"
+  },
+  {
+    "english": "deposition (phys., desublimation)",
+    "german": "Desublimation (f)"
+  },
+  {
+    "english": "deposition (acad., hist., spec., initiation, rite)",
+    "german": "Deposition (f)"
+  },
+  {
+    "english": "absorber deposition",
+    "german": "Absorberauftragung (f)"
+  },
+  {
+    "english": "ash deposition (geol., tech.)",
+    "german": "Ascheablagerung (f)"
+  },
+  {
+    "english": "deposition conditions (chem., ecol., geol.)",
+    "german": "Ablagerungsbedingungen (pl)"
+  },
+  {
+    "english": "deposition equipment",
+    "german": "Abscheideanlage (f)"
+  },
+  {
+    "english": "deposition head",
+    "german": "Abscheidekopf (m)"
+  },
+  {
+    "english": "deposition pattern (geol.)",
+    "german": "Ablagerungsmuster (n)"
+  },
+  {
+    "english": "deposition process (geol., hist., tech.)",
+    "german": "Ablagerungsprozess (m)"
+  },
+  {
+    "english": "deposition rate (ecol.)",
+    "german": "Ablagerungsgeschwindigkeit (f)"
+  },
+  {
+    "english": "deposition rate (ecol.)",
+    "german": "Ablagerungsrate (f)"
+  },
+  {
+    "english": "deposition rate",
+    "german": "Abscheiderate (f)"
+  },
+  {
+    "english": "deposition rate",
+    "german": "Abscheidungsgeschwindigkeit (f)"
+  },
+  {
+    "english": "deposition technique",
+    "german": "Abscheidungstechnik (f)"
+  },
+  {
+    "english": "Unverified deposition velocity",
+    "german": "Abscheidungsgeschwindigkeit (f)"
+  },
+  {
+    "english": "deposition welding",
+    "german": "Auftragschweißen (n)"
+  },
+  {
+    "english": "deposition zone (geol.)",
+    "german": "Ablagerungszone (f)"
+  },
+  {
+    "english": "deposition zone",
+    "german": "Depositionszone (f)"
+  },
+  {
+    "english": "dry deposition (ecol., meteo.)",
+    "german": "trockene Deposition (f)"
+  },
+  {
+    "english": "dust deposition",
+    "german": "Staubablagerung (f)"
+  },
+  {
+    "english": "egg deposition",
+    "german": "Eiablage (f)"
+  },
+  {
+    "english": "fat deposition",
+    "german": "Fettdeposition (f)"
+  },
+  {
+    "english": "film deposition",
+    "german": "Schichtaufbringung (f)"
+  },
+  {
+    "english": "final deposition (ecol.)",
+    "german": "Endverbleib (z, B, von, Mll, m)"
+  },
+  {
+    "english": "final deposition (ecol., econ., nucl., of, nuclear, waste)",
+    "german": "Endlagerung (atomarer, Abflle, f)"
+  },
+  {
+    "english": "haemosiderin deposition (med., MedTech., Br)",
+    "german": "Hämosiderin-Deposition (auch, Hmosiderindeposition, f)"
+  },
+  {
+    "english": "hemosiderin deposition (med., MedTech., Am)",
+    "german": "Hämosiderin-Deposition (auch, Hmosiderindeposition, f)"
+  },
+  {
+    "english": "metal deposition (chem.)",
+    "german": "Metallabscheidung (f)"
+  },
+  {
+    "english": "molasse deposition (geol.)",
+    "german": "Molasseablagerung (f)"
+  },
+  {
+    "english": "ore deposition (geol., mining)",
+    "german": "Erzablagerung (f)"
+  },
+  {
+    "english": "sedimentary deposition",
+    "german": "Ablagerung (f)"
+  },
+  {
+    "english": "sedimentary deposition (geol.)",
+    "german": "Sedimentablagerung (f)"
+  },
+  {
+    "english": "sedimentary deposition",
+    "german": "Sedimentation (f)"
+  },
+  {
+    "english": "skull deposition (archaeo.)",
+    "german": "Schädeldeposition (f)"
+  },
+  {
+    "english": "snow deposition",
+    "german": "Schneeablagerung (f)"
+  },
+  {
+    "english": "soot deposition",
+    "german": "Rußablagerung (f)"
+  },
+  {
+    "english": "spermatophore deposition (biol.)",
+    "german": "Spermatophorenablage (f)"
+  },
+  {
+    "english": "sputter deposition (electr., phys.)",
+    "german": "Sputterdeposition (f)"
+  },
+  {
+    "english": "vapor deposition (Am)",
+    "german": "Aufdampfung (f)"
+  },
+  {
+    "english": "vapour deposition (Br)",
+    "german": "Abscheidung aus der Gasphase (f)"
+  },
+  {
+    "english": "wet deposition (ecol., meteo.)",
+    "german": "nasse Deposition (f)"
+  },
+  {
+    "english": "to make a deposition",
+    "german": "unter Eid aussagen"
+  }
+]

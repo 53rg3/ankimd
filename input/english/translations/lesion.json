@@ -1,0 +1,250 @@
+[
+  {
+    "english": "lesion (med., wound)",
+    "german": "Wunde (f, 586)"
+  },
+  {
+    "english": "lesion",
+    "german": "Verletzung (f, 307)"
+  },
+  {
+    "english": "lesion (med.)",
+    "german": "Läsion (f, 57)"
+  },
+  {
+    "english": "lesion (med.)",
+    "german": "Herd (m, 41)"
+  },
+  {
+    "english": "lesion (med., eschar)",
+    "german": "Schorf (m, 25)"
+  },
+  {
+    "english": "lesion (med.)",
+    "german": "Krankheitsherd (m, 10)"
+  },
+  {
+    "english": "lesion (med., eschar)",
+    "german": "Schrund (m, 7)"
+  },
+  {
+    "english": "anatomical lesion (med.)",
+    "german": "anatomische Verletzung (f)"
+  },
+  {
+    "english": "Bankart lesion (med., also, Bankarts, lesion)",
+    "german": "Bankart-Läsion (f)"
+  },
+  {
+    "english": "bowel lesion (med.)",
+    "german": "Darmverletzung (f)"
+  },
+  {
+    "english": "caries lesion (dent.)",
+    "german": "Kariesläsion (f)"
+  },
+  {
+    "english": "carious lesion (dent.)",
+    "german": "Kariesläsion (f)"
+  },
+  {
+    "english": "carious lesion (dent.)",
+    "german": "kariöse Läsion (f)"
+  },
+  {
+    "english": "cyclops lesion (med.)",
+    "german": "Zyklops (m)"
+  },
+  {
+    "english": "disseminated lesion (med.)",
+    "german": "verstreuter Herd (m)"
+  },
+  {
+    "english": "endothelial lesion (med.)",
+    "german": "Endothelläsion (f)"
+  },
+  {
+    "english": "hypoechoic lesion (med.)",
+    "german": "echoarme Läsion (f)"
+  },
+  {
+    "english": "inflammatory lesion (med.)",
+    "german": "entzündliche Läsion (f)"
+  },
+  {
+    "english": "initial lesion (med.)",
+    "german": "Initialläsion (f)"
+  },
+  {
+    "english": "intestinal lesion (med.)",
+    "german": "Darmverletzung (f)"
+  },
+  {
+    "english": "Janeway lesion (med., also, Janeways, lesion)",
+    "german": "Janeway-Läsion (f)"
+  },
+  {
+    "english": "lesion development (med.)",
+    "german": "Läsionsentstehung (f)"
+  },
+  {
+    "english": "lichenoid lesion (med., Lichen, ruber, planus)",
+    "german": "Knötchenflechte (f)"
+  },
+  {
+    "english": "ligament lesion (med.)",
+    "german": "Bandläsion (f)"
+  },
+  {
+    "english": "lung lesion (med., generic, term)",
+    "german": "Lungenherd (m)"
+  },
+  {
+    "english": "meniscal lesion (med.)",
+    "german": "Meniskusläsion (f)"
+  },
+  {
+    "english": "meniscus lesion (med.)",
+    "german": "Meniskusläsion (f)"
+  },
+  {
+    "english": "minor lesion (med.)",
+    "german": "Minorläsion (f)"
+  },
+  {
+    "english": "occipital lesion (med., injury)",
+    "german": "Verletzung am Hinterkopf (f)"
+  },
+  {
+    "english": "osteolytic lesion (med.)",
+    "german": "osteolytische Läsion (f)"
+  },
+  {
+    "english": "palpable lesion (med.)",
+    "german": "Tastbefund (m)"
+  },
+  {
+    "english": "palpable lesion (med.)",
+    "german": "palpable Läsion (f)"
+  },
+  {
+    "english": "paraplegic lesion (med., paraplegia)",
+    "german": "Querschnittläsion (f)"
+  },
+  {
+    "english": "patchy lesion (med.)",
+    "german": "fleckförmige Läsion (f)"
+  },
+  {
+    "english": "precancerous lesion (med., precancerosis)",
+    "german": "präkanzeröse Läsion (Prkanzerose, f)"
+  },
+  {
+    "english": "premalignant lesion (med., precancerosis)",
+    "german": "präkanzeröse Läsion (Prkanzerose, f)"
+  },
+  {
+    "english": "primary lesion (med.)",
+    "german": "Primärläsion (f)"
+  },
+  {
+    "english": "rectal lesion (med.)",
+    "german": "Rektumläsion (f)"
+  },
+  {
+    "english": "round lesion (med.)",
+    "german": "Rundherd (m)"
+  },
+  {
+    "english": "skin lesion (med.)",
+    "german": "Hautläsion (f)"
+  },
+  {
+    "english": "skin lesion (med.)",
+    "german": "Hautverletzung (f)"
+  },
+  {
+    "english": "Stener lesion (med.)",
+    "german": "Stener-Läsion (f)"
+  },
+  {
+    "english": "transverse lesion (med., of, the, spinal, cord)",
+    "german": "Querschnittsläsion (f)"
+  },
+  {
+    "english": "tumorous lesion (med.)",
+    "german": "Tumorherd (m)"
+  },
+  {
+    "english": "vascular lesion (med.)",
+    "german": "Gefäßläsion (f)"
+  },
+  {
+    "english": "vascular lesion (med.)",
+    "german": "Gefäßverletzung (f)"
+  },
+  {
+    "english": "bony Bankart (lesion) (med.)",
+    "german": "knöcherne Bankart-Läsion (f)"
+  },
+  {
+    "english": "herald patch (lesion) (med., Pityriasis, rosea)",
+    "german": "Plaque mère (Primrmedaillon, f)"
+  },
+  {
+    "english": "Hill-Sachs lesion (med.)",
+    "german": "Hill-Sachs-Läsion (f)"
+  },
+  {
+    "english": "middle ear lesion (med.)",
+    "german": "Mittelohrläsion (f)"
+  },
+  {
+    "english": "reverse Bankart lesion (med.)",
+    "german": "Reversed-Bankart-Läsion (f)"
+  },
+  {
+    "english": "reverse Bankart lesion (med., rarely, also, reversed, Bankart, lesion)",
+    "german": "umgekehrte Bankart-Läsion (auch, reversed, BankartLsion, f)"
+  },
+  {
+    "english": "space-consuming lesion (med.)",
+    "german": "Raumforderung \u003cRF\u003e (f)"
+  },
+  {
+    "english": "space-occupying lesion (med.)",
+    "german": "Raumforderung \u003cRF\u003e (f)"
+  },
+  {
+    "english": "space-occupying lesion (med.)",
+    "german": "raumfordernde Läsion (f)"
+  },
+  {
+    "english": "spinal cord lesion (med.)",
+    "german": "Rückenmarkverletzung (f)"
+  },
+  {
+    "english": "wedge-shaped lesion (dent.)",
+    "german": "keilförmiger Defekt (m)"
+  },
+  {
+    "english": "boundary of the lesion (med.)",
+    "german": "Herdrand (m)"
+  },
+  {
+    "english": "feline odontoclastic resorptive lesion \u003cFORL\u003e (VetMed.)",
+    "german": "feline odontoklastische resorptive Läsion \u003cFORL\u003e (Erkrankung, der, Zhne, bei, Katzen, f)"
+  },
+  {
+    "english": "lesion of the rectum (med.)",
+    "german": "Rektumläsion (f)"
+  },
+  {
+    "english": "lower motor neuron lesion \u003cLMNL\u003e (med.)",
+    "german": "/ (Querschnittslhmung, Querschnittlhmung, unterhalb, des, Blasenzentrums)"
+  },
+  {
+    "english": "upper motor neuron lesion \u003cUMNL\u003e (med.)",
+    "german": "/ (Querschnittslhmung, Querschnittlhmung, oberhalb, des, Blasenzentrums)"
+  }
+]

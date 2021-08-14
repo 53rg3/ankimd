@@ -1,0 +1,202 @@
+[
+  {
+    "english": "scope",
+    "german": "Geltungsbereich (m, 4836)"
+  },
+  {
+    "english": "scope (extent, range)",
+    "german": "Umfang (Ausma, Gre, m, 1784)"
+  },
+  {
+    "english": "scope",
+    "german": "Anwendungsbereich (m, 1454)"
+  },
+  {
+    "english": "scope",
+    "german": "Bereich (selten, n, m, 1268)"
+  },
+  {
+    "english": "scope",
+    "german": "Reichweite (f, 986)"
+  },
+  {
+    "english": "scope",
+    "german": "Aufgabenstellung (f, 502)"
+  },
+  {
+    "english": "scope",
+    "german": "Betätigungsfeld (n, 496)"
+  },
+  {
+    "english": "scope",
+    "german": "Spielraum (m, 460)"
+  },
+  {
+    "english": "scope",
+    "german": "Rahmen (Umfang, m, 396)"
+  },
+  {
+    "english": "scope (extent)",
+    "german": "Ausmaß (n, 380)"
+  },
+  {
+    "english": "scope",
+    "german": "Kompetenzbereich (m, 114)"
+  },
+  {
+    "english": "scope",
+    "german": "Gültigkeitsbereich (m, 105)"
+  },
+  {
+    "english": "scope",
+    "german": "Tragweite (eines, Gesetzes, f, 99)"
+  },
+  {
+    "english": "scope",
+    "german": "Feld (n, 94)"
+  },
+  {
+    "english": "scope",
+    "german": "Handlungsspielraum (m, 94)"
+  },
+  {
+    "english": "scope",
+    "german": "Anwendungsmöglichkeit (f, 70)"
+  },
+  {
+    "english": "scope",
+    "german": "Wirkungsbereich (m, n, 70)"
+  },
+  {
+    "english": "scope",
+    "german": "Geschäftsbereich (m, 63)"
+  },
+  {
+    "english": "scope",
+    "german": "Regelungsbereich (m, 61)"
+  },
+  {
+    "english": "scope",
+    "german": "Bewegungsraum (m, 48)"
+  },
+  {
+    "english": "scope",
+    "german": "Entfaltungsmöglichkeit (f, 45)"
+  },
+  {
+    "english": "scope (weapons)",
+    "german": "Sucher (m, 43)"
+  },
+  {
+    "english": "scope (QM, ISO)",
+    "german": "Anwendungsbereich (DIN, EN, ISO, m, 36)"
+  },
+  {
+    "english": "scope \u003cO-scope\u003e (electr., coll, short, for, oscilloscope)",
+    "german": "Oszilloskop (n, 17)"
+  },
+  {
+    "english": "scope",
+    "german": "Raum (fig, Spielraum, etc, m, 13)"
+  },
+  {
+    "english": "scope (liquor, coll)",
+    "german": "Zielwasser (Alkohol, ugs, n, 11)"
+  },
+  {
+    "english": "scope \u003cO-scope\u003e (electr., coll, short, for, oscilloscope)",
+    "german": "Oszi (ugs, kurz, fr, Oszilloskop, n, 5)"
+  },
+  {
+    "english": "scope",
+    "german": "Gestaltungsraum (m)"
+  },
+  {
+    "english": "scope (electr.)",
+    "german": "Scope (ugs, Oszilloskop, n)"
+  },
+  {
+    "english": "scope (ling., spec.)",
+    "german": "Skopus (m)"
+  },
+  {
+    "english": "scope (optics, tech., coll, short, for, telescope, microscope, etc)",
+    "german": " (Teleskop, Mikroskop, usw)"
+  },
+  {
+    "english": "scope (range, of, qualities, structural, elements, processes, etc)",
+    "german": "Gegenstandsbereich / ] (Gesamtheit, von, etw, Dat, Gen, m)"
+  },
+  {
+    "english": "to scope (out) sth. (Am, sl)",
+    "german": "etw.Akk. gründlich betrachten"
+  },
+  {
+    "english": "(rifle) scope (weapons)",
+    "german": "Zielfernrohr (am, Gewehr, n)"
+  },
+  {
+    "english": "action scope",
+    "german": "Aktionsradius (m)"
+  },
+  {
+    "english": "action scope",
+    "german": "Aktionsspielraum (m)"
+  },
+  {
+    "english": "ample scope",
+    "german": "großer Spielraum (m)"
+  },
+  {
+    "english": "ample scope",
+    "german": "umfangreiches Maß (n)"
+  },
+  {
+    "english": "ample scope",
+    "german": "weiter Spielraum (m)"
+  },
+  {
+    "english": "audit scope (QM)",
+    "german": "Auditumfang (m)"
+  },
+  {
+    "english": "conceptual scope",
+    "german": "Begriffsumfang (m)"
+  },
+  {
+    "english": "consolidation scope",
+    "german": "Konsolidierungskreis (m)"
+  },
+  {
+    "english": "delivery scope (comm.)",
+    "german": "Lieferumfang (m)"
+  },
+  {
+    "english": "display scope (comp.)",
+    "german": "Anzeigeumfang (m)"
+  },
+  {
+    "english": "financial scope",
+    "german": "finanzieller Spielraum (m)"
+  },
+  {
+    "english": "free scope",
+    "german": "freier Bewegungsraum (m)"
+  },
+  {
+    "english": "global scope (comm., comp., spec., eg, computer, language, variables)",
+    "german": "globale Reichweite (z, B, Programmiersprachenvariablen, f)"
+  },
+  {
+    "english": "infinite scope",
+    "german": "unbeschränkter Anwendungsbereich (m)"
+  },
+  {
+    "english": "lexical scope (comp., spec.)",
+    "german": "lexikalischer Umfang (m)"
+  },
+  {
+    "english": "little scope",
+    "german": "wenig Spielraum (m)"
+  }
+]

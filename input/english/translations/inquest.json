@@ -1,0 +1,54 @@
+[
+  {
+    "english": "inquest",
+    "german": "Untersuchung (f, 365)"
+  },
+  {
+    "english": "inquest",
+    "german": "Manöverkritik (fig, f, 18)"
+  },
+  {
+    "english": "coroner\u0027s inquest (law, med.)",
+    "german": "Legalinspektion (schweiz, fr, Leichenschau, f)"
+  },
+  {
+    "english": "coroner\u0027s inquest (law, med.)",
+    "german": "Leichenbeschau (f)"
+  },
+  {
+    "english": "coroner\u0027s inquest (law, med.)",
+    "german": "Leichenschau (f)"
+  },
+  {
+    "english": "coroner\u0027s inquest (med.)",
+    "german": "forensische Leichenuntersuchung (f)"
+  },
+  {
+    "english": "coroner\u0027s inquest (med.)",
+    "german": "gerichtsmedizinische Sektion (f)"
+  },
+  {
+    "english": "coroner\u0027s inquest (law, med.)",
+    "german": "Feststellung der Todesursache (f)"
+  },
+  {
+    "english": "coroner\u0027s inquest (law)",
+    "german": "amtliche Untersuchung eines Todesfalls (f)"
+  },
+  {
+    "english": "fire inquest (FireResc, law)",
+    "german": "Feststellung der Brandursache (f)"
+  },
+  {
+    "english": "fire inquest (FireResc, law)",
+    "german": "gerichtliche Untersuchung eines Feuers (f)"
+  },
+  {
+    "english": "inquest (into sth.) (law)",
+    "german": "gerichtliche Untersuchung (etw.Gen. / von etw.Dat.) (f)"
+  },
+  {
+    "english": "official inquest",
+    "german": "amtliche Untersuchung (f)"
+  }
+]

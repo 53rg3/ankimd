@@ -1,0 +1,202 @@
+[
+  {
+    "english": "to short-circuit (electr.)",
+    "german": "kurzschließen"
+  },
+  {
+    "english": "short circuit (electr.)",
+    "german": "Kurzer (ugs, Kurzschluss, m)"
+  },
+  {
+    "english": "short circuit (electr., phys.)",
+    "german": "Kurzschluss (m)"
+  },
+  {
+    "english": "short circuit protected (electr., adj)",
+    "german": "kurzschlussfest"
+  },
+  {
+    "english": "short-circuit protected (electr., adj)",
+    "german": "kurzschlusssicher"
+  },
+  {
+    "english": "short-circuit-proof (electr., adj)",
+    "german": "kurzschlussfest"
+  },
+  {
+    "english": "acoustic short circuit (audio, tech.)",
+    "german": "akustischer Kurzschluss (m)"
+  },
+  {
+    "english": "bolted short circuit (electr.)",
+    "german": "satter Kurzschluss (m)"
+  },
+  {
+    "english": "bridge short-circuit (electr.)",
+    "german": "Brückenkurzschluss (m)"
+  },
+  {
+    "english": "metallic short circuit (electr.)",
+    "german": "metallischer Kurzschluss (satter, Kurzschluss, m)"
+  },
+  {
+    "english": "short circuit current (electr.)",
+    "german": "Kurzschlussstrom (m)"
+  },
+  {
+    "english": "short circuit fuse (electr.)",
+    "german": "Kurzschlusssicherung (f)"
+  },
+  {
+    "english": "short circuit isolator",
+    "german": "Kurzschlussisolator (m)"
+  },
+  {
+    "english": "short circuit protection (electr.)",
+    "german": "Kurzschlussschutz (m)"
+  },
+  {
+    "english": "short circuit voltage (electr.)",
+    "german": "Kurzschlussspannung (f)"
+  },
+  {
+    "english": "short-circuit braking (electr.)",
+    "german": "Kurzschlussbremsung (f)"
+  },
+  {
+    "english": "short-circuit bridge (electr.)",
+    "german": "Kurzschlussbrücke (f)"
+  },
+  {
+    "english": "short-circuit characteristic (electr.)",
+    "german": "Kurzschlusskennlinie (f)"
+  },
+  {
+    "english": "short-circuit current (electr.)",
+    "german": "Kurzschlussstrom (m)"
+  },
+  {
+    "english": "short-circuit curve (electr.)",
+    "german": "Kurzschlusskennlinie (f)"
+  },
+  {
+    "english": "short-circuit defect (electr.)",
+    "german": "Kurzschlussdefekt (m)"
+  },
+  {
+    "english": "short-circuit element (electr.)",
+    "german": "Kurzschlusselement (n)"
+  },
+  {
+    "english": "short-circuit flux (electr.)",
+    "german": "Kurzschlussstrom (m)"
+  },
+  {
+    "english": "short-circuit impedance (electr.)",
+    "german": "Kurzschlusswiderstand (m)"
+  },
+  {
+    "english": "short-circuit line (electr.)",
+    "german": "Kurzschlussleitung (f)"
+  },
+  {
+    "english": "short-circuit loss (electr., engin.)",
+    "german": "Kurzschlussverlust (m)"
+  },
+  {
+    "english": "short-circuit loss (electr.)",
+    "german": "Stromwärmeverlust (eines, Trafos, m)"
+  },
+  {
+    "english": "short-circuit monitoring (electr.)",
+    "german": "Kurzschlussüberwachung (f)"
+  },
+  {
+    "english": "short-circuit operation (electr., phys.)",
+    "german": "Kurzschlussbetrieb (m)"
+  },
+  {
+    "english": "short-circuit protection (electr.)",
+    "german": "Kurzschlusssicherung (f)"
+  },
+  {
+    "english": "short-circuit quenching (electr.)",
+    "german": "Kurzschlusslöschung (f)"
+  },
+  {
+    "english": "short-circuit resistance (electr.)",
+    "german": "Kurzschlusswiderstand (m)"
+  },
+  {
+    "english": "short-circuit sensor (electr.)",
+    "german": "Kurzschlusssensor (m)"
+  },
+  {
+    "english": "short-circuit switch (electr.)",
+    "german": "Kurzschlussschalter (m)"
+  },
+  {
+    "english": "short-circuit termination (electr.)",
+    "german": "Kurzschlussabschluss (m)"
+  },
+  {
+    "english": "terminal short circuit (electr.)",
+    "german": "Klemmenkurzschluss (m)"
+  },
+  {
+    "english": "short-circuit behaviour (electr., Br)",
+    "german": "Kurzschlussverhalten (n)"
+  },
+  {
+    "english": "short-circuit detection \u003cSCD\u003e (electr.)",
+    "german": "Kurzschlusserkennung (f)"
+  },
+  {
+    "english": "short-circuit protection \u003cSCP\u003e (electr.)",
+    "german": "Kurzschlussschutz (m)"
+  },
+  {
+    "english": "short-circuit ratio \u003cSCR\u003e (electr., engin.)",
+    "german": "Kurzschlussverhältnis (n)"
+  },
+  {
+    "english": "sustained short circuit-proof (electr., adj)",
+    "german": "dauerkurzschlussfest"
+  },
+  {
+    "english": "to cause a short circuit (electr.)",
+    "german": "Kurzschluss verursachen"
+  },
+  {
+    "english": "fused short-circuit current (electr.)",
+    "german": "bedingter Kurzschlussstrom (bei, Schutz, durch, Sicherungen, IEC, 60050, m)"
+  },
+  {
+    "english": "short-circuit current density (electr.)",
+    "german": "Kurzschlussstromdichte (f)"
+  },
+  {
+    "english": "short-circuit to earth (electr.)",
+    "german": "Masseschluss (m)"
+  },
+  {
+    "english": "sustained short-circuit current (electr.)",
+    "german": "Dauerkurzschlussstrom (m)"
+  },
+  {
+    "english": "uninterrupted short-circuit current (electr.)",
+    "german": "Dauerkurzschlussstrom (m)"
+  },
+  {
+    "english": "uninterrupted short-circuit current (electr.)",
+    "german": "Dauerkurzschlußstrom (alt, m)"
+  },
+  {
+    "english": "Short Circuit (film, F, John, Badham)",
+    "german": "Nummer 5 lebt!"
+  },
+  {
+    "english": "(electrical) short circuit \u003cs/c\u003e (electr.)",
+    "german": "elektrischer Kurzschluss (m)"
+  }
+]

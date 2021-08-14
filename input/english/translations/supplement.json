@@ -1,0 +1,202 @@
+[
+  {
+    "english": "to supplement sth. (with)",
+    "german": "etw. ergänzen (1148)"
+  },
+  {
+    "english": "supplement",
+    "german": "Ergänzung (f, 1679)"
+  },
+  {
+    "english": "supplement",
+    "german": "Beilage (f, 462)"
+  },
+  {
+    "english": "supplement (rail)",
+    "german": "Zuschlag (m, 240)"
+  },
+  {
+    "english": "supplement",
+    "german": "Zusatz (m, 188)"
+  },
+  {
+    "english": "supplement",
+    "german": "Nachtrag (m, 162)"
+  },
+  {
+    "english": "supplement",
+    "german": "Anhang (m, 142)"
+  },
+  {
+    "english": "supplement",
+    "german": "Ergänzungsmittel (n, 58)"
+  },
+  {
+    "english": "supplement (journ.)",
+    "german": "Feuilleton (n, 52)"
+  },
+  {
+    "english": "supplement",
+    "german": "Aufschlag (m, 38)"
+  },
+  {
+    "english": "supplement",
+    "german": "Beiheft (n, 21)"
+  },
+  {
+    "english": "supplement",
+    "german": "Supplement (n, 5)"
+  },
+  {
+    "english": "supplement (publ.)",
+    "german": "Ergänzungsband (m)"
+  },
+  {
+    "english": "to supplement (with)",
+    "german": "aufbessern (mit)"
+  },
+  {
+    "english": "to supplement stocks (comm.)",
+    "german": "das Lager auffüllen"
+  },
+  {
+    "english": "account supplement",
+    "german": "Kontoergänzung (f)"
+  },
+  {
+    "english": "advertisement supplement",
+    "german": "Anzeigenanhang (m)"
+  },
+  {
+    "english": "advertising supplement",
+    "german": "Werbebeilage (f)"
+  },
+  {
+    "english": "bath supplement (cosmet.)",
+    "german": "Badezusatz (m)"
+  },
+  {
+    "english": "calcium supplement (pharm.)",
+    "german": "Calciumergänzungsmittel (n)"
+  },
+  {
+    "english": "children\u0027s supplement (print)",
+    "german": "Kinderbeilage (f)"
+  },
+  {
+    "english": "color supplement (publ., Am, newspaper, or, magazine)",
+    "german": "farbige Beilage (Zeitung, oder, Zeitschrift, f)"
+  },
+  {
+    "english": "colour supplement (journ., print, Br)",
+    "german": "Farbbeilage (Zeitung, f)"
+  },
+  {
+    "english": "colour supplement (journ., Br)",
+    "german": "Magazin (Farbbeilage, einer, Tages, oder, Wochenzeitung, n)"
+  },
+  {
+    "english": "colour supplement (publ., newspaper, or, magazine, Br)",
+    "german": "farbige Beilage (Zeitung, oder, Zeitschrift, f)"
+  },
+  {
+    "english": "constitutional supplement (hist., law, pol.)",
+    "german": "Verfassungsbeilage (f)"
+  },
+  {
+    "english": "dietary supplement (FoodInd., med.)",
+    "german": "Nahrungsergänzungsmittel (n)"
+  },
+  {
+    "english": "dietary supplement (med.)",
+    "german": "Nahrungszusatz (Nahrungsergnzungsmittel, m)"
+  },
+  {
+    "english": "diploma supplement \u003cDS\u003e (educ., EU)",
+    "german": "Diplomzusatz \u003cDZ\u003e (m)"
+  },
+  {
+    "english": "features supplement",
+    "german": "Unterhaltungsbeilage (f)"
+  },
+  {
+    "english": "feed supplement (agr.)",
+    "german": "Futtermittelzusatz (Ergnzung, m)"
+  },
+  {
+    "english": "feed supplement (agr.)",
+    "german": "Futterzusatz (Ergnzung, m)"
+  },
+  {
+    "english": "food supplement",
+    "german": "Nahrungsergänzung (f)"
+  },
+  {
+    "english": "food supplement (FoodInd., med.)",
+    "german": "Nahrungsergänzungsmittel (n)"
+  },
+  {
+    "english": "food supplement (FoodInd., med.)",
+    "german": "Nahrungssupplement (n)"
+  },
+  {
+    "english": "food supplement (med.)",
+    "german": "Nahrungszusatz (Nahrungsergnzungsmittel, m)"
+  },
+  {
+    "english": "free supplement (journ.)",
+    "german": "Gratisbeilage (f)"
+  },
+  {
+    "english": "health supplement (FoodInd.)",
+    "german": "Gesundheitszusatz (m)"
+  },
+  {
+    "english": "health supplement",
+    "german": "Nahrungsergänzung (f)"
+  },
+  {
+    "english": "health supplement (FoodInd., med.)",
+    "german": "Nahrungsergänzungsmittel (n)"
+  },
+  {
+    "english": "income supplement",
+    "german": "Einkommenszulage (f)"
+  },
+  {
+    "english": "income supplement",
+    "german": "Einkommenszuschuss (m)"
+  },
+  {
+    "english": "investment supplement",
+    "german": "Investitionszulage (f)"
+  },
+  {
+    "english": "ladies\u0027 supplement (journ.)",
+    "german": "Frauenbeilage (f)"
+  },
+  {
+    "english": "literary supplement (journ., lit.)",
+    "german": "Literaturbeilage (f)"
+  },
+  {
+    "english": "literary supplement (journ., lit.)",
+    "german": "literarische Beilage (f)"
+  },
+  {
+    "english": "newspaper supplement (journ.)",
+    "german": "Zeitungsbeilage (f)"
+  },
+  {
+    "english": "nutritional supplement (med.)",
+    "german": "Nährstoffanreicherung (f)"
+  },
+  {
+    "english": "nutritional supplement (med., pharm.)",
+    "german": "Nahrungsergänzung (f)"
+  },
+  {
+    "english": "nutritional supplement (FoodInd., med.)",
+    "german": "Nahrungsergänzungsmittel (n)"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "english": "probabilistic (adj)",
+    "german": "wahrscheinlich (172)"
+  },
+  {
+    "english": "probabilistic (adj)",
+    "german": "probabilistisch (13)"
+  },
+  {
+    "english": "non-probabilistic (also, nonprobabilistic, adj)",
+    "german": "nicht-probabilistisch"
+  },
+  {
+    "english": "probabilistic analysis (spec.)",
+    "german": "Wahrscheinlichkeitsanalyse (f)"
+  },
+  {
+    "english": "probabilistic hypothesis (philos.)",
+    "german": "Wahrscheinlichkeitshypothese (f)"
+  },
+  {
+    "english": "probabilistic interpretation (phys.)",
+    "german": "Wahrscheinlichkeitsinterpretation (f)"
+  },
+  {
+    "english": "probabilistic sampling (math., stat.)",
+    "german": "probabilistische Probenahme (Stichprobenentnahme, f)"
+  },
+  {
+    "english": "probabilistic risk assessment \u003cPRA\u003e (QM)",
+    "german": "probabilistische Risikoanalyse \u003cPRA\u003e (f)"
+  },
+  {
+    "english": "probabilistic risk assessment \u003cPRA\u003e (QM)",
+    "german": "probabilistische Sicherheitsanalyse \u003cPSA\u003e (f)"
+  },
+  {
+    "english": "probabilistic risk assessment \u003cPRA\u003e (QM)",
+    "german": "Wahrscheinlichkeits-Risikobewertung (f)"
+  },
+  {
+    "english": "probabilistic signature scheme \u003cPSS\u003e (comp.)",
+    "german": "probabilistisches Signaturverfahren (n)"
+  },
+  {
+    "english": "probabilistic Turing machine \u003cPTM\u003e (comp.)",
+    "german": "probabilistische Turingmaschine \u003cPTM\u003e (f)"
+  },
+  {
+    "english": "probabilistic Turing machine \u003cPTM\u003e (comp.)",
+    "german": "randomisierte Turingmaschine \u003cRTM\u003e (f)"
+  }
+]

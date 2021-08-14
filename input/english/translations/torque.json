@@ -1,0 +1,202 @@
+[
+  {
+    "english": "to torque (med.)",
+    "german": "torquieren (18)"
+  },
+  {
+    "english": "to torque sth. (to, tighten, with, a, torque, wrench)",
+    "german": "etw. (mit einem / dem Drehmomentschlüssel) anziehen"
+  },
+  {
+    "english": "torque (phys., tech.)",
+    "german": "Drehmoment (n, 1857)"
+  },
+  {
+    "english": "torque",
+    "german": "Anzugsdrehmoment (n, 356)"
+  },
+  {
+    "english": "torque",
+    "german": "Drehkraft (f, 82)"
+  },
+  {
+    "english": "torque (automot., dent.)",
+    "german": "Durchzugskraft (f, 39)"
+  },
+  {
+    "english": "torque (engin., tech.)",
+    "german": "Anziehmoment (n, 12)"
+  },
+  {
+    "english": "torque (archaeo., cloth.)",
+    "german": "Torques (keltischer, Halsreif, m, 6)"
+  },
+  {
+    "english": "torque (archaeo., cloth.)",
+    "german": "Wendelring (Torques, m)"
+  },
+  {
+    "english": "high-torque (tech., attr, adj)",
+    "german": "drehmomentstark"
+  },
+  {
+    "english": "high-torque (automot., attr, engine, adj)",
+    "german": "durchzugsstark (Motor)"
+  },
+  {
+    "english": "low-torque (adj)",
+    "german": "drehmomentschwach"
+  },
+  {
+    "english": "low-torque (automot., adj)",
+    "german": "durchzugsschwach (Motor)"
+  },
+  {
+    "english": "torque-controlled (adj)",
+    "german": "drehmomentgeregelt"
+  },
+  {
+    "english": "torque-free (adj)",
+    "german": "drehmomentfrei"
+  },
+  {
+    "english": "torque-free (tech., adj)",
+    "german": "momentfrei"
+  },
+  {
+    "english": "torque-proof (adj)",
+    "german": "drehfest"
+  },
+  {
+    "english": "to re-torque (tech., screws, fittings)",
+    "german": "nachziehen (bes, von, Schrauben, mittels, Drehmomentschlssel)"
+  },
+  {
+    "english": "to torque-wrench sth. (tech.)",
+    "german": "etw. mit einem / dem Drehmomentschlüssel anziehen"
+  },
+  {
+    "english": "acceleration torque",
+    "german": "Beschleunigungsmoment (n)"
+  },
+  {
+    "english": "aligning torque (automot., engin., tire)",
+    "german": "Rückstellmoment (Reifen, n)"
+  },
+  {
+    "english": "antagonistic torque (tech.)",
+    "german": "gegenwirkende Drehkraft (f)"
+  },
+  {
+    "english": "back torque",
+    "german": "Rückdrehmoment (n)"
+  },
+  {
+    "english": "braking torque (tech.)",
+    "german": "Bremsmoment (n)"
+  },
+  {
+    "english": "breakaway torque (tech.)",
+    "german": "Losbrechmoment (n)"
+  },
+  {
+    "english": "breakdown torque (electr.)",
+    "german": "Kippmoment (n)"
+  },
+  {
+    "english": "clutch torque (automot.)",
+    "german": "Kupplungsmoment (n)"
+  },
+  {
+    "english": "continuous torque (tech.)",
+    "german": "Dauerdrehmoment (n)"
+  },
+  {
+    "english": "coupling torque",
+    "german": "Kupplungsdrehmoment (n)"
+  },
+  {
+    "english": "cutting torque (engin., tech., tools)",
+    "german": "Schnittmoment (n)"
+  },
+  {
+    "english": "disconnecting torque (engin.)",
+    "german": "Abschaltmoment (n)"
+  },
+  {
+    "english": "disengagement torque (engin., tech.)",
+    "german": "Ausrastmoment (n)"
+  },
+  {
+    "english": "drag torque (automot.)",
+    "german": "Schleppmoment (n)"
+  },
+  {
+    "english": "drive torque (tech.)",
+    "german": "Antriebsdrehmoment (n)"
+  },
+  {
+    "english": "drive torque",
+    "german": "Antriebsmoment (n)"
+  },
+  {
+    "english": "driving torque",
+    "german": "Antriebsmoment (n)"
+  },
+  {
+    "english": "end torque (tech.)",
+    "german": "Enddrehmoment (n)"
+  },
+  {
+    "english": "engine torque",
+    "german": "Motordrehmoment (n)"
+  },
+  {
+    "english": "engine torque (automot.)",
+    "german": "Motormoment (n)"
+  },
+  {
+    "english": "friction torque (tech.)",
+    "german": "Reibungsmoment (n)"
+  },
+  {
+    "english": "gold torque (archaeo.)",
+    "german": "Gold-Torques (keltischer, Halsreif, m)"
+  },
+  {
+    "english": "gripping torque (tech.)",
+    "german": "Greifmoment (n)"
+  },
+  {
+    "english": "holding torque (tech.)",
+    "german": "Haltemoment (n)"
+  },
+  {
+    "english": "inertia torque (tech.)",
+    "german": "Trägheitsmoment (n)"
+  },
+  {
+    "english": "input torque (tech.)",
+    "german": "Eingangsdrehmoment (n)"
+  },
+  {
+    "english": "limit torque (tech.)",
+    "german": "Grenzdrehmoment (n)"
+  },
+  {
+    "english": "load torque (tech.)",
+    "german": "Lastmoment (n)"
+  },
+  {
+    "english": "loosening torque",
+    "german": "Abschraubmoment (bei, Muttern, n)"
+  },
+  {
+    "english": "loosening torque (tech.)",
+    "german": "Lösemoment (n)"
+  },
+  {
+    "english": "loss torque (tech.)",
+    "german": "Verlustmoment (n)"
+  }
+]

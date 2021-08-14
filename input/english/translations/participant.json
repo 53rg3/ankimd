@@ -1,0 +1,214 @@
+[
+  {
+    "english": "participant (attr, adj)",
+    "german": "teilnehmend (179)"
+  },
+  {
+    "english": "participant",
+    "german": "Teilnehmer (m, 2201)"
+  },
+  {
+    "english": "participant",
+    "german": "Beteiligter (m, 147)"
+  },
+  {
+    "english": "participant",
+    "german": "Mitwirkender (m, 56)"
+  },
+  {
+    "english": "participant (female)",
+    "german": "Teilnehmerin (f, 32)"
+  },
+  {
+    "english": "participant",
+    "german": "Teilhaber (m, 27)"
+  },
+  {
+    "english": "participant (female)",
+    "german": "Beteiligte (f, 15)"
+  },
+  {
+    "english": "participant",
+    "german": "Partizipant (m, 8)"
+  },
+  {
+    "english": "participant (comm.)",
+    "german": "Partizipient (veraltet, m)"
+  },
+  {
+    "english": "non-participant (adj)",
+    "german": "unbeteiligt"
+  },
+  {
+    "english": "non-participant (adj)",
+    "german": "nicht teilnehmend"
+  },
+  {
+    "english": "Unverified participant-oriented (adj)",
+    "german": "teilnehmerorientiert"
+  },
+  {
+    "english": "active participant",
+    "german": "Aktiver (m)"
+  },
+  {
+    "english": "active participant (female)",
+    "german": "Aktive (f)"
+  },
+  {
+    "english": "competition participant",
+    "german": "Wettbewerbsteilnehmer (m)"
+  },
+  {
+    "english": "conference participant",
+    "german": "Konferenzteilnehmer (m)"
+  },
+  {
+    "english": "congress participant",
+    "german": "Kongressteilnehmer (m)"
+  },
+  {
+    "english": "course participant (educ.)",
+    "german": "Kursteilnehmer (m)"
+  },
+  {
+    "english": "cruise participant (naut., travel)",
+    "german": "Kreuzfahrtgast (m)"
+  },
+  {
+    "english": "cult participant (relig.)",
+    "german": "Kultteilnehmer (m)"
+  },
+  {
+    "english": "economic participant (econ.)",
+    "german": "Wirtschaftsteilnehmer (m)"
+  },
+  {
+    "english": "exchange participant",
+    "german": "Teilnehmer an einem Austausch (m)"
+  },
+  {
+    "english": "festival participant",
+    "german": "Festivalteilnehmer (m)"
+  },
+  {
+    "english": "forum participant (Internet)",
+    "german": "Forenbenutzer (m)"
+  },
+  {
+    "english": "forum participant (Internet)",
+    "german": "Forenteilnehmer (m)"
+  },
+  {
+    "english": "market participant (comm., econ.)",
+    "german": "Marktteilnehmer (m)"
+  },
+  {
+    "english": "market participant (comm., econ., female)",
+    "german": "Marktteilnehmerin (f)"
+  },
+  {
+    "english": "non-participant",
+    "german": "Nichtteilnehmer (m)"
+  },
+  {
+    "english": "non-participant",
+    "german": "Unbeteiligter (m)"
+  },
+  {
+    "english": "non-participant (female)",
+    "german": "Unbeteiligte (f)"
+  },
+  {
+    "english": "participant country",
+    "german": "Teilnehmerland (n)"
+  },
+  {
+    "english": "participant observation (sociol.)",
+    "german": "teilnehmende Beobachtung (f)"
+  },
+  {
+    "english": "participant rate",
+    "german": "Teilnahmerate (f)"
+  },
+  {
+    "english": "participant structure",
+    "german": "Teilnehmerstruktur (f)"
+  },
+  {
+    "english": "project participant",
+    "german": "Projektteilnehmer (m)"
+  },
+  {
+    "english": "project participant (female)",
+    "german": "Projektteilnehmerin (f)"
+  },
+  {
+    "english": "study participant (med., acad., stat.)",
+    "german": "Proband (Teilnehmer, einer, Studie, m)"
+  },
+  {
+    "english": "study participant (med., sociol., stat.)",
+    "german": "Studienteilnehmer (m)"
+  },
+  {
+    "english": "study participant (med., pharm., clinical, investigation)",
+    "german": "Prüfungsteilnehmer (Proband, m)"
+  },
+  {
+    "english": "trade participant (comm.)",
+    "german": "Handelsteilnehmer (m)"
+  },
+  {
+    "english": "traffic participant (transp.)",
+    "german": "Verkehrsteilnehmer (m)"
+  },
+  {
+    "english": "training participant (educ.)",
+    "german": "Schulungsteilnehmer (m)"
+  },
+  {
+    "english": "training participant (educ., female)",
+    "german": "Schulungsteilnehmerin (f)"
+  },
+  {
+    "english": "unwitting participant",
+    "german": "unfreiwillig Beteiligter (m)"
+  },
+  {
+    "english": "workshop participant (eg, a, seminar, participant)",
+    "german": "Workshopteilnehmer (m)"
+  },
+  {
+    "english": "stock exchange participant (stocks)",
+    "german": "Börsenteilnehmer (m)"
+  },
+  {
+    "english": "usability test participant (QM)",
+    "german": "Gebrauchstauglichkeitstestteilnehmer (m)"
+  },
+  {
+    "english": "account of a participant",
+    "german": "Bericht eines Teilnehmers (m)"
+  },
+  {
+    "english": "participant at a conference",
+    "german": "Konferenzteilnehmer (Teilnehmer, einer, Konferenz, m)"
+  },
+  {
+    "english": "participant at the conference",
+    "german": "Konferenzteilnehmer (Teilnehmer, der, Konferenz, m)"
+  },
+  {
+    "english": "participant in a discussion",
+    "german": "Diskutant (geh, m)"
+  },
+  {
+    "english": "participant in a meeting",
+    "german": "Besprechungsteilnehmer (m)"
+  },
+  {
+    "english": "participant in the market",
+    "german": "Marktbeteiligter (m)"
+  }
+]

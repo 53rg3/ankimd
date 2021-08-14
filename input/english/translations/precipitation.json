@@ -1,0 +1,202 @@
+[
+  {
+    "english": "precipitation (meteo.)",
+    "german": "Niederschlag (m, 1618)"
+  },
+  {
+    "english": "precipitation (chem.)",
+    "german": "Ausfällung (Vorgang, f, 185)"
+  },
+  {
+    "english": "precipitation (chem.)",
+    "german": "Ausscheidung (f, 108)"
+  },
+  {
+    "english": "precipitation (falling, headlong)",
+    "german": "Sturz (m, 105)"
+  },
+  {
+    "english": "precipitation (archaic)",
+    "german": "Eile (f, 66)"
+  },
+  {
+    "english": "precipitation (chem.)",
+    "german": "Abscheidung (f, 40)"
+  },
+  {
+    "english": "precipitation (archaic, undue, haste)",
+    "german": "Hast (berstrzte, Eile, f, 29)"
+  },
+  {
+    "english": "precipitation (chem.)",
+    "german": "Fällung (f, 20)"
+  },
+  {
+    "english": "precipitation (fall, down, eg, rocks)",
+    "german": "Herabstürzen (n, 20)"
+  },
+  {
+    "english": "precipitation",
+    "german": "Hinabstürzen (n, 8)"
+  },
+  {
+    "english": "precipitation (chem.)",
+    "german": "Präzipitation (f, 6)"
+  },
+  {
+    "english": "precipitation (archaic)",
+    "german": "Übereilung (f, 6)"
+  },
+  {
+    "english": "precipitation (chem.)",
+    "german": "Ausfällen (Vorgang, n)"
+  },
+  {
+    "english": "precipitation (chem.)",
+    "german": "Ausflockung (Przipitation, f)"
+  },
+  {
+    "english": "precipitation (fall)",
+    "german": "jäher Sturz (m)"
+  },
+  {
+    "english": "low-precipitation (geogr., meteo., attr, adj)",
+    "german": "regenarm (Gegend)"
+  },
+  {
+    "english": "precipitation-hardenable (material, adj)",
+    "german": "ausscheidungshärtbar"
+  },
+  {
+    "english": "without precipitation (meteo., postpos, adj)",
+    "german": "niederschlagsfrei"
+  },
+  {
+    "english": "accumulated precipitation (meteo.)",
+    "german": "Niederschlagssumme (f)"
+  },
+  {
+    "english": "acid precipitation (ecol.)",
+    "german": "saure Niederschläge (pl)"
+  },
+  {
+    "english": "annual precipitation (meteo.)",
+    "german": "Jahresniederschlag (m)"
+  },
+  {
+    "english": "annual precipitation (meteo., sg)",
+    "german": "jährliche Niederschläge (pl)"
+  },
+  {
+    "english": "areal precipitation (meteo.)",
+    "german": "Gebietsniederschlag (m)"
+  },
+  {
+    "english": "calcite precipitation (chem.)",
+    "german": "Calcitfällung (f)"
+  },
+  {
+    "english": "co-precipitation \u003cCPT\u003e (chem., also, coprecipitation)",
+    "german": "Gesamtfällung (f)"
+  },
+  {
+    "english": "co-precipitation \u003cCPT\u003e (chem., also, coprecipitation)",
+    "german": "Mitfällung (f)"
+  },
+  {
+    "english": "electrostatic precipitation (chem., tech.)",
+    "german": "Elektroabscheidung (f)"
+  },
+  {
+    "english": "electrostatic precipitation (chem.)",
+    "german": "elektrostatische Abscheidung (f)"
+  },
+  {
+    "english": "extreme precipitation (hydro., meteo.)",
+    "german": "Extremniederschlag (m)"
+  },
+  {
+    "english": "field precipitation",
+    "german": "Freiflächenniederschlag (m)"
+  },
+  {
+    "english": "field precipitation",
+    "german": "Freilandniederschlag (m)"
+  },
+  {
+    "english": "heavy precipitation (meteo.)",
+    "german": "Starkniederschlag (m)"
+  },
+  {
+    "english": "metal precipitation (chem.)",
+    "german": "Metallabscheidung (f)"
+  },
+  {
+    "english": "precipitation activity (meteo.)",
+    "german": "Niederschlagsaktivität (f)"
+  },
+  {
+    "english": "precipitation agent (chem., tech.)",
+    "german": "Fällungsmittel (n)"
+  },
+  {
+    "english": "precipitation amount (meteo.)",
+    "german": "Niederschlagsmenge (f)"
+  },
+  {
+    "english": "precipitation analysis (meteo.)",
+    "german": "Niederschlagsanalyse (f)"
+  },
+  {
+    "english": "precipitation area (constr., meteo.)",
+    "german": "Niederschlagsfläche (f)"
+  },
+  {
+    "english": "precipitation area (meteo.)",
+    "german": "Niederschlagsgebiet (n)"
+  },
+  {
+    "english": "precipitation climatology (meteo.)",
+    "german": "Niederschlagsklimatologie (f)"
+  },
+  {
+    "english": "Unverified precipitation cooling (meteo., cooling, of, the, precipitation)",
+    "german": "Niederschlagsabkühlung (Abkhlung, des, Niederschlags, f)"
+  },
+  {
+    "english": "precipitation deficit (meteo.)",
+    "german": "Niederschlagsdefizit (n)"
+  },
+  {
+    "english": "precipitation depth (meteo.)",
+    "german": "Niederschlagshöhe (f)"
+  },
+  {
+    "english": "precipitation factor (chem., med.)",
+    "german": "Präzipitationsfaktor (m)"
+  },
+  {
+    "english": "precipitation forecast (meteo.)",
+    "german": "Niederschlagsvorhersage (f)"
+  },
+  {
+    "english": "precipitation forecasts (meteo.)",
+    "german": "Niederschlagsprognosen (pl)"
+  },
+  {
+    "english": "precipitation forecasts (meteo.)",
+    "german": "Niederschlagsvorhersagen (pl)"
+  },
+  {
+    "english": "precipitation gauge (meteo.)",
+    "german": "Niederschlagsmesser (m)"
+  },
+  {
+    "english": "precipitation gradient (meteo.)",
+    "german": "Niederschlagsgradient (m)"
+  },
+  {
+    "english": "precipitation hardening (material)",
+    "german": "Ausscheidungshärtung (f)"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "definition": "opposite in order, nature, or effect",
+    "examples": []
+  },
+  {
+    "definition": "being an inverse function",
+    "examples": [
+      "inverse sine"
+    ]
+  },
+  {
+    "definition": "something of a contrary nature or quality : opposite, reverse",
+    "examples": []
+  },
+  {
+    "definition": "a proposition or theorem formed by contradicting both the subject and predicate or both the hypothesis and conclusion of a given proposition or theorem, — compare contrapositive",
+    "examples": [
+      "the inverse of \"if A then B\" is \"if not-A then not-B\""
+    ]
+  },
+  {
+    "definition": "inverse function, an operation (such as subtraction) that undoes the effect of another operation",
+    "examples": []
+  },
+  {
+    "definition": "a set element that is related to another element in such a way that the result of applying a given binary operation to them is an identity element of the set",
+    "examples": []
+  }
+]

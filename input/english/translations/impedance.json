@@ -1,0 +1,202 @@
+[
+  {
+    "english": "impedance (electr.)",
+    "german": "Scheinwiderstand (m, 136)"
+  },
+  {
+    "english": "impedance (electr.)",
+    "german": "Impedanz (f, 66)"
+  },
+  {
+    "english": "impedance (electr., engin.)",
+    "german": "Wechselstromwiderstand (m, 7)"
+  },
+  {
+    "english": "high-impedance (audio, adj)",
+    "german": "schallhart (hohe, Impedanz)"
+  },
+  {
+    "english": "high-impedance (electr., attr, adj)",
+    "german": "hochohmig"
+  },
+  {
+    "english": "low-impedance (audio, adj)",
+    "german": "schallweich (niedrige, Impedanz)"
+  },
+  {
+    "english": "low-impedance (electr., attr, adj)",
+    "german": "niederimpedant"
+  },
+  {
+    "english": "acoustic impedance (audio)",
+    "german": "Schallwellenwiderstand (m)"
+  },
+  {
+    "english": "acoustic impedance (audio)",
+    "german": "Schallwiderstand (m)"
+  },
+  {
+    "english": "acoustic impedance (audio)",
+    "german": "akustische Impedanz (f)"
+  },
+  {
+    "english": "acoustic impedance \u003cZ\u003e (audio)",
+    "german": "Schallimpedanz \u003cZ\u003e (f)"
+  },
+  {
+    "english": "aerial impedance (telecom.)",
+    "german": "Antennenimpedanz (f)"
+  },
+  {
+    "english": "antenna impedance (telecom.)",
+    "german": "Antennenimpedanz (f)"
+  },
+  {
+    "english": "asynchronous impedance",
+    "german": "Asynchronimpedanz (f)"
+  },
+  {
+    "english": "base impedance (electr.)",
+    "german": "Fußpunktwiderstand (m)"
+  },
+  {
+    "english": "bio-impedance (biol., med.)",
+    "german": "Bioimpedanz (f)"
+  },
+  {
+    "english": "blocking impedance (electr.)",
+    "german": "Sperrimpedanz (f)"
+  },
+  {
+    "english": "characteristic impedance (audio, electr.)",
+    "german": "Kennimpedanz (f)"
+  },
+  {
+    "english": "characteristic impedance (electr.)",
+    "german": "Wellenwiderstand (ETechnik, m)"
+  },
+  {
+    "english": "eardrum impedance (audio)",
+    "german": "Trommelfellimpedanz (f)"
+  },
+  {
+    "english": "electrical impedance (MedTech., phys.)",
+    "german": "elektrische Impedanz (f)"
+  },
+  {
+    "english": "feedback impedance (electr.)",
+    "german": "Gegenkopplungsimpedanz (f)"
+  },
+  {
+    "english": "image impedance",
+    "german": "Wellenwiderstand (Fernsehtechnik, m)"
+  },
+  {
+    "english": "impedance bridging (audio, electr.)",
+    "german": "Spannungsanpassung (f)"
+  },
+  {
+    "english": "impedance cardiography \u003cICG\u003e (MedTech.)",
+    "german": "Impedanzkardiografie \u003cIKG\u003e (f)"
+  },
+  {
+    "english": "impedance cardiography \u003cICG\u003e (MedTech.)",
+    "german": "Impedanzkardiographie \u003cIKG\u003e (f)"
+  },
+  {
+    "english": "impedance change (electr.)",
+    "german": "Impedanzänderung (f)"
+  },
+  {
+    "english": "impedance converter (electr.)",
+    "german": "Impedanzwandler (m)"
+  },
+  {
+    "english": "impedance corrector",
+    "german": "Anpassungstrafo (m)"
+  },
+  {
+    "english": "impedance matching (electr.)",
+    "german": "Leistungsanpassung (f)"
+  },
+  {
+    "english": "impedance measurement (electr.)",
+    "german": "Impedanzmessung (f)"
+  },
+  {
+    "english": "impedance pneumograph (MedTech.)",
+    "german": "Impedanzpneumograph (m)"
+  },
+  {
+    "english": "impedance pneumography (med.)",
+    "german": "Impedanzpneumographie (f)"
+  },
+  {
+    "english": "impedance protection \u003cIP\u003e (electr.)",
+    "german": "Impedanzschutz (m)"
+  },
+  {
+    "english": "impedance relay (electr.)",
+    "german": "Impedanzrelais (n)"
+  },
+  {
+    "english": "impedance scanning (MedTech.)",
+    "german": "Impedanz-Scanning (n)"
+  },
+  {
+    "english": "impedance spectrum (electr.)",
+    "german": "Impedanzspektrum (n)"
+  },
+  {
+    "english": "impedance transformer (electr.)",
+    "german": "Impedanzwandler (m)"
+  },
+  {
+    "english": "impedance variation (electr.)",
+    "german": "Impedanzänderung (f)"
+  },
+  {
+    "english": "impedance voltage (electr.)",
+    "german": "Kurzschlussspannung (f)"
+  },
+  {
+    "english": "input impedance (electr.)",
+    "german": "Eingangsimpedanz (f)"
+  },
+  {
+    "english": "input impedance (electr.)",
+    "german": "Eingangswiderstand (m)"
+  },
+  {
+    "english": "intrinsic impedance (electr.)",
+    "german": "Feldwellenwiderstand (m)"
+  },
+  {
+    "english": "iterative impedance",
+    "german": "Wellenwiderstand (Physik, ETechnik, m)"
+  },
+  {
+    "english": "load impedance (audio, electr.)",
+    "german": "Abschlusswiderstand (m)"
+  },
+  {
+    "english": "load impedance (electr.)",
+    "german": "Bürde (Lastwiderstand, f)"
+  },
+  {
+    "english": "load impedance (electr.)",
+    "german": "Lastimpedanz (f)"
+  },
+  {
+    "english": "Unverified load impedance (electr.)",
+    "german": "Lastwiderstand (m)"
+  },
+  {
+    "english": "loop impedance (electr.)",
+    "german": "Schleifenimpedanz (f)"
+  },
+  {
+    "english": "loop impedance (electr.)",
+    "german": "Schleifenwiderstand (m)"
+  }
+]

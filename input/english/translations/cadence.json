@@ -1,0 +1,194 @@
+[
+  {
+    "english": "cadence",
+    "german": "Rhythmus (m, 625)"
+  },
+  {
+    "english": "cadence",
+    "german": "Takt (Rhythmus, m, 304)"
+  },
+  {
+    "english": "cadence",
+    "german": "Tonfall (m, 163)"
+  },
+  {
+    "english": "cadence (mil.)",
+    "german": "Gleichschritt (m, 159)"
+  },
+  {
+    "english": "cadence \u003cCAD\u003e (sports, cycling)",
+    "german": "Trittfrequenz (Radfahren, f, 47)"
+  },
+  {
+    "english": "cadence (ling., mus., sequence, of, notes, or, chords, fall, in, pitch, of, the, voice, at, the, end, of, a, sentence, phrase)",
+    "german": "Kadenz (Harmonielehre, Akkordfolge, Schlussphrase, Linguistik, das, Abfallen, der, Stimme, am, Ende, eines, Satzes, oder, Satzglieds, f, 26)"
+  },
+  {
+    "english": "cadence (mus., linear)",
+    "german": "Klausel (f, 7)"
+  },
+  {
+    "english": "amen cadence (mus.)",
+    "german": "Plagalschluss (m)"
+  },
+  {
+    "english": "Andalusian cadence (mus.)",
+    "german": "andalusische Kadenz (f)"
+  },
+  {
+    "english": "authentic cadence (mus.)",
+    "german": "authentische Kadenz (f)"
+  },
+  {
+    "english": "authentic cadence (mus.)",
+    "german": "authentischer Schluss (m)"
+  },
+  {
+    "english": "avoided cadence (mus.)",
+    "german": "Trugschluss (m)"
+  },
+  {
+    "english": "cadence braking (automot.)",
+    "german": "Stotterbremsen (n)"
+  },
+  {
+    "english": "cadence call (mus., military)",
+    "german": "Marschgesang (m)"
+  },
+  {
+    "english": "church cadence (mus., plagal, cadence)",
+    "german": "Kirchenschluss (Plagalschluss, m)"
+  },
+  {
+    "english": "complete cadence (mus.)",
+    "german": "vollständige Kadenz (f)"
+  },
+  {
+    "english": "deceptive cadence (mus.)",
+    "german": "Trugschluss (m)"
+  },
+  {
+    "english": "false cadence (mus.)",
+    "german": "Trugschluss (m)"
+  },
+  {
+    "english": "final cadence (mus.)",
+    "german": "Ganzschluss (m)"
+  },
+  {
+    "english": "final cadence (mus.)",
+    "german": "Schlusskadenz (f)"
+  },
+  {
+    "english": "full cadence (mus.)",
+    "german": "Ganzschluss (m)"
+  },
+  {
+    "english": "full cadence (mus.)",
+    "german": "Vollkadenz (f)"
+  },
+  {
+    "english": "half cadence (mus.)",
+    "german": "Halbschluss (m)"
+  },
+  {
+    "english": "imperfect cadence (mus.)",
+    "german": "Halbschluss (m)"
+  },
+  {
+    "english": "imperfect cadence (mus.)",
+    "german": "unvollkommener Schluss (m)"
+  },
+  {
+    "english": "incomplete cadence (mus.)",
+    "german": "unvollkommener Schluss (m)"
+  },
+  {
+    "english": "interrupted cadence (mus.)",
+    "german": "Trugschluss (m)"
+  },
+  {
+    "english": "interrupted cadence (mus.)",
+    "german": "unterbrochener Schluss (m)"
+  },
+  {
+    "english": "Landini cadence (mus.)",
+    "german": "Landinokadenz (Landinoklausel, f)"
+  },
+  {
+    "english": "Landini cadence (mus.)",
+    "german": "Landinoklausel (f)"
+  },
+  {
+    "english": "parallel cadence (mus.)",
+    "german": "Parallelkadenz (Mittelstimme, folgt, der, Leitstimme, in, der, Unterquart, f)"
+  },
+  {
+    "english": "perfect cadence (mus.)",
+    "german": "Hauptschluss (m)"
+  },
+  {
+    "english": "perfect cadence (mus.)",
+    "german": "authentische Kadenz (f)"
+  },
+  {
+    "english": "perfect cadence (mus.)",
+    "german": "authentischer Schluss (m)"
+  },
+  {
+    "english": "Phrygian cadence (mus.)",
+    "german": "Phrygische Kadenz (f)"
+  },
+  {
+    "english": "Phrygian cadence (mus.)",
+    "german": "phrygischer Schluss (m)"
+  },
+  {
+    "english": "plagal cadence (mus.)",
+    "german": "Plagalschluss (m)"
+  },
+  {
+    "english": "plagal cadence (mus.)",
+    "german": "plagale Kadenz (f)"
+  },
+  {
+    "english": "full (close) cadence (mus.)",
+    "german": "authentischer Schluss (m)"
+  },
+  {
+    "english": "half close (cadence) (mus.)",
+    "german": "Halbschluss (m)"
+  },
+  {
+    "english": "imperfect (authentic) cadence (mus.)",
+    "german": "unvollkommener Ganzschluss (m)"
+  },
+  {
+    "english": "perfect authentic cadence (mus.)",
+    "german": "vollkommener Ganzschluss (m)"
+  },
+  {
+    "english": "Phrygian half-cadence (mus.)",
+    "german": "phrygische Halbkadenz (f)"
+  },
+  {
+    "english": "under-third-cadence (mus.)",
+    "german": "Unterterzklausel (f)"
+  },
+  {
+    "english": "double leading note cadence (mus.)",
+    "german": "Doppelleittonkadenz (f)"
+  },
+  {
+    "english": "sixth-to-octave cadence (mus.)",
+    "german": "Sext-Oktavkadenz (f)"
+  },
+  {
+    "english": "sixth-to-octave cadence (mus.)",
+    "german": "Sext-Oktavklausel (SextOktavkadenz, f)"
+  },
+  {
+    "english": "Cadence (film, F, Martin, Sheen)",
+    "german": "Ein fremder Klang"
+  }
+]

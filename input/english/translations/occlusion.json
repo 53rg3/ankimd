@@ -1,0 +1,202 @@
+[
+  {
+    "english": "occlusion (dent., med.)",
+    "german": "Verschluss (m, 155)"
+  },
+  {
+    "english": "occlusion (med.)",
+    "german": "Verstopfung (f, 41)"
+  },
+  {
+    "english": "occlusion (dent.)",
+    "german": "Biss (m, 19)"
+  },
+  {
+    "english": "occlusion (chem., dent., meteo.)",
+    "german": "Okklusion (f, 13)"
+  },
+  {
+    "english": "occlusion (dent.)",
+    "german": "Gebissschluss (Okklusion, m, 5)"
+  },
+  {
+    "english": "Unverified occlusion",
+    "german": "Verdeckung (f)"
+  },
+  {
+    "english": "occlusion (dent.)",
+    "german": "(normale) Schlussbissstellung (der, Zhne, f)"
+  },
+  {
+    "english": "(terminal) occlusion (dent.)",
+    "german": "Schlussbiss (m)"
+  },
+  {
+    "english": "ambient occlusion \u003cAO\u003e (comp.)",
+    "german": "Umgebungsverdeckung (f)"
+  },
+  {
+    "english": "anterior occlusion (dent.)",
+    "german": "vorstehender Biss (m)"
+  },
+  {
+    "english": "arterial occlusion (med.)",
+    "german": "arterieller Verschluss (m)"
+  },
+  {
+    "english": "artery occlusion (med.)",
+    "german": "Arterienverschluss (m)"
+  },
+  {
+    "english": "balanced occlusion (dent.)",
+    "german": "Neutralbisslage (f)"
+  },
+  {
+    "english": "balanced occlusion (dent.)",
+    "german": "ausgeglichene Okklusion (f)"
+  },
+  {
+    "english": "balanced occlusion (dent.)",
+    "german": "balancierte Okklusion (f)"
+  },
+  {
+    "english": "binocular occlusion (dent.)",
+    "german": "Binoculus (m)"
+  },
+  {
+    "english": "bowel occlusion (med.)",
+    "german": "Darmverschluss (m)"
+  },
+  {
+    "english": "bronchial occlusion (med.)",
+    "german": "Bronchusverschluss (m)"
+  },
+  {
+    "english": "centric occlusion (dent.)",
+    "german": "Zangenbiss (m)"
+  },
+  {
+    "english": "centric occlusion (dent.)",
+    "german": "zentrische Okklusion (f)"
+  },
+  {
+    "english": "cold occlusion (meteo.)",
+    "german": "Kaltfrontokklusion (f)"
+  },
+  {
+    "english": "convenience occlusion (dent.)",
+    "german": "habituelle Okklusion (f)"
+  },
+  {
+    "english": "coronary occlusion (med.)",
+    "german": "Koronararterienverschluss (m)"
+  },
+  {
+    "english": "coronary occlusion (med.)",
+    "german": "Koronarverschluss (m)"
+  },
+  {
+    "english": "deep occlusion (dent.)",
+    "german": "tiefer Biss (m)"
+  },
+  {
+    "english": "distal occlusion (dent.)",
+    "german": "Distalbiss (m)"
+  },
+  {
+    "english": "distal occlusion (dent.)",
+    "german": "Distalokklusion (f)"
+  },
+  {
+    "english": "duodenal occlusion (med.)",
+    "german": "Duodenalverschluss (m)"
+  },
+  {
+    "english": "dynamic occlusion (dent.)",
+    "german": "dynamische Okklusion (f)"
+  },
+  {
+    "english": "eccentric occlusion (dent.)",
+    "german": "exzentrische Okklusion (f)"
+  },
+  {
+    "english": "embolic occlusion (med.)",
+    "german": "embolischer Verschluss (m)"
+  },
+  {
+    "english": "functional occlusion (dent.)",
+    "german": "funktionelle Okklusion (f)"
+  },
+  {
+    "english": "graft occlusion (med.)",
+    "german": "Transplantatverschluss (m)"
+  },
+  {
+    "english": "habitual occlusion (dent.)",
+    "german": "habituelle Okklusion (f)"
+  },
+  {
+    "english": "ideal occlusion (dent.)",
+    "german": "Idealokklusion (f)"
+  },
+  {
+    "english": "mesial occlusion (dent.)",
+    "german": "Mesialbiss (m)"
+  },
+  {
+    "english": "mesial occlusion (dent.)",
+    "german": "Mesialbisslage (f)"
+  },
+  {
+    "english": "mesial occlusion (dent.)",
+    "german": "Mesialokklusion (f)"
+  },
+  {
+    "english": "mesio-occlusion (dent.)",
+    "german": "Mesiookklusion (f)"
+  },
+  {
+    "english": "neutral occlusion (dent.)",
+    "german": "Neutralbiss (m)"
+  },
+  {
+    "english": "neutral occlusion (dent.)",
+    "german": "Neutralokklusion (f)"
+  },
+  {
+    "english": "neutral occlusion (dent.)",
+    "german": "Neutrogenie (f)"
+  },
+  {
+    "english": "neutral occlusion (dent.)",
+    "german": "Regelbiss (m)"
+  },
+  {
+    "english": "non-occlusion (dent.)",
+    "german": "offener Biss (m)"
+  },
+  {
+    "english": "normal occlusion (dent.)",
+    "german": "Normalbisslage (f)"
+  },
+  {
+    "english": "normal occlusion (dent.)",
+    "german": "Regelverzahnung (f)"
+  },
+  {
+    "english": "nucleoid occlusion (biol.)",
+    "german": "Nukleoidausschluss (m)"
+  },
+  {
+    "english": "occlusion abnormality (dent.)",
+    "german": "Bissanomalie (f)"
+  },
+  {
+    "english": "occlusion curve (med.)",
+    "german": "Okklusionskurve (f)"
+  },
+  {
+    "english": "occlusion effect (audio)",
+    "german": "Okklusionseffekt (m)"
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "english": "pavement (attr, Br, eg, artist, cafe, adj)",
+    "german": "Straßen- (z, B, Maler, Caf, 5)"
+  },
+  {
+    "english": "pavement (Br, footpath)",
+    "german": "Bürgersteig (m, 1558)"
+  },
+  {
+    "english": "pavement (Br)",
+    "german": "Gehsteig (m, 550)"
+  },
+  {
+    "english": "pavement (Br)",
+    "german": "Gehweg (m, 290)"
+  },
+  {
+    "english": "pavement (constr., Am)",
+    "german": "Pflaster (Straenpflaster, n, 203)"
+  },
+  {
+    "english": "pavement (constr., Am)",
+    "german": "Straßenbelag (m, 171)"
+  },
+  {
+    "english": "pavement (Br, footpath)",
+    "german": "Trottoir (sterr, schweiz, sonst, veraltend, o, regional, Brgersteig, n, 102)"
+  },
+  {
+    "english": "pavement (constr., Am)",
+    "german": "Straßenpflaster (n, 50)"
+  },
+  {
+    "english": "pavement (constr., Am)",
+    "german": "Asphalt (m, 47)"
+  },
+  {
+    "english": "pavement (Am)",
+    "german": "Bodenbelag (m, 17)"
+  },
+  {
+    "english": "pavement (constr., traffic, esp, Am, road, surface)",
+    "german": "Fahrbahndecke (f, 12)"
+  },
+  {
+    "english": "pavement (paved, road, Am)",
+    "german": "Straße (gepflastert, f, 12)"
+  },
+  {
+    "english": "pavement (constr., traffic, Am)",
+    "german": "Asphaltdecke (f)"
+  },
+  {
+    "english": "pavement (constr., traffic, Am, road, surface)",
+    "german": "Decke (Fahrbahndecke, f)"
+  },
+  {
+    "english": "pavement (Br)",
+    "german": "Gangsteig (sdd, Brgersteig, m)"
+  },
+  {
+    "english": "Unverified to eat pavement (Am, coll, idiom, suffer, defeat)",
+    "german": "auf die Fresse fallen (derb, hier, fig, eine, Niederlage, erleiden, Redewendung)"
+  },
+  {
+    "english": "battered pavement",
+    "german": "abgestoßenes Pflaster (n)"
+  },
+  {
+    "english": "block pavement (constr.)",
+    "german": "Pflaster (n)"
+  },
+  {
+    "english": "brick pavement (constr.)",
+    "german": "Ziegelpflaster (n)"
+  },
+  {
+    "english": "cobbled pavement (constr.)",
+    "german": "Pflaster (n)"
+  },
+  {
+    "english": "cobblestone pavement (constr.)",
+    "german": "Katzenkopfpflaster (n)"
+  },
+  {
+    "english": "cobblestone pavement (constr.)",
+    "german": "Kopfsteinpflaster (n)"
+  },
+  {
+    "english": "concrete pavement (constr.)",
+    "german": "Betonpflaster (n)"
+  },
+  {
+    "english": "concrete pavement (constr., traffic, Am)",
+    "german": "Betondecke (einer, Strae, f)"
+  },
+  {
+    "english": "crazy pavement (constr.)",
+    "german": "Mosaikpflaster (n)"
+  },
+  {
+    "english": "desert pavement (geol.)",
+    "german": "Steinpflaster (n)"
+  },
+  {
+    "english": "desert pavement (geol.)",
+    "german": "Wüstenmosaik (n)"
+  },
+  {
+    "english": "desert pavement (geol.)",
+    "german": "Wüstenpflaster (n)"
+  },
+  {
+    "english": "limestone pavement (geol., sg)",
+    "german": "Karren (Karrenbildung, pl)"
+  },
+  {
+    "english": "limestone pavement (geol., Br, Irish, sg)",
+    "german": "Schratten (Karren, Rinnen, im, Karst, pl)"
+  },
+  {
+    "english": "mosaic pavement (archaeo., archi., art)",
+    "german": "Mosaikboden (m)"
+  },
+  {
+    "english": "moving pavement",
+    "german": "Fahrsteig (z, B, in, Flughfen, m)"
+  },
+  {
+    "english": "pavement advertising (market.)",
+    "german": "Pflasterwerbung (f)"
+  },
+  {
+    "english": "pavement art (art, street, painting)",
+    "german": "Pflastermalerei (f)"
+  },
+  {
+    "english": "pavement artist (art)",
+    "german": "Pflastermaler (m)"
+  },
+  {
+    "english": "pavement artist (art, Br)",
+    "german": "Straßenmaler (m)"
+  },
+  {
+    "english": "pavement artist (female, Br)",
+    "german": "Straßenmalerin (f)"
+  },
+  {
+    "english": "pavement cafe (gastr., urban)",
+    "german": "Straßencafé (n)"
+  },
+  {
+    "english": "pavement flag",
+    "german": "Gehwegplatte (f)"
+  },
+  {
+    "english": "pavement pizza (sl)",
+    "german": " (Erbrochenes, auf, dem, Gehweg)"
+  },
+  {
+    "english": "pavement princess (Am, sl)",
+    "german": "Bordsteinschwalbe (ugs, f)"
+  },
+  {
+    "english": "pavement slab",
+    "german": "Gehwegplatte (f)"
+  },
+  {
+    "english": "pavement special (SAfr, hum, pej)",
+    "german": "Trottoirmischung (schweiz, hum, pej, Promenadenmischung, f)"
+  },
+  {
+    "english": "pavement surface (Am)",
+    "german": "Belag (einer, Strae, m)"
+  },
+  {
+    "english": "pavement surface (constr., Am)",
+    "german": "Straßenbelag (Straenbau, m)"
+  },
+  {
+    "english": "pavement table (gastr.)",
+    "german": "Straßentisch (m)"
+  },
+  {
+    "english": "cobble-stone pavement (urban)",
+    "german": "Steinpflaster (n)"
+  },
+  {
+    "english": "concrete pavement tile (constr.)",
+    "german": "Betonpflasterstein (m)"
+  },
+  {
+    "english": "interlocking stone pavement (constr.)",
+    "german": "Verbundsteinpflaster (n)"
+  },
+  {
+    "english": "raised pavement marker (traffic, roadsafety, feature)",
+    "german": "Markierungsnagel (m)"
+  },
+  {
+    "english": "RC (road) pavement",
+    "german": "Stahlbetondecke (Straenbau, f)"
+  },
+  {
+    "english": "RC (road) pavement",
+    "german": "Stahlbetonstraßendecke (f)"
+  },
+  {
+    "english": "to deliver a pavement pizza (hum, sl, to, vomit)",
+    "german": "eine Pizza legen (hum, ugs, sich, bergeben)"
+  },
+  {
+    "english": "(grassed modular) grid pavement (constr., Am)",
+    "german": "Rasengittersteinbelag (m)"
+  },
+  {
+    "english": "reinforced (concrete) road pavement",
+    "german": "Stahlbetondecke (Straenbau, f)"
+  },
+  {
+    "english": "reinforced (concrete) road pavement",
+    "german": "Stahlbetonstraßendecke (f)"
+  },
+  {
+    "english": "The car mounted the pavement.",
+    "german": "Das Auto machte einen Satz auf den Gehweg."
+  },
+  {
+    "english": " (entom., T, Tetramorium, caespitum, pavement ant)",
+    "german": " (f, Gemeine Rasenameise)"
+  },
+  {
+    "english": " (mycol., T, Agaricus, bitorquis, pavement mushroom)",
+    "german": " (m, Scheiden-Champignon / Scheidenchampignon)"
+  },
+  {
+    "english": " (mycol., T, Agaricus, bitorquis, pavement mushroom)",
+    "german": " (m, Scheiden-Egerling / Scheidenegerling)"
+  },
+  {
+    "english": " (mycol., T, Agaricus, bitorquis, pavement mushroom)",
+    "german": " (m, Stadt-Champignon / Stadtchampignon)"
+  },
+  {
+    "english": " (mycol., T, Agaricus, bitorquis, pavement mushroom)",
+    "german": " (m, Stadt-Egerling / Stadtegerling)"
+  },
+  {
+    "english": " (mycol., T, Agaricus, bitorquis, pavement mushroom)",
+    "german": " (m, Straßen-Champignon / Straßenchampignon)"
+  },
+  {
+    "english": " (mycol., T, Agaricus, bitorquis, pavement mushroom)",
+    "german": " (sterr, schweiz, m, Trottoir-Champignon)"
+  }
+]

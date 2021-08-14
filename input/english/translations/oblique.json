@@ -1,0 +1,202 @@
+[
+  {
+    "english": "oblique (ling., adj)",
+    "german": "abhängig (Grammatik, 986)"
+  },
+  {
+    "english": "oblique (slanting, adj)",
+    "german": "schräg (942)"
+  },
+  {
+    "english": "oblique (line, angle, etc, adj)",
+    "german": "schief (666)"
+  },
+  {
+    "english": "oblique (implied, hidden, adj)",
+    "german": "verblümt (430)"
+  },
+  {
+    "english": "oblique (indirect, adj)",
+    "german": "indirekt (408)"
+  },
+  {
+    "english": "oblique (dishonest, adj)",
+    "german": "unaufrichtig (209)"
+  },
+  {
+    "english": "oblique (hidden, adj)",
+    "german": "versteckt (55)"
+  },
+  {
+    "english": "oblique (diagonal, adj)",
+    "german": "quer (diagonal, 48)"
+  },
+  {
+    "english": "oblique (dishonest, adj)",
+    "german": "unredlich (22)"
+  },
+  {
+    "english": "oblique (indirect, adj)",
+    "german": "mittelbar (20)"
+  },
+  {
+    "english": "oblique (warning, criticism, etc, adj)",
+    "german": "verdeckt (Warnung, Kritik, etc, 19)"
+  },
+  {
+    "english": "oblique (slanted, adj)",
+    "german": "abgeschrägt (14)"
+  },
+  {
+    "english": "oblique (asymmetric, adj)",
+    "german": "unebenmäßig (11)"
+  },
+  {
+    "english": "oblique \u003c/\u003e (Br)",
+    "german": "Schrägstrich \u003c/\u003e (m, 32)"
+  },
+  {
+    "english": "oblique [ / ] (Br)",
+    "german": "Slash (m, 16)"
+  },
+  {
+    "english": "mediolateral oblique \u003cMLO\u003e (MedTech., projection, exposure, adj)",
+    "german": "mediolateral-oblique \u003cMLO\u003e (Projektion, Aufnahme)"
+  },
+  {
+    "english": "oblique-angled (adj)",
+    "german": "schiefwinkelig"
+  },
+  {
+    "english": "oblique-angled (adj)",
+    "german": "schiefwinklig"
+  },
+  {
+    "english": "external oblique (anat., biol., Musculus, obliquus, externus, abdominis)",
+    "german": "Externus (kurz, fr, Musculus, obliquus, externus, abdominis, uerer, schrger, Bauchmuskel, m)"
+  },
+  {
+    "english": "oblique (stroke) [ / ] (Br)",
+    "german": "Slash (m)"
+  },
+  {
+    "english": "oblique abdominals (anat., pl)",
+    "german": "schräge Bauchmuskeln (pl)"
+  },
+  {
+    "english": "oblique angle (tech.)",
+    "german": "schiefer Winkel (m)"
+  },
+  {
+    "english": "oblique astigmatism (optics)",
+    "german": "Astigmatismus schiefer Bündel (m)"
+  },
+  {
+    "english": "oblique bending",
+    "german": "schiefe Biegung (f)"
+  },
+  {
+    "english": "oblique case (ling.)",
+    "german": "Casus obliquus (m)"
+  },
+  {
+    "english": "oblique case (ling.)",
+    "german": "obliquer Kasus (m)"
+  },
+  {
+    "english": "oblique cutter (tools)",
+    "german": "Schrägschneider (m)"
+  },
+  {
+    "english": "oblique diameter (med., tech.)",
+    "german": "Schrägdurchmesser (m)"
+  },
+  {
+    "english": "oblique diameter (med., Diameter, obliqua)",
+    "german": "schräger Durchmesser (insbes, als, Beckenma, m)"
+  },
+  {
+    "english": "oblique formation (hist., mil.)",
+    "german": "schiefe Schlachtordnung (f)"
+  },
+  {
+    "english": "oblique fracture (med.)",
+    "german": "Längsbruch (m)"
+  },
+  {
+    "english": "oblique fracture (med.)",
+    "german": "Schrägbruch (m)"
+  },
+  {
+    "english": "oblique fracture (med.)",
+    "german": "Schrägfraktur (f)"
+  },
+  {
+    "english": "oblique glance",
+    "german": "Seitenblick (m)"
+  },
+  {
+    "english": "oblique impact (engin.)",
+    "german": "schiefer Stoß (m)"
+  },
+  {
+    "english": "oblique letters (print)",
+    "german": "Schrägbuchstaben (pl)"
+  },
+  {
+    "english": "oblique lie (med., obstetrics)",
+    "german": "Schräglage (Lageanomalie, des, Kindes, im, Mutterleib, f)"
+  },
+  {
+    "english": "oblique motion (mus.)",
+    "german": "Seitenbewegung (Stimmsatz, f)"
+  },
+  {
+    "english": "oblique plane",
+    "german": "geneigte Ebene (f)"
+  },
+  {
+    "english": "oblique position (tech.)",
+    "german": "Schräglage (f)"
+  },
+  {
+    "english": "oblique position (tech.)",
+    "german": "Schrägstellung (f)"
+  },
+  {
+    "english": "oblique prism (math., optics)",
+    "german": "schiefes Prisma (n)"
+  },
+  {
+    "english": "oblique projection (MedTech.)",
+    "german": "Schrägprojektion (f)"
+  },
+  {
+    "english": "oblique projection (geogr.)",
+    "german": "schiefständige Projektion (f)"
+  },
+  {
+    "english": "oblique projection (geogr.)",
+    "german": "zwischenständige Projektion (f)"
+  },
+  {
+    "english": "oblique rhyme (lit.)",
+    "german": "unreiner Reim (m)"
+  },
+  {
+    "english": "oblique section",
+    "german": "Schrägschnitt (m)"
+  },
+  {
+    "english": "oblique slice (MedTech.)",
+    "german": "oblique Schicht (f)"
+  },
+  {
+    "english": "oblique speech (ling.)",
+    "german": "indirekte Rede (f)"
+  },
+  {
+    "english": "oblique stroke \u003c/\u003e",
+    "german": "Schrägstrich \u003c/\u003e (m)"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "english": "cast (adj, pastp)",
+    "german": "gegossen (1157)"
+  },
+  {
+    "english": "cast (film, theatre, adj, pastp)",
+    "german": "besetzt (793)"
+  },
+  {
+    "english": "sb./sth. cast (threw)",
+    "german": "jd./etw. warf (92)"
+  },
+  {
+    "english": "sb. cast (film, theatre)",
+    "german": "jd. besetzte (87)"
+  },
+  {
+    "english": "sb. cast (tech.)",
+    "german": "jd. goss (50)"
+  },
+  {
+    "english": "to cast",
+    "german": "werfen (bes, literarisch, bibl, 1397)"
+  },
+  {
+    "english": "to cast (film, theatre)",
+    "german": "besetzen (1131)"
+  },
+  {
+    "english": "to cast (tech.)",
+    "german": "gießen (1106)"
+  },
+  {
+    "english": "to cast (a, vote)",
+    "german": "abgeben (eine, Stimme, bei, einer, Wahl, 648)"
+  },
+  {
+    "english": "to cast (angling, fishing)",
+    "german": "auswerfen (464)"
+  },
+  {
+    "english": "to cast (comp., data, types)",
+    "german": "umwandeln (Datentypen, 433)"
+  },
+  {
+    "english": "to cast",
+    "german": "aufgießen (beim, Guss, 371)"
+  },
+  {
+    "english": "to cast (tech.)",
+    "german": "vergießen (341)"
+  },
+  {
+    "english": "to cast sth. (by, pouring, into, a, mould)",
+    "german": "etw.Akk. abformen (gieen, 41)"
+  },
+  {
+    "english": "to cast sb. (film, RadioTV, theatre)",
+    "german": "jdn. casten (16)"
+  },
+  {
+    "english": "Unverified to cast (hunting, orn., eject, indigestible, parts)",
+    "german": "wöllen (Gewlle, auswerfen)"
+  },
+  {
+    "english": "to cast sb. (film, theatre)",
+    "german": "jdm. eine Rolle geben"
+  },
+  {
+    "english": "cast (med., short, for, plaster, cast)",
+    "german": "Gips (kurz, fr, Gipsverband, m, 1902)"
+  },
+  {
+    "english": "cast (film, theatre, RadioTV, set, of, actors)",
+    "german": "Besetzung (f, 1062)"
+  },
+  {
+    "english": "cast (med.)",
+    "german": "Gipsverband (m, 262)"
+  },
+  {
+    "english": "cast (art, dent., tech.)",
+    "german": "Abguss (m, 212)"
+  },
+  {
+    "english": "cast (film, theatre)",
+    "german": "Rollenbesetzung (f, 146)"
+  },
+  {
+    "english": "cast (material)",
+    "german": "Guss (Gussstck, m, 125)"
+  },
+  {
+    "english": "cast (acc.)",
+    "german": "Saldierung (f, 114)"
+  },
+  {
+    "english": "cast",
+    "german": "Gestalt (f, 101)"
+  },
+  {
+    "english": "cast (theatre)",
+    "german": "Mitwirkende (pl, 90)"
+  },
+  {
+    "english": "cast (theatre)",
+    "german": "Rollenverteilung (f, 63)"
+  },
+  {
+    "english": "cast",
+    "german": "Wurf (m, 54)"
+  },
+  {
+    "english": "cast (character)",
+    "german": "Eigenart (fig, f, 40)"
+  },
+  {
+    "english": "cast (of, the, mind)",
+    "german": "Neigung (fig, f, 40)"
+  },
+  {
+    "english": "cast (film)",
+    "german": "Filmbesetzung (f, 38)"
+  },
+  {
+    "english": "cast (art)",
+    "german": "Abklatsch (m, 28)"
+  },
+  {
+    "english": "cast (tinge)",
+    "german": "Schimmer (Farbschimmer, m, 27)"
+  },
+  {
+    "english": "cast",
+    "german": "Abguß (alt, m, 26)"
+  },
+  {
+    "english": "cast (spec.)",
+    "german": "Manschette (f, 23)"
+  },
+  {
+    "english": "cast (container, shape, appearance)",
+    "german": "Form (f, 23)"
+  },
+  {
+    "english": "cast (material, object, made, in, a, mould)",
+    "german": "Gussstück (n, 21)"
+  },
+  {
+    "english": "cast (spec.)",
+    "german": "Zylinder (m, 16)"
+  },
+  {
+    "english": "cast",
+    "german": "Gipseinfassung (f, 14)"
+  },
+  {
+    "english": "cast (games, roleplaying, games)",
+    "german": "Zauber (Rollenspiele, m, 11)"
+  },
+  {
+    "english": "cast (material, object, made, in, a, mould)",
+    "german": "Gußstück (alt, n, 9)"
+  },
+  {
+    "english": "cast (orn.)",
+    "german": "Gewölle (n, 8)"
+  },
+  {
+    "english": "cast (RadioTV)",
+    "german": "Serienbesetzung (f, 5)"
+  },
+  {
+    "english": "cast (film)",
+    "german": "Cast (m)"
+  },
+  {
+    "english": "cast (theatre)",
+    "german": "Besetzung des Stücks / Stückes (f)"
+  },
+  {
+    "english": "cast (dent., material, tech., eg, blank, concrete, filling, iron, metal, part, plate)",
+    "german": "Guss- (gegossen, z, B, Rohling, Beton, Fllung, Eisen, Metall, Teil, Platte)"
+  },
+  {
+    "english": "cast (med., strabismus)",
+    "german": "Strabismus (m)"
+  },
+  {
+    "english": "cast aluminium (Br, attr, adj)",
+    "german": "aus Aluminiumguss (nachgestellt)"
+  },
+  {
+    "english": "cast aluminum (Am, attr, adj)",
+    "german": "aus Aluminiumguss (nachgestellt)"
+  },
+  {
+    "english": "cast down (adj, pastp)",
+    "german": "niedergeschlagen (deprimiert)"
+  }
+]

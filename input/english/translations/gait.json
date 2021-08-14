@@ -1,0 +1,294 @@
+[
+  {
+    "english": "gait",
+    "german": "Gang (Art, des, Gehens, auch, bei, Pferden, m, 926)"
+  },
+  {
+    "english": "gait (equest.)",
+    "german": "Gangart (eines, Pferdes, f, 244)"
+  },
+  {
+    "english": "gait (VetMed.)",
+    "german": "Gangwerk (z, B, bei, Hunden, n, 18)"
+  },
+  {
+    "english": "analgetic gait (med.)",
+    "german": "Schongang (schmerzvermeidend, m)"
+  },
+  {
+    "english": "antalgic gait (med.)",
+    "german": "Schongang (m)"
+  },
+  {
+    "english": "ataxic gait (med.)",
+    "german": "ataktischer Gang (m)"
+  },
+  {
+    "english": "awkward gait",
+    "german": "schwerer Gang (m)"
+  },
+  {
+    "english": "awkward gait (med.)",
+    "german": "schwerfälliger Gang (m)"
+  },
+  {
+    "english": "blindfold gait (med.)",
+    "german": "Blindgang (m)"
+  },
+  {
+    "english": "bouncing gait",
+    "german": "schwungvoller Gang (m)"
+  },
+  {
+    "english": "cerebellar gait (med.)",
+    "german": "zerebellärer Gang (m)"
+  },
+  {
+    "english": "compass gait (biol.)",
+    "german": "Kompassgang (m)"
+  },
+  {
+    "english": "digitigrade gait",
+    "german": "Zehengang (Digitigradie, m)"
+  },
+  {
+    "english": "Duchenne gait (med.)",
+    "german": "Duchenne-Gang (Hfthinken, m)"
+  },
+  {
+    "english": "Duchenne gait (med.)",
+    "german": "Duchenne-Hinken (Hfthinken, n)"
+  },
+  {
+    "english": "duck gait (med., dystrophic, gait)",
+    "german": "Entengang (m)"
+  },
+  {
+    "english": "dystrophic gait (med.)",
+    "german": "Watschelgang (m)"
+  },
+  {
+    "english": "equine gait (med.)",
+    "german": "Steppergang (m)"
+  },
+  {
+    "english": "gait (pattern) (med.)",
+    "german": "Gangbild (n)"
+  },
+  {
+    "english": "gait abnormality (med.)",
+    "german": "Gangbildstörung (f)"
+  },
+  {
+    "english": "gait abnormality (med.)",
+    "german": "Gangstörung (f)"
+  },
+  {
+    "english": "gait abnormality (med.)",
+    "german": "Gehstörung (f)"
+  },
+  {
+    "english": "gait analysis (med.)",
+    "german": "Ganganalyse (f)"
+  },
+  {
+    "english": "gait apraxia (med.)",
+    "german": "Gangapraxie (f)"
+  },
+  {
+    "english": "gait cycle (biol.)",
+    "german": "Gangzyklus (m)"
+  },
+  {
+    "english": "gait deviation (med.)",
+    "german": "Gangabweichung (f)"
+  },
+  {
+    "english": "gait disorder (med., psych.)",
+    "german": "Gangstörung (f)"
+  },
+  {
+    "english": "gait parameter (biol.)",
+    "german": "Gangparameter (m)"
+  },
+  {
+    "english": "gait pattern (med.)",
+    "german": "Gangmuster (n)"
+  },
+  {
+    "english": "gait recognition (biometrics)",
+    "german": "Gangerkennung (f)"
+  },
+  {
+    "english": "gait stability (biol., med.)",
+    "german": "Gangstabilität (f)"
+  },
+  {
+    "english": "gait velocity (psych.)",
+    "german": "Gehgeschwindigkeit (f)"
+  },
+  {
+    "english": "gluteal gait (med.)",
+    "german": "Hüfthinken (n)"
+  },
+  {
+    "english": "helicopod gait (med.)",
+    "german": "Außenrotationsgang (m)"
+  },
+  {
+    "english": "human gait",
+    "german": "menschlicher Gang (m)"
+  },
+  {
+    "english": "pathological gait (med.)",
+    "german": "pathologischer Gang (m)"
+  },
+  {
+    "english": "plantigrade gait",
+    "german": "Sohlengang (Plantigradie, m)"
+  },
+  {
+    "english": "rolling gait",
+    "german": "breitbeiniger Gang (m)"
+  },
+  {
+    "english": "rolling gait",
+    "german": "schaukelnder Gang (m)"
+  },
+  {
+    "english": "rolling gait (eg, pug, dog)",
+    "german": "rollender Gang (z, B, Mops, m)"
+  },
+  {
+    "english": "sailor\u0027s gait (widebased, unsteady, gait)",
+    "german": "Seemannsgang (m)"
+  },
+  {
+    "english": "scissor gait (med.)",
+    "german": "Scherengang (m)"
+  },
+  {
+    "english": "shuffling gait (VetMed.)",
+    "german": "flacher Gang (bei, Pferden, m)"
+  },
+  {
+    "english": "shuffling gait",
+    "german": "schleppender Gang / (schlurfender, flacher, Gang, m)"
+  },
+  {
+    "english": "spastic gait (med.)",
+    "german": "spastischer Gang (m)"
+  },
+  {
+    "english": "sprawling gait (zool.)",
+    "german": "Spreizgang (m)"
+  },
+  {
+    "english": "steady gait",
+    "german": "gleichmäßiges Tempo (n)"
+  },
+  {
+    "english": "steppage gait (med.)",
+    "german": "Hahnentritt (Steppergang, m)"
+  },
+  {
+    "english": "stiff gait (zool.)",
+    "german": "unfreier Gang (steifer, Gang, z, B, bei, Hunden, m)"
+  },
+  {
+    "english": "swaying gait (med.)",
+    "german": "zerebellärer Gang (m)"
+  },
+  {
+    "english": "tabetic gait (med.)",
+    "german": "tabetischer / tabtischer Gang (m)"
+  },
+  {
+    "english": "Trendelenburg gait (med.)",
+    "german": "Trendelenburggang (Hfthinken, m)"
+  },
+  {
+    "english": "Trendelenburg gait (med.)",
+    "german": "Trendelenburg-Gang (Hfthinken, m)"
+  },
+  {
+    "english": "Trendelenburg gait (med.)",
+    "german": "Trendelenburg-Hinken (Hfthinken, n)"
+  },
+  {
+    "english": "unguligrade gait (zool.)",
+    "german": "Hufgang (m)"
+  },
+  {
+    "english": "unguligrade gait (zool.)",
+    "german": "Zehenspitzengang (Unguligradie, m)"
+  },
+  {
+    "english": "unsteady gait",
+    "german": "schwankender Gang (m)"
+  },
+  {
+    "english": "upright gait (anat., zool.)",
+    "german": "aufrechter Gang (m)"
+  },
+  {
+    "english": "waddle gait (med.)",
+    "german": "Watschelgang (m)"
+  },
+  {
+    "english": "waddling gait (med.)",
+    "german": "Entengang (m)"
+  },
+  {
+    "english": "waddling gait (med.)",
+    "german": "Watschelgang (m)"
+  },
+  {
+    "english": "waddling gait (med., dystrophic, gait)",
+    "german": "Watscheln (n)"
+  },
+  {
+    "english": "wobbly gait (med.)",
+    "german": "unsicherer Gang (z, B, wackelig, m)"
+  },
+  {
+    "english": "wobbly gait",
+    "german": "wackeliger Gang (m)"
+  },
+  {
+    "english": "to gait a horse (equest.)",
+    "german": "einem Pferd eine Gangart beibringen"
+  },
+  {
+    "english": "(high) steppage gait (med.)",
+    "german": "Steppergang (m)"
+  },
+  {
+    "english": "(long) striding gait",
+    "german": "ausgreifender Gang (Gangart, m)"
+  },
+  {
+    "english": "automatic gait recognition (comp.)",
+    "german": "Gangstil (automatische, Gangerkennung, biometrisches, Verfahren, m)"
+  },
+  {
+    "english": "internal rotation gait (med.)",
+    "german": "Innenrotationsgang (m)"
+  },
+  {
+    "english": "tightrope walker\u0027s gait (med.)",
+    "german": "Seiltänzergang (m)"
+  },
+  {
+    "english": "dropfoot / drop-foot gait (med.)",
+    "german": "Steppergang (m)"
+  },
+  {
+    "english": "to walk with a rolling gait",
+    "german": "breitbeinig gehen"
+  },
+  {
+    "english": "instrumented gait and movement analysis (med.)",
+    "german": "instrumentelle Gang- und Bewegungsanalyse (f)"
+  }
+]

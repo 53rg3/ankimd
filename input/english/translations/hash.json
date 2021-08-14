@@ -1,0 +1,226 @@
+[
+  {
+    "english": "to hash (gastr.)",
+    "german": "hacken (579)"
+  },
+  {
+    "english": "to hash",
+    "german": "zerkleinern (461)"
+  },
+  {
+    "english": "to hash",
+    "german": "zusammenmischen (129)"
+  },
+  {
+    "english": "to hash (gastr., meat)",
+    "german": "haschieren (95)"
+  },
+  {
+    "english": "to hash (fig, coll)",
+    "german": "verpfuschen (ugs, 49)"
+  },
+  {
+    "english": "to hash",
+    "german": "zerhacken (34)"
+  },
+  {
+    "english": "to hash (fig, coll)",
+    "german": "verpatzen (ugs, 21)"
+  },
+  {
+    "english": "to hash sth. (comp., transform, according, to, a, hash, function)",
+    "german": "den Hashwert von etw.Dat. berechnen"
+  },
+  {
+    "english": "hash (gastr.)",
+    "german": "Hackfleisch (n, 345)"
+  },
+  {
+    "english": "hash \u003c#\u003e (esp, Br)",
+    "german": "Raute \u003c#\u003e (f, 169)"
+  },
+  {
+    "english": "hash \u003c#\u003e (print, telecom.)",
+    "german": "Rautenzeichen \u003c#\u003e (n, 140)"
+  },
+  {
+    "english": "hash (drugs, sl, hashish)",
+    "german": "Hasch (ugs, Haschisch, n, 111)"
+  },
+  {
+    "english": "hash \u003c#\u003e (print, telecom.)",
+    "german": "Rautezeichen \u003c#\u003e (n, 23)"
+  },
+  {
+    "english": "hash (gastr.)",
+    "german": "Haschee (n, 18)"
+  },
+  {
+    "english": "hash (gastr.)",
+    "german": "Faschiertes (sterr, n, 17)"
+  },
+  {
+    "english": "hash (drugs, sl, hashish)",
+    "german": "Haschisch (n, m, 16)"
+  },
+  {
+    "english": "hash (electr., RadioTV, Am)",
+    "german": "Grieß (Bildrauschen, m, 12)"
+  },
+  {
+    "english": "hash \u003c#\u003e (print, telecom.)",
+    "german": "Lattenzaun \u003c#\u003e (ugs, Rautenzeichen, m, 12)"
+  },
+  {
+    "english": "hash (drugs, coll, hashish)",
+    "german": "Shit (ugs, Haschisch, m, n, 8)"
+  },
+  {
+    "english": "hash (gastr., dish, with, minced, or, cubed, meat)",
+    "german": "Haché (fachspr, Haschee, n)"
+  },
+  {
+    "english": "hash \u003c#\u003e (print, telecom.)",
+    "german": "Doppelkreuz-Zeichen \u003c#\u003e (n)"
+  },
+  {
+    "english": "hashing (comp.)",
+    "german": "Hash-Code-Anwendung (f)"
+  },
+  {
+    "english": "to hash sth. out (idiom)",
+    "german": "etw. genau besprechen"
+  },
+  {
+    "english": "to hash sth. over (Am, coll)",
+    "german": "etw. breittreten (ugs)"
+  },
+  {
+    "english": "hash algorithm (comp.)",
+    "german": "Hash-Algorithmus (m)"
+  },
+  {
+    "english": "hash browns (gastr.)",
+    "german": "Kartoffelpuffer (m)"
+  },
+  {
+    "english": "hash browns (gastr.)",
+    "german": "Rösti (schweiz, sg, pl)"
+  },
+  {
+    "english": "hash code (comp.)",
+    "german": "Hash-Code (m)"
+  },
+  {
+    "english": "hash cookie (drugs, gastr.)",
+    "german": "Haschkeks (m)"
+  },
+  {
+    "english": "hash function (comp.)",
+    "german": "Hash-Funktion (f)"
+  },
+  {
+    "english": "hash key (esp, Br)",
+    "german": "Rautetaste (z, B, Telefon, f)"
+  },
+  {
+    "english": "hash map \u003cHM\u003e (comp.)",
+    "german": "Hashtabelle \u003cHT\u003e (f)"
+  },
+  {
+    "english": "hash mark",
+    "german": "Rautensymbol (n)"
+  },
+  {
+    "english": "hash mark (mil., coll, US, military, service, stripe)",
+    "german": "Dienstzeitstreifen (auch, DienstzeitStreifen, m)"
+  },
+  {
+    "english": "hash mark (print, the, symbol, , coll)",
+    "german": "Nummernraute (Zeichen, f)"
+  },
+  {
+    "english": "hash oil",
+    "german": "Haschöl (n)"
+  },
+  {
+    "english": "hash search (comp.)",
+    "german": "Hash-Suche (f)"
+  },
+  {
+    "english": "hash smoker (drugs, coll)",
+    "german": "Hascher (ugs, veraltend, Haschischraucher, m)"
+  },
+  {
+    "english": "hash sum (comp.)",
+    "german": "Hash-Summe (Prfsumme, f)"
+  },
+  {
+    "english": "hash table \u003cHT\u003e (comp.)",
+    "german": "Hashtabelle \u003cHT\u003e (f)"
+  },
+  {
+    "english": "hash table \u003cHT\u003e (comp.)",
+    "german": "Streuwerttabelle (f)"
+  },
+  {
+    "english": "hash tag \u003c#\u003e (Internet)",
+    "german": "Hashtag \u003c#\u003e (n)"
+  },
+  {
+    "english": "hash total",
+    "german": "Prüfsumme (f)"
+  },
+  {
+    "english": "hash value (comp., cryptography)",
+    "german": "Hashwert (Kryptographie, m)"
+  },
+  {
+    "english": "Unverified vegetable hash (gastr.)",
+    "german": "Gemüsepuffer (m)"
+  },
+  {
+    "english": "to hash and rehash sth. (coll)",
+    "german": "etw. x-mal durchkauen (ugs)"
+  },
+  {
+    "english": "distributed hash table \u003cDHT\u003e (comp.)",
+    "german": "verteilte Hashtabelle \u003cVHT\u003e (f)"
+  },
+  {
+    "english": "distributed hash table \u003cDHT\u003e (comp.)",
+    "german": "verteilte Streuwerttabelle (f)"
+  },
+  {
+    "english": "hash browned potatoes (gastr., pl)",
+    "german": "Rösti (f)"
+  },
+  {
+    "english": "Swiss hash browns (gastr.)",
+    "german": "Rösti (ugs, im, Sinne, von, Rstitaler, Rstiecken, pl)"
+  },
+  {
+    "english": "Swiss hash browns (gastr., pl)",
+    "german": "Rösti (ugs, n, f)"
+  },
+  {
+    "english": "to make a hash of sth. (coll, idiom)",
+    "german": "etw.Akk. vermasseln (ugs)"
+  },
+  {
+    "english": "to make a hash of sth. (coll, idiom)",
+    "german": "etw.Akk. verpatzen (ugs)"
+  },
+  {
+    "english": "to make a hash of sth. (coll, idiom)",
+    "german": "etw.Akk. verpfuschen (ugs)"
+  },
+  {
+    "english": "to smoke weed / pot / grass / hash (drugs, sl)",
+    "german": "kiffen (ugs)"
+  },
+  {
+    "english": "hash-based message authentication code \u003cHMAC\u003e (comp.)",
+    "german": "Hash-Nachrichtenauthentifizierungscode (m)"
+  }
+]

@@ -1,0 +1,294 @@
+[
+  {
+    "english": "deduction",
+    "german": "Abrechnung (Abzug, f, 1300)"
+  },
+  {
+    "english": "deduction (inference)",
+    "german": "Ableitung (f, 937)"
+  },
+  {
+    "english": "deduction (inference)",
+    "german": "Schlussfolgerung (f, 788)"
+  },
+  {
+    "english": "deduction",
+    "german": "Abschlag (Abzug, Reduktion, m, 615)"
+  },
+  {
+    "english": "deduction (fin.)",
+    "german": "Abzug (v, Lohn, etc, m, 357)"
+  },
+  {
+    "english": "deduction (inference)",
+    "german": "Deduktion (f, 340)"
+  },
+  {
+    "english": "deduction (conclusion)",
+    "german": "Folgerung (f, 146)"
+  },
+  {
+    "english": "deduction (comm.)",
+    "german": "Nachlass (im, Preis, m, 121)"
+  },
+  {
+    "english": "deduction (comm.)",
+    "german": "Rabatt (m, 87)"
+  },
+  {
+    "english": "deduction",
+    "german": "Erlass (Rabatt, m, 71)"
+  },
+  {
+    "english": "deduction",
+    "german": "Kürzung (f, 49)"
+  },
+  {
+    "english": "deduction (inference)",
+    "german": "Schluss (Folgerung, m, 29)"
+  },
+  {
+    "english": "deduction",
+    "german": "Absetzung (f, 20)"
+  },
+  {
+    "english": "deduction",
+    "german": "Abstrich (m, 19)"
+  },
+  {
+    "english": "deduction",
+    "german": "Anrechnung (als, Abzug, f, 13)"
+  },
+  {
+    "english": "deduction (from, salary, etc)",
+    "german": "Einbehaltung (f, 11)"
+  },
+  {
+    "english": "without deduction (fin., adv)",
+    "german": "ohne Abzug"
+  },
+  {
+    "english": "(land) deduction",
+    "german": "Flächenabzug (m)"
+  },
+  {
+    "english": "allowable deduction",
+    "german": "Steuerfreibetrag (m)"
+  },
+  {
+    "english": "allowable deduction (fin.)",
+    "german": "zulässiger Abzug (m)"
+  },
+  {
+    "english": "coordination deduction (insur.)",
+    "german": "Koordinationsabzug (schweiz, m)"
+  },
+  {
+    "english": "deduction item",
+    "german": "abzuziehender Posten (m)"
+  },
+  {
+    "english": "deduction theorem (math.)",
+    "german": "Deduktionstheorem (n)"
+  },
+  {
+    "english": "itemized deduction (acc.)",
+    "german": "Einzelabzug (m)"
+  },
+  {
+    "english": "logical deduction (math., philos.)",
+    "german": "logisches Schließen (n)"
+  },
+  {
+    "english": "loss deduction",
+    "german": "Verlustabzug (m)"
+  },
+  {
+    "english": "marriage deduction (econ., law)",
+    "german": "Verheiratetenabzug (m)"
+  },
+  {
+    "english": "monthly deduction (fin.)",
+    "german": "monatlicher Abzug (m)"
+  },
+  {
+    "english": "payroll deduction",
+    "german": "Lohnabzug (m)"
+  },
+  {
+    "english": "points deduction (games, sports)",
+    "german": "Punktabzug (m)"
+  },
+  {
+    "english": "price deduction",
+    "german": "Preisermäßigung (f)"
+  },
+  {
+    "english": "price deduction",
+    "german": "Preisnachlass (m)"
+  },
+  {
+    "english": "salary deduction",
+    "german": "Gehaltsabzug (m)"
+  },
+  {
+    "english": "standard deduction (acc.)",
+    "german": "Pauschalabzug (m)"
+  },
+  {
+    "english": "standard deduction (US, income, tax)",
+    "german": "Pauschbetrag (m)"
+  },
+  {
+    "english": "tax deduction",
+    "german": "Steuerabzug (m)"
+  },
+  {
+    "english": "tax deduction (fin.)",
+    "german": "Steuernachlass (m)"
+  },
+  {
+    "english": "deduction for loss",
+    "german": "abzüglich Verluste"
+  },
+  {
+    "english": "without any deduction (comm., adv)",
+    "german": "ohne jeden Abzug"
+  },
+  {
+    "english": "to claim a deduction",
+    "german": "einen Abzug verlangen"
+  },
+  {
+    "english": "to draw a deduction",
+    "german": "einen deduktiven Schluss ziehen"
+  },
+  {
+    "english": "to make a deduction (inference)",
+    "german": "eine Schlussfolgerung ziehen"
+  },
+  {
+    "english": "automatic deduction plan (fin.)",
+    "german": "Dauersparauftrag (m)"
+  },
+  {
+    "english": "deduction at source",
+    "german": "Abzugspflicht (f)"
+  },
+  {
+    "english": "deduction at source",
+    "german": "Einbehaltung (f)"
+  },
+  {
+    "english": "deduction at source",
+    "german": "Vorwegabzug (m)"
+  },
+  {
+    "english": "deduction at source",
+    "german": "Abzug an der Quelle (m)"
+  },
+  {
+    "english": "deduction from salary",
+    "german": "Gehaltsabzug (m)"
+  },
+  {
+    "english": "deduction from wages",
+    "german": "Lohnabzug (m)"
+  },
+  {
+    "english": "deduction in advance (fin.)",
+    "german": "Vorabzug (m)"
+  },
+  {
+    "english": "deduction of discount (comm.)",
+    "german": "Abzug von Skonto (m)"
+  },
+  {
+    "english": "deduction of expenses (fin.)",
+    "german": "Abzug der Spesen (m)"
+  },
+  {
+    "english": "deduction of interest",
+    "german": "Zinsabzug (m)"
+  },
+  {
+    "english": "deduction of interest (fin.)",
+    "german": "Abzug von Zinsen (m)"
+  },
+  {
+    "english": "deduction of points / (eg, in, football, soccer)",
+    "german": "Punkteabzug (z, B, im, Fuball, m)"
+  },
+  {
+    "english": "deduction of points (spec., sports, esp, soccer)",
+    "german": "Abzug von Punkten (bes, Fuball, m)"
+  },
+  {
+    "english": "deduction of tax",
+    "german": "Steuerabzug (m)"
+  },
+  {
+    "english": "general marital deduction (fin.)",
+    "german": "Freibetrag des Ehegatten (m)"
+  },
+  {
+    "english": "income tax deduction (fin.)",
+    "german": "Lohnsteuerabzug (m)"
+  },
+  {
+    "english": "input tax deduction (fin.)",
+    "german": "Vorsteuerabzug (m)"
+  },
+  {
+    "english": "natural deduction calculus",
+    "german": "Kalkül des natürlichen Schließens \u003cKdnS\u003e (n)"
+  },
+  {
+    "english": "natural deduction systems",
+    "german": "Systeme des natürlichen Schließens (Logikkalkl, pl)"
+  },
+  {
+    "english": "power of deduction",
+    "german": "Kombinationsgabe (f)"
+  },
+  {
+    "english": "powers of deduction",
+    "german": "kombinatorische Fähigkeiten (pl)"
+  },
+  {
+    "english": "pre-tax deduction",
+    "german": "Vorsteuerabzug (m)"
+  },
+  {
+    "english": "tax deduction abroad (fin., sg)",
+    "german": "ausländische Steuerabzüge (pl)"
+  },
+  {
+    "english": "thrust deduction fraction (engin., phys.)",
+    "german": "Sogziffer (f)"
+  },
+  {
+    "english": "(tax) deduction at source (fin., Br)",
+    "german": "Quellensteuer (f)"
+  },
+  {
+    "english": "deduction from one\u0027s salary",
+    "german": "Gehaltsabzug (m)"
+  },
+  {
+    "english": "deduction from the price",
+    "german": "Preisnachlass (m)"
+  },
+  {
+    "english": "deduction of capital gains tax (fin.)",
+    "german": "Abzug der Kapitalertragssteuer (m)"
+  },
+  {
+    "english": "upper-bound deduction of interest (econ., fin., law)",
+    "german": "Zinsschranke (Zinsabzugsbeschrnkung, f)"
+  },
+  {
+    "english": "The Final Deduction (lit., F, Rex, Stout)",
+    "german": "Erstens kommt es anders"
+  }
+]

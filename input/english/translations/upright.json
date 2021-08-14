@@ -1,0 +1,202 @@
+[
+  {
+    "english": "upright (adj, adv)",
+    "german": "aufrecht (1331)"
+  },
+  {
+    "english": "upright (vertical, adj, adv)",
+    "german": "senkrecht (384)"
+  },
+  {
+    "english": "upright (honest, righteous, adj)",
+    "german": "redlich (aufrichtig, rechtschaffen, 95)"
+  },
+  {
+    "english": "upright (honourable, adj)",
+    "german": "ehrenwert (Person, 79)"
+  },
+  {
+    "english": "upright (on, end, adv)",
+    "german": "hochkant (69)"
+  },
+  {
+    "english": "upright (posture, adj)",
+    "german": "stramm (Haltung, 44)"
+  },
+  {
+    "english": "upright (honourable, honest, adj)",
+    "german": "brav (veraltend, rechtschaffen, 28)"
+  },
+  {
+    "english": "upright (person, character, adj)",
+    "german": "integer (26)"
+  },
+  {
+    "english": "upright (adj)",
+    "german": "bieder (veraltend, rechtschaffen, 24)"
+  },
+  {
+    "english": "upright (person, character, adj)",
+    "german": "rechtschaffen (veraltend, 21)"
+  },
+  {
+    "english": "upright (MedTech., photo., adv)",
+    "german": "hoch (Format, 18)"
+  },
+  {
+    "english": "upright (virtuous, honest, adj)",
+    "german": "wacker (veraltend, redlich, 10)"
+  },
+  {
+    "english": "upright (righteous, adj)",
+    "german": "gerecht (rechtschaffen, 9)"
+  },
+  {
+    "english": "upright (adj)",
+    "german": "aufstehend (5)"
+  },
+  {
+    "english": "upright (print, eg, nonitalic, adj)",
+    "german": "gerade (Buchstabe, Schrift, 5)"
+  },
+  {
+    "english": "upright (placed, in, a, vertical, position, adj)",
+    "german": "aufrecht stehend (Grabstein, etc)"
+  },
+  {
+    "english": "upright (strictly, honourable, or, honest, adj)",
+    "german": "fromm (veraltet, rechtschaffen)"
+  },
+  {
+    "english": "to upright sth.",
+    "german": "etw. aufrichten (10)"
+  },
+  {
+    "english": "upright (post)",
+    "german": "Pfosten (vertikal, gesetzter, m, 56)"
+  },
+  {
+    "english": "upright (constr.)",
+    "german": "Stütze (vertikale, Sttze, an, Bauwerk, f, 41)"
+  },
+  {
+    "english": "upright (equest.)",
+    "german": "Steilsprung (m, 16)"
+  },
+  {
+    "english": "upright (equest., show, jumping)",
+    "german": "Rick (Springreiten, n, 8)"
+  },
+  {
+    "english": "the upright (relig., pl)",
+    "german": "die Gerechten (pl)"
+  },
+  {
+    "english": "upright (mus., upright, piano)",
+    "german": "Pianino (n)"
+  },
+  {
+    "english": "bolt upright (adj, adv)",
+    "german": "bolzengerade (veraltend)"
+  },
+  {
+    "english": "bolt upright (adj)",
+    "german": "kerzengerade"
+  },
+  {
+    "english": "bolt-upright (adj)",
+    "german": "kerzengerade"
+  },
+  {
+    "english": "to keep sth. upright (transp., when, transported)",
+    "german": "etw. aufrecht lagern (whrend, des, Transports)"
+  },
+  {
+    "english": "to keep upright (during, transport)",
+    "german": "aufrecht transportieren"
+  },
+  {
+    "english": "to place sth. upright",
+    "german": "etw. aufrecht hinstellen"
+  },
+  {
+    "english": "to place sth. upright",
+    "german": "etw. aufrecht stellen"
+  },
+  {
+    "english": "to set upright",
+    "german": "aufrichten"
+  },
+  {
+    "english": "to stand upright",
+    "german": "aufrecht stehen"
+  },
+  {
+    "english": "to stand upright",
+    "german": "sichAkk. strammen (veraltend)"
+  },
+  {
+    "english": "to transport upright (transp.)",
+    "german": "aufrecht transportieren"
+  },
+  {
+    "english": "steel upright",
+    "german": "Stahlpfosten (Maschinenbau, m)"
+  },
+  {
+    "english": "steel upright (constr.)",
+    "german": "(vertikale) Stahlstütze (f)"
+  },
+  {
+    "english": "upright (harpsichord) (mus.)",
+    "german": "aufrechtes Cembalo (n)"
+  },
+  {
+    "english": "upright (piano) (mus.)",
+    "german": "Klavier (n)"
+  },
+  {
+    "english": "upright bag",
+    "german": "Standbeutel (m)"
+  },
+  {
+    "english": "upright bass (mus.)",
+    "german": "Kontrabass (m)"
+  },
+  {
+    "english": "upright carriage",
+    "german": "aufrechte Körperhaltung (f)"
+  },
+  {
+    "english": "upright carriage",
+    "german": "aufrechter Gang (m)"
+  },
+  {
+    "english": "upright citizen",
+    "german": "Biedermann (ehrenwerter, Brger, m)"
+  },
+  {
+    "english": "upright format (photo., print)",
+    "german": "Hochformat (n)"
+  },
+  {
+    "english": "upright freezer",
+    "german": "Gefrierschrank (m)"
+  },
+  {
+    "english": "upright gait (anat., zool.)",
+    "german": "aufrechter Gang (m)"
+  },
+  {
+    "english": "upright housing (tech.)",
+    "german": "Ständer (aufrecht, stehende, Maschine, m)"
+  },
+  {
+    "english": "Unverified upright jerker (hist., law)",
+    "german": "Falltür-Galgen (m)"
+  },
+  {
+    "english": "upright piano (mus.)",
+    "german": "Pianino (n)"
+  }
+]

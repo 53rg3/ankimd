@@ -1,0 +1,202 @@
+[
+  {
+    "english": "duct (anat.)",
+    "german": "Gang (m, 878)"
+  },
+  {
+    "english": "duct",
+    "german": "Kanal (m, 455)"
+  },
+  {
+    "english": "duct",
+    "german": "Rohr (n, 306)"
+  },
+  {
+    "english": "duct",
+    "german": "Schacht (m, 144)"
+  },
+  {
+    "english": "duct (tech.)",
+    "german": "Führung (f, 84)"
+  },
+  {
+    "english": "duct (constr.)",
+    "german": "Durchführung (f, 48)"
+  },
+  {
+    "english": "duct",
+    "german": "Röhre (f, 44)"
+  },
+  {
+    "english": "duct",
+    "german": "Kabelschacht (m, 36)"
+  },
+  {
+    "english": "duct",
+    "german": "Rohrleitung (f, 25)"
+  },
+  {
+    "english": "duct (anat.)",
+    "german": "Ductus (m, 12)"
+  },
+  {
+    "english": "duct",
+    "german": "Kanalrohr (n, 9)"
+  },
+  {
+    "english": "single-duct (tech., attr, adj)",
+    "german": "einzügig (z, B, Kanal, Rohr)"
+  },
+  {
+    "english": "to duct sth. through sth.",
+    "german": "etw. durch etw. durchleiten"
+  },
+  {
+    "english": "to duct sth. through sth.",
+    "german": "etw. durch etw. hindurchleiten"
+  },
+  {
+    "english": "to duct-tape (Am)",
+    "german": "mit Klebeband fesseln"
+  },
+  {
+    "english": "(ink) duct (print)",
+    "german": "Farbkasten (Druckmaschine, m)"
+  },
+  {
+    "english": "accessible duct (constr.)",
+    "german": "zugänglicher Schacht (m)"
+  },
+  {
+    "english": "acoustic duct (anat.)",
+    "german": "(äußerer) Gehörgang (m)"
+  },
+  {
+    "english": "aerothermodynamic duct",
+    "german": "Staustrahltriebwerk (n)"
+  },
+  {
+    "english": "air duct",
+    "german": "Lufteinlass (m)"
+  },
+  {
+    "english": "air duct",
+    "german": "Luftführung (f)"
+  },
+  {
+    "english": "air duct",
+    "german": "Luftkanal (m)"
+  },
+  {
+    "english": "air duct",
+    "german": "Luftlaufweg (m)"
+  },
+  {
+    "english": "air duct (tech.)",
+    "german": "Luftschacht (m)"
+  },
+  {
+    "english": "air duct",
+    "german": "Lüftungskanal (m)"
+  },
+  {
+    "english": "air duct",
+    "german": "Luft-Laufweg (m)"
+  },
+  {
+    "english": "alimentary duct (anat.)",
+    "german": "Milchbrustgang (m)"
+  },
+  {
+    "english": "alimentary duct (anat.)",
+    "german": "Verdauungskanal (m)"
+  },
+  {
+    "english": "atmospheric duct (meteo., telecom.)",
+    "german": "atmosphärische Leitschicht (f)"
+  },
+  {
+    "english": "bile duct (anat.)",
+    "german": "Gallengang (m)"
+  },
+  {
+    "english": "bile duct (anat.)",
+    "german": "Gallenweg (m)"
+  },
+  {
+    "english": "biliary duct (anat., rare, for, biliary, tract)",
+    "german": "Gallengang (m)"
+  },
+  {
+    "english": "branch duct (constr.)",
+    "german": "Abgangsschacht (abzweigend, m)"
+  },
+  {
+    "english": "bus duct (electr.)",
+    "german": "Leitungskanal (m)"
+  },
+  {
+    "english": "cable duct",
+    "german": "Kabelführung (f)"
+  },
+  {
+    "english": "cable duct (electr.)",
+    "german": "Kabelkanal (m)"
+  },
+  {
+    "english": "cable duct (electr.)",
+    "german": "Kabelrinne (Kabelkanal, f)"
+  },
+  {
+    "english": "cable duct",
+    "german": "Kabelschacht (m)"
+  },
+  {
+    "english": "chilliferous duct",
+    "german": "Milchbrustgang (m)"
+  },
+  {
+    "english": "cochlear duct (anat., audio, VetMed., Ductus, cochlearis, Scala, media)",
+    "german": "Schneckengang (m)"
+  },
+  {
+    "english": "cochlear duct (anat., audio, VetMed., Scala, media, Ducutus, cochlearis)",
+    "german": "mittlere Treppe (auch, Scala, media, od, Ductus, cochlearis, f)"
+  },
+  {
+    "english": "coolant duct",
+    "german": "Kühlkanal (z, B, in, Zylinderkopf, m)"
+  },
+  {
+    "english": "coolant duct",
+    "german": "Kühlwasserkanal (Maschinenbau, Motortechnik, m)"
+  },
+  {
+    "english": "coolant duct",
+    "german": "Wasserkanal (z, B, in, Zylinderkopf, m)"
+  },
+  {
+    "english": "cooling duct",
+    "german": "Kühlkanal (m)"
+  },
+  {
+    "english": "corner duct",
+    "german": "Eckkanal (m)"
+  },
+  {
+    "english": "cystic duct",
+    "german": "Gallenblasengang (m)"
+  },
+  {
+    "english": "deferent duct",
+    "german": "Ausführungsgang (m)"
+  },
+  {
+    "english": "deferent duct (anat., Vas, deferens, Ductus, deferens)",
+    "german": "Samenleiter (m)"
+  },
+  {
+    "english": "duct builder (jobs, female, sewage, systems, etc)",
+    "german": "Kanalbauerin (Abwassersysteme, etc, f)"
+  }
+]

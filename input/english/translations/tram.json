@@ -1,0 +1,270 @@
+[
+  {
+    "english": "tram (traffic, Br)",
+    "german": "Straßenbahn (f, 952)"
+  },
+  {
+    "english": "tram (transp., Br, tramcar)",
+    "german": "Straßenbahnwagen (m, 146)"
+  },
+  {
+    "english": "tram (mining)",
+    "german": "Hunt (m, 53)"
+  },
+  {
+    "english": "tram (traffic, transp., esp, Br)",
+    "german": "Tram (schweiz, n, sterr, sdd, kurz, fr, Trambahn, Tramway, f, 50)"
+  },
+  {
+    "english": "tram (rail, urban, esp, Br)",
+    "german": "Bahn (Straenbahn, f, 31)"
+  },
+  {
+    "english": "tram (traffic, urban, Br)",
+    "german": "Tramway (sterr, f, 29)"
+  },
+  {
+    "english": "tram (transp., Br)",
+    "german": "Bim (sterr, ugs, f, 10)"
+  },
+  {
+    "english": "Unverified balk (constr., Am)",
+    "german": "Tram (sterr, m)"
+  },
+  {
+    "english": "Unverified baulk (constr., Br)",
+    "german": "Tram (sterr, m)"
+  },
+  {
+    "english": "tram (mining)",
+    "german": "Grubenhunt (m)"
+  },
+  {
+    "english": "tram (traffic, Br)",
+    "german": "Elektrische (ugs, veraltend, f)"
+  },
+  {
+    "english": "tram (transp., cable, car)",
+    "german": "Seilbahn (f)"
+  },
+  {
+    "english": "tram-like (adj)",
+    "german": "straßenbahnartig"
+  },
+  {
+    "english": "electric tram (traffic)",
+    "german": "Elektrische (ugs, veraltend, f)"
+  },
+  {
+    "english": "electric tram (traffic)",
+    "german": "Straßenbahn (f)"
+  },
+  {
+    "english": "goods tram (transp.)",
+    "german": "Güterstraßenbahn (f)"
+  },
+  {
+    "english": "horse tram (hist., transp., Br)",
+    "german": "Pferdestraßenbahn (f)"
+  },
+  {
+    "english": "horse tram (hist., traffic, esp, Br)",
+    "german": "Pferdestraßenbahnwagen (m)"
+  },
+  {
+    "english": "motor tram (transp.)",
+    "german": "Triebwagen (m)"
+  },
+  {
+    "english": "tram accident",
+    "german": "Straßenbahnunfall (m)"
+  },
+  {
+    "english": "tram conductor (transp., Br)",
+    "german": "Straßenbahnschaffner (m)"
+  },
+  {
+    "english": "tram conductor (jobs, transp., Br)",
+    "german": "Trambahnschaffner (sdd, m)"
+  },
+  {
+    "english": "tram conductress (transp., Br)",
+    "german": "Straßenbahnschaffnerin (f)"
+  },
+  {
+    "english": "tram depot (transp.)",
+    "german": "Straßenbahndepot (n)"
+  },
+  {
+    "english": "tram depot (transp., Br)",
+    "german": "Remise (sterr, schweiz, Straenbahndepot, f)"
+  },
+  {
+    "english": "tram depot (transp., Br)",
+    "german": "Tramdepot (n)"
+  },
+  {
+    "english": "tram driver (jobs, transp., Br)",
+    "german": "Straßenbahnfahrer (Fhrer, m)"
+  },
+  {
+    "english": "tram driver (jobs, transp., Br)",
+    "german": "Straßenbahnführer (m)"
+  },
+  {
+    "english": "tram line (transp., Br)",
+    "german": "Straßenbahnlinie (f)"
+  },
+  {
+    "english": "tram line (transp., Br)",
+    "german": "Straßenbahnstrecke (f)"
+  },
+  {
+    "english": "tram lines (traffic, rails)",
+    "german": "Straßenbahnschienen (pl)"
+  },
+  {
+    "english": "tram link (transp.)",
+    "german": "Straßenbahnverbindung (f)"
+  },
+  {
+    "english": "tram museum",
+    "german": "Straßenbahnmuseum (n)"
+  },
+  {
+    "english": "tram network (transp., Br)",
+    "german": "Straßenbahnnetz (n)"
+  },
+  {
+    "english": "tram passenger (transp., Br)",
+    "german": "Straßenbahnfahrer (Benutzer, m)"
+  },
+  {
+    "english": "tram rails (transp., Br)",
+    "german": "Straßenbahnschienen (pl)"
+  },
+  {
+    "english": "tram route (transp.)",
+    "german": "Tramlinie (sdd, schweiz, f)"
+  },
+  {
+    "english": "tram route (transp., Br)",
+    "german": "Straßenbahnlinie (f)"
+  },
+  {
+    "english": "tram shed (transp.)",
+    "german": "Straßenbahndepot (n)"
+  },
+  {
+    "english": "tram shed (rail)",
+    "german": "Wagenhalle (Depot, f)"
+  },
+  {
+    "english": "tram shelter (traffic, urban)",
+    "german": "Wartehäuschen (fr, Fahrgste, der, Straenbahn, n)"
+  },
+  {
+    "english": "tram station (transp., Br)",
+    "german": "Straßenbahnhaltestelle (f)"
+  },
+  {
+    "english": "tram station (traffic, Br)",
+    "german": "Straßenbahnstation (f)"
+  },
+  {
+    "english": "tram stop (transp.)",
+    "german": "Straßenbahnhaltestelle (f)"
+  },
+  {
+    "english": "tram stop (transp.)",
+    "german": "Tramhaltestelle (meist, schweiz, f)"
+  },
+  {
+    "english": "tram stop (hist., traffic, Br)",
+    "german": "Stadtbahnhaltestelle (f)"
+  },
+  {
+    "english": "tram system (traffic, Br)",
+    "german": "Straßenbahn (f)"
+  },
+  {
+    "english": "tram ticket (transp., esp, Br)",
+    "german": "Straßenbahnfahrkarte (f)"
+  },
+  {
+    "english": "tram tracks (transp., Br)",
+    "german": "Straßenbahngleise (pl)"
+  },
+  {
+    "english": "tram tracks (transp., Br)",
+    "german": "Straßenbahnschienen (pl)"
+  },
+  {
+    "english": "tram tracks (traffic, Br)",
+    "german": "Tramgeleise (schweiz, pl)"
+  },
+  {
+    "english": "tram tunnel (rail, Br)",
+    "german": "S-Bahn-Tunnel (m)"
+  },
+  {
+    "english": "tram wire (traffic)",
+    "german": "Oberleitung (f)"
+  },
+  {
+    "english": "tram-train (transp.)",
+    "german": "Straßenbahnzug (m)"
+  },
+  {
+    "english": "tram-train (rail, Br)",
+    "german": "Straßenbahnfahrzeug (TramTrain, n)"
+  },
+  {
+    "english": "double-deck tram (transp.)",
+    "german": "Doppeldecker-Straßenbahn (f)"
+  },
+  {
+    "english": "double-decker tram (transp.)",
+    "german": "Doppeldecker-Straßenbahn (f)"
+  },
+  {
+    "english": "low-floor tram (transp.)",
+    "german": "Niederflurstraßenbahn (f)"
+  },
+  {
+    "english": "low-floor tram (transp.)",
+    "german": "Niederflurtram (schweiz, n, f)"
+  },
+  {
+    "english": "low-floor tram (transp.)",
+    "german": "Niederflur-Straßenbahn (f)"
+  },
+  {
+    "english": "tram stop shelter (transp.)",
+    "german": "Haltestellenhäuschen (Straenbahn, n)"
+  },
+  {
+    "english": "tram with trailer (transp.)",
+    "german": "Hängerzug (m)"
+  },
+  {
+    "english": "construction of tram lines (ind., tech., traffic)",
+    "german": "Straßenbahnbau (Bau, von, Straenbahnlinien, m)"
+  },
+  {
+    "english": "horse-drawn tram network (hist., rail, esp, Br)",
+    "german": "Pferdebahnnetz (n)"
+  },
+  {
+    "english": "ultra low floor tram \u003cULF tram\u003e (tech., traffic, Vienna)",
+    "german": "ULF (Niedrigstflur, NiederflurStraenbahnfahrzeug, Wien, m)"
+  },
+  {
+    "english": "last tram (of the night) (transp.)",
+    "german": "Lumpensammler (ugs, fig, letzte, Straenbahn, m)"
+  },
+  {
+    "english": "On the Tram (lit., F)",
+    "german": "Der Fahrgast (Franz, Kafka)"
+  }
+]

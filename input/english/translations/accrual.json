@@ -1,0 +1,262 @@
+[
+  {
+    "english": "accrual (acc.)",
+    "german": "Rückstellung (Betriebswirtschaft, f, 388)"
+  },
+  {
+    "english": "accrual (fin.)",
+    "german": "Rechnungsabgrenzungsposten (m, 90)"
+  },
+  {
+    "english": "accrual (fin.)",
+    "german": "Auflaufen (Zinsen, n, 81)"
+  },
+  {
+    "english": "accrual",
+    "german": "Zuwachs (m, 66)"
+  },
+  {
+    "english": "accrual (fin.)",
+    "german": "Anfall (Dividende, Erbschaft, m, 48)"
+  },
+  {
+    "english": "accrual",
+    "german": "Anhäufung (f, 33)"
+  },
+  {
+    "english": "accrual",
+    "german": "Zugewinn (m, 32)"
+  },
+  {
+    "english": "accrual",
+    "german": "Zugang (m, 21)"
+  },
+  {
+    "english": "accrual",
+    "german": "Anwachsen (n, 19)"
+  },
+  {
+    "english": "accrual",
+    "german": "Entstehung (Anspruch, f, 19)"
+  },
+  {
+    "english": "accrual (acc.)",
+    "german": "Hinzukommen (n, 14)"
+  },
+  {
+    "english": "accrual",
+    "german": "Stau (m, 11)"
+  },
+  {
+    "english": "accrual (fin.)",
+    "german": "aufgelaufener Betrag (m)"
+  },
+  {
+    "english": "accrual account",
+    "german": "Abgrenzungskonto (n)"
+  },
+  {
+    "english": "accrual accounting",
+    "german": "Fälligkeitsbuchführung (f)"
+  },
+  {
+    "english": "accrual accounting (acc.)",
+    "german": "Periodenrechnung (f)"
+  },
+  {
+    "english": "accrual accounting (acc.)",
+    "german": "periodengerechte Abgrenzung (Rechnungsabgrenzung, f)"
+  },
+  {
+    "english": "accrual date",
+    "german": "Abgrenzungsdatum (n)"
+  },
+  {
+    "english": "accrual date",
+    "german": "Fälligkeitstag (m)"
+  },
+  {
+    "english": "accrual method (acc.)",
+    "german": "Periodenrechnung (f)"
+  },
+  {
+    "english": "accrual posting",
+    "german": "Abgrenzungsbuchung (f)"
+  },
+  {
+    "english": "accrual rate",
+    "german": "Wachstumsrate (f)"
+  },
+  {
+    "english": "accrual work",
+    "german": "Fortschreibung (f)"
+  },
+  {
+    "english": "annual accrual",
+    "german": "jährlicher Zugewinn (m)"
+  },
+  {
+    "english": "accrual of costs (sg)",
+    "german": "aufgelaufene Kosten (pl)"
+  },
+  {
+    "english": "accrual of interest (fin., sg)",
+    "german": "aufgelaufene Zinsen (pl)"
+  },
+  {
+    "english": "accrual and deferral",
+    "german": "Rechnungsabgrenzung (f)"
+  },
+  {
+    "english": "accrual for pensions",
+    "german": "Pensionsrückstellung (f)"
+  },
+  {
+    "english": "accrual of capital",
+    "german": "Kapitalzufluss (m)"
+  },
+  {
+    "english": "accrual of capital",
+    "german": "Kapitalzufuhr (f)"
+  },
+  {
+    "english": "accrual of claims",
+    "german": "Zunahme der Forderungen (f)"
+  },
+  {
+    "english": "accrual of costs",
+    "german": "Anfall der Kosten (m)"
+  },
+  {
+    "english": "accrual of costs",
+    "german": "Zunahme der Kosten (f)"
+  },
+  {
+    "english": "accrual of debt (fin.)",
+    "german": "entstandene Verbindlichkeit (f)"
+  },
+  {
+    "english": "accrual of dividends",
+    "german": "Dividendenanfall (m)"
+  },
+  {
+    "english": "accrual of dividends",
+    "german": "Anfall von Dividenden (m)"
+  },
+  {
+    "english": "accrual of funds",
+    "german": "Anhäufen von Geldern (n)"
+  },
+  {
+    "english": "accrual of funds",
+    "german": "Zufluss an Mitteln (m)"
+  },
+  {
+    "english": "accrual of income",
+    "german": "Anwachsen des Einkommens (n)"
+  },
+  {
+    "english": "accrual of interest (fin.)",
+    "german": "Ansammlung von Zinsen (f)"
+  },
+  {
+    "english": "accrual of interest (fin.)",
+    "german": "Auflaufen der Zinsen (n)"
+  },
+  {
+    "english": "accrual of interests (fin.)",
+    "german": "Auflaufen von Zinsen (n)"
+  },
+  {
+    "english": "accrual of means",
+    "german": "Zufluss an Mitteln (m)"
+  },
+  {
+    "english": "accrual of obligation",
+    "german": "Zunahme der Verpflichtung (f)"
+  },
+  {
+    "english": "accrual of profit",
+    "german": "Gewinnzugang (m)"
+  },
+  {
+    "english": "accrual of profit",
+    "german": "aufgelaufener Ertrag (m)"
+  },
+  {
+    "english": "accrual of profit",
+    "german": "Entstehung von Gewinn (f)"
+  },
+  {
+    "english": "accrual of savings",
+    "german": "Sparzugang (m)"
+  },
+  {
+    "english": "accrual-based accounting \u003cABAC\u003e (acc.)",
+    "german": "periodengerechte Buchführung (f)"
+  },
+  {
+    "english": "accrual-type securities",
+    "german": "wachsende Wertpapiere (pl)"
+  },
+  {
+    "english": "foreign exchange accrual",
+    "german": "Devisenzugänge (pl)"
+  },
+  {
+    "english": "uniform accrual rate",
+    "german": "einheitliche Wachstumsrate (f)"
+  },
+  {
+    "english": "on an accrual basis (acc., fin., adv)",
+    "german": "periodengerecht"
+  },
+  {
+    "english": "accrual (of pension rights)",
+    "german": "Erwerb von Rentenanwartschaften (m)"
+  },
+  {
+    "english": "accrual of a claim",
+    "german": "Entstehung eines Anspruchs (f)"
+  },
+  {
+    "english": "accrual of an inheritance (law)",
+    "german": "Erbschaftsanfall (m)"
+  },
+  {
+    "english": "accrual of an inheritance",
+    "german": "Anfall einer Erbschaft (m)"
+  },
+  {
+    "english": "accrual of foreign currency (fin.)",
+    "german": "Zufluss an Devisen (m)"
+  },
+  {
+    "english": "accrual of foreign exchange",
+    "german": "Zugang an Devisen (m)"
+  },
+  {
+    "english": "accrual of personal income",
+    "german": "Entstehung eines persönlichen Einkommens (f)"
+  },
+  {
+    "english": "accrual of the inheritance (law)",
+    "german": "Erbfall (m)"
+  },
+  {
+    "english": "steady accrual of details",
+    "german": "ständige Fortschreibung der Einzelheiten (f)"
+  },
+  {
+    "english": "tax accrual and deferral",
+    "german": "Steuerabgrenzung (f)"
+  },
+  {
+    "english": "accrual rate of a fund",
+    "german": "Wachstumsrate eines Fonds (f)"
+  },
+  {
+    "english": "accrual rate of a pension scheme",
+    "german": "Wachstumsrate eines Pensionsplanes (f)"
+  }
+]

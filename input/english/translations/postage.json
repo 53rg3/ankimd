@@ -1,0 +1,258 @@
+[
+  {
+    "english": "postage",
+    "german": "Porto (n, 1132)"
+  },
+  {
+    "english": "postage",
+    "german": "Postgebühr (f, 37)"
+  },
+  {
+    "english": "postage",
+    "german": "Frankatur (f, 33)"
+  },
+  {
+    "english": "postage",
+    "german": "Beförderungskosten (pl, 7)"
+  },
+  {
+    "english": "postage (sg)",
+    "german": "Porti (Portokosten, Portos, pl)"
+  },
+  {
+    "english": "postage free (adj)",
+    "german": "portofrei"
+  },
+  {
+    "english": "postage paid (adj)",
+    "german": "portofrei"
+  },
+  {
+    "english": "postage paid",
+    "german": "Entgelt bezahlt / (auf, Brief, Paket)"
+  },
+  {
+    "english": "postage paid",
+    "german": "Gebühr bezahlt (Post)"
+  },
+  {
+    "english": "postage paid",
+    "german": "Porto bezahlt"
+  },
+  {
+    "english": "postage-free (adj)",
+    "german": "franko"
+  },
+  {
+    "english": "postage-free (adj)",
+    "german": "versandkostenfrei"
+  },
+  {
+    "english": "additional postage",
+    "german": "zusätzliches Porto (n)"
+  },
+  {
+    "english": "additional postage (philat., supplemental, stamps, for, oversize, or, overweight, items, sg)",
+    "german": "Ergänzungsmarken (pl)"
+  },
+  {
+    "english": "domestic postage",
+    "german": "Inlandsporto (n)"
+  },
+  {
+    "english": "excess postage",
+    "german": "Nachgebühr (f)"
+  },
+  {
+    "english": "foreign postage",
+    "german": "Auslandsporto (n)"
+  },
+  {
+    "english": "insufficient postage",
+    "german": "unzureichendes Porto (n)"
+  },
+  {
+    "english": "postage due",
+    "german": "Einziehungsentgelt (Nachgebhr, Post, n)"
+  },
+  {
+    "english": "postage due",
+    "german": "Nachentgelt (Post, n)"
+  },
+  {
+    "english": "postage due",
+    "german": "Nachgebühr (ugs, Nachentgelt, Einziehungsentgelt, Post, f)"
+  },
+  {
+    "english": "postage due",
+    "german": "Nachporto (n)"
+  },
+  {
+    "english": "postage due",
+    "german": "Strafporto (n)"
+  },
+  {
+    "english": "postage expenses",
+    "german": "Portoauslagen (pl)"
+  },
+  {
+    "english": "postage expenses",
+    "german": "Portospesen (pl)"
+  },
+  {
+    "english": "postage meter (Am)",
+    "german": "Frankiermaschine (f)"
+  },
+  {
+    "english": "postage meter (Am)",
+    "german": "Freistempler (die, Maschine, m)"
+  },
+  {
+    "english": "postage payable",
+    "german": "zu zahlendes Porto (n)"
+  },
+  {
+    "english": "postage prepaid",
+    "german": "Porto im Voraus bezahlt (n)"
+  },
+  {
+    "english": "postage rate",
+    "german": "Portosatz (m)"
+  },
+  {
+    "english": "postage rate",
+    "german": "Portotarif (m)"
+  },
+  {
+    "english": "postage stamp",
+    "german": "Briefmarke (f)"
+  },
+  {
+    "english": "postage stamp \u003cPS, PSP\u003e",
+    "german": "Postwertzeichen \u003cPWZ\u003e (n)"
+  },
+  {
+    "english": "postage stamps",
+    "german": "Briefmarken (pl)"
+  },
+  {
+    "english": "return postage",
+    "german": "Rückporto (n)"
+  },
+  {
+    "english": "(postage) stamp booklet (philat.)",
+    "german": "Postfreimarken-Heftchen (veraltet, Briefmarkenheft, Markenheftchen, n)"
+  },
+  {
+    "english": "liable to postage (postpos, adj)",
+    "german": "portopflichtig"
+  },
+  {
+    "english": "no postage payable",
+    "german": "kein Porto zu zahlen"
+  },
+  {
+    "english": "valid for postage (adj)",
+    "german": "frankaturgültig"
+  },
+  {
+    "english": "(postage) stamp booklet (philat.)",
+    "german": "Briefmarkenheftchen (n)"
+  },
+  {
+    "english": "(postage) stamp booklet (philat.)",
+    "german": "Freimarkenheftchen (veraltet, Briefmarkenheft, Markenheftchen, n)"
+  },
+  {
+    "english": "(postage) stamp booklet (philat.)",
+    "german": "Postwertzeichen-Heftchen (auch, Postwertzeichenheftchen, veraltet, n)"
+  },
+  {
+    "english": "postage and packing",
+    "german": "Versandkosten (pl)"
+  },
+  {
+    "english": "postage and packing \u003cP\u0026P\u003e",
+    "german": "Porto und Verpackung"
+  },
+  {
+    "english": "postage due stamp (philat.)",
+    "german": "Nachportomarke (f)"
+  },
+  {
+    "english": "postage due stamp (philat.)",
+    "german": "Portomarke (f)"
+  },
+  {
+    "english": "postage for letters",
+    "german": "Briefporto (n)"
+  },
+  {
+    "english": "postage stamp booklet (philat.)",
+    "german": "Markenheftchen \u003cMH\u003e (n)"
+  },
+  {
+    "english": "postage stamp museum (hist., philat.)",
+    "german": "Briefmarkenmuseum (n)"
+  },
+  {
+    "english": "postage stamp separation (philat.)",
+    "german": "Briefmarkentrennung (f)"
+  },
+  {
+    "english": "postage-due stamp",
+    "german": "Nachgebührstempel (Post, m)"
+  },
+  {
+    "english": "postage-paid envelope",
+    "german": "Freiumschlag (m)"
+  },
+  {
+    "english": "reduction of postage",
+    "german": "Ermäßigung der Portogebühren (f)"
+  },
+  {
+    "english": "the exact postage",
+    "german": "das genaue Porto (n)"
+  },
+  {
+    "english": "postage paid by receiver",
+    "german": "Porto zahlt Empfänger"
+  },
+  {
+    "english": "subject to postage (charge) (postpos, adj)",
+    "german": "portopflichtig"
+  },
+  {
+    "english": "forgery of postage stamps",
+    "german": "Wertzeichenfälschung (Briefmarke, f)"
+  },
+  {
+    "english": "postage payable by addressee",
+    "german": "Porto zahlbar vom Empfänger (n)"
+  },
+  {
+    "english": "series of postage stamps (philat.)",
+    "german": "Briefmarkenserie (f)"
+  },
+  {
+    "english": "sheet of postage stamps (philat.)",
+    "german": "Bogen Briefmarken (m)"
+  },
+  {
+    "english": "by registered mail, return receipt requested, postage prepaid",
+    "german": "per frankiertem eingeschriebenen Brief mit Rückschein"
+  },
+  {
+    "english": "Postage will be paid by addressee",
+    "german": "Entgelt zahlt Empfänger"
+  },
+  {
+    "english": "Postage will be paid by addressee",
+    "german": "Gebühr zahlt Empfänger"
+  },
+  {
+    "english": "Postage will be paid by addressee",
+    "german": "Porto zahlt Empfänger"
+  }
+]

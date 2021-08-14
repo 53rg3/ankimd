@@ -1,0 +1,122 @@
+[
+  {
+    "english": "enrollment (Am)",
+    "german": "Einschreibung (f, 307)"
+  },
+  {
+    "english": "enrollment (Am)",
+    "german": "Immatrikulation (f, 304)"
+  },
+  {
+    "english": "enrollment (Am)",
+    "german": "Anmeldung (z, B, zu, einem, Kurs, f, 167)"
+  },
+  {
+    "english": "enrollment (Am)",
+    "german": "Eintragung (f, 122)"
+  },
+  {
+    "english": "enrollment (Am)",
+    "german": "Aufnahme (in, Liste, Register, f, 100)"
+  },
+  {
+    "english": "enrollment (Am)",
+    "german": "Einschulung (f, 97)"
+  },
+  {
+    "english": "enrollment (Am)",
+    "german": "Anwerbung (f, 17)"
+  },
+  {
+    "english": "enrollment (Am)",
+    "german": "Schulanfang (m, 12)"
+  },
+  {
+    "english": "enrollment (educ., Am)",
+    "german": "Inskription (sterr, f, 10)"
+  },
+  {
+    "english": "enrollment (med., spec., Am, eg, for, clinical, trials)",
+    "german": "Rekrutierung (z, B, fr, klinische, Studie, f)"
+  },
+  {
+    "english": "annual enrollment (Am)",
+    "german": "jährliche Einschreibung (f)"
+  },
+  {
+    "english": "enrollment ceremony (educ., Am, for, new, students, in, their, first, year)",
+    "german": "Einschulungsfeier (f)"
+  },
+  {
+    "english": "enrollment certification (educ., Am)",
+    "german": "Studienbescheinigung (f)"
+  },
+  {
+    "english": "enrollment declaration (Am)",
+    "german": "Beitrittserklärung (f)"
+  },
+  {
+    "english": "enrollment documentation (Am)",
+    "german": "Schulbescheinigung (f)"
+  },
+  {
+    "english": "enrollment documents (acad., admin., Am)",
+    "german": "Immatrikulationsunterlagen (pl)"
+  },
+  {
+    "english": "enrollment fee (educ., Am)",
+    "german": "Aufnahmegebühr (fr, Schule, Studium, oder, Kursus, f)"
+  },
+  {
+    "english": "enrollment fee (educ., Am)",
+    "german": "Einschreibegebühr (Schule, Kurse, f)"
+  },
+  {
+    "english": "enrollment fee (educ., Am)",
+    "german": "Einschreibgebühr (Schule, Kurse, f)"
+  },
+  {
+    "english": "enrollment fee (educ., Am)",
+    "german": "Immatrikulationsgebühr (Universitt, f)"
+  },
+  {
+    "english": "enrollment form",
+    "german": "Aufnahmeschein (m)"
+  },
+  {
+    "english": "enrollment procedure (educ.)",
+    "german": "Anmeldeverfahren (n)"
+  },
+  {
+    "english": "open enrollment (law, med., Am)",
+    "german": "freie Kassenwahl (Krankenkasse, f)"
+  },
+  {
+    "english": "school enrollment (educ., Am)",
+    "german": "Einschulung (f)"
+  },
+  {
+    "english": "school enrollment (educ., stat., Am)",
+    "german": "Schulbesuch % (hoher, niedriger, etc, nicht, aber, regelmiger, etc, oft, in, eines, Jahrgangs, angegeben, m)"
+  },
+  {
+    "english": "certificate of enrollment (educ., Am)",
+    "german": "Immatrikulationsbescheinigung (f)"
+  },
+  {
+    "english": "confirmation of enrollment (educ., Am, Br, confirmation, of, enrolment)",
+    "german": "Inskriptionsbestätigung (sterr, Immatrikulationsbescheinigung, f)"
+  },
+  {
+    "english": "declaration of enrollment (Am)",
+    "german": "Beitrittserklärung (f)"
+  },
+  {
+    "english": "evidence of enrollment (admin., educ., Am)",
+    "german": "Schulbescheinigung (f)"
+  },
+  {
+    "english": "Office of Enrollment and Discipline \u003cOED\u003e (admin., law, Am)",
+    "german": " (Einschreibe, und, Disziplinarstelle, fr, die, Zulassung, von, Patentanwlten, im, USPatentamt)"
+  }
+]

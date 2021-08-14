@@ -1,0 +1,138 @@
+[
+  {
+    "english": "testis (anat.)",
+    "german": "Orchis (Hode, m, 11)"
+  },
+  {
+    "english": "abdominal testis (med.)",
+    "german": "Abdominalhoden (m)"
+  },
+  {
+    "english": "abdominal testis (med.)",
+    "german": "Bauchhoden (m)"
+  },
+  {
+    "english": "appendix testis (anat.)",
+    "german": "Hodenanhängsel (n)"
+  },
+  {
+    "english": "appendix testis (anat.)",
+    "german": "Morgagni-Hydatide (f)"
+  },
+  {
+    "english": "descended testis (med.)",
+    "german": "abgestiegener Hoden (m)"
+  },
+  {
+    "english": "descended testis (med., ICD10)",
+    "german": "deszendierter Hoden (ICD10, m)"
+  },
+  {
+    "english": "displaced testis (med.)",
+    "german": "dislozierter Hoden (m)"
+  },
+  {
+    "english": "displaced testis (med.)",
+    "german": "fehlplatzierter Hoden (m)"
+  },
+  {
+    "english": "dystopic testis (med., less, frequent, than, undescended, testis)",
+    "german": "dystoper Hoden (m)"
+  },
+  {
+    "english": "ectopic testis (med., Ectopia, testis)",
+    "german": "Hodenektopie (f)"
+  },
+  {
+    "english": "gubernaculum testis (anat.)",
+    "german": "Hunter-Band (n)"
+  },
+  {
+    "english": "hydrocele testis (med.)",
+    "german": "Hodenwasserbruch (m)"
+  },
+  {
+    "english": "inguinal testis (anat., Testis, inguinalis)",
+    "german": "Leistenhoden (m)"
+  },
+  {
+    "english": "mediastinum testis (anat.)",
+    "german": "Mediastinum testis (n)"
+  },
+  {
+    "english": "retained testis (med., Retentio, testis)",
+    "german": "Hodenhochstand (ein, oder, beidseitig, m)"
+  },
+  {
+    "english": "rete testis (anat., biol.)",
+    "german": "Rete testis (n)"
+  },
+  {
+    "english": "retractile testis (med.)",
+    "german": "Pendelhoden (m)"
+  },
+  {
+    "english": "retractile testis / (med., Testis, Orchis, mobis)",
+    "german": "Gleithoden (m)"
+  },
+  {
+    "english": "testicular hydrocele (med., Hydrocele, testis)",
+    "german": "Hydrocele testis (f)"
+  },
+  {
+    "english": "testis cancer (med.)",
+    "german": "Hodenkrebs (m)"
+  },
+  {
+    "english": "testis cancer \u003ctestis ca, testis CA\u003e (med.)",
+    "german": "Hodencarcinom \u003cHoden-Ca., Hoden-Ca, Hoden-CA\u003e (Rsv, n)"
+  },
+  {
+    "english": "undescended testis (med.)",
+    "german": "Hodendystopie (f)"
+  },
+  {
+    "english": "undescended testis (med.)",
+    "german": "nicht abgestiegener Hoden (m)"
+  },
+  {
+    "english": "undescended testis (med.)",
+    "german": "nicht deszendierter Hoden (m)"
+  },
+  {
+    "english": "undescended testis (med., ICD10)",
+    "german": "dystoper Hoden (ICD10, m)"
+  },
+  {
+    "english": "undescended testis \u003cUDT\u003e (med.)",
+    "german": "Hodenhochstand (m)"
+  },
+  {
+    "english": "wandering testis (med.)",
+    "german": "Wanderhoden (m)"
+  },
+  {
+    "english": "descent of the testis (med., Descensus, testis)",
+    "german": "Hodenabstieg (m)"
+  },
+  {
+    "english": "dislocation of the testis (med.)",
+    "german": "Hodenektopie (f)"
+  },
+  {
+    "english": "inflammation of a testis (med.)",
+    "german": "Hodenentzündung (f)"
+  },
+  {
+    "english": "maldescent of the testis (med., Maldescensus, testis)",
+    "german": "gestörter Hodenabstieg (m)"
+  },
+  {
+    "english": "tunica albuginea of testis (anat., biol., Tunica, albuginea, testis)",
+    "german": "Tunica albuginea der Hoden (f)"
+  },
+  {
+    "english": "tunica vaginalis (of the testis) (med., Tunica, vaginalis, testis)",
+    "german": "Scheidenhaut des Hodens (f)"
+  }
+]

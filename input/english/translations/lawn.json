@@ -1,0 +1,202 @@
+[
+  {
+    "english": "lawn (attr, eg, care, fertilizer, sprinkler, tennis, adj)",
+    "german": "Rasen- (z, B, Pflege, Dnger, Sprenger, Tennis, 29)"
+  },
+  {
+    "english": "lawn (hort.)",
+    "german": "Rasen (m, 2805)"
+  },
+  {
+    "english": "lawn",
+    "german": "Rasenfläche (f, 207)"
+  },
+  {
+    "english": "lawn",
+    "german": "Rasenplatz (m, 136)"
+  },
+  {
+    "english": "lawn (TrVocab., for, sunbathing)",
+    "german": "Liegewiese (f, 99)"
+  },
+  {
+    "english": "lawn",
+    "german": "Grasplatz (mit, Gras, bewachsener, Platz, m, 33)"
+  },
+  {
+    "english": "lawn (for., archaic, glade)",
+    "german": "Lichtung (f, 26)"
+  },
+  {
+    "english": "lawn (textil.)",
+    "german": "Batist (m, 18)"
+  },
+  {
+    "english": "lawn",
+    "german": "Grasfläche (Rasen, f)"
+  },
+  {
+    "english": "lawn (hort.)",
+    "german": "Wasen (regional, Rasen, dicht, mit, kurz, gehaltenem, Gras, bewachsene, Flche, m)"
+  },
+  {
+    "english": "(lawn) dethatcher (hort., tools)",
+    "german": "Moosentferner (m)"
+  },
+  {
+    "english": "(lawn) thatcher (hort., tools)",
+    "german": "Vertikutierer (m)"
+  },
+  {
+    "english": "artificial lawn (sports)",
+    "german": "Kunstrasen (m)"
+  },
+  {
+    "english": "bacterial lawn (biol.)",
+    "german": "Bakterienrasen (m)"
+  },
+  {
+    "english": "croquet lawn (sports)",
+    "german": "Krocketrasen (m)"
+  },
+  {
+    "english": "front lawn (hort.)",
+    "german": "Rasen im Vorgarten (m)"
+  },
+  {
+    "english": "golf lawn (sports)",
+    "german": "Golfrasen (m)"
+  },
+  {
+    "english": "large lawn",
+    "german": "große Rasenfläche (f)"
+  },
+  {
+    "english": "lawn bowler (sports)",
+    "german": "Rasenbowler (m)"
+  },
+  {
+    "english": "lawn bowling (sports, Am)",
+    "german": "Rasenbowling (n)"
+  },
+  {
+    "english": "lawn bowls (sports)",
+    "german": "Rasenbowling (n)"
+  },
+  {
+    "english": "lawn care (hort.)",
+    "german": "Rasenpflege (f)"
+  },
+  {
+    "english": "lawn cemetery",
+    "german": "Rasenfriedhof (m)"
+  },
+  {
+    "english": "lawn chair (furn.)",
+    "german": "Gartenstuhl (m)"
+  },
+  {
+    "english": "lawn clippings (hort., pl)",
+    "german": "Rasenschnitt (Mhgut, m)"
+  },
+  {
+    "english": "lawn cuttings (ecol., hort., pl)",
+    "german": "Rasenschnitt (Abfall, m)"
+  },
+  {
+    "english": "lawn edge (hort.)",
+    "german": "Rasenkante (f)"
+  },
+  {
+    "english": "lawn edger (hort., tools)",
+    "german": "Kantenstecher (Gartengert, m)"
+  },
+  {
+    "english": "lawn edging",
+    "german": "Raseneinfassung (f)"
+  },
+  {
+    "english": "lawn fertilizer (hort.)",
+    "german": "Rasendünger (m)"
+  },
+  {
+    "english": "lawn furniture (furn., hort., sg)",
+    "german": "Gartenmöbel (pl)"
+  },
+  {
+    "english": "lawn game (sports)",
+    "german": "Rasenspiel (n)"
+  },
+  {
+    "english": "lawn gnome (hort.)",
+    "german": "Gartenzwerg (m)"
+  },
+  {
+    "english": "lawn grass (bot., hort.)",
+    "german": "Rasengras (n)"
+  },
+  {
+    "english": "lawn mower (hort., tools)",
+    "german": "Rasenmäher (m)"
+  },
+  {
+    "english": "lawn mowing (hort.)",
+    "german": "Rasenmähen (n)"
+  },
+  {
+    "english": "lawn rake (hort., tools)",
+    "german": "Fächerbesen (m)"
+  },
+  {
+    "english": "lawn roller (hort., tools)",
+    "german": "Rasenwalze (f)"
+  },
+  {
+    "english": "lawn scarifier (hort., tools)",
+    "german": "Rasenvertikutierer (m)"
+  },
+  {
+    "english": "lawn seed (hort.)",
+    "german": "Rasensamen (m)"
+  },
+  {
+    "english": "lawn sprinkler (hort., tools)",
+    "german": "Rasensprenger (m)"
+  },
+  {
+    "english": "lawn sprinkling (hort.)",
+    "german": "Rasensprengen (n)"
+  },
+  {
+    "english": "lawn sweeper (hort., tools)",
+    "german": "Rasenkehrmaschine (auch, Rasenkehrer, Laubkehrer, f)"
+  },
+  {
+    "english": "lawn tennis (sports)",
+    "german": "Rasentennis (n)"
+  },
+  {
+    "english": "lawn tools (hort., tools, Am)",
+    "german": "Gartengeräte (pl)"
+  },
+  {
+    "english": "lawn tractor (hort.)",
+    "german": "Rasentraktor (m)"
+  },
+  {
+    "english": "lawn trimmer (hort., tools)",
+    "german": "Rasentrimmer (m)"
+  },
+  {
+    "english": "mossy lawn (hort.)",
+    "german": "vermooster Rasen (m)"
+  },
+  {
+    "english": "tennis lawn (sports)",
+    "german": "Tennisrasen (strapazierfhiger, Rasen, m)"
+  },
+  {
+    "english": "unkempt lawn (hort.)",
+    "german": "ungepflegter Rasen (m)"
+  }
+]

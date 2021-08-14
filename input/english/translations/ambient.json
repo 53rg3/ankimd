@@ -1,0 +1,250 @@
+[
+  {
+    "english": "ambient (adj)",
+    "german": "Umgebungs- (460)"
+  },
+  {
+    "english": "ambient (adj)",
+    "german": "umgebend (239)"
+  },
+  {
+    "english": "ambient (mus., adj)",
+    "german": "atmosphärisch (67)"
+  },
+  {
+    "english": "ambient (adj)",
+    "german": "Außen- (z, B, Temperatur, 52)"
+  },
+  {
+    "english": "ambient air",
+    "german": "Außenluft (f)"
+  },
+  {
+    "english": "ambient air",
+    "german": "Umgebungsluft (f)"
+  },
+  {
+    "english": "ambient atmosphere",
+    "german": "Umgebungsklima (n)"
+  },
+  {
+    "english": "ambient brightness",
+    "german": "Umgebungshelligkeit (f)"
+  },
+  {
+    "english": "ambient color (Am)",
+    "german": "Umgebungsfarbe (f)"
+  },
+  {
+    "english": "ambient colour (Br)",
+    "german": "Umgebungsfarbe (f)"
+  },
+  {
+    "english": "ambient conditions",
+    "german": "Umgebungsbedingungen (pl)"
+  },
+  {
+    "english": "ambient conditions (pl)",
+    "german": "Umgebungsklima (n)"
+  },
+  {
+    "english": "ambient data",
+    "german": "Klimadaten (pl)"
+  },
+  {
+    "english": "ambient dose (MedTech.)",
+    "german": "Ortsdosis (IEC, 60050, f)"
+  },
+  {
+    "english": "ambient heat",
+    "german": "Umgebungswärme (f)"
+  },
+  {
+    "english": "ambient heat",
+    "german": "Umweltwärme (f)"
+  },
+  {
+    "english": "ambient humidity",
+    "german": "Umgebungsfeuchtigkeit (f)"
+  },
+  {
+    "english": "ambient illumination",
+    "german": "umgebende Beleuchtung (f)"
+  },
+  {
+    "english": "ambient intelligence \u003cAmI\u003e (comp.)",
+    "german": "Umgebungsintelligenz (f)"
+  },
+  {
+    "english": "ambient light",
+    "german": "Nebenlicht (n)"
+  },
+  {
+    "english": "ambient light",
+    "german": "Raumbeleuchtung (f)"
+  },
+  {
+    "english": "ambient light",
+    "german": "Raumhelligkeit (f)"
+  },
+  {
+    "english": "ambient light",
+    "german": "Raumlicht (n)"
+  },
+  {
+    "english": "ambient light (photo.)",
+    "german": "Umgebungslicht (n)"
+  },
+  {
+    "english": "ambient light",
+    "german": "Umlicht (n)"
+  },
+  {
+    "english": "ambient light (RadioTV)",
+    "german": "Vorlicht (n)"
+  },
+  {
+    "english": "ambient light",
+    "german": "umgebende Beleuchtung (f)"
+  },
+  {
+    "english": "ambient light",
+    "german": "Licht aus der Umgebung (n)"
+  },
+  {
+    "english": "ambient lighting",
+    "german": "Raumausleuchtung (f)"
+  },
+  {
+    "english": "ambient lighting (constr.)",
+    "german": "Raumbeleuchtung (f)"
+  },
+  {
+    "english": "ambient lighting",
+    "german": "Umgebungsbeleuchtung (f)"
+  },
+  {
+    "english": "ambient monitoring \u003cAM\u003e (ecol., tech.)",
+    "german": "Umgebungsmonitoring (n)"
+  },
+  {
+    "english": "ambient music",
+    "german": "Hintergrundmusik (f)"
+  },
+  {
+    "english": "ambient music (mus.)",
+    "german": "Ambient-Musik (f)"
+  },
+  {
+    "english": "ambient noise",
+    "german": "Hintergrundgeräusch (n)"
+  },
+  {
+    "english": "ambient noise",
+    "german": "Nebengeräusch (n)"
+  },
+  {
+    "english": "ambient noise",
+    "german": "Umgebungsgeräusch (n)"
+  },
+  {
+    "english": "ambient noise",
+    "german": "umgebende Geräuschkulisse (f)"
+  },
+  {
+    "english": "ambient occlusion \u003cAO\u003e (comp.)",
+    "german": "Umgebungsverdeckung (f)"
+  },
+  {
+    "english": "ambient pressure",
+    "german": "Umgebungsdruck (m)"
+  },
+  {
+    "english": "ambient radiation (ecol., MedTech.)",
+    "german": "Umgebungsstrahlung \u003cUS\u003e (f)"
+  },
+  {
+    "english": "ambient sounds",
+    "german": "Umgebungsgeräusche (pl)"
+  },
+  {
+    "english": "ambient temperature",
+    "german": "Außentemperatur (f)"
+  },
+  {
+    "english": "ambient temperature",
+    "german": "Raumtemperatur (f)"
+  },
+  {
+    "english": "ambient temperature",
+    "german": "Umgebungstemperatur (f)"
+  },
+  {
+    "english": "ambient water (ecol., hydro.)",
+    "german": "Umgebungswasser (n)"
+  },
+  {
+    "english": "ambient air pressure (phys.)",
+    "german": "Umgebungsluftdruck (m)"
+  },
+  {
+    "english": "ambient air temperature",
+    "german": "Umgebungslufttemperatur (f)"
+  },
+  {
+    "english": "ambient dose rate (MedTech.)",
+    "german": "Ortsdosisleistung \u003cODL\u003e (f)"
+  },
+  {
+    "english": "ambient light conditions",
+    "german": "Umgebungslichtbedingungen (pl)"
+  },
+  {
+    "english": "ambient light conditions (MedTech., EUR, 17538, pl)",
+    "german": "Umgebungsbeleuchtung (EUR, 17538, f)"
+  },
+  {
+    "english": "ambient light level",
+    "german": "Intensität des Umgebungslichtes (f)"
+  },
+  {
+    "english": "ambient light sensor \u003cALS\u003e (optics, photo., tools)",
+    "german": "Umgebungslichtsensor (m)"
+  },
+  {
+    "english": "ambient noise (level)",
+    "german": "Grundrauschen (n)"
+  },
+  {
+    "english": "ambient noise level",
+    "german": "Raumgeräuschpegel (m)"
+  },
+  {
+    "english": "ambient temperature range",
+    "german": "Umgebungstemperaturbereich (m)"
+  },
+  {
+    "english": "ambient water temperature",
+    "german": "Umgebungswassertemperatur (f)"
+  },
+  {
+    "english": "natural ambient radiation (ecol.)",
+    "german": "natürliche Umgebungsstrahlung (f)"
+  },
+  {
+    "english": "temperature of ambient air",
+    "german": "Umgebungslufttemperatur (f)"
+  },
+  {
+    "english": "temperature of ambient water",
+    "german": "Umgebungswassertemperatur (f)"
+  },
+  {
+    "english": "analysing interferometer for ambient air \u003cANITA\u003e (astronau, Br)",
+    "german": "analytisches Interferometer für Umgebungsluft (n)"
+  },
+  {
+    "english": "analyzing interferometer for ambient air \u003cANITA\u003e (astronau, Am)",
+    "german": "analytisches Interferometer für Umgebungsluft (n)"
+  }
+]

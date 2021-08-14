@@ -1,0 +1,58 @@
+[
+  {
+    "english": "permutation",
+    "german": "Vertauschung (f, 284)"
+  },
+  {
+    "english": "permutation",
+    "german": "Umsetzung (f, 99)"
+  },
+  {
+    "english": "permutation",
+    "german": "Permutation (f, 17)"
+  },
+  {
+    "english": "cycle (math.)",
+    "german": "zyklische Permutation (Zykel, Zyklus, f)"
+  },
+  {
+    "english": "circular permutation (math.)",
+    "german": "zyklische Permutation (f)"
+  },
+  {
+    "english": "cyclic permutation (math.)",
+    "german": "zyklische Permutation (f)"
+  },
+  {
+    "english": "even permutation (math.)",
+    "german": "gerade Permutation (f)"
+  },
+  {
+    "english": "permutation fugue (mus.)",
+    "german": "Permutationsfuge (f)"
+  },
+  {
+    "english": "permutation group (math.)",
+    "german": "Permutationsgruppe (f)"
+  },
+  {
+    "english": "permutation lock",
+    "german": "Zahlenkombinationsschloss (n)"
+  },
+  {
+    "english": "permutation lock",
+    "german": "Zahlenkombinationsschloß (alt, n)"
+  },
+  {
+    "english": "permutation matrix (math.)",
+    "german": "Permutationsmatrix (f)"
+  },
+  {
+    "english": "permutation symbol (math.)",
+    "german": "Permutationssymbol (n)"
+  },
+  {
+    "english": "permutation test (spec.)",
+    "german": "Permutationstest (m)"
+  }
+]

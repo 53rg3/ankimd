@@ -1,0 +1,290 @@
+[
+  {
+    "english": "sewage",
+    "german": "Abwasser (n, 3620)"
+  },
+  {
+    "english": "sewage",
+    "german": "Abwasserkanal (m, 709)"
+  },
+  {
+    "english": "sewage",
+    "german": "Jauche (f, 157)"
+  },
+  {
+    "english": "sewage (sg)",
+    "german": "Abwässer (pl, 30)"
+  },
+  {
+    "english": "to treat sewage (ecol.)",
+    "german": "Abwasser aufbereiten (auch, Abwsser, aufbereiten)"
+  },
+  {
+    "english": "to treat sewage (ecol.)",
+    "german": "Abwässer klären"
+  },
+  {
+    "english": "domestic sewage (sg)",
+    "german": "Haushaltsabwässer (pl)"
+  },
+  {
+    "english": "raw sewage (ecol.)",
+    "german": "Rohabwasser (n)"
+  },
+  {
+    "english": "raw sewage (ecol.)",
+    "german": "unbehandeltes Abwasser (n)"
+  },
+  {
+    "english": "raw sewage (ecol.)",
+    "german": "ungeklärtes Abwasser (n)"
+  },
+  {
+    "english": "sewage board (admin., ecol.)",
+    "german": "Abwasserverband (m)"
+  },
+  {
+    "english": "sewage charge",
+    "german": "Abwassergebühr (f)"
+  },
+  {
+    "english": "sewage clarification (hydro.)",
+    "german": "Abwasserreinigung (f)"
+  },
+  {
+    "english": "sewage disposal",
+    "german": "Abwasserbeseitigung (f)"
+  },
+  {
+    "english": "sewage dumper (ecol.)",
+    "german": "(illegaler) Abwassereinleiter (m)"
+  },
+  {
+    "english": "sewage engineering (tech.)",
+    "german": "Abwasserführung (f)"
+  },
+  {
+    "english": "sewage farm",
+    "german": "Rieselfeld (n)"
+  },
+  {
+    "english": "sewage farm",
+    "german": "Rieselfelder (pl)"
+  },
+  {
+    "english": "sewage gas (ecol.)",
+    "german": "Klärgas (n)"
+  },
+  {
+    "english": "sewage management",
+    "german": "Abwasserwirtschaft (f)"
+  },
+  {
+    "english": "sewage management (constr., ecol.)",
+    "german": "Kanalmanagement (n)"
+  },
+  {
+    "english": "sewage pipe",
+    "german": "Abwasserleitung (f)"
+  },
+  {
+    "english": "sewage pipe (hydro., tech.)",
+    "german": "Kanalrohr (n)"
+  },
+  {
+    "english": "sewage plant (tech.)",
+    "german": "Kläranlage (f)"
+  },
+  {
+    "english": "sewage pond",
+    "german": "Abwasserteich (m)"
+  },
+  {
+    "english": "sewage problem (ecol.)",
+    "german": "Abwasserproblem (n)"
+  },
+  {
+    "english": "sewage purification (hydro.)",
+    "german": "Abwasserreinigung (f)"
+  },
+  {
+    "english": "sewage sludge",
+    "german": "Klärschlamm (m)"
+  },
+  {
+    "english": "sewage system (hydro.)",
+    "german": "Abwassersystem (n)"
+  },
+  {
+    "english": "sewage system (urban)",
+    "german": "Kanalsystem (n)"
+  },
+  {
+    "english": "sewage technology",
+    "german": "Abwassertechnik (f)"
+  },
+  {
+    "english": "sewage treatment (hydro.)",
+    "german": "Abwasseraufbereitung (f)"
+  },
+  {
+    "english": "sewage treatment (biochem., ecol., engin.)",
+    "german": "Abwasserbehandlung (f)"
+  },
+  {
+    "english": "sewage work",
+    "german": "Klärwerk (n)"
+  },
+  {
+    "english": "sewage works (sg)",
+    "german": "Abwasseranlage (f)"
+  },
+  {
+    "english": "sewage works (ecol., tech., sg)",
+    "german": "Abwasserreinigungsanlage (f)"
+  },
+  {
+    "english": "sewage works (sg)",
+    "german": "Kläranlage (f)"
+  },
+  {
+    "english": "storm sewage (ecol.)",
+    "german": "Regen- und Abwasser (n)"
+  },
+  {
+    "english": "untreated sewage (ecol.)",
+    "german": "unbehandeltes Abwasser (n)"
+  },
+  {
+    "english": "untreated sewage (ecol.)",
+    "german": "ungeklärtes Abwasser (n)"
+  },
+  {
+    "english": "central sewage treatment",
+    "german": "zentrale Abwasserbeseitigung (f)"
+  },
+  {
+    "english": "partially treated sewage (ecol.)",
+    "german": "vorgeklärtes Abwasser (n)"
+  },
+  {
+    "english": "sewage disposal facility (ind., plant)",
+    "german": "Abwasserabsetzanlage (f)"
+  },
+  {
+    "english": "sewage disposal facility (engin., plant)",
+    "german": "Abwasserbeseitigungsanlage (f)"
+  },
+  {
+    "english": "sewage disposal facility (ind., plant)",
+    "german": "Klärwerk (n)"
+  },
+  {
+    "english": "sewage hook-up",
+    "german": "Abwasseranschluss (m)"
+  },
+  {
+    "english": "sewage sludge disposal",
+    "german": "Klärschlammentsorgung (f)"
+  },
+  {
+    "english": "sewage sludge dumping (ecol.)",
+    "german": "Klärschlammverklappung (f)"
+  },
+  {
+    "english": "sewage sludge incineration",
+    "german": "Klärschlammverbrennung (f)"
+  },
+  {
+    "english": "sewage sludge treatment (ecol.)",
+    "german": "Klärschlammbehandlung (f)"
+  },
+  {
+    "english": "sewage treatment facility (ecol., hydro.)",
+    "german": "Abwasserkläranlage (f)"
+  },
+  {
+    "english": "sewage treatment plant (ecol., hydro.)",
+    "german": "Abwasserkläranlage (f)"
+  },
+  {
+    "english": "sewage treatment plant (ecol.)",
+    "german": "Kläranlage (f)"
+  },
+  {
+    "english": "sewage treatment plant",
+    "german": "Klärwerk (n)"
+  },
+  {
+    "english": "Sewage Treatment Plant \u003cSTP\u003e",
+    "german": "Abwasserreinigungsanlage \u003cARA\u003e (f)"
+  },
+  {
+    "english": "sewage wastewater treatment (ecol., hydro.)",
+    "german": "Abwasseraufbereitung (f)"
+  },
+  {
+    "english": "treatment of sewage (ecol.)",
+    "german": "Reinigungsstufe (bei, der, Abwasserbehandlung, f)"
+  },
+  {
+    "english": "volume of sewage (constr., ecol.)",
+    "german": "Abwassermenge (f)"
+  },
+  {
+    "english": "association for sewage treatment (admin., ecol.)",
+    "german": "Abwasserverband (m)"
+  },
+  {
+    "english": "field irrigated with sewage (agr.)",
+    "german": "Rieselfeld (n)"
+  },
+  {
+    "english": "nutrient stripping from sewage",
+    "german": "Entfernung von Nährstoffen aus dem Abwasser (f)"
+  },
+  {
+    "english": "purification of sewage water (ecol., hydro.)",
+    "german": "Abwasserreinigung (f)"
+  },
+  {
+    "english": "water and sewage company",
+    "german": "Wasser- und Abwasserbetrieb (m)"
+  },
+  {
+    "english": "water and sewage systems (hydro.)",
+    "german": "Wasser- und Abwassersysteme (pl)"
+  },
+  {
+    "english": "to dump sewage into the lake (ecol.)",
+    "german": "Abwässer in den See leiten"
+  },
+  {
+    "english": "to dump sewage into the river (ecol.)",
+    "german": "Abwässer in den Fluss leiten"
+  },
+  {
+    "english": "to dump sewage into the sea (ecol., ind.)",
+    "german": "Abwässer ins Meer leiten"
+  },
+  {
+    "english": "combined sewage and water treatment plants",
+    "german": "Mischkanalisationsbehandlungsanlagen (pl)"
+  },
+  {
+    "english": "General Ordinance on Sewage Water Emissions (ecol., law, Austria)",
+    "german": "Allgemeine Abwasseremissionsverordnung \u003cAAEV\u003e (sterreich, Kurztitel, f)"
+  },
+  {
+    "english": " (zool., T, Tubifex, tubifex, syn, Lumbricus, tubifex, Nais, tubifex, Saenuris, tubifex, sewage worm)",
+    "german": " (m, Bachwurm)"
+  },
+  {
+    "english": " (zool., T, Tubifex, tubifex, syn, Lumbricus, tubifex, Nais, tubifex, Saenuris, tubifex, sewage worm)",
+    "german": " (m, Gemeiner Bachröhrenwurm)"
+  },
+  {
+    "english": " (zool., T, Tubifex, tubifex, syn, Lumbricus, tubifex, Nais, tubifex, Saenuris, tubifex, sewage worm)",
+    "german": " (m, Gemeiner Schlammröhrenwurm)"
+  }
+]

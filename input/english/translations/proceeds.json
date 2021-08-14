@@ -1,0 +1,270 @@
+[
+  {
+    "english": "sth. proceeds",
+    "german": "etw. verläuft (93)"
+  },
+  {
+    "english": "sb. proceeds",
+    "german": "jd. verfährt (14)"
+  },
+  {
+    "english": "sb. proceeds",
+    "german": "jd. fährt fort"
+  },
+  {
+    "english": "proceeds",
+    "german": "Einnahmen (pl, 450)"
+  },
+  {
+    "english": "proceeds (pl)",
+    "german": "Erlös (m, 354)"
+  },
+  {
+    "english": "proceeds (pl)",
+    "german": "Ertrag (m, 340)"
+  },
+  {
+    "english": "proceeds (fin., pl)",
+    "german": "Gewinn (m, 155)"
+  },
+  {
+    "english": "proceeds",
+    "german": "Einkünfte (pl, 123)"
+  },
+  {
+    "english": "proceeds (comm.)",
+    "german": "Erlöse (pl, 69)"
+  },
+  {
+    "english": "proceeds",
+    "german": "Geschäftseinnahmen (pl, 60)"
+  },
+  {
+    "english": "proceeds",
+    "german": "Erträgnisse (selten, Ertrge, pl, 8)"
+  },
+  {
+    "english": "proceeds (pl)",
+    "german": "Erträgnis (selten, n, 5)"
+  },
+  {
+    "english": "until sb. proceeds",
+    "german": "bis jd. fortfährt"
+  },
+  {
+    "english": "to assign proceeds (fin.)",
+    "german": "Erlöse abtreten"
+  },
+  {
+    "english": "to generate proceeds (fin.)",
+    "german": "Erlöse erzielen"
+  },
+  {
+    "english": "to reinvest proceeds",
+    "german": "den Ertrag wieder investieren"
+  },
+  {
+    "english": "auction proceeds (stocks)",
+    "german": "Versteigerungserlöse (pl)"
+  },
+  {
+    "english": "auction proceeds (pl)",
+    "german": "Erlös der Versteigerung (m)"
+  },
+  {
+    "english": "bond proceeds (pl)",
+    "german": "Anleiheerlös (m)"
+  },
+  {
+    "english": "bond proceeds (pl)",
+    "german": "Rentenerlös (m)"
+  },
+  {
+    "english": "dilution proceeds",
+    "german": "Verwässerungserlöse (pl)"
+  },
+  {
+    "english": "gross proceeds (pl)",
+    "german": "Bruttoertrag (m)"
+  },
+  {
+    "english": "lottery proceeds (pl)",
+    "german": "Lotterieerlös (m)"
+  },
+  {
+    "english": "net proceeds (pl)",
+    "german": "Nettoerlös (m)"
+  },
+  {
+    "english": "net proceeds (pl)",
+    "german": "Nettoertrag (m)"
+  },
+  {
+    "english": "net proceeds (pl)",
+    "german": "Reinerlös (m)"
+  },
+  {
+    "english": "net proceeds (pl)",
+    "german": "Reinertrag (m)"
+  },
+  {
+    "english": "sales proceeds (pl)",
+    "german": "Umsatzerlös (m)"
+  },
+  {
+    "english": "total proceeds (pl)",
+    "german": "Gesamterlös (m)"
+  },
+  {
+    "english": "total proceeds (pl)",
+    "german": "Gesamtertrag (m)"
+  },
+  {
+    "english": "turnover proceeds",
+    "german": "Umsatzerlöse (pl)"
+  },
+  {
+    "english": "to collect the proceeds",
+    "german": "den Gewinn kassieren"
+  },
+  {
+    "english": "to credit the proceeds",
+    "german": "den Gegenwert gutschreiben"
+  },
+  {
+    "english": "to diminish the proceeds",
+    "german": "den Ertrag mindern"
+  },
+  {
+    "english": "to distribute the proceeds",
+    "german": "den Erlös verteilen"
+  },
+  {
+    "english": "to remit the proceeds",
+    "german": "den Erlös überweisen"
+  },
+  {
+    "english": "to share the proceeds",
+    "german": "den Ertrag teilen"
+  },
+  {
+    "english": "to split the proceeds",
+    "german": "den Erlös aufteilen"
+  },
+  {
+    "english": "to tie up proceeds",
+    "german": "den Erlös binden"
+  },
+  {
+    "english": "account of proceeds",
+    "german": "Erlöskonto (n)"
+  },
+  {
+    "english": "assignment (of proceeds) (fin., law)",
+    "german": "Zession (f)"
+  },
+  {
+    "english": "calculation of proceeds",
+    "german": "Ertragsberechnung (f)"
+  },
+  {
+    "english": "proceeds from capital (pl)",
+    "german": "Kapitalertrag (m)"
+  },
+  {
+    "english": "proceeds from export (comm., pl)",
+    "german": "Exporterlös (m)"
+  },
+  {
+    "english": "proceeds of liquidation (acc., fin., pl)",
+    "german": "Liquidationserlös (m)"
+  },
+  {
+    "english": "proceeds and income (fin.)",
+    "german": "Erlöse und Erträge (pl)"
+  },
+  {
+    "english": "proceeds from scrap",
+    "german": "Schrotterlöse (pl)"
+  },
+  {
+    "english": "proceeds in cash",
+    "german": "Bareinnahmen (pl)"
+  },
+  {
+    "english": "proceeds of collection",
+    "german": "Inkassobeträge (pl)"
+  },
+  {
+    "english": "proceeds of crime",
+    "german": "Taterträge (pl)"
+  },
+  {
+    "english": "proceeds of crime (law)",
+    "german": "Erlöse aus Straftaten (pl)"
+  },
+  {
+    "english": "proceeds of crime (law)",
+    "german": "Erträge aus Straftaten (pl)"
+  },
+  {
+    "english": "proceeds of crime (law)",
+    "german": "Gewinne aus Straftaten (pl)"
+  },
+  {
+    "english": "proceeds-related charges",
+    "german": "erlösabhängige Abgaben (pl)"
+  },
+  {
+    "english": "stream of proceeds",
+    "german": "Fluss der Einkünfte (m)"
+  },
+  {
+    "english": "application of net proceeds",
+    "german": "Verwendung des Reinertrags (f)"
+  },
+  {
+    "english": "appropriation of net proceeds",
+    "german": "Verteilung des Reingewinns (f)"
+  },
+  {
+    "english": "calculation of the proceeds",
+    "german": "Errechnung des Erlöses (f)"
+  },
+  {
+    "english": "proceeds of a loan (pl)",
+    "german": "Kreditvaluta (f)"
+  },
+  {
+    "english": "proceeds of a sale (pl)",
+    "german": "Erlös aus einem Verkauf (m)"
+  },
+  {
+    "english": "proceeds of an auction (pl)",
+    "german": "Erlös der Versteigerung (m)"
+  },
+  {
+    "english": "receipt of the proceeds",
+    "german": "Empfang des Erlöses (m)"
+  },
+  {
+    "english": "share of the proceeds",
+    "german": "Anteil am Gewinn (m)"
+  },
+  {
+    "english": "sum of net proceeds",
+    "german": "Ertragssumme (f)"
+  },
+  {
+    "english": "tying-up of proceeds",
+    "german": "Bindung von Erträgen (f)"
+  },
+  {
+    "english": "Credit us with the proceeds!",
+    "german": "Schreiben Sie uns den Erlös gut!"
+  },
+  {
+    "english": "to recover the proceeds of crime (law)",
+    "german": "Erlöse aus Straftaten einziehen"
+  }
+]

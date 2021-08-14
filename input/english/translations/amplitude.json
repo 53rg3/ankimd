@@ -1,0 +1,202 @@
+[
+  {
+    "english": "amplitude",
+    "german": "Amplitude (f, 71)"
+  },
+  {
+    "english": "amplitude",
+    "german": "Umfang (m, 50)"
+  },
+  {
+    "english": "amplitude (pendulum)",
+    "german": "Ausschlag (Pendel, m, 33)"
+  },
+  {
+    "english": "amplitude",
+    "german": "Schwingungsweite (f, 27)"
+  },
+  {
+    "english": "amplitude",
+    "german": "Weite (f, 16)"
+  },
+  {
+    "english": "amplitude (breadth, range)",
+    "german": "Fülle (f, 9)"
+  },
+  {
+    "english": "amplitude-modulated (adj)",
+    "german": "amplitudenmoduliert"
+  },
+  {
+    "english": "amplitude-quantized (phys., adj)",
+    "german": "amplitudenquantisiert"
+  },
+  {
+    "english": "amplitude characteristic",
+    "german": "Amplitudenkennlinie (f)"
+  },
+  {
+    "english": "amplitude clipping (electr., limiting)",
+    "german": "Amplitudenbegrenzung (f)"
+  },
+  {
+    "english": "amplitude decay (phys.)",
+    "german": "Amplitudenabfall (m)"
+  },
+  {
+    "english": "amplitude delay",
+    "german": "Amplitudenverzögerung (f)"
+  },
+  {
+    "english": "amplitude distortion (electr.)",
+    "german": "Amplitudenverzerrung (f)"
+  },
+  {
+    "english": "amplitude error (electr.)",
+    "german": "Amplitudenfehler (m)"
+  },
+  {
+    "english": "amplitude filter (electr.)",
+    "german": "Amplitudensieb (n)"
+  },
+  {
+    "english": "amplitude fluctuation (phys.)",
+    "german": "Amplitudenfluktuation (f)"
+  },
+  {
+    "english": "amplitude grating",
+    "german": "Amplitudengitter (n)"
+  },
+  {
+    "english": "amplitude height (electr.)",
+    "german": "Amplitudenhöhe (f)"
+  },
+  {
+    "english": "amplitude margin",
+    "german": "Amplitudenrand (m)"
+  },
+  {
+    "english": "amplitude matching (MedTech.)",
+    "german": "Amplitudenanpassung (f)"
+  },
+  {
+    "english": "amplitude modulation \u003cAM\u003e",
+    "german": "Amplitudenmodulation \u003cAM\u003e (f)"
+  },
+  {
+    "english": "amplitude modulation \u003cAM\u003e",
+    "german": "Einstellung für Mittelwellenempfang am Radio (f)"
+  },
+  {
+    "english": "amplitude modulator (electr.)",
+    "german": "Amplitudenmodulator (m)"
+  },
+  {
+    "english": "amplitude object (electr., optics)",
+    "german": "Amplitudenobjekt (n)"
+  },
+  {
+    "english": "amplitude permeability (electr.)",
+    "german": "Amplitudenpermeabilität (f)"
+  },
+  {
+    "english": "amplitude perturbation (audio, electr.)",
+    "german": "Amplitudenschwankung (f)"
+  },
+  {
+    "english": "amplitude quantization (phys.)",
+    "german": "Amplitudenquantelung (f)"
+  },
+  {
+    "english": "amplitude quantization (phys.)",
+    "german": "Amplitudenquantisierung (f)"
+  },
+  {
+    "english": "amplitude response (electr., phys.)",
+    "german": "Amplitudengang (m)"
+  },
+  {
+    "english": "amplitude spectrum (electr.)",
+    "german": "Amplitudenspektrum (n)"
+  },
+  {
+    "english": "amplitude value",
+    "german": "Amplitudenwert (m)"
+  },
+  {
+    "english": "amplitude variation (electr.)",
+    "german": "Amplitudenvariation (f)"
+  },
+  {
+    "english": "carrier amplitude",
+    "german": "Trägerschwingungsamplitude (f)"
+  },
+  {
+    "english": "circle amplitude (electr., RadioTV)",
+    "german": "Kreisamplitude (f)"
+  },
+  {
+    "english": "color amplitude (electr., RadioTV, Am)",
+    "german": "Farbamplitude (f)"
+  },
+  {
+    "english": "colour amplitude (electr., RadioTV, Br)",
+    "german": "Farbamplitude (f)"
+  },
+  {
+    "english": "large amplitude",
+    "german": "große Amplitude (f)"
+  },
+  {
+    "english": "load amplitude (tech.)",
+    "german": "Belastungsamplitude (f)"
+  },
+  {
+    "english": "oscillation amplitude (electr.)",
+    "german": "Schwingungsamplitude (f)"
+  },
+  {
+    "english": "oscillation amplitude (phys., tech.)",
+    "german": "Schwingungsweite (f)"
+  },
+  {
+    "english": "oscillation amplitude (phys.)",
+    "german": "Schwingweite (f)"
+  },
+  {
+    "english": "overshoot amplitude (electr., RadioTV)",
+    "german": "Übersteuerungspegel (m)"
+  },
+  {
+    "english": "peak amplitude (electr.)",
+    "german": "Scheitelwert (m)"
+  },
+  {
+    "english": "power amplitude (audio)",
+    "german": "Kraftamplitude (f)"
+  },
+  {
+    "english": "probability amplitude (math., nucl.)",
+    "german": "Wahrscheinlichkeitsamplitude (f)"
+  },
+  {
+    "english": "pulse amplitude (electr., phys.)",
+    "german": "Impulsamplitude (f)"
+  },
+  {
+    "english": "saturation amplitude (phys.)",
+    "german": "Sättigungsamplitude (f)"
+  },
+  {
+    "english": "scattering amplitude (phys.)",
+    "german": "Streuamplitude (f)"
+  },
+  {
+    "english": "semi-amplitude (phys.)",
+    "german": "Halbamplitude (f)"
+  },
+  {
+    "english": "signal amplitude",
+    "german": "Signalamplitude (f)"
+  }
+]

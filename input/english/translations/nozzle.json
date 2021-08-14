@@ -1,0 +1,202 @@
+[
+  {
+    "english": "nozzle (tech.)",
+    "german": "Strahlregler (Dse, m, 1955)"
+  },
+  {
+    "english": "nozzle",
+    "german": "Düse (f, 967)"
+  },
+  {
+    "english": "nozzle",
+    "german": "Öffnung (f, 530)"
+  },
+  {
+    "english": "nozzle",
+    "german": "Stutzen (Behlter, Tank, m, 289)"
+  },
+  {
+    "english": "nozzle (tech.)",
+    "german": "Rohrstutzen (m, 84)"
+  },
+  {
+    "english": "nozzle",
+    "german": "Turbine (f, 51)"
+  },
+  {
+    "english": "nozzle",
+    "german": "Tülle (f, 20)"
+  },
+  {
+    "english": "nozzle",
+    "german": "Zerstäuberdüse (f, 18)"
+  },
+  {
+    "english": "nozzle",
+    "german": "Schnauze (Ausgieer, Tlle, f, 9)"
+  },
+  {
+    "english": "nozzle",
+    "german": "Schneppe (Schnabel, einer, Kanne, f, 7)"
+  },
+  {
+    "english": "nozzle",
+    "german": "Zeute (rhein, hess, Schnauze, Ausgieer, f)"
+  },
+  {
+    "english": "nozzle",
+    "german": "Zotte (bes, sdwestd, Ausgieer, f)"
+  },
+  {
+    "english": "(injector) nozzle",
+    "german": "Düse (Einspritzventil, f)"
+  },
+  {
+    "english": "air nozzle",
+    "german": "Luftdüse (f)"
+  },
+  {
+    "english": "atomization nozzle",
+    "german": "Spritzdüse (f)"
+  },
+  {
+    "english": "atomization nozzle",
+    "german": "Sprühdüse (f)"
+  },
+  {
+    "english": "atomizing nozzle",
+    "german": "Sprühdüse (f)"
+  },
+  {
+    "english": "atomizing nozzle",
+    "german": "Zerstäuberdüse (f)"
+  },
+  {
+    "english": "bell nozzle (engin.)",
+    "german": "Glockendüse (f)"
+  },
+  {
+    "english": "bit nozzle (mining, drill)",
+    "german": "Meißeldüse (Bohrtechnik, f)"
+  },
+  {
+    "english": "blast nozzle (tech.)",
+    "german": "Strahldüse (f)"
+  },
+  {
+    "english": "block nozzle (tech.)",
+    "german": "Blockdüse (f)"
+  },
+  {
+    "english": "brake nozzle (tech.)",
+    "german": "Bremsdüse (f)"
+  },
+  {
+    "english": "brass nozzle (tech.)",
+    "german": "Messingdüse (f)"
+  },
+  {
+    "english": "buccal nozzle (med.)",
+    "german": "Mundkanüle (f)"
+  },
+  {
+    "english": "burner nozzle",
+    "german": "Brenndüse (f)"
+  },
+  {
+    "english": "burner nozzle",
+    "german": "Brennerdüse (f)"
+  },
+  {
+    "english": "coffee nozzle",
+    "german": "Kaffeeauslauf (Kaffeemaschine, m)"
+  },
+  {
+    "english": "collector nozzle (ind.)",
+    "german": "Wechselausguss (m)"
+  },
+  {
+    "english": "conical nozzle (tech.)",
+    "german": "Kegeldüse (f)"
+  },
+  {
+    "english": "connection nozzle",
+    "german": "Anschlussstutzen (m)"
+  },
+  {
+    "english": "Unverified contact nozzle (tech.)",
+    "german": "Stromdüse (Schutzgasschweien, f)"
+  },
+  {
+    "english": "coolant nozzle",
+    "german": "Kühlmitteldüse (f)"
+  },
+  {
+    "english": "cooling nozzle (tech.)",
+    "german": "Kühldüse (f)"
+  },
+  {
+    "english": "defroster nozzle (automot.)",
+    "german": "Luftschlitz (in, Nhe, der, Scheibe, angebracht, m)"
+  },
+  {
+    "english": "discharge nozzle",
+    "german": "Ablaufstutzen (m)"
+  },
+  {
+    "english": "discharge nozzle (tech.)",
+    "german": "Austrittsdüse (f)"
+  },
+  {
+    "english": "exhaust nozzle",
+    "german": "Abdampfstutzen (m)"
+  },
+  {
+    "english": "extinguishing nozzle (FireResc)",
+    "german": "Löschdüse (Sprinkler, f)"
+  },
+  {
+    "english": "extraction nozzle",
+    "german": "Anzapfstutzen (m)"
+  },
+  {
+    "english": "fan nozzle (tech.)",
+    "german": "Fächerdüse (f)"
+  },
+  {
+    "english": "fan nozzle (biol.)",
+    "german": "Flachstrahldüse (f)"
+  },
+  {
+    "english": "fill nozzle",
+    "german": "Füllstutzen (m)"
+  },
+  {
+    "english": "filling nozzle",
+    "german": "Abfüllstutzen (m)"
+  },
+  {
+    "english": "flow nozzle",
+    "german": "Messdüse (Rohrleitungen, f)"
+  },
+  {
+    "english": "flush nozzle",
+    "german": "Spülstutzen (m)"
+  },
+  {
+    "english": "fog nozzle (FireResc)",
+    "german": "Hohlstrahlrohr \u003cHSR\u003e (n)"
+  },
+  {
+    "english": "fuel nozzle (tech.)",
+    "german": "Zapfpistole (f)"
+  },
+  {
+    "english": "gas nozzle (tech., eg, propane, but, not, gasoline)",
+    "german": "Gasdüse (f)"
+  },
+  {
+    "english": "hose nozzle (tech.)",
+    "german": "Schlauchtülle (f)"
+  }
+]

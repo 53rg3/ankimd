@@ -1,0 +1,62 @@
+[
+  {
+    "english": "amenity",
+    "german": "Annehmlichkeit (f, 873)"
+  },
+  {
+    "english": "amenity",
+    "german": "Einrichtung (f, 390)"
+  },
+  {
+    "english": "amenity",
+    "german": "Freizeitanlage (f, 124)"
+  },
+  {
+    "english": "amenity",
+    "german": "Anmut (f, 50)"
+  },
+  {
+    "english": "amenity value",
+    "german": "Annehmlichkeitswert (m)"
+  },
+  {
+    "english": "amenity woodland (for., urban, Br)",
+    "german": "Erholungswald (m)"
+  },
+  {
+    "english": "basic amenity",
+    "german": "Basiseinrichtung (f)"
+  },
+  {
+    "english": "community amenity",
+    "german": "Gemeinschaftsanlage (f)"
+  },
+  {
+    "english": "pedestrian amenity",
+    "german": "Fußgängerkomfort (m)"
+  },
+  {
+    "english": "public amenity",
+    "german": "Gemeinbedarfseinrichtung (f)"
+  },
+  {
+    "english": "public amenity",
+    "german": "öffentliche Einrichtung (f)"
+  },
+  {
+    "english": "as an amenity (adv)",
+    "german": "als Annehmlichkeit"
+  },
+  {
+    "english": "amenity of climate",
+    "german": "Annehmlichkeit des Klimas (f)"
+  },
+  {
+    "english": "amenity of place",
+    "german": "angenehme Lage (f)"
+  },
+  {
+    "english": "civic amenity site \u003cCA site\u003e (ecol., Br)",
+    "german": "Recyclinghof (m)"
+  }
+]

@@ -11,7 +11,7 @@ class WaveNetApiScraperTest {
     public void manualTest() {
         final WaveNetApiScraper waveNetApiScraper = new WaveNetApiScraper("en-US", "en-US-Wavenet-D");
         final EnglishWord englishWord = new EnglishWord("attack vector");
-        waveNetApiScraper.create(englishWord.word, englishWord.pathAsString());
+        waveNetApiScraper.create(englishWord.word, englishWord.pathToMp3File);
     }
 
 }

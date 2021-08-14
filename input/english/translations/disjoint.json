@@ -1,0 +1,46 @@
+[
+  {
+    "english": "disjoint (math., adj)",
+    "german": "disjunkt (105)"
+  },
+  {
+    "english": "disjoint (math., sets, adj)",
+    "german": "elementfremd (Mengen, 16)"
+  },
+  {
+    "english": "disjoint (math., sets, adj)",
+    "german": "durchschnittsfremd (Mengen, 6)"
+  },
+  {
+    "english": "to disjoint",
+    "german": "zerlegen (56)"
+  },
+  {
+    "english": "to disjoint",
+    "german": "zertrennen (28)"
+  },
+  {
+    "english": "edge-disjoint (math., adj)",
+    "german": "kantendisjunkt"
+  },
+  {
+    "english": "node-disjoint (math., adj)",
+    "german": "knotendisjunkt"
+  },
+  {
+    "english": "pairwise disjoint (math., adj)",
+    "german": "paarweise disjunkt"
+  },
+  {
+    "english": "disjoint set (math.)",
+    "german": "disjunkte Menge (f)"
+  },
+  {
+    "english": "disjoint union (math.)",
+    "german": "disjunkte Vereinigung (f)"
+  },
+  {
+    "english": "disjoint union topology (math.)",
+    "german": "Summentopologie (f)"
+  }
+]

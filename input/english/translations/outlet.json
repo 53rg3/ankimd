@@ -1,0 +1,202 @@
+[
+  {
+    "english": "outlet (electr.)",
+    "german": "Steckdose (f, 1336)"
+  },
+  {
+    "english": "outlet (comm.)",
+    "german": "Verkaufsstelle (f, 733)"
+  },
+  {
+    "english": "outlet",
+    "german": "Ausweg (m, 279)"
+  },
+  {
+    "english": "outlet (electr.)",
+    "german": "Ausgang (m, 202)"
+  },
+  {
+    "english": "outlet (comm.)",
+    "german": "Absatz (m, 192)"
+  },
+  {
+    "english": "outlet (tech.)",
+    "german": "Ventil (n, 189)"
+  },
+  {
+    "english": "outlet",
+    "german": "Auslass (m, 137)"
+  },
+  {
+    "english": "outlet (comm.)",
+    "german": "Abnehmer (m, 95)"
+  },
+  {
+    "english": "outlet (comm.)",
+    "german": "Fabrikladen (m, 93)"
+  },
+  {
+    "english": "outlet (comm.)",
+    "german": "Vertriebsstelle (f, 90)"
+  },
+  {
+    "english": "outlet (comm.)",
+    "german": "Absatzgebiet (n, 77)"
+  },
+  {
+    "english": "outlet (econ.)",
+    "german": "Absatzmarkt (m, 51)"
+  },
+  {
+    "english": "outlet (hydro.)",
+    "german": "Abflussmöglichkeit (f, 43)"
+  },
+  {
+    "english": "outlet (hydro., of, lake)",
+    "german": "Abfluss (m, 43)"
+  },
+  {
+    "english": "outlet (geogr., of, river)",
+    "german": "Mündung (f, 41)"
+  },
+  {
+    "english": "outlet (for, steam, etc)",
+    "german": "Abzug (fr, Dampf, Rauch, etc, m, 39)"
+  },
+  {
+    "english": "outlet (comm.)",
+    "german": "Outlet (n, 33)"
+  },
+  {
+    "english": "outlet (for, water)",
+    "german": "Ausguss (Abfluss, m, 32)"
+  },
+  {
+    "english": "outlet (tech.)",
+    "german": "Ausfluss (m, 25)"
+  },
+  {
+    "english": "outlet",
+    "german": "Austritt (m, 15)"
+  },
+  {
+    "english": "outlet",
+    "german": "Abflussöffnung (f, 13)"
+  },
+  {
+    "english": "outlet",
+    "german": "Durchlass (m, 13)"
+  },
+  {
+    "english": "outlet",
+    "german": "Absatzkanal (m, 11)"
+  },
+  {
+    "english": "outlet",
+    "german": "Auslaß (alt, m, 10)"
+  },
+  {
+    "english": "outlet",
+    "german": "Abflussrinne (f, 7)"
+  },
+  {
+    "english": "outlet",
+    "german": "Abflussstelle (f, 7)"
+  },
+  {
+    "english": "outlet",
+    "german": "Ansatzkanal (m, 7)"
+  },
+  {
+    "english": "outlet (nucl.)",
+    "german": "Abführung (f, 6)"
+  },
+  {
+    "english": "outlet",
+    "german": "Abzugsmöglichkeit (f)"
+  },
+  {
+    "english": "(water) outlet (tech.)",
+    "german": "Wasserabfluss (m)"
+  },
+  {
+    "english": "air outlet",
+    "german": "Luftauslass (m)"
+  },
+  {
+    "english": "air outlet",
+    "german": "Luftaustritt (bauliche, ffnung, m)"
+  },
+  {
+    "english": "air outlet",
+    "german": "Luftaustrittsöffnung (f)"
+  },
+  {
+    "english": "air outlet",
+    "german": "Lüftungsgitter (mit, Blende, n)"
+  },
+  {
+    "english": "appliance outlet (electr.)",
+    "german": "Gerätesteckdose (f)"
+  },
+  {
+    "english": "cable outlet (electr.)",
+    "german": "Kabelabgang (m)"
+  },
+  {
+    "english": "cable outlet (tech.)",
+    "german": "Kabelausführung (Ausgang, f)"
+  },
+  {
+    "english": "cable outlet",
+    "german": "Kabelausgang (m)"
+  },
+  {
+    "english": "cable outlet (electr., tech.)",
+    "german": "Kabelauslass (m)"
+  },
+  {
+    "english": "chimney outlet (constr.)",
+    "german": "Schornsteinöffnung (f)"
+  },
+  {
+    "english": "convenience outlet (electr., Am)",
+    "german": "Steckdose (f)"
+  },
+  {
+    "english": "cord outlet (tech.)",
+    "german": "Schnurauslass (m)"
+  },
+  {
+    "english": "data outlet (telecom.)",
+    "german": "Datendose (f)"
+  },
+  {
+    "english": "distribution outlet (comm.)",
+    "german": "Vertriebsstelle (f)"
+  },
+  {
+    "english": "duplex outlet (electr.)",
+    "german": "Doppelsteckdose (f)"
+  },
+  {
+    "english": "electric outlet (electr.)",
+    "german": "elektrischer Anschluss (m)"
+  },
+  {
+    "english": "electrical outlet (electr.)",
+    "german": "Steckdose (f)"
+  },
+  {
+    "english": "emergency outlet",
+    "german": "Notauslass (m)"
+  },
+  {
+    "english": "exclusive outlet (comm.)",
+    "german": "einziger Absatzweg (m)"
+  },
+  {
+    "english": "exhaust outlet (tech.)",
+    "german": "Abluftauslass (m)"
+  }
+]

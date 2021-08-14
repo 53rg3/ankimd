@@ -1,0 +1,202 @@
+[
+  {
+    "english": "lemma",
+    "german": "Kurztitel (m, 9)"
+  },
+  {
+    "english": "lemma (math.)",
+    "german": "Hilfssatz (m)"
+  },
+  {
+    "english": "lemma (spec.)",
+    "german": "Lemma (n)"
+  },
+  {
+    "english": "lemma",
+    "german": "Seitentitel (m)"
+  },
+  {
+    "english": "lemma (bot., in, Poaceae)",
+    "german": "Deckspelze (auch, Lemma, bei, Sgrsern, f)"
+  },
+  {
+    "english": "lemma (lexicography)",
+    "german": "Stichwort (Lexikographie, n)"
+  },
+  {
+    "english": "lemma (subsidiary, proposition)",
+    "german": "Lehnsatz (m)"
+  },
+  {
+    "english": "Abel\u0027s lemma (math.)",
+    "german": "abelsches Lemma (n)"
+  },
+  {
+    "english": "Auerbach\u0027s lemma (math.)",
+    "german": "Lemma von Auerbach (n)"
+  },
+  {
+    "english": "Bézout\u0027s identity (math., also, identity, of, Bzout, Bzouts, lemma)",
+    "german": "Lemma von Bézout (selten, Bzouts, Identitt, n)"
+  },
+  {
+    "english": "Bézout\u0027s lemma (math.)",
+    "german": "Lemma von Bézout (n)"
+  },
+  {
+    "english": "bound lemma (math., rare)",
+    "german": "Schrankenlemma (selten, n)"
+  },
+  {
+    "english": "butterfly lemma (math., Zassenhaus, lemma)",
+    "german": "Schmetterlingslemma (auch, ButterflyLemma, n)"
+  },
+  {
+    "english": "Céa\u0027s lemma (math.)",
+    "german": "Céa-Lemma (n)"
+  },
+  {
+    "english": "Dehn\u0027s lemma (math., also, lemma, of, Dehn)",
+    "german": "Dehns Lemma (n)"
+  },
+  {
+    "english": "elimination lemma (math.)",
+    "german": "Eliminationslemma (n)"
+  },
+  {
+    "english": "Euclid\u0027s lemma (math., Euclids, first, theorem)",
+    "german": "Lemma von Euklid (n)"
+  },
+  {
+    "english": "Farkas\u0027 lemma (math., also, lemma, of, Farkas)",
+    "german": "Lemma von Farkas (n)"
+  },
+  {
+    "english": "Fatou\u0027s lemma (math., also, lemma, of, Fatou)",
+    "german": "Lemma von Fatou (n)"
+  },
+  {
+    "english": "five lemma \u003c5-lemma\u003e (math.)",
+    "german": "Fünferlemma \u003c5er-Lemma\u003e (n)"
+  },
+  {
+    "english": "four lemma \u003c4-lemma\u003e (math.)",
+    "german": "Viererlemma \u003c4er-Lemma\u003e (m)"
+  },
+  {
+    "english": "Gauss\u0027s lemma (math.)",
+    "german": "Lemma von Gauß (n)"
+  },
+  {
+    "english": "Goursat\u0027s lemma (math., also, lemma, of, Goursat)",
+    "german": "Lemma von Goursat (n)"
+  },
+  {
+    "english": "Gronwall\u0027s lemma (math., also, lemma, of, Gronwall)",
+    "german": "Gronwall-Lemma (n)"
+  },
+  {
+    "english": "Grönwall\u0027s lemma (math., Br, Gronwalls, lemma)",
+    "german": "Grönwall-Lemma (selten, GronwallLemma, n)"
+  },
+  {
+    "english": "handshaking lemma (math.)",
+    "german": "Handschlaglemma (n)"
+  },
+  {
+    "english": "Hartogs lemma (math.)",
+    "german": "Lemma von Hartogs (n)"
+  },
+  {
+    "english": "Hotelling\u0027s lemma (econ.)",
+    "german": "Hotellings Lemma (n)"
+  },
+  {
+    "english": "Itō\u0027s lemma (math., also, lemma, of, Ito)",
+    "german": "Lemma von Itō (auch, Lemma, von, Ito, n)"
+  },
+  {
+    "english": "Jones\u0027 lemma (math., also, lemma, of, Jones)",
+    "german": "Lemma von Jones (n)"
+  },
+  {
+    "english": "Jordan\u0027s lemma (math., also, lemma, of, Jordan)",
+    "german": "Lemma von Jordan (n)"
+  },
+  {
+    "english": "König\u0027s lemma (math., also, lemma, of, Knig, Koenigs, lemma)",
+    "german": "Lemma von König (n)"
+  },
+  {
+    "english": "Kronecker\u0027s lemma (math., lemma, of, Kronecker)",
+    "german": "kroneckersches Lemma (n)"
+  },
+  {
+    "english": "Kuratowski\u0027s lemma (math., also, Kuratowski, lemma, lemma, of, Kuratowski)",
+    "german": "Lemma von Kuratowski (n)"
+  },
+  {
+    "english": "Lindenbaum\u0027s lemma (math.)",
+    "german": "Lemma von Lindenbaum (n)"
+  },
+  {
+    "english": "Mazur\u0027s lemma (math.)",
+    "german": "Lemma von Mazur (Satz, von, Mazur, n)"
+  },
+  {
+    "english": "Nakayama\u0027s lemma (math., also, KrullAzumaya, theorem)",
+    "german": "Lemma von Nakayama (auch, Satz, von, KrullAzumaya, n)"
+  },
+  {
+    "english": "nine lemma \u003c9-lemma\u003e (math.)",
+    "german": "Neunerlemma \u003c9er-Lemma\u003e (n)"
+  },
+  {
+    "english": "normal lemma (math.)",
+    "german": "Normallemma (n)"
+  },
+  {
+    "english": "perturbation lemma (math.)",
+    "german": "Störungslemma (n)"
+  },
+  {
+    "english": "Poincaré lemma (math., also, lemma, of, Poincar)",
+    "german": "Poincaré-Lemma (n)"
+  },
+  {
+    "english": "preliminary lemma (math.)",
+    "german": "vorbereitendes Lemma (n)"
+  },
+  {
+    "english": "Riesz\u0027 lemma (math., also, lemma, of, Riesz)",
+    "german": "Lemma von Riesz (n)"
+  },
+  {
+    "english": "sandwich lemma (math.)",
+    "german": "Sandwich-Lemma (n)"
+  },
+  {
+    "english": "Sard\u0027s lemma (math., lemma, of, Sard)",
+    "german": "Lemma von Sard (n)"
+  },
+  {
+    "english": "Schanuel\u0027s lemma (math., also, Schanuel, lemma, lemma, of, Schanuel)",
+    "german": "Lemma von Schanuel (n)"
+  },
+  {
+    "english": "Schur\u0027s lemma (math., lemma, of, Schur)",
+    "german": "Lemma von Schur (n)"
+  },
+  {
+    "english": "Schwarz lemma (math., also, Schwarzs, lemma, lemma, of, Schwarz)",
+    "german": "schwarzsches Lemma (n)"
+  },
+  {
+    "english": "snake lemma (math.)",
+    "german": "Schlangenlemma (n)"
+  },
+  {
+    "english": "Sperner\u0027s lemma (math., also, Sperner, lemma)",
+    "german": "Sperner\u0027sches Lemma (n)"
+  }
+]

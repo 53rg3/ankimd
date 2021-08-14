@@ -1,0 +1,202 @@
+[
+  {
+    "english": "appraisal",
+    "german": "Bewertung (f, 2338)"
+  },
+  {
+    "english": "appraisal",
+    "german": "Beurteilung (f, 1027)"
+  },
+  {
+    "english": "appraisal",
+    "german": "Einschätzung (f, 723)"
+  },
+  {
+    "english": "appraisal",
+    "german": "Begutachtung (f, 272)"
+  },
+  {
+    "english": "appraisal (of, performance)",
+    "german": "Leistungsbeurteilung (f, 200)"
+  },
+  {
+    "english": "appraisal (evaluation, analysis)",
+    "german": "Auswertung (f, 143)"
+  },
+  {
+    "english": "appraisal",
+    "german": "Abschätzung (f, 124)"
+  },
+  {
+    "english": "appraisal",
+    "german": "Schätzung (f, 74)"
+  },
+  {
+    "english": "appraisal (of, costs)",
+    "german": "Veranschlagung (f, 30)"
+  },
+  {
+    "english": "appraisal (expert, assessment)",
+    "german": "Schätzgutachten (n, 20)"
+  },
+  {
+    "english": "appraisal (valuation)",
+    "german": "Taxierung (f, 11)"
+  },
+  {
+    "english": "appraisal (med., tech., expert, assessment)",
+    "german": "Befundung (fachspr, diagnostische, Auswertung, f, 5)"
+  },
+  {
+    "english": "appraisal (of, value)",
+    "german": "Schätzung des Wertes (f)"
+  },
+  {
+    "english": "appraisal activity",
+    "german": "Bewertungstätigkeit (f)"
+  },
+  {
+    "english": "appraisal clause",
+    "german": "Schätzklausel (f)"
+  },
+  {
+    "english": "appraisal committee",
+    "german": "Bewertungsausschuss (m)"
+  },
+  {
+    "english": "appraisal costs",
+    "german": "Schätzungskosten (pl)"
+  },
+  {
+    "english": "appraisal costs \u003cAC\u003e (econ., QM)",
+    "german": "Prüfkosten \u003cPK\u003e (pl)"
+  },
+  {
+    "english": "appraisal criteria",
+    "german": "Bewertungskriterien (pl)"
+  },
+  {
+    "english": "appraisal factor",
+    "german": "Beurteilungsfaktor (m)"
+  },
+  {
+    "english": "appraisal factors",
+    "german": "Beurteilungskriterien (pl)"
+  },
+  {
+    "english": "appraisal fee",
+    "german": "Bewertungsgebühr (f)"
+  },
+  {
+    "english": "appraisal fee",
+    "german": "Schätzungsgebühr (f)"
+  },
+  {
+    "english": "appraisal fee",
+    "german": "Gebühr für die Einschätzung (f)"
+  },
+  {
+    "english": "appraisal interview",
+    "german": "Beurteilungsgespräch (n)"
+  },
+  {
+    "english": "appraisal interview",
+    "german": "Mitarbeitergespräch (n)"
+  },
+  {
+    "english": "appraisal interview (admin., jobs)",
+    "german": "Personalgespräch (n)"
+  },
+  {
+    "english": "appraisal interview (jobs)",
+    "german": "Mitarbeiter-Beurteilungsgespräch (n)"
+  },
+  {
+    "english": "appraisal procedure",
+    "german": "Bewertungsverfahren (n)"
+  },
+  {
+    "english": "appraisal process",
+    "german": "Beurteilungsprozess (m)"
+  },
+  {
+    "english": "appraisal process (QM)",
+    "german": "Bewertungsprozess (m)"
+  },
+  {
+    "english": "appraisal report",
+    "german": "Bewertungsgutachten (n)"
+  },
+  {
+    "english": "appraisal report",
+    "german": "Gutachten der Schätzung (n)"
+  },
+  {
+    "english": "appraisal report",
+    "german": "Gutachten eines Schätzers (n)"
+  },
+  {
+    "english": "appraisal session",
+    "german": "Auswertungsgespräch (n)"
+  },
+  {
+    "english": "appraisal system",
+    "german": "Bewertungssystem (n)"
+  },
+  {
+    "english": "appraisal value",
+    "german": "Schätzwert (m)"
+  },
+  {
+    "english": "appraisal well (geol., mining)",
+    "german": "Erwartungsbohrung (Erdl, Lagersttten, f)"
+  },
+  {
+    "english": "critical appraisal (acad., med.)",
+    "german": "kritische Würdigung (Beurteilung, Auswertung, f)"
+  },
+  {
+    "english": "critical appraisal",
+    "german": "kritische Beurteilung / Auswertung (f)"
+  },
+  {
+    "english": "fair appraisal",
+    "german": "angemessener Wert (m)"
+  },
+  {
+    "english": "investment appraisal (fin.)",
+    "german": "Investitionsrechnung (f)"
+  },
+  {
+    "english": "investment appraisal (stocks)",
+    "german": "Wirtschaftlichkeitsrechnung (f)"
+  },
+  {
+    "english": "job appraisal",
+    "german": "Arbeitsbewertung (f)"
+  },
+  {
+    "english": "loan appraisal",
+    "german": "Beurteilung eines Darlehensantrags (f)"
+  },
+  {
+    "english": "negative appraisal",
+    "german": "negative Einschätzung (f)"
+  },
+  {
+    "english": "performance appraisal",
+    "german": "Leistungsbeurteilung (f)"
+  },
+  {
+    "english": "performance appraisal",
+    "german": "Leistungsbewertung (f)"
+  },
+  {
+    "english": "performance appraisal",
+    "german": "Bewertung der Leistung (f)"
+  },
+  {
+    "english": "policy appraisal (pol.)",
+    "german": "Politikfolgenabschätzung (f)"
+  }
+]

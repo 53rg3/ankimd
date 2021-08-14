@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!-- ===================================================================== -->
+<!-- COPY FROM HERE -->
+<!-- ===================================================================== -->
+<link rel="stylesheet" type="text/css" href="ankimd/style.css">
+<div style='display:none' id='markdown'>
+---
+sound: [ankimd/english/some_word.mp3]
+---
+# Heading
+
+- sadfsadf
+    - asdfdfg
+    - asdfdfg
+- qwerweqr
+- sdfgdfsg
+
+| Tables        | Are           |
+| ------------- |:-------------:|
+| **col 3 is**  | right-aligned |
+| col 2 is      | *centered*    |
+| zebra stripes | ~~are neat~~  |
+</div>
+<div id="html"></div>
+
+<script type="application/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
+<script type="application/javascript">
+    var converter = new showdown.Converter({tables: true, strikethrough: true});
+    var elem = document.getElementById("markdown");
+    var html = converter.makeHtml(elem.innerHTML);
+    document.getElementById("html").innerHTML = html;
+</script>
+
+
+<!-- ===================================================================== -->
+<!-- TO HERE -->
+<!-- ===================================================================== -->
+</body>
+</html>

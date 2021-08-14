@@ -1,0 +1,290 @@
+[
+  {
+    "english": "abrasive (adj)",
+    "german": "aggressiv (761)"
+  },
+  {
+    "english": "abrasive (also, fig, adj)",
+    "german": "grob (rau, auch, fig, harsch, 573)"
+  },
+  {
+    "english": "abrasive (adj)",
+    "german": "rau (Oberflche, 521)"
+  },
+  {
+    "english": "abrasive (tech., adj)",
+    "german": "schleifend (Schleifpapier, Schmirgelpapier, usw, 234)"
+  },
+  {
+    "english": "abrasive (adj)",
+    "german": "scheuernd (86)"
+  },
+  {
+    "english": "abrasive (tech., adj)",
+    "german": "abrasiv (14)"
+  },
+  {
+    "english": "abrasive",
+    "german": "Schleifmittel (n, 89)"
+  },
+  {
+    "english": "abrasive",
+    "german": "Scheuermittel (n, 52)"
+  },
+  {
+    "english": "abrasive",
+    "german": "Schmirgelmittel (n, 8)"
+  },
+  {
+    "english": "abrasive (tech.)",
+    "german": "Abrasivstoff (m)"
+  },
+  {
+    "english": "non-abrasive (adj)",
+    "german": "nichtscheuernd"
+  },
+  {
+    "english": "(abrasive) cutting (tech.)",
+    "german": "Flexen (Trennschleifen, n)"
+  },
+  {
+    "english": "abrasive belt (tech.)",
+    "german": "Schleifband (n)"
+  },
+  {
+    "english": "abrasive blasting (constr.)",
+    "german": "abrasives Strahlen (n)"
+  },
+  {
+    "english": "abrasive block",
+    "german": "Schleifstein (m)"
+  },
+  {
+    "english": "abrasive burn (med.)",
+    "german": "Abschürfung (f)"
+  },
+  {
+    "english": "abrasive burn (med.)",
+    "german": "Schürfwunde (f)"
+  },
+  {
+    "english": "abrasive capacity (dent.)",
+    "german": "Abrasionsstärke (f)"
+  },
+  {
+    "english": "abrasive cleaner",
+    "german": "Scheuermittel (eher, fr, technische, Zwecke, n)"
+  },
+  {
+    "english": "abrasive cleaner",
+    "german": "scheuerndes Reinigungsmittel (n)"
+  },
+  {
+    "english": "abrasive cleanser",
+    "german": "Scheuermittel (n)"
+  },
+  {
+    "english": "abrasive cloth (tech.)",
+    "german": "Schleifleinen (n)"
+  },
+  {
+    "english": "abrasive criticism",
+    "german": "harsche Kritik (f)"
+  },
+  {
+    "english": "abrasive criticism",
+    "german": "scharfe Kritik (f)"
+  },
+  {
+    "english": "abrasive cutting (tech.)",
+    "german": "Trennschleifen (n)"
+  },
+  {
+    "english": "abrasive diamond (mineral., tools)",
+    "german": "Schleifdiamant (m)"
+  },
+  {
+    "english": "abrasive disk (dent., Am)",
+    "german": "Schleifscheibe (f)"
+  },
+  {
+    "english": "abrasive dust",
+    "german": "Schleifstaub (m)"
+  },
+  {
+    "english": "abrasive dusts",
+    "german": "Schleifstäube (pl)"
+  },
+  {
+    "english": "abrasive fabric (engin.)",
+    "german": "Schleifvlies (n)"
+  },
+  {
+    "english": "abrasive grain (material)",
+    "german": "Schleifkorn (n)"
+  },
+  {
+    "english": "abrasive hardness (mineral.)",
+    "german": "Ritzhärte (f)"
+  },
+  {
+    "english": "abrasive hardness (MedTech., mineral.)",
+    "german": "Schleifhärte (f)"
+  },
+  {
+    "english": "abrasive material",
+    "german": "Schleifmaterial (n)"
+  },
+  {
+    "english": "abrasive materials (tech.)",
+    "german": "Schleifstoffe (pl)"
+  },
+  {
+    "english": "abrasive pad",
+    "german": "Schleifpad (n)"
+  },
+  {
+    "english": "abrasive paper",
+    "german": "Schleifpapier (n)"
+  },
+  {
+    "english": "abrasive paper",
+    "german": "Schmirgelpapier (n)"
+  },
+  {
+    "english": "abrasive pencil",
+    "german": "Retuschierstift (m)"
+  },
+  {
+    "english": "abrasive pencil",
+    "german": "Schleifstift (m)"
+  },
+  {
+    "english": "abrasive powder (dent.)",
+    "german": "Abrasivpulver (Dentalpulver, fr, Zahnreinigung, n)"
+  },
+  {
+    "english": "abrasive powder",
+    "german": "Schleifpulver (n)"
+  },
+  {
+    "english": "abrasive powder",
+    "german": "Schmirgelpulver (n)"
+  },
+  {
+    "english": "abrasive ring (tech.)",
+    "german": "Schleifring (m)"
+  },
+  {
+    "english": "abrasive sand (tech.)",
+    "german": "Schleifsand (m)"
+  },
+  {
+    "english": "abrasive sand (mineral., tech.)",
+    "german": "Schmirgelsand (m)"
+  },
+  {
+    "english": "abrasive shot",
+    "german": "Stahlschrot (Schleifmittel, m)"
+  },
+  {
+    "english": "abrasive surface",
+    "german": "raue Oberfläche (f)"
+  },
+  {
+    "english": "abrasive tool (tools)",
+    "german": "Schleifwerkzeug (n)"
+  },
+  {
+    "english": "abrasive wear (tech.)",
+    "german": "Abrasionsverschleiß (m)"
+  },
+  {
+    "english": "abrasive wear (dent.)",
+    "german": "abrasiver Verschleiß (m)"
+  },
+  {
+    "english": "abrasive wheel",
+    "german": "Schleifscheibe (f)"
+  },
+  {
+    "english": "blasting abrasive (tech.)",
+    "german": "Strahlmittel (n)"
+  },
+  {
+    "english": "flour abrasive",
+    "german": "Schleifpulver (n)"
+  },
+  {
+    "english": "garnet abrasive (geol., mineral.)",
+    "german": "Schleifgranat (m)"
+  },
+  {
+    "english": "lapping abrasive (tech.)",
+    "german": "Läppmittel (n)"
+  },
+  {
+    "english": "metal abrasive",
+    "german": "Stahlschrot (Schleifmittel, m)"
+  },
+  {
+    "english": "steel abrasive",
+    "german": "Stahlschrot (Schleifmittel, m)"
+  },
+  {
+    "english": "abrasive blast cleaning (tech.)",
+    "german": "Reinigungsstrahlen (n)"
+  },
+  {
+    "english": "abrasive cleaning powder",
+    "german": "Scheuerpulver (n)"
+  },
+  {
+    "english": "abrasive engineering practice (geol., tech.)",
+    "german": "Schleif- und Poliertechnik (f)"
+  },
+  {
+    "english": "abrasive hardness test (mineral.)",
+    "german": "Ritzhärteprüfung (f)"
+  },
+  {
+    "english": "abrasive polishing paste (dent.)",
+    "german": "Polierpaste (f)"
+  },
+  {
+    "english": "dental abrasive strip (dent.)",
+    "german": "Dentalschleifband (n)"
+  },
+  {
+    "english": "mildly abrasive cleaner",
+    "german": "milde Scheuermilch (f)"
+  },
+  {
+    "english": "non-abrasive toothpaste (dent.)",
+    "german": "sanfte Zahncreme (f)"
+  },
+  {
+    "english": "non-abrasive toothpaste (dent.)",
+    "german": "sensitive Zahncreme (f)"
+  },
+  {
+    "english": "non-abrasive toothpaste (dent.)",
+    "german": "nicht scheuernde Zahncreme (f)"
+  },
+  {
+    "english": "abrasive cut-off machine (tech.)",
+    "german": "Trennschleifmaschine (f)"
+  },
+  {
+    "english": "abrasive water jet cutting (tech.)",
+    "german": "Abrasivwasserstrahlschneiden (n)"
+  },
+  {
+    "english": "self-adhesive abrasive strips (automot., material)",
+    "german": "selbstklebende Sandpapierstreifen (pl)"
+  },
+  {
+    "english": "(abrasive) blasting with granular material (tech.)",
+    "german": "Granulatstrahlen (n)"
+  }
+]

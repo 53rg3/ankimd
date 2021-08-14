@@ -1,0 +1,266 @@
+[
+  {
+    "english": "to latch",
+    "german": "verriegeln (601)"
+  },
+  {
+    "english": "to latch",
+    "german": "einrasten (388)"
+  },
+  {
+    "english": "to latch",
+    "german": "einklinken (Tr, etc, 213)"
+  },
+  {
+    "english": "to latch",
+    "german": "sperren (59)"
+  },
+  {
+    "english": "to latch",
+    "german": "zuschnappen (55)"
+  },
+  {
+    "english": "to latch",
+    "german": "schließen (sperren, 33)"
+  },
+  {
+    "english": "to latch (door)",
+    "german": "zuklinken (30)"
+  },
+  {
+    "english": "to latch",
+    "german": "zuschnappen lassen"
+  },
+  {
+    "english": "latch",
+    "german": "Riegel (m, 484)"
+  },
+  {
+    "english": "latch",
+    "german": "Klinke (f, 295)"
+  },
+  {
+    "english": "latch",
+    "german": "Verriegelung (f, 164)"
+  },
+  {
+    "english": "latch",
+    "german": "Schnappverschluss (m, 45)"
+  },
+  {
+    "english": "latch",
+    "german": "Sicherheitsschloss (n, 30)"
+  },
+  {
+    "english": "latch (tech.)",
+    "german": "Falle (f, 25)"
+  },
+  {
+    "english": "latch",
+    "german": "Sperre (f, 19)"
+  },
+  {
+    "english": "latch",
+    "german": "Anschlag (m, 17)"
+  },
+  {
+    "english": "latch",
+    "german": "Schnappriegel (m, 12)"
+  },
+  {
+    "english": "latch (comp.)",
+    "german": "Auffangregister (n, 10)"
+  },
+  {
+    "english": "latch (tech., mechanical, fastener, for, securing, a, movable, part)",
+    "german": "Arretierung (Vorrichtung, zum, Feststellen, Sperren, oder, Blockieren, eines, beweglichen, Teils, f, 7)"
+  },
+  {
+    "english": "latch (electr.)",
+    "german": "Klinkenschalter (FlipflopTyp, taktpegelgesteuerter, Baustein, nicht, flankengesteuert, m, 6)"
+  },
+  {
+    "english": "latch",
+    "german": "Schnapper (Tr, m, 6)"
+  },
+  {
+    "english": "latch",
+    "german": "Signalspeicher (m, 5)"
+  },
+  {
+    "english": "latch (spec.)",
+    "german": "Latch (m)"
+  },
+  {
+    "english": "latch (tech.)",
+    "german": "Rastklinke (f)"
+  },
+  {
+    "english": "latch (tech.)",
+    "german": "Schnäpper (regional, fr, Schnappschloss, m)"
+  },
+  {
+    "english": "latch",
+    "german": "Verschlusshebel (m)"
+  },
+  {
+    "english": "to latch on",
+    "german": "mitkriegen (ugs, verstehen)"
+  },
+  {
+    "english": "to latch on",
+    "german": "verstehen"
+  },
+  {
+    "english": "to latch on (baby)",
+    "german": "andocken (Sugling, ugs, mit, dem, Mund, guten, Halt, an, der, Brustwarze, finden)"
+  },
+  {
+    "english": "to latch on (coll)",
+    "german": "kapieren (ugs)"
+  },
+  {
+    "english": "to latch on sb. (baby)",
+    "german": "jdn. anlegen (Sugling)"
+  },
+  {
+    "english": "to latch onto sb.",
+    "german": "sich an jdn. hängen"
+  },
+  {
+    "english": "to latch onto sth.",
+    "german": "etw. übernehmen"
+  },
+  {
+    "english": "to latch onto sth. (coll, understand)",
+    "german": "etw. kapieren (ugs)"
+  },
+  {
+    "english": "to latch onto sth. (fig)",
+    "german": "sich an etw.Dat. hochziehen (fig)"
+  },
+  {
+    "english": "address latch",
+    "german": "Adresseneingangsregister (n)"
+  },
+  {
+    "english": "barrel latch (weapons)",
+    "german": "Laufverriegelung (f)"
+  },
+  {
+    "english": "butterfly latch",
+    "german": "Butterfly (Butterflyverschluss, m)"
+  },
+  {
+    "english": "door latch",
+    "german": "Türriegel (m)"
+  },
+  {
+    "english": "ejector latch (electr.)",
+    "german": "Auswerferhebel (Stecker, m)"
+  },
+  {
+    "english": "gate latch",
+    "german": "Torriegel (m)"
+  },
+  {
+    "english": "latch bolt",
+    "german": "Schnäpper (Trverriegler, am, Schloss, m)"
+  },
+  {
+    "english": "latch circuit",
+    "german": "Verriegelungsschaltung (f)"
+  },
+  {
+    "english": "latch contact",
+    "german": "Sperrkontakt (m)"
+  },
+  {
+    "english": "latch lock (tech.)",
+    "german": "Rastklötzchen (n)"
+  },
+  {
+    "english": "latch lock (tech.)",
+    "german": "Schnappschloss (n)"
+  },
+  {
+    "english": "latch needle (ind., textil.)",
+    "german": "Zungennadel (f)"
+  },
+  {
+    "english": "latch pin (tech.)",
+    "german": "Rastbolzen (m)"
+  },
+  {
+    "english": "latch relay",
+    "german": "Verriegelungsrelais (n)"
+  },
+  {
+    "english": "latch screw (tech.)",
+    "german": "Rastschraube (f)"
+  },
+  {
+    "english": "latch trip",
+    "german": "Entriegelung (f)"
+  },
+  {
+    "english": "magnetic latch",
+    "german": "Magnetverschluss (m)"
+  },
+  {
+    "english": "signal latch (electr.)",
+    "german": "Signalspeicher (m)"
+  },
+  {
+    "english": "slide latch",
+    "german": "Schiebeverriegelung (f)"
+  },
+  {
+    "english": "steel latch",
+    "german": "Stahlriegel (Schloss, m)"
+  },
+  {
+    "english": "withdrawal latch (MedTech.)",
+    "german": "Entnahmeklinke (Entnahmesperre, f)"
+  },
+  {
+    "english": "withdrawal latch (MedTech.)",
+    "german": "Entnahmesperre (f)"
+  },
+  {
+    "english": "to latch on to sb./sth. (also, fig)",
+    "german": "sichAkk. an jdn./etw. hängen (klammern, auch, fig)"
+  },
+  {
+    "english": "to latch on to sth. (coll, understand)",
+    "german": "etw. überzuckern (sterr, ugs, kapieren)"
+  },
+  {
+    "english": "to latch on to sth. (coll, understand)",
+    "german": "etw. kapieren (ugs)"
+  },
+  {
+    "english": "to latch on to sth. (hold, on)",
+    "german": "sichAkk. an etw.Dat. festhalten"
+  },
+  {
+    "english": "divisor latch low",
+    "german": "niederwertiger Teiler (m)"
+  },
+  {
+    "english": "panic bar latch",
+    "german": "Paniktreibriegel (Tren, m)"
+  },
+  {
+    "english": "pedal adjustment latch (aviat.)",
+    "german": "Pedalstellungsraster (Seitenruder, n)"
+  },
+  {
+    "english": "to be off the latch",
+    "german": "(nur) angelehnt sein (Tr)"
+  },
+  {
+    "english": "to be on the latch (door)",
+    "german": "eingeklinkt sein (Tr)"
+  }
+]

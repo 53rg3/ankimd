@@ -1,0 +1,58 @@
+[
+  {
+    "english": "automaton",
+    "german": "Automat (m, 71)"
+  },
+  {
+    "english": "automaton",
+    "german": "Roboter (m, 55)"
+  },
+  {
+    "english": "automaton (mus.)",
+    "german": "Musikautomat (m, 13)"
+  },
+  {
+    "english": "cellular automaton (biol.)",
+    "german": "zellulärer Automat (m)"
+  },
+  {
+    "english": "chess automaton (games, tech.)",
+    "german": "Schachautomat (m)"
+  },
+  {
+    "english": "cloud automaton (hist., meteo., tools)",
+    "german": "Wolkenautomat (m)"
+  },
+  {
+    "english": "finite automaton",
+    "german": "Zustandsautomat (m)"
+  },
+  {
+    "english": "kinetic automaton",
+    "german": "Bewegungsautomat (m)"
+  },
+  {
+    "english": "pushdown automaton \u003cPDA\u003e (comp.)",
+    "german": "Kellerautomat \u003cKA\u003e (m)"
+  },
+  {
+    "english": "automaton chess player (games)",
+    "german": "Schachautomat (m)"
+  },
+  {
+    "english": "automaton chess-player (games)",
+    "german": "Schachautomat (m)"
+  },
+  {
+    "english": "deterministic finite automaton \u003cDFA\u003e (comp.)",
+    "german": "deterministischer endlicher Automat \u003cDEA\u003e (m)"
+  },
+  {
+    "english": "finite state automaton (comp.)",
+    "german": "endlicher Automat (m)"
+  },
+  {
+    "english": "nondeterministic finite automaton \u003cNFA\u003e (comp.)",
+    "german": "nichtdeterministischer endlicher Automat \u003cNEA\u003e (m)"
+  }
+]

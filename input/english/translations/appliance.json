@@ -1,0 +1,246 @@
+[
+  {
+    "english": "appliance",
+    "german": "Gerät (n, 2398)"
+  },
+  {
+    "english": "appliance",
+    "german": "Vorrichtung (f, 642)"
+  },
+  {
+    "english": "appliance",
+    "german": "Haushaltsgerät (n, 456)"
+  },
+  {
+    "english": "appliance",
+    "german": "Instrument (n, 92)"
+  },
+  {
+    "english": "appliance (action, process)",
+    "german": "Mittel (Anwendung, Methode, n, 90)"
+  },
+  {
+    "english": "appliance (FireResc, Br, fire, engine)",
+    "german": "Löschfahrzeug (n, 11)"
+  },
+  {
+    "english": "appliance (comp., spec.)",
+    "german": "Appliance (f, 9)"
+  },
+  {
+    "english": "appliance-based (tech., tools, adj)",
+    "german": "gerätebasiert"
+  },
+  {
+    "english": "appliance class (tech.)",
+    "german": "Geräteklasse (f)"
+  },
+  {
+    "english": "appliance combination (tech.)",
+    "german": "Gerätekombination (f)"
+  },
+  {
+    "english": "appliance generation (tech.)",
+    "german": "Gerätegeneration (f)"
+  },
+  {
+    "english": "appliance group (tech.)",
+    "german": "Gerätegruppe (f)"
+  },
+  {
+    "english": "appliance industry (ind.)",
+    "german": "Geräteindustrie (f)"
+  },
+  {
+    "english": "appliance industry (electr., ind.)",
+    "german": "Haushaltsgeräteindustrie (f)"
+  },
+  {
+    "english": "appliance inlet (electr.)",
+    "german": "Gerätestecker (m)"
+  },
+  {
+    "english": "appliance manufacturer (ind.)",
+    "german": "Haushaltsgerätehersteller (m)"
+  },
+  {
+    "english": "appliance outlet (electr.)",
+    "german": "Gerätesteckdose (f)"
+  },
+  {
+    "english": "appliance repair (tech.)",
+    "german": "Reparatur von Haushaltsgeräten (f)"
+  },
+  {
+    "english": "appliance room",
+    "german": "Gerätehaus (n)"
+  },
+  {
+    "english": "bruxism appliance (dent., occlusal, bite, guard)",
+    "german": "Bruxismusschiene (f)"
+  },
+  {
+    "english": "cooling appliance",
+    "german": "Kühlgerät (n)"
+  },
+  {
+    "english": "domestic appliance",
+    "german": "Haushaltsgerät (n)"
+  },
+  {
+    "english": "electric appliance (electr.)",
+    "german": "Elektrogerät (n)"
+  },
+  {
+    "english": "fire appliance (FireResc, Br)",
+    "german": "Feuerwehrfahrzeug (n)"
+  },
+  {
+    "english": "heating appliance",
+    "german": "Heizgerät (n)"
+  },
+  {
+    "english": "home appliance",
+    "german": "Haushaltsgerät (n)"
+  },
+  {
+    "english": "home appliance",
+    "german": "Haushaltsware (f)"
+  },
+  {
+    "english": "household appliance",
+    "german": "Hausgerät (n)"
+  },
+  {
+    "english": "household appliance",
+    "german": "Haushaltsgerät (n)"
+  },
+  {
+    "english": "kitchen appliance",
+    "german": "Küchengerät (n)"
+  },
+  {
+    "english": "lighting appliance (electr.)",
+    "german": "Beleuchtungskörper (m)"
+  },
+  {
+    "english": "multiband appliance (dent.)",
+    "german": "Multibandapparatur (f)"
+  },
+  {
+    "english": "multibracket appliance (dent.)",
+    "german": "Multibracketapparatur (f)"
+  },
+  {
+    "english": "occlusal appliance (dent.)",
+    "german": "Okklusionsschiene (f)"
+  },
+  {
+    "english": "orthodontic appliance (dent.)",
+    "german": "kieferorthopädisches Regulierungsgerät (n)"
+  },
+  {
+    "english": "orthodontic appliance (dent.)",
+    "german": "orthodontische Apparatur (f)"
+  },
+  {
+    "english": "plate appliance (dent.)",
+    "german": "Plattenapparatur (f)"
+  },
+  {
+    "english": "rental appliance",
+    "german": "Mietgerät (n)"
+  },
+  {
+    "english": "retention appliance (dent., MedTech.)",
+    "german": "Retentionsapparat (m)"
+  },
+  {
+    "english": "temporary appliance (dent.)",
+    "german": "Provisorium (n)"
+  },
+  {
+    "english": "ventilation appliance",
+    "german": "Lüftungseinrichtung (f)"
+  },
+  {
+    "english": "working appliance",
+    "german": "Arbeitsmittel (n)"
+  },
+  {
+    "english": "to connect an appliance",
+    "german": "ein Gerät anschließen"
+  },
+  {
+    "english": "(appliance) rating plate (tech.)",
+    "german": "Geräteschild (n)"
+  },
+  {
+    "english": "(electrical) appliance store",
+    "german": "Elektroladen (ugs, m)"
+  },
+  {
+    "english": "(household) appliance store (comm.)",
+    "german": "Haushaltswarengeschäft (n)"
+  },
+  {
+    "english": "anti-snoring appliance (dent.)",
+    "german": "Schnarchschiene (f)"
+  },
+  {
+    "english": "condensing appliance technology (ind.)",
+    "german": "Brennwerttechnik (f)"
+  },
+  {
+    "english": "fire fighting appliance (FireResc)",
+    "german": "Feuerlöschgerät (n)"
+  },
+  {
+    "english": "fire-protection appliance (FireResc, tech.)",
+    "german": "Brandschutzeinrichtung (f)"
+  },
+  {
+    "english": "fixed (orthodontic) appliance (dent.)",
+    "german": "festsitzende (orthodontische) Apparatur (f)"
+  },
+  {
+    "english": "functional orthopaedic appliance (dent., Br)",
+    "german": "funktionskieferorthopädisches Gerät \u003cFKO-Gerät\u003e (n)"
+  },
+  {
+    "english": "functional orthopedic appliance (dent., Am)",
+    "german": "funktionskieferorthopädisches Gerät \u003cFKO-Gerät\u003e (n)"
+  },
+  {
+    "english": "heat-producing appliance",
+    "german": "Feuerstätte (f)"
+  },
+  {
+    "english": "heat-producing appliance",
+    "german": "Wärmeversorgungsanlage (f)"
+  },
+  {
+    "english": "removable (orthodontic) appliance (dent.)",
+    "german": "herausnehmbare (orthodontische) Apparatur (f)"
+  },
+  {
+    "english": "type of appliance (tech.)",
+    "german": "Gerätetyp (m)"
+  },
+  {
+    "english": "appliance leakage current interrupter \u003cALCI\u003e (electr.)",
+    "german": "Fehlerstromschutzschalter \u003cFl-Schutzschalter, FI-Schalter\u003e (m)"
+  },
+  {
+    "english": "long-term temporary appliance (dent.)",
+    "german": "Langzeitprovisorium (n)"
+  },
+  {
+    "english": "twin (wire) arch appliance (dent.)",
+    "german": "Zwillingsbogen (m)"
+  },
+  {
+    "english": "The attained bite position is transferred 1:1 to the initial temporary appliance. (dent.)",
+    "german": "Die erreichte Bissposition wird 1:1 in die provisorische Erstversorgung übertragen."
+  }
+]

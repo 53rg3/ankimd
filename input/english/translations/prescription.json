@@ -1,0 +1,202 @@
+[
+  {
+    "english": "prescription (pharm., attr, adj)",
+    "german": "verschreibungspflichtig (307)"
+  },
+  {
+    "english": "prescription (med., pharm.)",
+    "german": "Rezept (n, 3588)"
+  },
+  {
+    "english": "prescription (law)",
+    "german": "Verjährung (f, 903)"
+  },
+  {
+    "english": "prescription (med.)",
+    "german": "Verschreibung (f, 382)"
+  },
+  {
+    "english": "prescription",
+    "german": "Vorschrift (f, 315)"
+  },
+  {
+    "english": "prescription (med.)",
+    "german": "Verordnung (f, 211)"
+  },
+  {
+    "english": "prescription (med.)",
+    "german": "Ordination (med, Verordnung, f, 11)"
+  },
+  {
+    "english": "prescription (med.)",
+    "german": "Präskription (f, 8)"
+  },
+  {
+    "english": "prescription (med., pharm.)",
+    "german": "ärztliches Rezept (n)"
+  },
+  {
+    "english": "non-prescription (pharm., adj)",
+    "german": "rezeptfrei"
+  },
+  {
+    "english": "non-prescription (pharm., attr, adj)",
+    "german": "nicht verschreibungspflichtig"
+  },
+  {
+    "english": "on prescription (pharm., adv)",
+    "german": "auf Rezept"
+  },
+  {
+    "english": "prescription-based (med., adj)",
+    "german": "auf Basis / Grundlage eines Rezepts"
+  },
+  {
+    "english": "prescription-only (pharm., attr, adj)",
+    "german": "verschreibungspflichtig"
+  },
+  {
+    "english": "(medical) prescription (med.)",
+    "german": "Rezeptierung (f)"
+  },
+  {
+    "english": "acquisitive prescription (law)",
+    "german": "Ersitzung (f)"
+  },
+  {
+    "english": "blue prescription (med., pharm., Germany)",
+    "german": "Blaues Rezept (Privatrezept, n)"
+  },
+  {
+    "english": "doctor\u0027s prescription (med.)",
+    "german": "ärztliches Rezept (n)"
+  },
+  {
+    "english": "drug prescription (med., pharm.)",
+    "german": "Arzneiverordnung (Verschreibung, eines, Medikaments, f)"
+  },
+  {
+    "english": "eyeglass prescription (med.)",
+    "german": "Brillenpass (m)"
+  },
+  {
+    "english": "green prescription (dent., med.)",
+    "german": "Grünes Rezept (vom, Arzt, verordnet, vom, Patienten, selbst, zu, zahlen, n)"
+  },
+  {
+    "english": "heroin prescription (med.)",
+    "german": "Heroinabgabe (f)"
+  },
+  {
+    "english": "heroin prescription (med.)",
+    "german": "Heroinverschreibung (f)"
+  },
+  {
+    "english": "lens prescription (med.)",
+    "german": "Linsenverordnung (f)"
+  },
+  {
+    "english": "medical prescription",
+    "german": "ärztliche Verordnung (f)"
+  },
+  {
+    "english": "narcotic prescription (pharm.)",
+    "german": "Betäubungsmittelrezept \u003cBtM-Rezept\u003e (n)"
+  },
+  {
+    "english": "prescription book (pharm.)",
+    "german": "Rezeptbuch (zur, Verordnung, von, Medikamenten, n)"
+  },
+  {
+    "english": "prescription budget (med.)",
+    "german": "Arzneimittelbudget (n)"
+  },
+  {
+    "english": "prescription charge",
+    "german": "Rezeptgebühr (f)"
+  },
+  {
+    "english": "prescription drug (pharm.)",
+    "german": "verschreibungspflichtiges Medikament (n)"
+  },
+  {
+    "english": "prescription drugs (pharm.)",
+    "german": "verschreibungspflichtige Arzneimittel (pl)"
+  },
+  {
+    "english": "prescription drugs (pharm.)",
+    "german": "verschreibungspflichtige Medikamente (pl)"
+  },
+  {
+    "english": "prescription form (med., pharm.)",
+    "german": "Rezeptformular (n)"
+  },
+  {
+    "english": "prescription market (med., pharm.)",
+    "german": "Verordnungsmarkt (RxMarkt, m)"
+  },
+  {
+    "english": "prescription medication (pharm.)",
+    "german": "verschreibungspflichtiges Medikament (n)"
+  },
+  {
+    "english": "prescription medicine (med., pharm.)",
+    "german": "verschreibungspflichtiges Medikament (n)"
+  },
+  {
+    "english": "prescription pad (med., pharm.)",
+    "german": "Rezeptblock (m)"
+  },
+  {
+    "english": "prescription paper (med., pharm.)",
+    "german": "Rezeptformular (n)"
+  },
+  {
+    "english": "prescription policy (med.)",
+    "german": "Verschreibungspolitik (f)"
+  },
+  {
+    "english": "prescription prevalence (med.)",
+    "german": "Verordnungsprävalenz (f)"
+  },
+  {
+    "english": "prescription requirement (med., pharm.)",
+    "german": "Rezeptpflicht (f)"
+  },
+  {
+    "english": "prescription requirement (med., pharm.)",
+    "german": "Verschreibungspflicht (sterreich, Rezeptpflicht, f)"
+  },
+  {
+    "english": "repeat prescription (med.)",
+    "german": "Wiederholungsrezept (n)"
+  },
+  {
+    "english": "repeat prescription (med., Br)",
+    "german": "Dauerrezept (n)"
+  },
+  {
+    "english": "symptom prescription (psych.)",
+    "german": "Symptomverschreibung (f)"
+  },
+  {
+    "english": "according to prescription (pharm., adv)",
+    "german": "verschreibungsgemäß"
+  },
+  {
+    "english": "available without prescription (pharm., postpos, adj)",
+    "german": "ohne Rezept erhältlich"
+  },
+  {
+    "english": "by (medical) prescription (med., adv)",
+    "german": "auf ärztliche Anordnung \u003caäA\u003e"
+  },
+  {
+    "english": "end of prescription (traffic, TrVocab., parking, road, sign)",
+    "german": "Endetafel (schweiz, Halte, und, Parkierungsverbote, Straenschild)"
+  },
+  {
+    "english": "to fill a prescription",
+    "german": "einer Vorschrift nachkommen"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "english": "vapor (Am)",
+    "german": "Dampf (m, 586)"
+  },
+  {
+    "english": "vapor (Am)",
+    "german": "Dunst (m, 492)"
+  },
+  {
+    "english": "vapor (Am, fig)",
+    "german": "Wahn (m, 40)"
+  },
+  {
+    "english": "vapor (Am)",
+    "german": "Verdampfung (f, 33)"
+  },
+  {
+    "english": "vapor (Am)",
+    "german": "Schwaden (m, 21)"
+  },
+  {
+    "english": "vapor (Am)",
+    "german": "Brodem (geh, m, 5)"
+  },
+  {
+    "english": "to vapor deposit (Am)",
+    "german": "aufdampfen"
+  },
+  {
+    "english": "aqueous vapor (Am)",
+    "german": "Wasserdampf (m)"
+  },
+  {
+    "english": "dry vapor (Am)",
+    "german": "Trockendampf (m)"
+  },
+  {
+    "english": "dry vapor (Am)",
+    "german": "trockener Dampf (m)"
+  },
+  {
+    "english": "extinguishing vapor (FireResc, Am)",
+    "german": "Löschdampf (m)"
+  },
+  {
+    "english": "mercury vapor (chem., Am)",
+    "german": "Quecksilberdampf (m)"
+  },
+  {
+    "english": "oil vapor (Am)",
+    "german": "Öldampf (m)"
+  },
+  {
+    "english": "sodium vapor (Am)",
+    "german": "Natriumdampf (m)"
+  },
+  {
+    "english": "vapor barrier (tech., Am)",
+    "german": "Dampfsperre (f)"
+  },
+  {
+    "english": "vapor bath (Am)",
+    "german": "Dampfbad (n)"
+  },
+  {
+    "english": "vapor chamber (Am)",
+    "german": "Dampfkammer (f)"
+  },
+  {
+    "english": "vapor density (Am)",
+    "german": "Dampfdichte (f)"
+  },
+  {
+    "english": "vapor deposition (Am)",
+    "german": "Aufdampfung (f)"
+  },
+  {
+    "english": "vapor filter (automot., tech., Am)",
+    "german": "Dampffilter (m)"
+  },
+  {
+    "english": "vapor hood (Am)",
+    "german": "Dampfhaube (f)"
+  },
+  {
+    "english": "vapor lock (automot., tech., Am)",
+    "german": "Dampfblasenbildung (f)"
+  },
+  {
+    "english": "vapor phase (chem., phys., Am)",
+    "german": "Dampfphase (f)"
+  },
+  {
+    "english": "vapor pressure (Am)",
+    "german": "Dampfdruck (m)"
+  },
+  {
+    "english": "vapor pressure (phys., Am)",
+    "german": "Dampfspannung (f)"
+  },
+  {
+    "english": "vapor retarder (tech., Am)",
+    "german": "Dampfbremse (f)"
+  },
+  {
+    "english": "vapor trail (aviat., Am)",
+    "german": "Kondensstreifen (m)"
+  },
+  {
+    "english": "water vapor (Am)",
+    "german": "Wasserdampf (m)"
+  },
+  {
+    "english": "(sodium) vapor lamp (electr., Am)",
+    "german": "Natriumdampflampe (f)"
+  },
+  {
+    "english": "acid vapor lysis (Am)",
+    "german": "Säuredampflyse (f)"
+  },
+  {
+    "english": "aluminum vapor plating (material, tech., Am)",
+    "german": "Aluminiumbedampfung (f)"
+  },
+  {
+    "english": "chemical vapor deposition \u003cCVD\u003e (tech., Am)",
+    "german": "chemische Gasphasenabscheidung (f)"
+  },
+  {
+    "english": "mechanical vapor recompression \u003cMVR\u003e (Am)",
+    "german": "mechanische Brüdenkompression (f)"
+  },
+  {
+    "english": "mercury vapor lamp (Am)",
+    "german": "Quecksilberdampflampe (f)"
+  },
+  {
+    "english": "mercury vapor rectifier (electr., Am)",
+    "german": "Quecksilberdampfgleichrichter (m)"
+  },
+  {
+    "english": "mercury-vapor lamp (Am)",
+    "german": "Arons\u0027sche Röhre (f)"
+  },
+  {
+    "english": "physical vapor deposition \u003cPVD\u003e (phys., Am)",
+    "german": "physikalische Gasphasenabscheidung \u003cPGA\u003e (f)"
+  },
+  {
+    "english": "saturated vapor line (phys., Am)",
+    "german": "Taulinie (f)"
+  },
+  {
+    "english": "saturated vapor pressure (phys., Am)",
+    "german": "Sättigungsdampfdruck (m)"
+  },
+  {
+    "english": "saturated vapor pressure (Am)",
+    "german": "Sättigungsdruck (m)"
+  },
+  {
+    "english": "vapor phase soldering (Am)",
+    "german": "Dampfphasenlötung (f)"
+  },
+  {
+    "english": "vapor phase soldering \u003cVPS\u003e (electr., tech., Am)",
+    "german": "Dampfphasenlöten (n)"
+  },
+  {
+    "english": "vapor pressure equalization (tech., Am)",
+    "german": "Dampfdruckausgleich (m)"
+  },
+  {
+    "english": "vapor pressure thermometer (Am)",
+    "german": "Dampfdruckthermometer (n)"
+  },
+  {
+    "english": "vapor-blast equipment (Am)",
+    "german": "Atümat / (Wasser, SandStrahleinrichtung, m)"
+  },
+  {
+    "english": "water vapor capacity (meteo., Am)",
+    "german": "Wasserdampfkapazität (f)"
+  },
+  {
+    "english": "water vapor concentration (Am)",
+    "german": "Wasserdampfkonzentration (auch, WasserdampfKonzentration, f)"
+  },
+  {
+    "english": "water vapor content (meteo., Am)",
+    "german": "Wasserdampfgehalt (m)"
+  },
+  {
+    "english": "water vapor convection (constr., Am)",
+    "german": "Wasserdampfkonvektion (f)"
+  },
+  {
+    "english": "water vapor diffusion (constr., phys., Am)",
+    "german": "Wasserdampfdiffusion (f)"
+  },
+  {
+    "english": "water vapor permeability \u003cWVP\u003e (tech., Am)",
+    "german": "Wasserdampfdurchlässigkeit \u003cWDD\u003e (f)"
+  },
+  {
+    "english": "water vapor permeability \u003cWVP\u003e (phys., Am)",
+    "german": "Wasserdampfpermeabilität (f)"
+  },
+  {
+    "english": "water vapor pressure (Am)",
+    "german": "Wasserdampfdruck (m)"
+  },
+  {
+    "english": "water vapor retarder (Am)",
+    "german": "Wasserdampfbremse (f)"
+  },
+  {
+    "english": "impervious to water vapor (Am, adj)",
+    "german": "wasserdampfundurchlässig (allg)"
+  },
+  {
+    "english": "permeable to water vapor (Am, adj)",
+    "german": "wasserdampfdurchlässig"
+  },
+  {
+    "english": "combustion chemical vapor deposition \u003cCCVD\u003e (tech.)",
+    "german": "Flammenbeschichtung (f)"
+  },
+  {
+    "english": "combustion chemical vapor deposition \u003cCCVD\u003e (tech.)",
+    "german": "flammenpyrolytische Beschichtung (f)"
+  },
+  {
+    "english": "metal-vapor discharge lamp (electr., Am)",
+    "german": "Metalldampfentladungslampe (f)"
+  },
+  {
+    "english": "water vapor dew point (Am)",
+    "german": "Wasserdampftaupunkt (m)"
+  },
+  {
+    "english": "water vapor partial pressure (phys., Am)",
+    "german": "Wasserdampfpartialdruck (m)"
+  },
+  {
+    "english": "zinc vapor deposition line (tech., Am)",
+    "german": "Zinkaufdampfanlage (f)"
+  },
+  {
+    "english": "zinc vapor deposition section (tech., Am)",
+    "german": "Zinkaufdampfbereich (m)"
+  },
+  {
+    "english": "The getting of treasures by a lying tongue is a fleeting vapor and a snare of death. (bibl., relig., Proverbs, Darby, Bible, Translation)",
+    "german": "Wer Schätze sammelt mit Lügen, der wird fehlgehen und ist unter denen, die den Tod suchen. (Sprche, Luther, 1912)"
+  },
+  {
+    "english": "absorption due to water vapor (Am)",
+    "german": "Wasserdampfabsorption (f)"
+  }
+]

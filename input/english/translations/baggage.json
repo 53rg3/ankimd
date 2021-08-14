@@ -1,0 +1,298 @@
+[
+  {
+    "english": "baggage",
+    "german": "Gepäck (n, 1662)"
+  },
+  {
+    "english": "baggage (travel)",
+    "german": "Reisegepäck (n, 106)"
+  },
+  {
+    "english": "baggage (psych., coll, fig)",
+    "german": "Ballast (fig, m, 30)"
+  },
+  {
+    "english": "baggage (travel)",
+    "german": "Bagage (veraltet, f, 15)"
+  },
+  {
+    "english": "(flight) baggage (aviat., TrVocab.)",
+    "german": "Fluggepäck (n)"
+  },
+  {
+    "english": "baggage (train) (mil.)",
+    "german": "Tross (m)"
+  },
+  {
+    "english": "baggage allowance (aviat., travel)",
+    "german": "Freigepäck (n)"
+  },
+  {
+    "english": "baggage car (rail, Am)",
+    "german": "Gepäckwagen (m)"
+  },
+  {
+    "english": "baggage carousel",
+    "german": "Gepäckförderband (auf, Flughfen, n)"
+  },
+  {
+    "english": "baggage carousel",
+    "german": "Gepäckkarussell (n)"
+  },
+  {
+    "english": "baggage cart (transp., travel, Am)",
+    "german": "Gepäckwagen (Kofferkuli, m)"
+  },
+  {
+    "english": "baggage cart (transp., travel, Am)",
+    "german": "Kofferkuli (m)"
+  },
+  {
+    "english": "baggage check (travel, Am)",
+    "german": "Gepäckaufbewahrung (Raum, f)"
+  },
+  {
+    "english": "baggage check (Am)",
+    "german": "Gepäckschein (m)"
+  },
+  {
+    "english": "baggage claim",
+    "german": "Gepäckausgabe (f)"
+  },
+  {
+    "english": "baggage claim (TrVocab.)",
+    "german": "Gepäckrückgabe (z, B, am, Flughafen, f)"
+  },
+  {
+    "english": "baggage compartment (rail)",
+    "german": "Gepäckabteil (n)"
+  },
+  {
+    "english": "baggage counter (aviat., rail)",
+    "german": "Gepäckschalter (m)"
+  },
+  {
+    "english": "baggage excess (travel)",
+    "german": "Mehrgepäck (n)"
+  },
+  {
+    "english": "baggage handler",
+    "german": "Gepäckabfertiger (m)"
+  },
+  {
+    "english": "baggage handling",
+    "german": "Gepäckabfertigung (f)"
+  },
+  {
+    "english": "baggage insurance (insur.)",
+    "german": "Gepäckversicherung (f)"
+  },
+  {
+    "english": "baggage loading (aviat.)",
+    "german": "Gepäckverladung (f)"
+  },
+  {
+    "english": "baggage pickup",
+    "german": "Gepäckausgabe (f)"
+  },
+  {
+    "english": "baggage porter (jobs)",
+    "german": "Gepäckträger (m)"
+  },
+  {
+    "english": "baggage rack",
+    "german": "Gepäckablage (f)"
+  },
+  {
+    "english": "baggage rack",
+    "german": "Gepäcknetz (n)"
+  },
+  {
+    "english": "baggage reclaim",
+    "german": "Gepäckausgabe (f)"
+  },
+  {
+    "english": "baggage room",
+    "german": "Gepäckaufbewahrung (Gepckraum, f)"
+  },
+  {
+    "english": "baggage storage (travel)",
+    "german": "Gepäckaufbewahrung (f)"
+  },
+  {
+    "english": "baggage tag",
+    "german": "Gepäckaufkleber (m)"
+  },
+  {
+    "english": "baggage tracing (travel)",
+    "german": "Gepäckermittlung (f)"
+  },
+  {
+    "english": "baggage train (mil.)",
+    "german": "Train (sterr, m)"
+  },
+  {
+    "english": "baggage train (mil.)",
+    "german": "Troß (alt, Versorgungs, und, Untersttzungseinheit, m)"
+  },
+  {
+    "english": "baggage trains (mil.)",
+    "german": "Trosse (pl)"
+  },
+  {
+    "english": "baggage trolley (transp., travel, Br)",
+    "german": "Gepäckwagen (Kofferkuli, m)"
+  },
+  {
+    "english": "baggage trolley (transp., travel, Br)",
+    "german": "Kofferkuli (m)"
+  },
+  {
+    "english": "baggage tug (aviat., transp.)",
+    "german": "Gepäckschlepper (Zugfahrzeug, m)"
+  },
+  {
+    "english": "baggage voucher",
+    "german": "Gepäckschein (m)"
+  },
+  {
+    "english": "baggage waggon (rail, Br)",
+    "german": "Gepäckwagen (m)"
+  },
+  {
+    "english": "baggage wagon (rail)",
+    "german": "Gepäckwagen (m)"
+  },
+  {
+    "english": "baggage wrapping (aviat., TrVocab.)",
+    "german": "Gepäckversiegelung (f)"
+  },
+  {
+    "english": "baggage-man (jobs)",
+    "german": "Gepäckmann (m)"
+  },
+  {
+    "english": "bulky baggage (travel)",
+    "german": "sperriges Gepäck (n)"
+  },
+  {
+    "english": "checked baggage (aviat.)",
+    "german": "aufgegebenes Gepäck (n)"
+  },
+  {
+    "english": "emotional baggage (psych.)",
+    "german": "emotionaler Ballast (m)"
+  },
+  {
+    "english": "emotional baggage (psych.)",
+    "german": "unverarbeitete Probleme (Beziehung, pl)"
+  },
+  {
+    "english": "excess baggage (aviat., travel)",
+    "german": "Übergepäck (n)"
+  },
+  {
+    "english": "excess baggage (aviat.)",
+    "german": "Übergewicht (n)"
+  },
+  {
+    "english": "hand baggage (aviat.)",
+    "german": "Handgepäck (n)"
+  },
+  {
+    "english": "hold baggage (aviat.)",
+    "german": "Frachtgepäck (auch, aufgegebenes, Gepck, oder, Aufgabegepck, n)"
+  },
+  {
+    "english": "holiday baggage",
+    "german": "Urlaubsgepäck (bes, Fluggepck, n)"
+  },
+  {
+    "english": "oversize baggage (aviat., transp., travel, Am)",
+    "german": "Gepäck in Übergröße (bergroes, Gepck, Sperrgepck, n)"
+  },
+  {
+    "english": "personal baggage",
+    "german": "persönliches Gepäck (n)"
+  },
+  {
+    "english": "vacation baggage (Am)",
+    "german": "Urlaubsgepäck (n)"
+  },
+  {
+    "english": "bag and baggage (with, all, ones, possessions, adv)",
+    "german": "mit all ihrer / seiner Habe"
+  },
+  {
+    "english": "to inspect the baggage (aviat., TrVocab.)",
+    "german": "das Gepäck revidieren (selten)"
+  },
+  {
+    "english": "air travel baggage",
+    "german": "Flugreisegepäck (n)"
+  },
+  {
+    "english": "baggage check-in",
+    "german": "Gepäckaufgabe (f)"
+  },
+  {
+    "english": "baggage claim area (aviat., travel)",
+    "german": "Gepäckausgabe (f)"
+  },
+  {
+    "english": "baggage conveyor belt",
+    "german": "Gepäckband (n)"
+  },
+  {
+    "english": "baggage drop-off (travel, Br)",
+    "german": "Aufgabe des Gepäcks (f)"
+  },
+  {
+    "english": "carry-on baggage",
+    "german": "Handgepäck (n)"
+  },
+  {
+    "english": "checked-in baggage (aviat.)",
+    "german": "aufgegebenes Gepäck (n)"
+  },
+  {
+    "english": "excess baggage charge (transp.)",
+    "german": "Gepäckübergewichtsgebühr (f)"
+  },
+  {
+    "english": "excess baggage charge (travel)",
+    "german": "Übergepäckgebühr (f)"
+  },
+  {
+    "english": "excess baggage charge (transp.)",
+    "german": "Gebühr für Mehrgepäck (f)"
+  },
+  {
+    "english": "item of baggage",
+    "german": "Gepäckstück (n)"
+  },
+  {
+    "english": "loss of baggage",
+    "german": "Verlust des Gepäcks (m)"
+  },
+  {
+    "english": "piece of baggage",
+    "german": "Gepäckstück (n)"
+  },
+  {
+    "english": "with bag and baggage (idiom)",
+    "german": "mit Kind und Kegel"
+  },
+  {
+    "english": "with bag and baggage (idiom)",
+    "german": "mit Sack und Pack"
+  },
+  {
+    "english": "Hate is baggage. Life\u0027s too short to be pissed off all the time. It\u0027s just not worth it. (film, quote, American, History, X)",
+    "german": "Hass ist Ballast. Das Leben ist zu kurz dafür, dass man immer wütend ist. Das ist es einfach nicht wert."
+  },
+  {
+    "english": "passenger ticket and baggage check",
+    "german": "Flugschein mit Gepäckabschnitt (m)"
+  }
+]

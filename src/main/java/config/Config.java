@@ -18,5 +18,7 @@ public class Config {
     // ------------------------------------------------------------------------------------------ //
     public static final Path ENGLISH_INPUT_FOLDER = INPUT_FOLDER.resolve("english");
     public static final Path ENGLISH_MP3_FOLDER = ENGLISH_INPUT_FOLDER.resolve("mp3");
+    public static final Path ENGLISH_DEFINITIONS_FOLDER = ENGLISH_INPUT_FOLDER.resolve("definitions");
+    public static final Path ENGLISH_TRANSLATION_FOLDER = ENGLISH_INPUT_FOLDER.resolve("translations");
 
 }

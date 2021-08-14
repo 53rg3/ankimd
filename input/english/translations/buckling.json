@@ -1,0 +1,102 @@
+[
+  {
+    "english": "buckling",
+    "german": "Stauchung (f, 317)"
+  },
+  {
+    "english": "buckling",
+    "german": "Knick (m, 61)"
+  },
+  {
+    "english": "buckling",
+    "german": "Knickung (f, 45)"
+  },
+  {
+    "english": "buckling",
+    "german": "Verbiegen (n, 39)"
+  },
+  {
+    "english": "buckling (med., phys.)",
+    "german": "Knickbildung (f, 23)"
+  },
+  {
+    "english": "buckling",
+    "german": "Wölbung (f, 15)"
+  },
+  {
+    "english": "buckling (constr., engin.)",
+    "german": "Beulen (n, 7)"
+  },
+  {
+    "english": "buckling",
+    "german": "Bombage (bei, Konservendosen, f)"
+  },
+  {
+    "english": "buckling (automot., tech., esp, of, tires)",
+    "german": "Walkung (bes, von, Reifen, f)"
+  },
+  {
+    "english": "non-buckling (material, tech., adj)",
+    "german": "knickfest"
+  },
+  {
+    "english": "buckling analysis (engin., tech.)",
+    "german": "Beulanalyse (f)"
+  },
+  {
+    "english": "buckling analysis (engin., tech.)",
+    "german": "Knickanalyse (f)"
+  },
+  {
+    "english": "buckling load (constr., tech.)",
+    "german": "Knickbelastung (f)"
+  },
+  {
+    "english": "buckling load (engin.)",
+    "german": "Knicklast (f)"
+  },
+  {
+    "english": "buckling resistance (engin.)",
+    "german": "Knickfestigkeit (f)"
+  },
+  {
+    "english": "buckling resistance (constr.)",
+    "german": "Knickwiderstand (m)"
+  },
+  {
+    "english": "buckling risk (constr.)",
+    "german": "Knickgefahr (f)"
+  },
+  {
+    "english": "buckling safety (constr.)",
+    "german": "Beulsicherheit (f)"
+  },
+  {
+    "english": "buckling strength (engin.)",
+    "german": "Knickfestigkeit (f)"
+  },
+  {
+    "english": "buckling stress (tech.)",
+    "german": "Knickspannung (f)"
+  },
+  {
+    "english": "plate buckling (constr., engin., material)",
+    "german": "Plattenbeulen (n)"
+  },
+  {
+    "english": "shell buckling (constr.)",
+    "german": "Schalenbeulen (n)"
+  },
+  {
+    "english": "buckling arm robot (tech.)",
+    "german": "Knickarmroboter (m)"
+  },
+  {
+    "english": "lateral torsional buckling \u003cLTB\u003e (engin.)",
+    "german": "Biegedrillknicken (n)"
+  },
+  {
+    "english": "pre-buckling deflection (constr., engin.)",
+    "german": "Vorkrümmung (f)"
+  }
+]

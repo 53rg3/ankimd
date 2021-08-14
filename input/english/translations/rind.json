@@ -1,0 +1,230 @@
+[
+  {
+    "english": "beef (gastr.)",
+    "german": "Rind2 (Rindfleisch, n, 708)"
+  },
+  {
+    "english": " (zool., T, steer)",
+    "german": " (n, 488, Rind)"
+  },
+  {
+    "english": " (zool., T, cow)",
+    "german": " (n, 421, Rind)"
+  },
+  {
+    "english": "rind (gastr., of, fruit)",
+    "german": "Schale (f, 113)"
+  },
+  {
+    "english": "rind (gastr., of, cheese)",
+    "german": "Rinde (f, 80)"
+  },
+  {
+    "english": " (zool., T, bovine)",
+    "german": " (n, 68, Rind)"
+  },
+  {
+    "english": " (agr., zool., T, Bos, taurus, pl, cattle)",
+    "german": " (kurz, fr, Hausrind, n, 64, Rind)"
+  },
+  {
+    "english": "rind (gastr., of, bacon)",
+    "german": "Schwarte (f, 60)"
+  },
+  {
+    "english": " (zool., T, ox)",
+    "german": " (n, 47, Rind)"
+  },
+  {
+    "english": " (zool., T, archaic, bovine, animal, neat)",
+    "german": " (n, 12, Rind)"
+  },
+  {
+    "english": " (agr., zool., T, pl, cows)",
+    "german": " (Hausrind, n, 8, Rind)"
+  },
+  {
+    "english": "beeve (obs)",
+    "german": "Rind (n, 6)"
+  },
+  {
+    "english": "ice rind",
+    "german": "Eiskruste (f)"
+  },
+  {
+    "english": "cheese rind (gastr.)",
+    "german": "Käserinde (f)"
+  },
+  {
+    "english": "pizza rind (gastr., hum, edge, of, a, pizza, crust)",
+    "german": "Pizzarand (m)"
+  },
+  {
+    "english": "pork rind (gastr.)",
+    "german": "Schweineschwarte (f)"
+  },
+  {
+    "english": "bacon rind (geol., Am)",
+    "german": "Sintervorhang (m)"
+  },
+  {
+    "english": "bacon rind (gastr.)",
+    "german": "Speckkruste (f)"
+  },
+  {
+    "english": "bacon rind (gastr.)",
+    "german": "Speckschwarte (f)"
+  },
+  {
+    "english": "lemon rind (gastr.)",
+    "german": "Zitronenschale (f)"
+  },
+  {
+    "english": "grated lemon rind (gastr.)",
+    "german": "geriebene Zitronenschale (f)"
+  },
+  {
+    "english": "Pinzgauer cattle (agr., pl)",
+    "german": "Pinzgauer Rind (auch, Pinzgauer, pl, Rasse, des, Hausrindes, n)"
+  },
+  {
+    "english": "brisket of beef (gastr.)",
+    "german": "Bruststück vom Rind (n)"
+  },
+  {
+    "english": "back fat without rind (gastr.)",
+    "german": "Karreespeck ohne Schwarte (sterr, m)"
+  },
+  {
+    "english": "digit amputation in cattle (VetMed.)",
+    "german": "Klauenamputation beim Rind (f)"
+  },
+  {
+    "english": "digital amputation in cattle (VetMed.)",
+    "german": "Klauenamputation beim Rind (f)"
+  },
+  {
+    "english": "bovine mammary gland \u003cBMG\u003e (anat., VetMed., zool.)",
+    "german": "Milchdrüse beim Rind (f)"
+  },
+  {
+    "english": "back fat without rind (gastr.)",
+    "german": "Rückenspeck ohne Schwarte (m)"
+  },
+  {
+    "english": "entrecôte (steak) (gastr.)",
+    "german": "Zwischenrippensteak vom Rind (n)"
+  },
+  {
+    "english": "silverside (gastr.)",
+    "german": "bestes Stück vom Rind (n)"
+  },
+  {
+    "english": "Thou shalt not covet thy neighbour\u0027s wife, nor his man-servant, nor his maid-servant, nor his ox, nor his ass, nor anything that is thy neighbour\u0027s. (bibl., 2nd, part, tenth, commandment, King, James, Version)",
+    "german": "Du sollst nicht begehren deines Nächsten Weib, Knecht, Magd, Rind, Esel, noch alles, was dein Nächster hat. (das, zehnte, Gebot, nach, Luther)"
+  },
+  {
+    "english": " (agr., zool., T, pl, Angeln cattle)",
+    "german": " (Hausrindrasse, n, Angler Rind)"
+  },
+  {
+    "english": " (agr., zool., T, pl, Aubrac cattle)",
+    "german": " (n, Aubrac-Rind)"
+  },
+  {
+    "english": " (agr., zool., T, pl, Ayrshire cattle)",
+    "german": " (Rasse, n, Ayrshire-Rind)"
+  },
+  {
+    "english": " (zool., T, Bos, primigenius, indicus, breed, of, Zebu, cattle, pl, Brahman / Brahma cattle)",
+    "german": " (n, Brahman-Rind)"
+  },
+  {
+    "english": " (agr., zool., T, pl, Brangus cattle)",
+    "german": " (n, Brangus-Rind)"
+  },
+  {
+    "english": " (agr., zool., T, pl, Charolais cattle)",
+    "german": " (Rinderrasse, n, Charolais-Rind)"
+  },
+  {
+    "english": " (agr., zool., T, Bos, taurus, taurus, Dexter cattle)",
+    "german": " (n, Dexter-Rind)"
+  },
+  {
+    "english": " (agr., zool., T, pl, Friesian cattle)",
+    "german": " (n, Friesisches Rind)"
+  },
+  {
+    "english": " (agr., zool., T, pl, Hinterwald cattle)",
+    "german": " (n, Hinterwälder-Rind)"
+  },
+  {
+    "english": " (agr., zool., T, pl, Holando-Argentino cattle)",
+    "german": " (n, Holländisch-Argentinisches Rind)"
+  },
+  {
+    "english": " (zool., T, pl, Friesian cattle)",
+    "german": " (n, Holstein-Rind)"
+  },
+  {
+    "english": " (zool., T, pl, Holstein cattle)",
+    "german": " (n, Holstein-Rind)"
+  },
+  {
+    "english": " (zool., T, pl, Holstein-Friesian cattle)",
+    "german": " (n, Holstein-Rind)"
+  },
+  {
+    "english": " (agr., zool., T, also, known, as, Holstein, or, Friesian, cattle, pl, Holstein-Friesian cattle)",
+    "german": " (n, Holstein-Rind)"
+  },
+  {
+    "english": " (agr., zool., T, Jersey cattle)",
+    "german": " (Rasse, n, Jersey-Rind)"
+  },
+  {
+    "english": " (agr., zool., T, pl, Kalmyk cattle)",
+    "german": " (n, Kalmücken-Rind)"
+  },
+  {
+    "english": " (agr., zool., T, Br, kyloe)",
+    "german": " (n, Kyloe-Rind)"
+  },
+  {
+    "english": " (zool., T, Dutch Belted)",
+    "german": " (n, Lakenvelder Rind)"
+  },
+  {
+    "english": " (agr., zool., T, pl, Maremmana cattle)",
+    "german": " (n, Maremmaner Rind)"
+  },
+  {
+    "english": " (agr., zool., T, Murboden cattle)",
+    "german": " (n, Murbodner Rind)"
+  },
+  {
+    "english": " (agr., zool., T, Murnau-Werdenfels cattle)",
+    "german": " (n, Murnau-Werdenfelser-Rind)"
+  },
+  {
+    "english": " (zool., T, also, Nellore, Nelore (cattle))",
+    "german": " (n, Nelore-Rind)"
+  },
+  {
+    "english": " (agr., zool., T, Pinzgau cattle)",
+    "german": " (n, Pinzgauer Rind)"
+  },
+  {
+    "english": " (agr., zool., T, Belgian red cattle)",
+    "german": " (n, Rotes Flämisches Rind)"
+  },
+  {
+    "english": " (agr., zool., T, red Mingrelian cattle)",
+    "german": " (n, Rotes Mingrelisches Rind)"
+  },
+  {
+    "english": " (agr., zool., T, Vorderwald cattle)",
+    "german": " (n, Vorderwälder-Rind)"
+  }
+]

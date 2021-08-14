@@ -1,0 +1,182 @@
+[
+  {
+    "english": "constraint",
+    "german": "Beschränkung (f, 3773)"
+  },
+  {
+    "english": "constraint",
+    "german": "Einschränkung (f, 1634)"
+  },
+  {
+    "english": "constraint",
+    "german": "Zwang (m, 805)"
+  },
+  {
+    "english": "constraint",
+    "german": "Restriktion (f, 670)"
+  },
+  {
+    "english": "constraint",
+    "german": "Nebenbedingung (f, 481)"
+  },
+  {
+    "english": "constraint",
+    "german": "Auflage (f, 422)"
+  },
+  {
+    "english": "constraint (engin.)",
+    "german": "Zwangsbedingung (f, 171)"
+  },
+  {
+    "english": "constraint",
+    "german": "Hemmnis (n, 109)"
+  },
+  {
+    "english": "constraint",
+    "german": "Randbedingung (f, 73)"
+  },
+  {
+    "english": "constraint (math.)",
+    "german": "Bedingung (f, 45)"
+  },
+  {
+    "english": "constraint",
+    "german": "Zurückhaltung (f, 41)"
+  },
+  {
+    "english": "constraint",
+    "german": "Nötigung (f, 40)"
+  },
+  {
+    "english": "constraint (embarrassment)",
+    "german": "Verlegenheit (Befangenheit, f, 32)"
+  },
+  {
+    "english": "constraint (embarrassment)",
+    "german": "Befangenheit (Verlegenheit, f, 17)"
+  },
+  {
+    "english": "constraint",
+    "german": "Geziertheit (f, 12)"
+  },
+  {
+    "english": "under constraint (adj, adv)",
+    "german": "erzwungen"
+  },
+  {
+    "english": "under constraint (adv)",
+    "german": "unter Zwang"
+  },
+  {
+    "english": "budget constraint (fin., pol.)",
+    "german": "Budgetbegrenzung (f)"
+  },
+  {
+    "english": "budget constraint (econ.)",
+    "german": "Budgetbeschränkung (f)"
+  },
+  {
+    "english": "budget constraint (econ.)",
+    "german": "Haushaltbeschränkung (f)"
+  },
+  {
+    "english": "capacity constraint",
+    "german": "Kapazitätsengpass (m)"
+  },
+  {
+    "english": "capacity constraint",
+    "german": "Kapazitätsengpaß (alt, m)"
+  },
+  {
+    "english": "constraint oscillation (phys.)",
+    "german": "aufgedrückte Schwingung (f)"
+  },
+  {
+    "english": "constraint programming (comp.)",
+    "german": "Constraintprogrammierung (f)"
+  },
+  {
+    "english": "constraint solver (comp.)",
+    "german": "Constraintlöser (m)"
+  },
+  {
+    "english": "cost constraint (fin.)",
+    "german": "Kostenbeschränkung (f)"
+  },
+  {
+    "english": "dose constraint (MedTech., EUR, 17538)",
+    "german": "Dosisbeschränkung (EUR, 17538, f)"
+  },
+  {
+    "english": "factual constraint",
+    "german": "Sachzwang (m)"
+  },
+  {
+    "english": "financial constraint",
+    "german": "finanzieller Zwang (m)"
+  },
+  {
+    "english": "holonomic constraint",
+    "german": "holonome Zwangsbedingungen (pl)"
+  },
+  {
+    "english": "moral constraint",
+    "german": "Gewissenszwang (m)"
+  },
+  {
+    "english": "practical constraint",
+    "german": "Sachzwang (m)"
+  },
+  {
+    "english": "self-constraint (philos.)",
+    "german": "Selbstzwang (m)"
+  },
+  {
+    "english": "social constraint (sociol.)",
+    "german": "soziale Beschränkung (f)"
+  },
+  {
+    "english": "to act under constraint",
+    "german": "sich zwanghaft verhalten"
+  },
+  {
+    "english": "to act under constraint",
+    "german": "unter Zwang handeln"
+  },
+  {
+    "english": "to place under constraint",
+    "german": "in Haft nehmen"
+  },
+  {
+    "english": "to put under constraint",
+    "german": "in Haft nehmen"
+  },
+  {
+    "english": "constraint satisfaction problem \u003cCSP\u003e (comp., math.)",
+    "german": "Bedingungserfüllungsproblem (n)"
+  },
+  {
+    "english": "constraint in religious matters",
+    "german": "Zurückhaltung in religiösen Angelegenheiten (f)"
+  },
+  {
+    "english": "principle of least constraint (phys.)",
+    "german": "Prinzip des kleinsten Zwanges (n)"
+  },
+  {
+    "english": "principle of least constraint (phys.)",
+    "german": "Gauß\u0027sches Prinzip des kleinsten Zwanges (n)"
+  },
+  {
+    "english": "Gauss\u0027 principle of least constraint (phys.)",
+    "german": "Prinzip des kleinsten Zwanges (n)"
+  },
+  {
+    "english": "Gauss\u0027 principle of least constraint (phys.)",
+    "german": "Gauß\u0027sches Prinzip des kleinsten Zwanges (n)"
+  },
+  {
+    "english": "Gauss\u0027 principle of least constraint (phys.)",
+    "german": "gaußsches Prinzip des kleinsten Zwanges (n)"
+  }
+]

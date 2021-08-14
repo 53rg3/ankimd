@@ -1,0 +1,30 @@
+[
+  {
+    "english": "elicitation",
+    "german": "Erhebung (von, Daten, f, 199)"
+  },
+  {
+    "english": "elicitation",
+    "german": "Herausholung (f, 48)"
+  },
+  {
+    "english": "elicitation",
+    "german": "Herauslocken (n, 39)"
+  },
+  {
+    "english": "requirement elicitation (comp.)",
+    "german": "Anforderungserhebung (f)"
+  },
+  {
+    "english": "requirements elicitation \u003cRE\u003e (comp., econ., QM)",
+    "german": "Anforderungsaufnahme (Anforderungsmanagement, f)"
+  },
+  {
+    "english": "requirements elicitation \u003cRE\u003e (econ., QM, tech.)",
+    "german": "Anforderungsermittlung \u003cAE\u003e (Anforderungsmanagement, f)"
+  },
+  {
+    "english": "elicitation of requirements (econ., QM, tech.)",
+    "german": "Anforderungsermittlung \u003cAE\u003e (Anforderungsmanagement, f)"
+  }
+]

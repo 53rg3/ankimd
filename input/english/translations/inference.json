@@ -1,0 +1,94 @@
+[
+  {
+    "english": "inference",
+    "german": "Schlussfolgerung (f, 1919)"
+  },
+  {
+    "english": "inference",
+    "german": "Folgerung (f, 770)"
+  },
+  {
+    "english": "inference",
+    "german": "Rückschluss (m, 664)"
+  },
+  {
+    "english": "inference",
+    "german": "Schluss (Schlussfolgerung, m, 52)"
+  },
+  {
+    "english": "inference",
+    "german": "Inferenz (f, 23)"
+  },
+  {
+    "english": "inference (philos.)",
+    "german": "Schluss (m, 7)"
+  },
+  {
+    "english": "inference (engin., math., stat.)",
+    "german": "Schlussfolgern (n, 6)"
+  },
+  {
+    "english": "abductive inference (acad.)",
+    "german": "abduktiver Schluss (m)"
+  },
+  {
+    "english": "causal inference",
+    "german": "Kausalschluss (m)"
+  },
+  {
+    "english": "chain inference",
+    "german": "Kettenschluss (m)"
+  },
+  {
+    "english": "erroneous inference",
+    "german": "Fehlschluss (m)"
+  },
+  {
+    "english": "inference engine (comp.)",
+    "german": "Inferenzmaschine (f)"
+  },
+  {
+    "english": "inference rule",
+    "german": "Ableitungsregel (f)"
+  },
+  {
+    "english": "inference rule",
+    "german": "Schlussregel (f)"
+  },
+  {
+    "english": "statistical inference (math., stat.)",
+    "german": "schließende Statistik (Inferenzstatistik, f)"
+  },
+  {
+    "english": "statistical inference",
+    "german": "statistischer Rückschluss (m)"
+  },
+  {
+    "english": "statistical inference",
+    "german": "statistischer Schluss (Schlussfolgerung, m)"
+  },
+  {
+    "english": "type inference (comp.)",
+    "german": "Typinferenz (f)"
+  },
+  {
+    "english": "unconscious inference (psych.)",
+    "german": "unbewusster Schluss (m)"
+  },
+  {
+    "english": "data-driven inference (comp.)",
+    "german": "datengesteuertes Inferieren (n)"
+  },
+  {
+    "english": "data-driven inference (comp.)",
+    "german": "datengetriebene Inferenz (f)"
+  },
+  {
+    "english": "adaptive neuro fuzzy inference system \u003cANFIS\u003e (comp.)",
+    "german": "adaptives Neuro-Fuzzy-Inferenzsystem \u003cANFIS\u003e (n)"
+  },
+  {
+    "english": "inference to the best explanation \u003cIBE\u003e (philos.)",
+    "german": "Schluss auf die beste Erklärung (m)"
+  }
+]

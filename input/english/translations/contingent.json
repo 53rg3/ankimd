@@ -1,0 +1,230 @@
+[
+  {
+    "english": "contingent (adj)",
+    "german": "bedingt (1606)"
+  },
+  {
+    "english": "contingent (adj)",
+    "german": "eventuell (809)"
+  },
+  {
+    "english": "contingent (adj)",
+    "german": "möglich (596)"
+  },
+  {
+    "english": "contingent (adj)",
+    "german": "ungewiss (441)"
+  },
+  {
+    "english": "contingent (accidental, adj)",
+    "german": "zufällig (294)"
+  },
+  {
+    "english": "contingent (adj)",
+    "german": "gelegentlich (abhngig, von, der, Gelegenheit, 85)"
+  },
+  {
+    "english": "contingent (philos., not, necessarily, existing, adj)",
+    "german": "kontingent (nicht, wesensnotwendig, 49)"
+  },
+  {
+    "english": "contingent (adj)",
+    "german": "anfällig (43)"
+  },
+  {
+    "english": "contingent (adj)",
+    "german": "anfallend (eventuell, 23)"
+  },
+  {
+    "english": "contingent",
+    "german": "Anteil (m, 177)"
+  },
+  {
+    "english": "contingent",
+    "german": "Kontingent (n, 109)"
+  },
+  {
+    "english": "contingent",
+    "german": "Aufgebot (Ansammlung, n, 71)"
+  },
+  {
+    "english": "contingent",
+    "german": "Quote (f, 53)"
+  },
+  {
+    "english": "contingent (share, to, be, contributed)",
+    "german": "Beitrag (Anteil, z, B, an, einer, aufzubringenden, Summe, m, 42)"
+  },
+  {
+    "english": "contingent (mil.)",
+    "german": "Trupp (m, 18)"
+  },
+  {
+    "english": "contingent",
+    "german": "Fraktion (f, 12)"
+  },
+  {
+    "english": "contingent",
+    "german": "zufallender Anteil (m)"
+  },
+  {
+    "english": "contingent on sth. (adj)",
+    "german": "bedingt durch etw.Akk."
+  },
+  {
+    "english": "contingent on sth. (adj, adv)",
+    "german": "verbunden mit etw.Dat."
+  },
+  {
+    "english": "contingent upon sth. (adj)",
+    "german": "bedingt durch etw.Akk."
+  },
+  {
+    "english": "contingent upon sth. (adj, adv)",
+    "german": "verbunden mit etw.Dat."
+  },
+  {
+    "english": "income-contingent (sociol., adj)",
+    "german": "einkommensabhängig"
+  },
+  {
+    "english": "income-contingent (sociol., adj)",
+    "german": "vom Einkommen abhängig"
+  },
+  {
+    "english": "annual contingent",
+    "german": "Jahreskontingent (n)"
+  },
+  {
+    "english": "contingent annuity",
+    "german": "Rente mit unbestimmter Laufzeit (f)"
+  },
+  {
+    "english": "contingent annuity (insur., survivorship, annuity)",
+    "german": "Überlebensrente (f)"
+  },
+  {
+    "english": "contingent asset (acc.)",
+    "german": "Eventualforderung (Bilanz, f)"
+  },
+  {
+    "english": "contingent assets (acc.)",
+    "german": "Eventualforderungen (Bilanz, pl)"
+  },
+  {
+    "english": "contingent assets",
+    "german": "abhängige Bestände (pl)"
+  },
+  {
+    "english": "contingent claim (fin.)",
+    "german": "Eventualforderung (f)"
+  },
+  {
+    "english": "contingent convertibles \u003cCoCo\u003e (fin.)",
+    "german": "Coco-Bonds (bedingte, Pflichtwandelanleihen, pl)"
+  },
+  {
+    "english": "contingent expenses",
+    "german": "abhängige Kosten (pl)"
+  },
+  {
+    "english": "contingent fee",
+    "german": "Erfolgshonorar (n)"
+  },
+  {
+    "english": "contingent fee",
+    "german": "abhängige Gebühr (f)"
+  },
+  {
+    "english": "contingent liabilities (acc.)",
+    "german": "Eventualverbindlichkeiten (Bilanz, pl)"
+  },
+  {
+    "english": "contingent liabilities (acc., fin.)",
+    "german": "Verbindlichkeitsrückstellungen (pl)"
+  },
+  {
+    "english": "contingent liabilities",
+    "german": "abhängige Verpflichtungen (pl)"
+  },
+  {
+    "english": "contingent liability",
+    "german": "Eventualverbindlichkeit (f)"
+  },
+  {
+    "english": "contingent order",
+    "german": "limitierter Auftrag (m)"
+  },
+  {
+    "english": "contingent profit",
+    "german": "abhängiger Gewinn (m)"
+  },
+  {
+    "english": "contingent reserve",
+    "german": "Sicherheitsrücklage (f)"
+  },
+  {
+    "english": "contingent truth",
+    "german": "bedingte Wahrheit (f)"
+  },
+  {
+    "english": "contingent truth",
+    "german": "beschränkte Wahrheit (f)"
+  },
+  {
+    "english": "contingent worker (jobs)",
+    "german": "Leiharbeiter (m)"
+  },
+  {
+    "english": "contingent worker (jobs)",
+    "german": "Zeitarbeiter (m)"
+  },
+  {
+    "english": "contingent workers (jobs)",
+    "german": "Beschäftigte mit Zeitvertrag (pl)"
+  },
+  {
+    "english": "military contingent (mil.)",
+    "german": "Truppenkontingent (n)"
+  },
+  {
+    "english": "contingent on / upon sth. (adj)",
+    "german": "von etw.Dat. abhängig"
+  },
+  {
+    "english": "to be contingent on sth.",
+    "german": "bestimmt von etw. sein"
+  },
+  {
+    "english": "to be contingent on sth.",
+    "german": "von etw.Dat. abhängig sein"
+  },
+  {
+    "english": "contingent claim analysis \u003cCCA\u003e (fin.)",
+    "german": "Analyse von Eventualforderungen (f)"
+  },
+  {
+    "english": "contingent credit lines \u003cCCL\u003e (fin., pol.)",
+    "german": "vorbeugende Kreditlinien (pl)"
+  },
+  {
+    "english": "contingent of troops (mil.)",
+    "german": "Truppenkontingent (n)"
+  },
+  {
+    "english": "paid for contingent services",
+    "german": "für anfallende Dienste bezahlt"
+  },
+  {
+    "english": "contingent truths of history",
+    "german": "zufällige Geschichtswahrheiten (G, E, Lessing, pl)"
+  },
+  {
+    "english": "fee contingent on cure",
+    "german": "von Heilung abhängige Gebühr (f)"
+  },
+  {
+    "english": "risks contingent to trade",
+    "german": "anfällige Risiken (pl)"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "english": "dairy (agr., FoodInd., attr, eg, cattle, farmer, product, van, adj)",
+    "german": "Milch- (z, B, Vieh, Bauer, Produkt, Wagen, 1460)"
+  },
+  {
+    "english": "dairy (FoodInd., attr, dairyprocessing, adj)",
+    "german": "milchverarbeitend (208)"
+  },
+  {
+    "english": "dairy (agr., comm., FoodInd.)",
+    "german": "Molkerei (f, 3984)"
+  },
+  {
+    "english": "dairy (agr., dairy, business)",
+    "german": "Milchwirtschaft (f, 146)"
+  },
+  {
+    "english": "dairy (agr., FoodInd., milk, and, milk, products, collectively, sg)",
+    "german": "Molkereiprodukte (pl, 144)"
+  },
+  {
+    "english": "dairy (agr., FoodInd., for, making, cheese)",
+    "german": "Käserei (f, 63)"
+  },
+  {
+    "english": "dairy (comm.)",
+    "german": "Milchgeschäft (n, 57)"
+  },
+  {
+    "english": "dairy (comm., shop, where, milk, and, milk, products, are, sold)",
+    "german": "Milchladen (m, 38)"
+  },
+  {
+    "english": "dairy (comm., NZ, coll)",
+    "german": "Kiosk (m, 29)"
+  },
+  {
+    "english": "dairy (agr., comm., FoodInd.)",
+    "german": "Meierei (veraltet, f, 24)"
+  },
+  {
+    "english": "dairy (agr., FoodInd.)",
+    "german": "Molkereibetrieb (m, 18)"
+  },
+  {
+    "english": "dairy (comm., NZ, coll)",
+    "german": "Eckladen (m, 9)"
+  },
+  {
+    "english": "dairy (agr., for, storing, and, processing, milk, on, a, farm)",
+    "german": "Milchkammer (f, 7)"
+  },
+  {
+    "english": "dairy (agr., dairy, farm)",
+    "german": "Milchbetrieb (Milchbauernhof, m)"
+  },
+  {
+    "english": "dairy-based (FoodInd., adj)",
+    "german": "auf Milchbasis (nachgestellt)"
+  },
+  {
+    "english": "dairy-free (FoodInd., adj, adv)",
+    "german": "milchfrei"
+  },
+  {
+    "english": "non-dairy (FoodInd., adj)",
+    "german": "milchfrei"
+  },
+  {
+    "english": "Alpine dairy (agr.)",
+    "german": "Alpenmolkerei (f)"
+  },
+  {
+    "english": "Alpine dairy (agr.)",
+    "german": "Sennerei (f)"
+  },
+  {
+    "english": "cheese dairy (FoodInd., ind.)",
+    "german": "Käserei (Betrieb, f)"
+  },
+  {
+    "english": "cooperative dairy",
+    "german": "Genossenschaftsmolkerei (f)"
+  },
+  {
+    "english": "dairy (farm) (agr.)",
+    "german": "Milchbauernhof (m)"
+  },
+  {
+    "english": "dairy animal (agr., zool.)",
+    "german": "Milchtier (n)"
+  },
+  {
+    "english": "dairy belt / (agr., geogr., also, Dairy, Belt, USA)",
+    "german": "Molkereigürtel / (auch, Dairy, Belt, USA, m)"
+  },
+  {
+    "english": "dairy case (comm., gastr., in, a, grocery, store)",
+    "german": "Kühlregal (n)"
+  },
+  {
+    "english": "dairy cattle (agr.)",
+    "german": "Milchkühe (Bestand, pl)"
+  },
+  {
+    "english": "dairy cattle (agr., pl)",
+    "german": "Milchvieh (n)"
+  },
+  {
+    "english": "dairy company (FoodInd.)",
+    "german": "Molkereiunternehmen (n)"
+  },
+  {
+    "english": "dairy consumption",
+    "german": "Konsum von Milchprodukten (m)"
+  },
+  {
+    "english": "dairy cooler",
+    "german": "Milchkühler (m)"
+  },
+  {
+    "english": "dairy cooperative (agr.)",
+    "german": "Molkereigenossenschaft (f)"
+  },
+  {
+    "english": "dairy coupling (tech.)",
+    "german": "Milchrohrverschraubung (f)"
+  },
+  {
+    "english": "dairy cow (agr.)",
+    "german": "Milchkuh (f)"
+  },
+  {
+    "english": "dairy cows (agr.)",
+    "german": "Milchkühe (pl)"
+  },
+  {
+    "english": "dairy dishes (gastr.)",
+    "german": "Milchspeisen (pl)"
+  },
+  {
+    "english": "dairy equipment",
+    "german": "Molkereitechnik (Ausstattung, f)"
+  },
+  {
+    "english": "dairy factory (FoodInd., ind.)",
+    "german": "Molkerei (f)"
+  },
+  {
+    "english": "dairy farm (agr.)",
+    "german": "Meierei (f)"
+  },
+  {
+    "english": "dairy farm (agr.)",
+    "german": "Milchbauernhof (m)"
+  },
+  {
+    "english": "dairy farm (agr.)",
+    "german": "Milchbetrieb (m)"
+  },
+  {
+    "english": "dairy farm (agr.)",
+    "german": "Milchkuhbetrieb (m)"
+  },
+  {
+    "english": "dairy farm (agr.)",
+    "german": "Milchviehbetrieb (m)"
+  },
+  {
+    "english": "dairy farm (agr.)",
+    "german": "Milchviehhaltungsbetrieb (m)"
+  },
+  {
+    "english": "dairy farm (agr.)",
+    "german": "Molkerei (f)"
+  },
+  {
+    "english": "dairy farm (agr.)",
+    "german": "milcherzeugender Betrieb (m)"
+  },
+  {
+    "english": "dairy farm (agr.)",
+    "german": "Milch erzeugender Betrieb (m)"
+  },
+  {
+    "english": "dairy farm (agr.)",
+    "german": "auf Milchwirtschaft spezialisierter Bauernhof (m)"
+  },
+  {
+    "english": "dairy farmer (agr.)",
+    "german": "Meier (veraltet, m)"
+  },
+  {
+    "english": "dairy farmer (agr., jobs)",
+    "german": "Milchbauer (m)"
+  },
+  {
+    "english": "dairy farmer (agr., jobs, female)",
+    "german": "Milchbäuerin (f)"
+  }
+]

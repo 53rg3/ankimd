@@ -1,0 +1,294 @@
+[
+  {
+    "english": "additive (adj)",
+    "german": "zusätzlich (88)"
+  },
+  {
+    "english": "additive (adj)",
+    "german": "additiv (5)"
+  },
+  {
+    "english": "additive (FoodInd.)",
+    "german": "Zusatzstoff (m, 128)"
+  },
+  {
+    "english": "additive (chem., FoodInd.)",
+    "german": "Zusatz (m, 48)"
+  },
+  {
+    "english": "additive",
+    "german": "Zusatzmittel (n, 10)"
+  },
+  {
+    "english": "additive",
+    "german": "Additiv (n)"
+  },
+  {
+    "english": "additive",
+    "german": "Betonzusatz (m)"
+  },
+  {
+    "english": "additive",
+    "german": "Zuschlagstoff (m)"
+  },
+  {
+    "english": "additive-free (adj)",
+    "german": "frei von Zusatzstoffen"
+  },
+  {
+    "english": "non-additive (spec., adj)",
+    "german": "nichtadditiv"
+  },
+  {
+    "english": "additive category (math.)",
+    "german": "additive Kategorie (f)"
+  },
+  {
+    "english": "additive effect (biochem., pharm.)",
+    "german": "Additionseffekt (m)"
+  },
+  {
+    "english": "additive effect (biochem., pharm.)",
+    "german": "Summationseffekt (m)"
+  },
+  {
+    "english": "additive effect (biol.)",
+    "german": "additive Wirkung (f)"
+  },
+  {
+    "english": "additive effect (biol.)",
+    "german": "steigernde Wirkung (f)"
+  },
+  {
+    "english": "additive function (math.)",
+    "german": "additive Funktion (f)"
+  },
+  {
+    "english": "additive identity (math.)",
+    "german": "additive Identität (f)"
+  },
+  {
+    "english": "additive inverse (math.)",
+    "german": "Gegenzahl (f)"
+  },
+  {
+    "english": "additive maintenance (comp., tech., sg)",
+    "german": "additive Wartungsarbeiten (pl)"
+  },
+  {
+    "english": "additive manufacturing (tech., rapid, prototyping)",
+    "german": "generative Fertigung (f)"
+  },
+  {
+    "english": "additive meter (mus.)",
+    "german": "additives Metrum (n)"
+  },
+  {
+    "english": "additive meter (mus.)",
+    "german": "zusammengesetztes Metrum (n)"
+  },
+  {
+    "english": "additive metering (tech.)",
+    "german": "Additiv-Dosierung (f)"
+  },
+  {
+    "english": "additive metre (mus., Br)",
+    "german": "additives Metrum (n)"
+  },
+  {
+    "english": "additive process",
+    "german": "Additivverfahren (n)"
+  },
+  {
+    "english": "additive rhythm (mus.)",
+    "german": "additiver Rhythmus (z, B, 323, Achtel, m)"
+  },
+  {
+    "english": "additive risk (med.)",
+    "german": "additives Risiko (n)"
+  },
+  {
+    "english": "additive solution (chem.)",
+    "german": "Zusatzlösung (f)"
+  },
+  {
+    "english": "additive synthesis (mus.)",
+    "german": "additive Synthese (Klangerzeugung, f)"
+  },
+  {
+    "english": "adhesion additive",
+    "german": "Haftadditiv (n)"
+  },
+  {
+    "english": "antiknock additive (automot.)",
+    "german": "Antiklopfmittel (n)"
+  },
+  {
+    "english": "bath additive (cosmet.)",
+    "german": "Badezusatz (m)"
+  },
+  {
+    "english": "color additive (material, Am)",
+    "german": "Farbadditiv (n)"
+  },
+  {
+    "english": "concrete additive",
+    "german": "Betonzusatz (m)"
+  },
+  {
+    "english": "concrete additive",
+    "german": "Betonzusatzstoff (m)"
+  },
+  {
+    "english": "conductive additive (chem., electr., tech.)",
+    "german": "Leitzusatz (m)"
+  },
+  {
+    "english": "dope additive (electr.)",
+    "german": "Dotiersubstanz (m)"
+  },
+  {
+    "english": "elasticizing additive (chem.)",
+    "german": "Elastikzusatz (m)"
+  },
+  {
+    "english": "feed additive (agr.)",
+    "german": "Futtermittelzusatz (m)"
+  },
+  {
+    "english": "feed additive (agr.)",
+    "german": "Futterzusatz (m)"
+  },
+  {
+    "english": "fluid additive",
+    "german": "Spülungszusatz (m)"
+  },
+  {
+    "english": "food additive (FoodInd.)",
+    "german": "Lebensmittelzusatz (m)"
+  },
+  {
+    "english": "food additive (FoodInd.)",
+    "german": "Lebensmittelzusatzstoff (m)"
+  },
+  {
+    "english": "food additive (med.)",
+    "german": "Nahrungszusatz (Lebensmittelzusatzstoff, m)"
+  },
+  {
+    "english": "fuel additive (automot.)",
+    "german": "Kraftstoffzusatz (m)"
+  },
+  {
+    "english": "mud additive",
+    "german": "Spülungszusatz (m)"
+  },
+  {
+    "english": "multifunctional additive (chem.)",
+    "german": "Multifunktionsadditiv (auch, MultifunktionsAdditiv, n)"
+  },
+  {
+    "english": "oil additive (chem.)",
+    "german": "Ölzusatz (m)"
+  },
+  {
+    "english": "paint additive",
+    "german": "Lackhilfsmittel (n)"
+  },
+  {
+    "english": "rheological additive",
+    "german": "rheologisches Additiv (n)"
+  },
+  {
+    "english": "slip additive (tech.)",
+    "german": "Gleitmittel (n)"
+  },
+  {
+    "english": "thickening additive",
+    "german": "Verdickungsadditiv (n)"
+  },
+  {
+    "english": "additive color mixing (art, phys., Am)",
+    "german": "additive Farbmischung (f)"
+  },
+  {
+    "english": "additive color mixing (art, Am)",
+    "german": "additive Farbsynthese (f)"
+  },
+  {
+    "english": "additive colour mixing (art, Br)",
+    "german": "additive Farbsynthese (f)"
+  },
+  {
+    "english": "additive notch effect (material)",
+    "german": "zusätzliche Kerbwirkung (auch, additive, Kerbwirkung, f)"
+  },
+  {
+    "english": "additive time signature (mus.)",
+    "german": "zusammengesetzte Taktart (f)"
+  },
+  {
+    "english": "anti-knock additive (automot.)",
+    "german": "Antiklopfmittel (n)"
+  },
+  {
+    "english": "concrete accelerator additive",
+    "german": "Betonbeschleuniger (Bauchemie, m)"
+  },
+  {
+    "english": "concrete retarding additive",
+    "german": "Betonverzögerer (Bauchemie, m)"
+  },
+  {
+    "english": "cooling-water additive (automot.)",
+    "german": "Kühlwasserzusatz (m)"
+  },
+  {
+    "english": "drinking water additive",
+    "german": "Trinkwasserzusatz (m)"
+  },
+  {
+    "english": "foam control additive (chem.)",
+    "german": "Entschäumungsmittel (n)"
+  },
+  {
+    "english": "food additive regulation",
+    "german": "Zusatzstoffverordnung (f)"
+  },
+  {
+    "english": "generalized additive model \u003cGAM\u003e (stat.)",
+    "german": "verallgemeinertes additives Modell (n)"
+  },
+  {
+    "english": "laser marking additive (chem.)",
+    "german": "Lasermarkierungsadditiv (n)"
+  },
+  {
+    "english": "mop water additive",
+    "german": "Wischwasserzusatz (m)"
+  },
+  {
+    "english": "rust-inhibiting additive (chem.)",
+    "german": "Antirostadditiv (n)"
+  },
+  {
+    "english": "rust-preventing additive (chem.)",
+    "german": "Antirostadditiv (n)"
+  },
+  {
+    "english": "additive / absolute risk model (med., MedTech., EUR, 17538)",
+    "german": "Modell des additiven / absoluten Risikos (EUR, 17538, n)"
+  },
+  {
+    "english": "additive mixing of colors (phys., Am)",
+    "german": "additive Farbmischung (f)"
+  },
+  {
+    "english": "additive mixing of colours (phys., Br)",
+    "german": "additive Farbmischung (f)"
+  },
+  {
+    "english": "additive white Gaussian noise \u003cAWGN\u003e (electr., phys.)",
+    "german": "additives weißes gaußsches Rauschen \u003cAWGR\u003e (n)"
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "english": "ragged (clothes, child, adj)",
+    "german": "zerlumpt (Kleidung, Kind, 1029)"
+  },
+  {
+    "english": "ragged (tattered, clothes, adj)",
+    "german": "zerfetzt (zerlumpt, Kleidung, 650)"
+  },
+  {
+    "english": "ragged (faulty, not, perfect, adj)",
+    "german": "dilettantisch (fehlerhaft, 430)"
+  },
+  {
+    "english": "ragged (imperfect, and, faulty, eg, piece, of, work, adj)",
+    "german": "stümperhaft (pej, z, B, Arbeit, 419)"
+  },
+  {
+    "english": "ragged (shaggy, eg, coat, beard, horse, adj)",
+    "german": "struppig (z, B, Fell, Bart, Pferd, 411)"
+  },
+  {
+    "english": "ragged (shaggy, eg, coat, beard, adj)",
+    "german": "zottig (z, B, Fell, Bart, 355)"
+  },
+  {
+    "english": "ragged (jagged, eg, rock, cliff, adj)",
+    "german": "zackig (zerklftet, gezackt, z, B, Felsen, Klippe, 83)"
+  },
+  {
+    "english": "ragged (geogr., geol., coastline, rock, face, etc, adj)",
+    "german": "zerklüftet (Kste, Felswand, etc, 58)"
+  },
+  {
+    "english": "ragged (wild, and, neglected, eg, garden, adj)",
+    "german": "verwildert (z, B, Garten, 23)"
+  },
+  {
+    "english": "ragged (coll, teased, pastp)",
+    "german": "aufgezogen (ugs, gehnselt, 18)"
+  },
+  {
+    "english": "ragged (unkempt, eg, garden, adj)",
+    "german": "ungepflegt (z, B, Garten, 16)"
+  },
+  {
+    "english": "ragged (wild, and, neglected, eg, garden, adj)",
+    "german": "vernachlässigt (z, B, Garten, 16)"
+  },
+  {
+    "english": "more ragged (adj)",
+    "german": "zerlumpter"
+  },
+  {
+    "english": "most ragged (adj)",
+    "german": "zerlumpteste"
+  },
+  {
+    "english": "to be ragged (print)",
+    "german": "flattern"
+  },
+  {
+    "english": "to run sb. ragged (coll)",
+    "german": "jdn. fertigmachen (ugs)"
+  },
+  {
+    "english": "ragged alignment (print)",
+    "german": "Flattersatz (m)"
+  },
+  {
+    "english": "ragged clothes (cloth., pl)",
+    "german": "abgerissene Kleidung (f)"
+  },
+  {
+    "english": "ragged coastline (geogr., geol.)",
+    "german": "zerklüftete Küste (f)"
+  },
+  {
+    "english": "ragged rocks",
+    "german": "schartige Felsen (pl)"
+  },
+  {
+    "english": "ragged school (educ., hist., Br, obs)",
+    "german": "Lumpenschule (veraltet, f)"
+  },
+  {
+    "english": "ragged left alignment (print, , flush, right, aligned)",
+    "german": "rechtsbündiger Flattersatz (m)"
+  },
+  {
+    "english": "ragged red fiber \u003cRRF\u003e (med.)",
+    "german": "zottige rote Faser (f)"
+  },
+  {
+    "english": "ragged right alignment (print, , flush, left, aligned)",
+    "german": "linksbündiger Flattersatz (m)"
+  },
+  {
+    "english": "ragged-red fibers (med., Am)",
+    "german": "Ragged-Red-Fasern (pl)"
+  },
+  {
+    "english": "ragged-red fibres (med., Br)",
+    "german": "Ragged-Red-Fasern (pl)"
+  },
+  {
+    "english": "whitish ragged moss (Brachythecium, albicans)",
+    "german": "Weißes Kurzbüchsenmoos (n)"
+  },
+  {
+    "english": "to the ragged edge (idiom, adv)",
+    "german": "auf der letzten Rille (ugs, Redewendung)"
+  },
+  {
+    "english": "ragged piece of work",
+    "german": "fehlerhaftes Arbeitsstück (n)"
+  },
+  {
+    "english": "text with ragged alignment (print, alignment, of, text, where, the, lines, of, text, are, allowed, to, end, naturally)",
+    "german": "Text mit frei auslaufenden Zeilen (m)"
+  },
+  {
+    "english": "Type 6: Fluffy pieces with ragged edges, a mushy stool / (med., Bristol, Stool, Chart, Scale)",
+    "german": "Typ 6: Einzelne weiche Klümpchen mit unregelmäßigem Rand (BristolStuhlformenSkala)"
+  },
+  {
+    "english": " (fish, T, Odontaspis, ferox, bumpytail ragged-tooth)",
+    "german": " (m, Schildzahnhai)"
+  },
+  {
+    "english": " (fish, T, Odontaspis, ferox, bumpytail ragged-tooth)",
+    "german": " (m, Kleinzahn-Sandtigerhai)"
+  },
+  {
+    "english": " (bot., T, Brachythecium, campestre, field ragged moss)",
+    "german": " (n, Feld-Kurzbüchsenmoos)"
+  },
+  {
+    "english": " (bot., T, Brachythecium, salebrosum, golden ragged moss)",
+    "german": " (n, Glattstieliges Kurzbüchsenmoos)"
+  },
+  {
+    "english": " (bot., T, Brachytheciastrum, trachypodium, syn, Brachythecium, trachypodium, Lawers ragged moss)",
+    "german": " (n, Dickfuß-Kurzkapselmoos)"
+  },
+  {
+    "english": " (bot., T, Sciurohypnum, populeum, syn, Brachythecium, populeum, matted ragged moss)",
+    "german": " (n, Pappel-Kurzbüchsenmoos)"
+  },
+  {
+    "english": " (bot., T, Sciurohypnum, populeum, syn, Brachythecium, populeum, matted ragged moss)",
+    "german": " (n, Pappel-Neuhaarblattmoos)"
+  },
+  {
+    "english": " (bot., T, Brachytheciastrum, collinum, syn, Brachythecium, collinum, mountain ragged moss)",
+    "german": " (n, Hügel-Kurzkapselmoos)"
+  },
+  {
+    "english": " (bot., T, Sciurohypnum, latifolium, syn, Brachythecium, nelsonii, Nelson\u0027s ragged moss)",
+    "german": " (n, Breitblättriges Schweifchenastmoos)"
+  },
+  {
+    "english": " (mycol., T, Usnea, diplotypus, ragged beard lichen)",
+    "german": " (f, Verschiedenförmige Bartflechte)"
+  },
+  {
+    "english": " (bot., T, Dianthus, seguieri, syn, D, gautieri, D, neglectus, D, segueri, ssp, italicus, ragged pink)",
+    "german": " (f, Busch-Nelke / Buschnelke)"
+  },
+  {
+    "english": " (bot., T, Lychnis, floscuculi, syn, Silene, floscuculi, ragged robbin)",
+    "german": " (KuckucksLichtnelke, f, Kuckucksblume)"
+  },
+  {
+    "english": " (bot., T, Lychnis, floscuculi, syn, Silene, floscuculi, ragged robbin)",
+    "german": " (f, Kuckucksnelke)"
+  },
+  {
+    "english": " (bot., T, Lychnis, floscuculi, ragged robin)",
+    "german": " (f, Kuckuckslichtnelke)"
+  },
+  {
+    "english": " (bot., T, Lychnis, floscuculi, ragged robin)",
+    "german": " (f, Kuckucks-Lichtnelke)"
+  },
+  {
+    "english": " (zool., T, Bursatella, leachii, ragged seahare / sea hare)",
+    "german": " (Meeresschneckenart, m, Fädriger Seehase)"
+  },
+  {
+    "english": " (fish, T, family, Odontaspididae, ragged tooth sharks)",
+    "german": " (pl, Sandhaie)"
+  },
+  {
+    "english": " (bot., T, Brachythecium, rutabulum, rough-stalked ragged moss)",
+    "german": " (Gemeines, Kurzbchsenmoos, n, Kegelmoos)"
+  },
+  {
+    "english": " (bot., T, Brachythecium, rutabulum, rough-stalked ragged moss)",
+    "german": " (n, Kurzkapselmoos)"
+  },
+  {
+    "english": " (bot., T, Brachythecium, rutabulum, rough-stalked ragged moss)",
+    "german": " (n, Gemeines Kurzbüchsenmoos)"
+  },
+  {
+    "english": " (bot., T, Brachythecium, rutabulum, rough-stalked ragged moss)",
+    "german": " (n, Krücken-Kegelmoos)"
+  },
+  {
+    "english": " (bot., T, Brachythecium, rutabulum, rough-stalked ragged moss)",
+    "german": " (n, Krücken-Kurzbüchsenmoos)"
+  },
+  {
+    "english": " (bot., T, Brachythecium, rutabulum, rough-stalked ragged moss)",
+    "german": " (n, Krückenförmiges Kurzbüchsenmoos)"
+  },
+  {
+    "english": " (bot., T, Brachythecium, rutabulum, rough-stalked ragged moss)",
+    "german": " (n, Raues Kurzbüchsenmoos)"
+  },
+  {
+    "english": " (bot., T, Sciurohypnum, plumosum, syn, Brachythecium, plumosum, rusty ragged moss)",
+    "german": " (n, Fedriges Kurzbüchsenmoos)"
+  },
+  {
+    "english": " (bot., T, Sciurohypnum, plumosum, syn, Brachythecium, plumosum, rusty ragged moss)",
+    "german": " (n, Fedriges Neuhaarblattmoos)"
+  },
+  {
+    "english": " (bot., T, Sciurohypnum, plumosum, syn, Brachythecium, plumosum, rusty ragged moss)",
+    "german": " (n, Fedriges Schweifchenastmoos)"
+  },
+  {
+    "english": " (bot., T, Brachythecium, mildeanum, sand ragged moss)",
+    "german": " (n, Mildes Kegelmoos)"
+  },
+  {
+    "english": " (bot., T, Brachythecium, mildeanum, sand ragged moss)",
+    "german": " (n, Sumpf-Kurzbüchsenmoos)"
+  },
+  {
+    "english": " (bot., T, Sciurohypnum, oedipodium, syn, Brachythecium, oedipodium, short-leaved ragged moss)",
+    "german": " (n, Dünnes Kurzbüchsenmoos)"
+  },
+  {
+    "english": " (bot., T, Sciurohypnum, oedipodium, syn, Brachythecium, oedipodium, short-leaved ragged moss)",
+    "german": " (n, Lockeres Schweifchenastmoos)"
+  },
+  {
+    "english": " (fish, T, Carcharias, taurus, spotted ragged tooth shark)",
+    "german": " (m, Sandtiger)"
+  },
+  {
+    "english": " (fish, T, Carcharias, taurus, spotted ragged tooth shark)",
+    "german": " (m, Sandtigerhai)"
+  },
+  {
+    "english": " (bot., T, Sciurohypnum, starkei, syn, Brachythecium, starkei, Starke\u0027s ragged moss)",
+    "german": " (n, Berg-Kurzbüchsenmoos)"
+  },
+  {
+    "english": " (bot., T, Sciurohypnum, starkei, syn, Brachythecium, starkei, Starke\u0027s ragged moss)",
+    "german": " (n, Berg-Schweifchenastmoos)"
+  },
+  {
+    "english": " (bot., T, Sciurohypnum, starkei, syn, Brachythecium, starkei, Starke\u0027s ragged moss)",
+    "german": " (n, Starkes Neuhaarblattmoos)"
+  },
+  {
+    "english": " (bot., T, Sciurohypnum, starkei, syn, Brachythecium, starkei, Starke\u0027s ragged moss)",
+    "german": " (n, Starkes Schweifchenastmoos)"
+  },
+  {
+    "english": " (bot., T, Brachythecium, erythrorrhizon, taiga ragged moss)",
+    "german": " (n, Rotwurzeliges Kurzbüchsenmoos)"
+  },
+  {
+    "english": " (bot., T, Brachytheciastrum, velutinum, syn, Brachythecium, velutinum, velvet ragged moss)",
+    "german": " (n, Samt-Kurzbüchsenmoos)"
+  },
+  {
+    "english": " (bot., T, Sciurohypnum, latifolium, syn, Brachythecium, nelsonii, wide-leaved ragged moss)",
+    "german": " (n, Breitblättriges Schweifchenastmoos)"
+  }
+]

@@ -1,0 +1,35 @@
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #fff;
+}
+
+table {
+    margin: 16px 0 16px 0;
+    border-collapse: collapse;
+}
+
+table tr th {
+    background: #f5f9ff;
+    padding: 6px 13px;
+    border: 1px solid #ccc;
+}
+
+table tr td {
+    padding: 6px 13px;
+    border: 1px solid #ddd;
+}
+
+table tr:nth-child(even) {
+    background: #f6f8fa;
+}
+
+table tr:nth-child(odd)  {
+    background: #fff;
+}
+
+pre code {
+    background-color: #f6f8fa;
+    border: 0;
+    display: block;
+    padding: 15px;
+}

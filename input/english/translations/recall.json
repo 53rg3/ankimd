@@ -1,0 +1,202 @@
+[
+  {
+    "english": "to recall",
+    "german": "abrufen (1300)"
+  },
+  {
+    "english": "to recall (call, back)",
+    "german": "zurückrufen (773)"
+  },
+  {
+    "english": "to recall (fin.)",
+    "german": "kündigen (514)"
+  },
+  {
+    "english": "to recall sb./sth. (remember)",
+    "german": "jds./etw. gedenken (geh, 491)"
+  },
+  {
+    "english": "to recall",
+    "german": "zurückfordern (396)"
+  },
+  {
+    "english": "to recall sb. (ambassador, envoy, etc)",
+    "german": "jdn. abberufen (388)"
+  },
+  {
+    "english": "to recall (comm., ind.)",
+    "german": "rückrufen (368)"
+  },
+  {
+    "english": "to recall (law)",
+    "german": "aufkündigen (361)"
+  },
+  {
+    "english": "to recall (order, back)",
+    "german": "zurückbeordern (323)"
+  },
+  {
+    "english": "to recall sb. (Am, vote, out, of, office)",
+    "german": "jdn. abwählen (14)"
+  },
+  {
+    "english": "to recall sth. (automot., for, repair, or, replacement)",
+    "german": "etw.Akk. zurückrufen (zur, Reparatur, oder, zum, Austausch, 5)"
+  },
+  {
+    "english": "to recall (comp.)",
+    "german": "wieder abrufen"
+  },
+  {
+    "english": "to recall sb./sth. / (remember, sb, sth)",
+    "german": "sich an jdn./etw. erinnern"
+  },
+  {
+    "english": "to recall sth.",
+    "german": "sich etw.Gen. entsinnen"
+  },
+  {
+    "english": "to recall sth.",
+    "german": "sichAkk. an etw.Akk. zurückerinnern"
+  },
+  {
+    "english": "to recall sth.",
+    "german": "sich an etw. entsinnen"
+  },
+  {
+    "english": "to recall sth. (a, vehicle, for, repairs)",
+    "german": "etw.Akk. in die Werkstatt beordern (ein, Fahrzeug, zum, Reparieren)"
+  },
+  {
+    "english": "to recall sth. (bring, sth, back, into, ones, mind, remember, sth)",
+    "german": "sichDat. etw.Akk. ins Gedächtnis zurückrufen (sich, wieder, an, etw, erinnern)"
+  },
+  {
+    "english": "to recall sth. (call, sth, back, to, mind)",
+    "german": "sichDat. etw.Akk. ins Gedächtnis rufen (Redewendung)"
+  },
+  {
+    "english": "to recall sth. (cause, sb, to, remember, or, think, of)",
+    "german": "an etw.Akk. erinnern (an, etw, denken, lassen, z, B, an, alte, Zeiten)"
+  },
+  {
+    "english": "to recall sth. (comp., eg, data)",
+    "german": "etw. wieder aufrufen"
+  },
+  {
+    "english": "to recall sth. (remember, sth)",
+    "german": "sichDat. etw.Akk. in Erinnerung rufen (sich, an, etw, erinnern)"
+  },
+  {
+    "english": "recall",
+    "german": "Widerruf (m, 284)"
+  },
+  {
+    "english": "recall (comm., econ.)",
+    "german": "Rückruf (m, 255)"
+  },
+  {
+    "english": "recall (comp., QM, RadioTV)",
+    "german": "Recall (m, 54)"
+  },
+  {
+    "english": "recall",
+    "german": "Zurücknahme (f, 35)"
+  },
+  {
+    "english": "recall",
+    "german": "Abruf (Wiederaufruf, von, Daten, m, 31)"
+  },
+  {
+    "english": "recall (tech., to, remedy, a, problem)",
+    "german": "Rückrufaktion (f, 22)"
+  },
+  {
+    "english": "recall (pol., from, office, Am)",
+    "german": "Abwahl (f, 18)"
+  },
+  {
+    "english": "recall",
+    "german": "Abberufung (f, 17)"
+  },
+  {
+    "english": "recall",
+    "german": "Wiederaufruf (m, 14)"
+  },
+  {
+    "english": "recall",
+    "german": "Nichtigerklärung (f)"
+  },
+  {
+    "english": "recall (eg, of, a, borrowed, book)",
+    "german": "Rückforderung (z, B, eines, ausgeliehenen, Buches, f)"
+  },
+  {
+    "english": "recall (removal)",
+    "german": "Rückberufung (f)"
+  },
+  {
+    "english": "beyond recall (adj)",
+    "german": "unwiderruflich"
+  },
+  {
+    "english": "beyond recall (adj)",
+    "german": "unwiederbringlich"
+  },
+  {
+    "english": "beyond recall",
+    "german": "außer Rufweite"
+  },
+  {
+    "english": "past recall (postpos, adj)",
+    "german": "unwiderruflich"
+  },
+  {
+    "english": "without recall (adj)",
+    "german": "unwiderruflich"
+  },
+  {
+    "english": "to recall data",
+    "german": "Daten abrufen"
+  },
+  {
+    "english": "to recall money (fin.)",
+    "german": "ein Darlehen kündigen"
+  },
+  {
+    "english": "ad recall (market., coll)",
+    "german": "Werbeerinnerung (f)"
+  },
+  {
+    "english": "advertising recall (market.)",
+    "german": "Werbeerinnerung (f)"
+  },
+  {
+    "english": "aided recall",
+    "german": "Erinnerung durch Gedächtnishilfe (f)"
+  },
+  {
+    "english": "emotional recall (film, psych., theatre)",
+    "german": "gefühlsmäßige Erinnerung (f)"
+  },
+  {
+    "english": "emotional recall (film, psych., theatre)",
+    "german": "Erinnern von Gefühlen (n)"
+  },
+  {
+    "english": "memory recall (electr.)",
+    "german": "Speicherabruf (m)"
+  },
+  {
+    "english": "memory recall (comp., MedTech.)",
+    "german": "Speicheraufruf (m)"
+  },
+  {
+    "english": "memory recall / (key, button)",
+    "german": "Speicheranzeigetaste (Taschenrechner, f)"
+  },
+  {
+    "english": "product recall (econ., tech.)",
+    "german": "Produktrückruf (m)"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "english": "forensics (law, med.)",
+    "german": "Gerichtsmedizin (f, 139)"
+  },
+  {
+    "english": "forensics (police, department)",
+    "german": "Spurensicherung \u003cSpuSi\u003e (f, 92)"
+  },
+  {
+    "english": "forensics (acad.)",
+    "german": "Kriminaltechnik (f, 23)"
+  },
+  {
+    "english": "forensics",
+    "german": "Spurensuche (f, 21)"
+  },
+  {
+    "english": "forensics (law, med., psych.)",
+    "german": "Forensik (f, 17)"
+  },
+  {
+    "english": "forensics (art, of, debate)",
+    "german": "Rhetorik (f, 9)"
+  },
+  {
+    "english": "animal forensics (law)",
+    "german": "animal forensics (Untersuchung, tierischen, Spurenmaterials, f)"
+  },
+  {
+    "english": "computer forensics (comp.)",
+    "german": "Computerforensik (f)"
+  },
+  {
+    "english": "digital forensics (comp., law, med.)",
+    "german": "digitale Forensik (f)"
+  },
+  {
+    "english": "IT forensics (comp., med.)",
+    "german": "IT-Forensik (ComputerForensik, digitale, Forensik, f)"
+  }
+]

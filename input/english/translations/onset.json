@@ -1,0 +1,278 @@
+[
+  {
+    "english": "onset",
+    "german": "Beginn (m, 912)"
+  },
+  {
+    "english": "onset (med.)",
+    "german": "Ausbruch (einer, Krankheit, m, 293)"
+  },
+  {
+    "english": "onset",
+    "german": "Anfang (m, 271)"
+  },
+  {
+    "english": "onset",
+    "german": "Einsetzen (einer, Krankheit, des, Alters, des, Winters, n, 229)"
+  },
+  {
+    "english": "onset (darkness)",
+    "german": "Eintritt (m, 130)"
+  },
+  {
+    "english": "onset (sudden, beginning, ie, of, a, new, era, of, winter, etc)",
+    "german": "Einbruch (pltzlicher, Beginn, z, B, einer, neuen, Zeit, des, Winters, etc, m, 58)"
+  },
+  {
+    "english": "onset (mil.)",
+    "german": "Angriff (m, 46)"
+  },
+  {
+    "english": "onset (med., of, a, disease)",
+    "german": "Krankheitsbeginn (m, 41)"
+  },
+  {
+    "english": "onset",
+    "german": "Einsatz / (Start, Einleitung, eines, Vorgangs, m, 35)"
+  },
+  {
+    "english": "onset (mil.)",
+    "german": "Attacke (f, 22)"
+  },
+  {
+    "english": "onset (mil.)",
+    "german": "Sturm (m, 12)"
+  },
+  {
+    "english": "adult-onset (adj)",
+    "german": "mit Beginn im Erwachsenenalter (nachgestellt)"
+  },
+  {
+    "english": "early-onset (med., disease, adj)",
+    "german": "frühmanifest"
+  },
+  {
+    "english": "late-onset (med., disease, adj)",
+    "german": "spätmanifest"
+  },
+  {
+    "english": "pediatric-onset (med., adj)",
+    "german": "im Kindesalter auftretend (Erkrankung)"
+  },
+  {
+    "english": "disease onset (med.)",
+    "german": "Krankheitsausbruch (Erkrankungsbeginn, m)"
+  },
+  {
+    "english": "late onset (med., progression, of, male, pattern, baldness, HamiltonNorwood, scale)",
+    "german": "Spättyp (androgenetischer, Haarausfall, HamiltonNorwoodSchema, m)"
+  },
+  {
+    "english": "symptom onset (med.)",
+    "german": "Symptombeginn (m)"
+  },
+  {
+    "english": "at the onset (adv)",
+    "german": "beim Anfang"
+  },
+  {
+    "english": "adult-onset asthma (med.)",
+    "german": "im Erwachsenenalter einsetzendes Asthma (n)"
+  },
+  {
+    "english": "adult-onset diabetes (med.)",
+    "german": "Altersdiabetes (m)"
+  },
+  {
+    "english": "adult-onset diabetes (med.)",
+    "german": "Alterszucker (ugs, Altersdiabetes, m)"
+  },
+  {
+    "english": "adult-onset diabetes (med.)",
+    "german": "Erwachsenendiabetes (m)"
+  },
+  {
+    "english": "age of onset (educ., sociol.)",
+    "german": "Einstiegsalter (n)"
+  },
+  {
+    "english": "early onset disease \u003cEOD\u003e (med.)",
+    "german": "Early-Onset-Erkrankung (f)"
+  },
+  {
+    "english": "early-onset dementia (med.)",
+    "german": "präsenile / frühe Form der Demenz (f)"
+  },
+  {
+    "english": "early-onset disease \u003cEOD\u003e (med.)",
+    "german": "Früherkrankung (Frhform, der, Erkrankung, f)"
+  },
+  {
+    "english": "early-onset schizophrenia \u003cEOS\u003e (med., psych.)",
+    "german": "Frühschizophrenie (f)"
+  },
+  {
+    "english": "late onset disease \u003cLOD\u003e (med.)",
+    "german": "Late-Onset-Erkrankung (f)"
+  },
+  {
+    "english": "late onset disease \u003cLOD\u003e (med.)",
+    "german": "Spätform der Erkrankung (f)"
+  },
+  {
+    "english": "late-onset dementia (med.)",
+    "german": "senile / späte Form der Demenz (f)"
+  },
+  {
+    "english": "late-onset diabetes \u003cLOD\u003e 2 (med., type, diabetes, mellitus)",
+    "german": "Typ-2-Diabetes (LateOnsetDiabetes, Altersdiabetes, m)"
+  },
+  {
+    "english": "late-onset disease \u003cLOD\u003e (med.)",
+    "german": "Späterkrankung (Sptform, der, Erkrankung, f)"
+  },
+  {
+    "english": "late-onset form (med.)",
+    "german": "Spätform (einer, Krankheit, f)"
+  },
+  {
+    "english": "late-onset schizophrenia \u003cLOS\u003e (med., psych.)",
+    "german": "Spätschizophrenie (f)"
+  },
+  {
+    "english": "maturity-onset diabetes \u003cMOD\u003e 2 (med., type, diabetes, mellitus)",
+    "german": "Altersdiabetes (veraltend, Typ2Diabetes, m)"
+  },
+  {
+    "english": "onset of action (pharm., of, a, drug)",
+    "german": "Wirkeintritt (m)"
+  },
+  {
+    "english": "onset of death (med.)",
+    "german": "Eintritt des Todes (m)"
+  },
+  {
+    "english": "onset of effect",
+    "german": "Wirkungseintritt (m)"
+  },
+  {
+    "english": "onset of estrus (VetMed., Am)",
+    "german": "Östrusbeginn (m)"
+  },
+  {
+    "english": "onset of growth (biol.)",
+    "german": "Wachstumsbeginn (m)"
+  },
+  {
+    "english": "onset of illness (med.)",
+    "german": "Ausbruch der Krankheit (m)"
+  },
+  {
+    "english": "onset of labor (med., Am)",
+    "german": "Geburtsbeginn (m)"
+  },
+  {
+    "english": "onset of labor (med., Am)",
+    "german": "Wehenbeginn (m)"
+  },
+  {
+    "english": "onset of labour (med., Br)",
+    "german": "Geburtsbeginn (m)"
+  },
+  {
+    "english": "onset of labour (med., Br)",
+    "german": "Wehenbeginn (m)"
+  },
+  {
+    "english": "onset of oestrus (VetMed., Br)",
+    "german": "Östrusbeginn (m)"
+  },
+  {
+    "english": "onset of rain (meteo.)",
+    "german": "Einsetzen des Regens (n)"
+  },
+  {
+    "english": "onset of symptoms (med.)",
+    "german": "Symptombeginn (m)"
+  },
+  {
+    "english": "onset of winter",
+    "german": "Wintereinbruch (m)"
+  },
+  {
+    "english": "sleep onset REM \u003cSOREM\u003e (med.)",
+    "german": "vorzeitiger REM-Schlaf (m)"
+  },
+  {
+    "english": "at the first onset (adv)",
+    "german": "beim ersten Ansatz"
+  },
+  {
+    "english": "at the first onset (adv)",
+    "german": "gleich beim ersten Anlauf"
+  },
+  {
+    "english": "adult-onset Still\u0027s disease \u003cAOSD\u003e (med.)",
+    "german": "adulter Morbus Still (m)"
+  },
+  {
+    "english": "adult-onset Still\u0027s disease \u003cAOSD\u003e (med.)",
+    "german": "Morbus Still des Erwachsenen (m)"
+  },
+  {
+    "english": "adult-onset Still\u0027s disease \u003cAOSD\u003e (med.)",
+    "german": "Still-Syndrom des Erwachsenen (n)"
+  },
+  {
+    "english": "delayed onset muscle soreness \u003cDOMS\u003e (med., sports)",
+    "german": "Muskelkater (m)"
+  },
+  {
+    "english": "depression of late onset (psych.)",
+    "german": "involutive Depression (f)"
+  },
+  {
+    "english": "juvenile-onset diabetes (mellitus) \u003cJODM\u003e 1 (med., type, diabetes)",
+    "german": "juveniler Diabetes (mellitus) (veraltend, Typ1Diabetes, m)"
+  },
+  {
+    "english": "late-onset immunoglobulin deficiency (med.)",
+    "german": "variables Immundefektsyndrom \u003cVIDS\u003e (n)"
+  },
+  {
+    "english": "onset of mature milk (med.)",
+    "german": "Milcheinschuss (m)"
+  },
+  {
+    "english": "wake after sleep onset \u003cWASO\u003e (med.)",
+    "german": "Wachzeit nach Schlafbeginn (Parameter, in, der, Schlafforschung, f)"
+  },
+  {
+    "english": "at (the) onset of (first) symptoms (adv)",
+    "german": "beim Auftreten der (ersten) Symptome"
+  },
+  {
+    "english": "at the onset of competition",
+    "german": "zu Beginn des Wettbewerbs"
+  },
+  {
+    "english": "at the onset of death (med., adv)",
+    "german": "bei Eintritt des Todes"
+  },
+  {
+    "english": "behavioural and emotional disorders with onset usually occurring in childhood and adolescence (psych., F90F98, Br)",
+    "german": "Verhaltens- und emotionale Störungen mit Beginn in der Kindheit und Jugend (pl)"
+  },
+  {
+    "english": "late-onset autoimmune diabetes of adulthood \u003cLADA\u003e (med.)",
+    "german": "LADA (m)"
+  },
+  {
+    "english": "sleep-onset / sleep onset rapid eye movement \u003cSOREM\u003e phase (med.)",
+    "german": "Schlaf mit Beginn der REM-Phase (m)"
+  },
+  {
+    "english": "sleep-onset / sleep onset REMs \u003cSOREMs\u003e (med.)",
+    "german": "Schlaf-Beginn-REM (pl)"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "english": "tenant",
+    "german": "Mieter (m, 4062)"
+  },
+  {
+    "english": "tenant",
+    "german": "Pächter (m, 1163)"
+  },
+  {
+    "english": "tenant (RealEst., in, a, block, of, flats)",
+    "german": "Partei (in, Mietshaus, f, 76)"
+  },
+  {
+    "english": "tenant (female, also, as, a, company, or, several, persons)",
+    "german": "Mieterin (f, 48)"
+  },
+  {
+    "english": "tenant (comp., member, of, a, user, group, sharing, access, to, the, same, software, instance)",
+    "german": "Mandant (Mitglied, einer, Benutzergruppe, deren, Benutzer, dieselbe, SoftwareInstanz, verwenden, m, 15)"
+  },
+  {
+    "english": "tenant (occupant, of, a, rented, accommodation, female)",
+    "german": "Bewohnerin (einer, Mietunterkunft, f, 15)"
+  },
+  {
+    "english": "joint-tenant (RealEst., adj)",
+    "german": "miteigentümerschaftlich"
+  },
+  {
+    "english": "anchor tenant (comm.)",
+    "german": "Absatzmagnet (m)"
+  },
+  {
+    "english": "anchor tenant",
+    "german": "Ankermieter (m)"
+  },
+  {
+    "english": "co-tenant",
+    "german": "Mitbewohner (in, einer, gemieteten, Wohngemeinschaft, m)"
+  },
+  {
+    "english": "co-tenant",
+    "german": "Mitpächter (m)"
+  },
+  {
+    "english": "co-tenant (female)",
+    "german": "Mitbewohnerin (in, einer, Mietwohngemeinschaft, f)"
+  },
+  {
+    "english": "council tenant (RealEst.)",
+    "german": "Bewohner einer Sozialwohnung (m)"
+  },
+  {
+    "english": "council tenant (RealEst., female)",
+    "german": "Bewohnerin einer Sozialwohnung (f)"
+  },
+  {
+    "english": "current tenant (RealEst.)",
+    "german": "Bestandsmieter (m)"
+  },
+  {
+    "english": "domain tenant (agr., hist.)",
+    "german": "Domänenpächter (m)"
+  },
+  {
+    "english": "estate tenant (agr., hist., tenant, farmer)",
+    "german": "Gutspächter (m)"
+  },
+  {
+    "english": "incoming tenant (RealEst.)",
+    "german": "einziehender Mieter (m)"
+  },
+  {
+    "english": "joint tenant",
+    "german": "Miteigentümer (m)"
+  },
+  {
+    "english": "joint tenant",
+    "german": "Mitmieter (m)"
+  },
+  {
+    "english": "life tenant (econ.)",
+    "german": "Pächter auf Lebenszeit (m)"
+  },
+  {
+    "english": "main tenant (RealEst.)",
+    "german": "Hauptmieter (m)"
+  },
+  {
+    "english": "new tenant (RealEst.)",
+    "german": "Nachmieter (m)"
+  },
+  {
+    "english": "office tenant",
+    "german": "Büromieter (m)"
+  },
+  {
+    "english": "office tenant (female)",
+    "german": "Büromieterin (f)"
+  },
+  {
+    "english": "outgoing tenant (RealEst.)",
+    "german": "ausziehender Mieter (m)"
+  },
+  {
+    "english": "permanent tenant (RealEst.)",
+    "german": "Dauermieter (m)"
+  },
+  {
+    "english": "previous tenant (RealEst.)",
+    "german": "Vormieter (m)"
+  },
+  {
+    "english": "problematic tenant",
+    "german": "Problemmieter (m)"
+  },
+  {
+    "english": "prospective tenant (RealEst.)",
+    "german": "Mietinteressent (m)"
+  },
+  {
+    "english": "prospective tenant (RealEst.)",
+    "german": "möglicher Mieter (m)"
+  },
+  {
+    "english": "se-tenant (philat.)",
+    "german": "Zusammendruck \u003cZD\u003e (m)"
+  },
+  {
+    "english": "social tenant (RealEst.)",
+    "german": "Sozialmieter (m)"
+  },
+  {
+    "english": "sole tenant",
+    "german": "Alleinmieter (m)"
+  },
+  {
+    "english": "sole tenant",
+    "german": "Alleinpächter (m)"
+  },
+  {
+    "english": "sole tenant",
+    "german": "alleiniger Pächter (m)"
+  },
+  {
+    "english": "tenant association",
+    "german": "Mieterverein (m)"
+  },
+  {
+    "english": "tenant farmer (agr.)",
+    "german": "Gutspächter (m)"
+  },
+  {
+    "english": "tenant farmer (agr.)",
+    "german": "Hofpächter (m)"
+  },
+  {
+    "english": "tenant farmer",
+    "german": "Pachtbauer (m)"
+  },
+  {
+    "english": "tenant installation (RealEst.)",
+    "german": "Mietereinbau (m)"
+  },
+  {
+    "english": "gas station tenant (jobs, RealEst., Am)",
+    "german": "Tankstellenpächter (m)"
+  },
+  {
+    "english": "long-term tenant (RealEst.)",
+    "german": "Dauermieter (m)"
+  },
+  {
+    "english": "long-term tenant (RealEst.)",
+    "german": "Langzeitmieter (m)"
+  },
+  {
+    "english": "tenant for life",
+    "german": "Nutznießer auf Lebenszeit (m)"
+  },
+  {
+    "english": "tenant-in-chief (Br)",
+    "german": "Kronvasall (m)"
+  },
+  {
+    "english": "tenant-occupied flat (RealEst.)",
+    "german": "von einem Mieter bewohnte Wohnung (f)"
+  },
+  {
+    "english": "tenant-occupied house (RealEst.)",
+    "german": "Miethaus (n)"
+  },
+  {
+    "english": "landlord and tenant law (law)",
+    "german": "Mietrecht (n)"
+  },
+  {
+    "english": "tenant for 5 years",
+    "german": "Mieter für 5 Jahre (m)"
+  },
+  {
+    "english": "tenant of a hunt (Am)",
+    "german": "Jagdpächter (m)"
+  },
+  {
+    "english": "tenant of a hunt (hunting, female, Am)",
+    "german": "Jagdpächterin (f)"
+  },
+  {
+    "english": "tenant of a shoot",
+    "german": "Jagdpächter (m)"
+  },
+  {
+    "english": "tenant of a shoot (hunting, female)",
+    "german": "Jagdpächterin (f)"
+  },
+  {
+    "english": "tenant under a building lease",
+    "german": "Erbbauberechtigter (m)"
+  },
+  {
+    "english": "The Tenant (film, F, Roman, Polanski)",
+    "german": "Der Mieter"
+  },
+  {
+    "english": "The Tenant of Wildfell Hall (lit., F, Anne, Bront)",
+    "german": "Wildfell Hall"
+  }
+]

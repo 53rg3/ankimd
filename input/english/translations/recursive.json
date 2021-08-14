@@ -1,0 +1,50 @@
+[
+  {
+    "english": "recursive (adj)",
+    "german": "rekursiv (33)"
+  },
+  {
+    "english": "recursive (math., spec., adj)",
+    "german": "rekurrierend (9)"
+  },
+  {
+    "english": "recursive definition (math.)",
+    "german": "rekursive Definition (f)"
+  },
+  {
+    "english": "recursive definition (math.)",
+    "german": "Definition durch Induktion (Rekursion, f)"
+  },
+  {
+    "english": "recursive filtration (tech.)",
+    "german": "Rekursivfilterung (f)"
+  },
+  {
+    "english": "recursive formula (math.)",
+    "german": "Rekursionsformel (f)"
+  },
+  {
+    "english": "recursive function (math.)",
+    "german": "berechenbare Funktion (f)"
+  },
+  {
+    "english": "recursive function (comp., math.)",
+    "german": "rekursive Funktion (f)"
+  },
+  {
+    "english": "recursive procedure",
+    "german": "rekursive Prozedur (f)"
+  },
+  {
+    "english": "recursive procedure",
+    "german": "sich selbst aufrufende Prozedur (f)"
+  },
+  {
+    "english": "recursive process",
+    "german": "sich selbst aufrufender Arbeitsgang (m)"
+  },
+  {
+    "english": "recursive subroutine (comp.)",
+    "german": "rekursives Unterprogramm (n)"
+  }
+]

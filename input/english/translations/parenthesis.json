@@ -1,0 +1,42 @@
+[
+  {
+    "english": "parenthesis",
+    "german": "Einschub (in, einem, Textabschnitt, Satz, usw, m, 230)"
+  },
+  {
+    "english": "parenthesis",
+    "german": "Zwischensatz (m, 52)"
+  },
+  {
+    "english": "parenthesis",
+    "german": "Parenthese (f, 47)"
+  },
+  {
+    "english": "parenthesis",
+    "german": "Zwischenbemerkung (f, 41)"
+  },
+  {
+    "english": "parenthesis",
+    "german": "runde Klammer (f)"
+  },
+  {
+    "english": "left parenthesis",
+    "german": "runde Klammer auf (f)"
+  },
+  {
+    "english": "left parenthesis \u003c ( \u003e (print)",
+    "german": "öffnende runde Klammer (f)"
+  },
+  {
+    "english": "right parenthesis",
+    "german": "runde Klammer zu (f)"
+  },
+  {
+    "english": "closing round parenthesis",
+    "german": "schließende runde Klammer (f)"
+  },
+  {
+    "english": "a open bracket b plus c minus e open parenthesis f minus g close parenthesis, close bracket \u003ca (math., esp, Am, bcefg)",
+    "german": "a eckige Klammer auf b plus c minus e runde Klammer auf f minus g runde Klammer zu, eckige Klammer zu \u003ca (bcefg)"
+  }
+]

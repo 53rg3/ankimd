@@ -1,0 +1,194 @@
+[
+  {
+    "english": "vowel (ling., phonet.)",
+    "german": "Vokal (m, 1125)"
+  },
+  {
+    "english": "vowel (ling., phonet.)",
+    "german": "Selbstlaut (m, 142)"
+  },
+  {
+    "english": "back vowel (phonet.)",
+    "german": "Hinterzungenvokal (m)"
+  },
+  {
+    "english": "back vowel (phonet.)",
+    "german": "hinterer Vokal (m)"
+  },
+  {
+    "english": "cardinal vowel (ling.)",
+    "german": "Kardinalvokal (m)"
+  },
+  {
+    "english": "central vowel (ling., phonet.)",
+    "german": "Zentralvokal (m)"
+  },
+  {
+    "english": "central vowel (ling.)",
+    "german": "zentraler Vokal (m)"
+  },
+  {
+    "english": "close vowel (phonet.)",
+    "german": "geschlossener Vokal (m)"
+  },
+  {
+    "english": "double vowel (ling., phonet.)",
+    "german": "Doppelvokal (m)"
+  },
+  {
+    "english": "front vowel (phonet.)",
+    "german": "Vorderzungenvokal (m)"
+  },
+  {
+    "english": "front vowel (phonet.)",
+    "german": "vorderer Vokal (m)"
+  },
+  {
+    "english": "initial vowel (ling., phonet.)",
+    "german": "Anfangsvokal (m)"
+  },
+  {
+    "english": "labial vowel (phonet.)",
+    "german": "gerundeter Vokal (m)"
+  },
+  {
+    "english": "long vowel (ling.)",
+    "german": "Langvokal (m)"
+  },
+  {
+    "english": "nasal vowel (phonet.)",
+    "german": "Nasalvokal (m)"
+  },
+  {
+    "english": "open vowel (phonet.)",
+    "german": "offener Vokal (m)"
+  },
+  {
+    "english": "short vowel (ling., phonet.)",
+    "german": "Kurzvokal (m)"
+  },
+  {
+    "english": "vowel change (ling.)",
+    "german": "Vokalwechsel (m)"
+  },
+  {
+    "english": "vowel chart (phonet.)",
+    "german": "Vokaltrapez (n)"
+  },
+  {
+    "english": "vowel chart (phonet.)",
+    "german": "Vokalviereck (n)"
+  },
+  {
+    "english": "vowel chart (ling., phonet., triangular, vowel, diagram)",
+    "german": "Vokaldreieck (n)"
+  },
+  {
+    "english": "vowel diagram (phonet.)",
+    "german": "Vokaltrapez (n)"
+  },
+  {
+    "english": "vowel diagram (phonet.)",
+    "german": "Vokalviereck (n)"
+  },
+  {
+    "english": "vowel gradation (ling.)",
+    "german": "Ablaut (m)"
+  },
+  {
+    "english": "vowel gradations (ling.)",
+    "german": "Ablaute (pl)"
+  },
+  {
+    "english": "vowel harmony (ling.)",
+    "german": "Vokalharmonie (f)"
+  },
+  {
+    "english": "vowel interchange (ling.)",
+    "german": "Vokalwechsel (m)"
+  },
+  {
+    "english": "vowel length (ling., phonet.)",
+    "german": "Vokallänge (f)"
+  },
+  {
+    "english": "vowel length (ling.)",
+    "german": "Vokalquantität (f)"
+  },
+  {
+    "english": "vowel letter (ling.)",
+    "german": "Vokalbuchstabe (m)"
+  },
+  {
+    "english": "vowel mutation (ling., esp, Br)",
+    "german": "Umlaut (m)"
+  },
+  {
+    "english": "vowel quadrilaterial (ling., phonet., also, vowel, trapezoid, or, trapezium, diagram)",
+    "german": "Vokalviereck (Vokaltrapez, n)"
+  },
+  {
+    "english": "vowel raising (ling.)",
+    "german": "Vokalhebung (f)"
+  },
+  {
+    "english": "vowel reduction (ling.)",
+    "german": "Vokalreduzierung (f)"
+  },
+  {
+    "english": "vowel shift (ling.)",
+    "german": "Lautverschiebung (f)"
+  },
+  {
+    "english": "vowel shift (ling.)",
+    "german": "Vokalverschiebung (f)"
+  },
+  {
+    "english": "vowel sign (ling.)",
+    "german": "Vokalzeichen (n)"
+  },
+  {
+    "english": "vowel sound (ling., phonet.)",
+    "german": "Vokal (Vokallaut, m)"
+  },
+  {
+    "english": "vowel sound (ling., phonet.)",
+    "german": "Vokallaut (m)"
+  },
+  {
+    "english": "vowel spectra (ling., phonet.)",
+    "german": "Vokalspektren (pl)"
+  },
+  {
+    "english": "vowel spectrum (ling., phonet.)",
+    "german": "Vokalspektrum (n)"
+  },
+  {
+    "english": "weakened vowel (ling.)",
+    "german": "schwacher Vokal (m)"
+  },
+  {
+    "english": "close-mid vowel (ling., phonet.)",
+    "german": "halbgeschlossener Vokal (m)"
+  },
+  {
+    "english": "Mongolian vowel separator \u003cMVS\u003e (print)",
+    "german": "mongolischer Vokalseparator (m)"
+  },
+  {
+    "english": "open-mid vowel (phonet.)",
+    "german": "halboffener Vokal (m)"
+  },
+  {
+    "english": "radical / root vowel (ling.)",
+    "german": "Stammvokal (m)"
+  },
+  {
+    "english": "near-close near-front rounded vowel (ling., phonet., also, nearhigh, nearfront, rounded, vowel)",
+    "german": "gerundeter zentralisierter fast geschlossener Vorderzungenvokal (m)"
+  },
+  {
+    "english": "near-close near-front unrounded vowel (ling., phonet., also, nearhigh, nearfront, unrounded, vowel)",
+    "german": "ungerundeter zentralisierter fast geschlossener Vorderzungenvokal (m)"
+  }
+]

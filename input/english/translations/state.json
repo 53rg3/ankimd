@@ -1,0 +1,202 @@
+[
+  {
+    "english": "state (admin., econ., pol., attr, adj)",
+    "german": "staatlich (480)"
+  },
+  {
+    "english": "state (attr, ceremonial, eg, apartments, bed, coach, room, adj)",
+    "german": "Prunk- (z, B, Gemcher, Bett, Kutsche, Saal)"
+  },
+  {
+    "english": "state (admin., econ., pol., attr, eg, affair, award, banquet, capitalism, church, adj)",
+    "german": "Staats- (z, B, Angelegenheit, Preis, Bankett, Kaptalismus, Kirche)"
+  },
+  {
+    "english": "to state sth.",
+    "german": "etw. angeben (aussagen, 2397)"
+  },
+  {
+    "english": "to state sth. (declare)",
+    "german": "etw. erklären (offiziell, bekanntgeben, 1174)"
+  },
+  {
+    "english": "to state",
+    "german": "aussagen (behaupten, 1063)"
+  },
+  {
+    "english": "to state (expound)",
+    "german": "darlegen (568)"
+  },
+  {
+    "english": "to state sth. (declare)",
+    "german": "etw. feststellen (nachdrcklich, aussprechen, bekanntgeben, 415)"
+  },
+  {
+    "english": "to state sth.",
+    "german": "etw. nennen (309)"
+  },
+  {
+    "english": "to state sth.",
+    "german": "etw. vortragen (darlegen, 220)"
+  },
+  {
+    "english": "to state",
+    "german": "festlegen (206)"
+  },
+  {
+    "english": "to state",
+    "german": "bekunden (150)"
+  },
+  {
+    "english": "to state",
+    "german": "konstatieren (138)"
+  },
+  {
+    "english": "to state (express, say)",
+    "german": "aussprechen (123)"
+  },
+  {
+    "english": "to state (law)",
+    "german": "vorbringen (107)"
+  },
+  {
+    "english": "to state sth.",
+    "german": "etw. ausführen (sagen, erlutern, 78)"
+  },
+  {
+    "english": "to state",
+    "german": "festsetzen (76)"
+  },
+  {
+    "english": "to state sth. (report)",
+    "german": "etw. melden (62)"
+  },
+  {
+    "english": "to state (set, forth)",
+    "german": "dartun (geh, 20)"
+  },
+  {
+    "english": "state (tech.)",
+    "german": "Beschaffenheit (f, 3194)"
+  },
+  {
+    "english": "state (condition)",
+    "german": "Zustand (m, 1773)"
+  },
+  {
+    "english": "state (pol.)",
+    "german": "Staat (m, 1145)"
+  },
+  {
+    "english": "state",
+    "german": "Status (m, 356)"
+  },
+  {
+    "english": "state (admin., in, Germany, or, Austria)",
+    "german": "Bundesland (n, 268)"
+  },
+  {
+    "english": "state (condition)",
+    "german": "Verfassung (Zustand, f, 107)"
+  },
+  {
+    "english": "state (of, affairs)",
+    "german": "Lage (Zustand, f, 82)"
+  },
+  {
+    "english": "state (of, affairs, etc)",
+    "german": "Stand (Stand, der, Dinge, Lage, m, 78)"
+  },
+  {
+    "english": "state (phase, stage)",
+    "german": "Stadium (n, 46)"
+  },
+  {
+    "english": "state (admin., in, Germany, or, Austria)",
+    "german": "Land (Bundesland, n, 41)"
+  },
+  {
+    "english": "state (condition)",
+    "german": "Befindlichkeit (f, 39)"
+  },
+  {
+    "english": "state (sociol.)",
+    "german": "Rang (m, 31)"
+  },
+  {
+    "english": "state (geogr., pol., national, territory)",
+    "german": "Staatsgebiet (n, 18)"
+  },
+  {
+    "english": "state (of, preservation)",
+    "german": "Erhaltungszustand (m, 18)"
+  },
+  {
+    "english": "State / (educ., coll, the, local, state, college, university)",
+    "german": "Universität (in, ffentlicher, Trgerschaft, f, 11)"
+  },
+  {
+    "english": "state (pol., body, politic)",
+    "german": "Staatswesen (n, 8)"
+  },
+  {
+    "english": "state (philos., spec.)",
+    "german": "Zuständlichkeit (f)"
+  },
+  {
+    "english": "the State",
+    "german": "Vater Staat (hum, m)"
+  },
+  {
+    "english": "all-state (adj)",
+    "german": "Landesbesten- (bezogen, auf, ein, Bundesland)"
+  },
+  {
+    "english": "anti-state (philos., pol., adj)",
+    "german": "antistaatlich"
+  },
+  {
+    "english": "corporative state (hist., pol., adj)",
+    "german": "ständestaatlich"
+  },
+  {
+    "english": "Cowboy State (geogr., nickname, State, of, Wyoming)",
+    "german": "Cowboy-Staat (auch, Cowboystaat, Spitzname, fr, Wyoming, USA)"
+  },
+  {
+    "english": "Flickertail State (geogr., nickname, State, of, North, Dakota)",
+    "german": " (Spitzname, fr, North, Dakota, USA, wrtlich, PrriezieselStaat)"
+  },
+  {
+    "english": "in state (adj)",
+    "german": "feierlich"
+  },
+  {
+    "english": "in state (with, pomp, adj)",
+    "german": "pomphaft"
+  },
+  {
+    "english": "inter-state (adj)",
+    "german": "zwischenstaatlich"
+  },
+  {
+    "english": "multi-state (comp., electr., attr, adj)",
+    "german": "mehrstufig"
+  },
+  {
+    "english": "non-state (pol., adj)",
+    "german": "nichtstaatlich"
+  },
+  {
+    "english": "off-state (adj)",
+    "german": "ausgeschaltet (Gert)"
+  },
+  {
+    "english": "solid-state (electr., adj)",
+    "german": "kontaktlos"
+  },
+  {
+    "english": "state-aided (adj)",
+    "german": "staatlich unterstützt"
+  }
+]

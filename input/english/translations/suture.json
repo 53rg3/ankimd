@@ -1,0 +1,202 @@
+[
+  {
+    "english": "to suture (med.)",
+    "german": "zunähen (206)"
+  },
+  {
+    "english": "to suture (med.)",
+    "german": "vernähen (64)"
+  },
+  {
+    "english": "suture (anat., med.)",
+    "german": "Naht (f, 287)"
+  },
+  {
+    "english": "suture (med.)",
+    "german": "Faden (m, 227)"
+  },
+  {
+    "english": "suture (anat., Sutura)",
+    "german": "Knochennaht (f, 120)"
+  },
+  {
+    "english": "suture (anat., Sutura)",
+    "german": "Sutur (f, 9)"
+  },
+  {
+    "english": "suture (geol.)",
+    "german": "Geosutur (auch, Sutur, f)"
+  },
+  {
+    "english": "absorbable suture (med.)",
+    "german": "absorbierbare Naht (f)"
+  },
+  {
+    "english": "adjustable suture (med.)",
+    "german": "justierbare Naht (f)"
+  },
+  {
+    "english": "ammonitic suture (geol., zool.)",
+    "german": "ammonitische Lobenlinie (f)"
+  },
+  {
+    "english": "apposition suture (med.)",
+    "german": "approximierende Naht (Chirurgie, f)"
+  },
+  {
+    "english": "catgut suture (med.)",
+    "german": "Catgut-Naht (Catgutnaht, f)"
+  },
+  {
+    "english": "ceratitic suture (geol., zool.)",
+    "german": "ceratitische Lobenlinie (bei, Ammoniten, f)"
+  },
+  {
+    "english": "continuous suture (med.)",
+    "german": "fortlaufende Naht (f)"
+  },
+  {
+    "english": "corium suture (med.)",
+    "german": "Koriumnaht (f)"
+  },
+  {
+    "english": "corneal suture (med.)",
+    "german": "Hornhautnaht (f)"
+  },
+  {
+    "english": "coronal suture (anat., biol., Sutura, coronalis)",
+    "german": "Koronarnaht (f)"
+  },
+  {
+    "english": "coronal suture (anat., Sutura, coronalis)",
+    "german": "Kranznaht (f)"
+  },
+  {
+    "english": "cranial suture (anat.)",
+    "german": "Schädelnaht (f)"
+  },
+  {
+    "english": "direct suture (med.)",
+    "german": "Direktnaht (f)"
+  },
+  {
+    "english": "elytral suture (entom.)",
+    "german": "Elytralnaht (f)"
+  },
+  {
+    "english": "elytral suture (entom.)",
+    "german": "Elytrennaht (f)"
+  },
+  {
+    "english": "elytral suture (entom.)",
+    "german": "Flügeldeckennaht (f)"
+  },
+  {
+    "english": "epicranial suture (zool.)",
+    "german": "Epicranialnaht (f)"
+  },
+  {
+    "english": "epicranial suture (zool.)",
+    "german": "Epikranialnaht (f)"
+  },
+  {
+    "english": "epistomal suture (entom.)",
+    "german": "Epistomalnaht (f)"
+  },
+  {
+    "english": "facial suture (zool.)",
+    "german": "Gesichtsnaht (f)"
+  },
+  {
+    "english": "frontal suture (anat., med., Sutura, frontalis)",
+    "german": "Stirnnaht (f)"
+  },
+  {
+    "english": "frontoclypeal suture (entom.)",
+    "german": "Frontoclypealnaht (f)"
+  },
+  {
+    "english": "goniatitic suture (geol., zool.)",
+    "german": "goniatitische Lobenlinie (bei, Ammoniten, f)"
+  },
+  {
+    "english": "gut suture (med.)",
+    "german": "Darmnaht (f)"
+  },
+  {
+    "english": "Herzog\u0027s suture (med.)",
+    "german": "Herzog-Naht (f)"
+  },
+  {
+    "english": "humeral suture (entom.)",
+    "german": "Humeralnaht (f)"
+  },
+  {
+    "english": "hypocranial suture (zool.)",
+    "german": "Hypocranialnaht (f)"
+  },
+  {
+    "english": "intermaxillary suture (anat., dent.)",
+    "german": "intermaxilläre Naht (f)"
+  },
+  {
+    "english": "interparietal suture (anat., med., Sutura, interparietalis)",
+    "german": "interparietale Naht (f)"
+  },
+  {
+    "english": "interrupted suture (med.)",
+    "german": "Knopfnaht (f)"
+  },
+  {
+    "english": "interrupted suture (med.)",
+    "german": "unterbrochene Naht (f)"
+  },
+  {
+    "english": "iris suture (med.)",
+    "german": "Irisnaht (f)"
+  },
+  {
+    "english": "lambdoid suture (anat., Sutura, lambdoidea)",
+    "german": "Lambdanaht (f)"
+  },
+  {
+    "english": "lambdoidal suture (anat., Sutura, lambdoidea)",
+    "german": "Lambdanaht (f)"
+  },
+  {
+    "english": "lobed suture (geol., zool.)",
+    "german": "Lobenlinie (bei, Ammoniten, f)"
+  },
+  {
+    "english": "mattress suture (med.)",
+    "german": "Matratzennaht (f)"
+  },
+  {
+    "english": "maxillolacrimal suture (anat., dent.)",
+    "german": "Sutura maxillolacrimalis (f)"
+  },
+  {
+    "english": "metopic suture (anat., med., Sutura, metopica, Sutura, frontalis)",
+    "german": "Stirnnaht (f)"
+  },
+  {
+    "english": "metopic suture (anat., med., Sutura, metopica, Sutura, frontalis)",
+    "german": "metopische Sutur (Stirnnaht, f)"
+  },
+  {
+    "english": "molting suture (entom., zool., Am)",
+    "german": "Häutungsnaht (f)"
+  },
+  {
+    "english": "moulting suture (entom., zool., Br)",
+    "german": "Häutungsnaht (f)"
+  },
+  {
+    "english": "nerve suture (med.)",
+    "german": "Nervennaht (f)"
+  },
+  {
+    "english": "nonabsorbable suture (med.)",
+    "german": "nicht absorbierbare Naht (f)"
+  }
+]

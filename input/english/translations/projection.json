@@ -1,0 +1,202 @@
+[
+  {
+    "english": "projection (ecol., econ., fin.)",
+    "german": "Prognose (f, 1213)"
+  },
+  {
+    "english": "projection",
+    "german": "Hochrechnung (f, 188)"
+  },
+  {
+    "english": "projection",
+    "german": "Vorausschau (f, 46)"
+  },
+  {
+    "english": "projection (constr.)",
+    "german": "Vorsprung (m, 29)"
+  },
+  {
+    "english": "projection",
+    "german": "Entwurf (m, 28)"
+  },
+  {
+    "english": "projection",
+    "german": "Ausbuchtung (f, 20)"
+  },
+  {
+    "english": "projection",
+    "german": "Projektion (f, 19)"
+  },
+  {
+    "english": "projection (tech.)",
+    "german": "Ansatz (vorstehendes, Teil, m, 12)"
+  },
+  {
+    "english": "projection",
+    "german": "Vorausberechnung (f, 8)"
+  },
+  {
+    "english": "projection",
+    "german": "Projizierung (f, 7)"
+  },
+  {
+    "english": "projection",
+    "german": "Vorausschätzung (f, 7)"
+  },
+  {
+    "english": "projection (tech.)",
+    "german": "Überstand (m)"
+  },
+  {
+    "english": "projection (mus., of, the, voice, instruments, etc)",
+    "german": "Tragfähigkeit (der, Stimme, von, Instrumenten, etc, f)"
+  },
+  {
+    "english": "(beam) projection (MedTech.)",
+    "german": "Strahlengang (Projektion, m)"
+  },
+  {
+    "english": "angle projection (MedTech., phys.)",
+    "german": "Winkelprojektion (f)"
+  },
+  {
+    "english": "astral projection",
+    "german": "Astralreise (f)"
+  },
+  {
+    "english": "axonometric projection (math., tech.)",
+    "german": "axonometrische Projektion (f)"
+  },
+  {
+    "english": "azimuthal projection (geogr.)",
+    "german": "Azimutalprojektion (f)"
+  },
+  {
+    "english": "back projection",
+    "german": "Rückprojektion (f)"
+  },
+  {
+    "english": "beam projection (MedTech.)",
+    "german": "Einstrahlrichtung (f)"
+  },
+  {
+    "english": "budgetary projection (fin.)",
+    "german": "Haushaltsprojektion (Budgetvorausschau, f)"
+  },
+  {
+    "english": "canonical projection (math.)",
+    "german": "kanonische Projektion (f)"
+  },
+  {
+    "english": "Cartan projection (math.)",
+    "german": "Cartan-Projektion (f)"
+  },
+  {
+    "english": "cavalier projection (math.)",
+    "german": "Kavalierperspektive (f)"
+  },
+  {
+    "english": "conformal projection (geogr.)",
+    "german": "winkeltreue Projektion (f)"
+  },
+  {
+    "english": "conic projection (geogr.)",
+    "german": "Kegelprojektion (f)"
+  },
+  {
+    "english": "conic projection (acad., geogr., math., cartography)",
+    "german": "Kegelabbildung (Kartografie, f)"
+  },
+  {
+    "english": "conical projection (acad., geogr., math., cartography)",
+    "german": "Kegelabbildung (Kartografie, f)"
+  },
+  {
+    "english": "costs projection",
+    "german": "Kostenplan (m)"
+  },
+  {
+    "english": "craniocaudal projection \u003ccc projection\u003e (MedTech.)",
+    "german": "kraniokaudale Projektion (f)"
+  },
+  {
+    "english": "cylindrical projection (geogr.)",
+    "german": "Zylinderprojektion (f)"
+  },
+  {
+    "english": "deficit projection (fin.)",
+    "german": "Defizitprognose (f)"
+  },
+  {
+    "english": "earnings projection (fin.)",
+    "german": "Gewinnprognose (f)"
+  },
+  {
+    "english": "equidistant projection (math.)",
+    "german": "äquidistante Projektion (f)"
+  },
+  {
+    "english": "equidistant projection (geogr.)",
+    "german": "längentreue Projektion (f)"
+  },
+  {
+    "english": "equidistant projection (geogr.)",
+    "german": "streckentreue Projektion (seltener, f)"
+  },
+  {
+    "english": "equidistant projection (geogr., esp, maps)",
+    "german": "abstandstreue Abbildung (bes, Karten, f)"
+  },
+  {
+    "english": "film projection",
+    "german": "Filmprojektion (f)"
+  },
+  {
+    "english": "Fischer projection (chem.)",
+    "german": "Fischer-Projektion (f)"
+  },
+  {
+    "english": "flame projection",
+    "german": "Flammlänge (f)"
+  },
+  {
+    "english": "forward projection",
+    "german": "Fortschreibung (f)"
+  },
+  {
+    "english": "forward projection (stat.)",
+    "german": "Hochrechnung (Statistik, f)"
+  },
+  {
+    "english": "front projection (film)",
+    "german": "Aufpro (ugs, Aufprojektion, Frontprojektion, f)"
+  },
+  {
+    "english": "front projection (film)",
+    "german": "Aufprojektion (f)"
+  },
+  {
+    "english": "gnomonic projection (geogr.)",
+    "german": "gnomonische Projektion (f)"
+  },
+  {
+    "english": "laser projection",
+    "german": "Laserprojektion (f)"
+  },
+  {
+    "english": "map projection (geogr.)",
+    "german": "Kartenabbildung (f)"
+  },
+  {
+    "english": "map projection (geogr.)",
+    "german": "Kartennetzentwurf (m)"
+  },
+  {
+    "english": "map projection (geogr.)",
+    "german": "Kartenprojektion (f)"
+  },
+  {
+    "english": "mediolateral projection (MedTech.)",
+    "german": "mediolaterale Projektion (f)"
+  }
+]

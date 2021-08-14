@@ -1,0 +1,274 @@
+[
+  {
+    "english": "ointment",
+    "german": "Salbe (f, 1412)"
+  },
+  {
+    "english": "ointment (med.)",
+    "german": "Wundsalbe (f, 186)"
+  },
+  {
+    "english": "ointment",
+    "german": "Balsam (m, 80)"
+  },
+  {
+    "english": "adhesive ointment (pharm.)",
+    "german": "Adhäsivsalbe (f)"
+  },
+  {
+    "english": "adhesive ointment (med.)",
+    "german": "Haftsalbe (f)"
+  },
+  {
+    "english": "antibiotic ointment (pharm.)",
+    "german": "antibiotische Wundsalbe (f)"
+  },
+  {
+    "english": "Unverified antirheumatic ointment (pharm.)",
+    "german": "Antirheumasalbe (auch, AntiRheumaSalbe, f)"
+  },
+  {
+    "english": "Unverified antirheumatic ointment (pharm.)",
+    "german": "Rheumasalbe (auch, RheumaSalbe, f)"
+  },
+  {
+    "english": "antirheumatic ointment (pharm.)",
+    "german": "antirheumatische Salbe (f)"
+  },
+  {
+    "english": "antiseptic ointment (med.)",
+    "german": "antiseptische Wundsalbe (f)"
+  },
+  {
+    "english": "arnica ointment (pharm.)",
+    "german": "Arnikasalbe (f)"
+  },
+  {
+    "english": "black ointment (pharm., coll, dark, sulfonated, shale, oil)",
+    "german": "schwarze Salbe (ugs, IchthyolZugsalbe, f)"
+  },
+  {
+    "english": "blistering ointment (pharm.)",
+    "german": "Zugsalbe (f)"
+  },
+  {
+    "english": "boric ointment (pharm.)",
+    "german": "Borsalbe (f)"
+  },
+  {
+    "english": "burn ointment (pharm.)",
+    "german": "Brandsalbe (f)"
+  },
+  {
+    "english": "cajeput ointment (pharm.)",
+    "german": "Cajeputsalbe (f)"
+  },
+  {
+    "english": "cortisone ointment (pharm.)",
+    "german": "Kortisonsalbe (f)"
+  },
+  {
+    "english": "eye ointment (pharm.)",
+    "german": "Augensalbe (f)"
+  },
+  {
+    "english": "fatty ointment (pharm.)",
+    "german": "Fettsalbe (f)"
+  },
+  {
+    "english": "flying ointment",
+    "german": "Flugsalbe (Hexensalbe, f)"
+  },
+  {
+    "english": "greasy ointment (pharm.)",
+    "german": "Fettsalbe (f)"
+  },
+  {
+    "english": "green ointment (hist., myth., magic, salve)",
+    "german": "Flugsalbe (Hexensalbe, f)"
+  },
+  {
+    "english": "healing ointment (med.)",
+    "german": "Heilsalbe (f)"
+  },
+  {
+    "english": "heparin ointment (pharm.)",
+    "german": "Heparinsalbe (f)"
+  },
+  {
+    "english": "horse ointment (pharm.)",
+    "german": "Pferdesalbe (f)"
+  },
+  {
+    "english": "hydrocortisone ointment (pharm.)",
+    "german": "Hydrocortisonsalbe (f)"
+  },
+  {
+    "english": "iodine ointment",
+    "german": "Jodsalbe (f)"
+  },
+  {
+    "english": "mercurial ointment (drugs, pharm., archaic)",
+    "german": "Quecksilbersalbe (veraltet, f)"
+  },
+  {
+    "english": "nasal ointment (pharm.)",
+    "german": "Nasensalbe (f)"
+  },
+  {
+    "english": "nose ointment (pharm.)",
+    "german": "Nasensalbe (f)"
+  },
+  {
+    "english": "ointment dressing (med., bandage)",
+    "german": "Salbenverband (m)"
+  },
+  {
+    "english": "ointment jar (pharm.)",
+    "german": "Salbentopf (m)"
+  },
+  {
+    "english": "ointment vessel (archaeo., relig.)",
+    "german": "Salbgefäß (n)"
+  },
+  {
+    "english": "ophthalmic ointment (pharm.)",
+    "german": "Augensalbe (f)"
+  },
+  {
+    "english": "paraffin ointment",
+    "german": "Paraffinsalbe (f)"
+  },
+  {
+    "english": "skin ointment (med.)",
+    "german": "Hautsalbe (f)"
+  },
+  {
+    "english": "soothing ointment",
+    "german": "kühlende Salbe (f)"
+  },
+  {
+    "english": "soothing ointment (pharm.)",
+    "german": "schmerzlindernde Salbe (f)"
+  },
+  {
+    "english": "steroid ointment (pharm.)",
+    "german": "Steroidsalbe (f)"
+  },
+  {
+    "english": "testosterone ointment (pharm.)",
+    "german": "Testosteronsalbe (f)"
+  },
+  {
+    "english": "zinc ointment (pharm.)",
+    "german": "Zinksalbe (f)"
+  },
+  {
+    "english": "rub with ointment (you)",
+    "german": "salbst (du)"
+  },
+  {
+    "english": "rubbed with ointment (adj, pastp)",
+    "german": "gesalbt"
+  },
+  {
+    "english": "rubbing with ointment",
+    "german": "salbend"
+  },
+  {
+    "english": "sb. rubs with ointment",
+    "german": "jd. salbt"
+  },
+  {
+    "english": "to cover sth. with ointment (med.)",
+    "german": "etw. mit Salbe abdecken"
+  },
+  {
+    "english": "to cover sth. with ointment (med.)",
+    "german": "etw. mit Salbe bestreichen"
+  },
+  {
+    "english": "to cover sth. with ointment (med.)",
+    "german": "etw. mit Salbe einstreichen"
+  },
+  {
+    "english": "to rub ointment into",
+    "german": "einsalben"
+  },
+  {
+    "english": "to rub with ointment",
+    "german": "einsalben"
+  },
+  {
+    "english": "absorptive ointment base (chem., med., pharm.)",
+    "german": "Absorptionsgrundlage (f)"
+  },
+  {
+    "english": "cortisone eye ointment (pharm.)",
+    "german": "kortisonhaltige Augensalbe (f)"
+  },
+  {
+    "english": "cortisone-containing ointment (pharm.)",
+    "german": "kortisonhaltige Salbe (f)"
+  },
+  {
+    "english": "cracked heel ointment (pharm.)",
+    "german": "Schrundensalbe (f)"
+  },
+  {
+    "english": "ointment for rheumatism (pharm.)",
+    "german": "Rheumasalbe (f)"
+  },
+  {
+    "english": "ointment-like faeces (med., Br, treated, as, sg, or, pl)",
+    "german": "salbenartiger Stuhl (m)"
+  },
+  {
+    "english": "ointment-like feces (med., Am, treated, as, sg, or, pl)",
+    "german": "salbenartiger Stuhl (m)"
+  },
+  {
+    "english": "witches\u0027 (flying) ointment (hist., myth., also, witches, flying, ointment)",
+    "german": "Flugsalbe (Hexensalbe, f)"
+  },
+  {
+    "english": "witches\u0027 (flying) ointment (hist., myth., also, witches, flying, ointment)",
+    "german": "Hexensalbe (f)"
+  },
+  {
+    "english": "witches\u0027 (flying) ointment (hist., myth., also, witches, flying, ointment)",
+    "german": "Hexenschmiere (f)"
+  },
+  {
+    "english": "zinc oxide ointment (pharm.)",
+    "german": "Zinksalbe (f)"
+  },
+  {
+    "english": "That\u0027s the fly in the ointment! (idiom)",
+    "german": "Da liegt der Hase im Pfeffer!"
+  },
+  {
+    "english": "There\u0027s a fly in the ointment! (idiom)",
+    "german": "Da ist ein Haken an der Sache!"
+  },
+  {
+    "english": "There\u0027s a fly in the ointment. (idiom)",
+    "german": "Es ist ein Haar in der Suppe."
+  },
+  {
+    "english": "to apply cream / ointment etc. to one\u0027s skin",
+    "german": "Creme / Salbe etc. auf der Haut verschmieren"
+  },
+  {
+    "english": "to be a fly in the ointment (coll, idiom)",
+    "german": "das Bild trüben"
+  },
+  {
+    "english": "the fly in the ointment (idiom)",
+    "german": "der bittere Tropfen im Kelch (Redewendung, m)"
+  },
+  {
+    "english": "The Spy in the Ointment (lit., F, Donald, E, Westlake)",
+    "german": "Held wider Willen"
+  }
+]

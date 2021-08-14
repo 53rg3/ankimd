@@ -1,0 +1,202 @@
+[
+  {
+    "english": "sb. became",
+    "german": "jd. ward (veraltet, wurde, 129)"
+  },
+  {
+    "english": "sb./sth. was",
+    "german": "jd./etw. ward (veraltet, wurde, 6)"
+  },
+  {
+    "english": "to ward",
+    "german": "abhalten (597)"
+  },
+  {
+    "english": "to ward",
+    "german": "abwehren (202)"
+  },
+  {
+    "english": "to ward sb. (archaic)",
+    "german": "jdn. bewachen (beschtzen, 30)"
+  },
+  {
+    "english": "ward (med., hospital)",
+    "german": "Station (Krankenhaus, f, 1194)"
+  },
+  {
+    "english": "ward (admin., med.)",
+    "german": "Abteilung (f, 623)"
+  },
+  {
+    "english": "ward (admin., pol., of, a, city, or, town)",
+    "german": "Bezirk (Stadtbezirk, m, 328)"
+  },
+  {
+    "english": "ward (law)",
+    "german": "Mündel (n, 138)"
+  },
+  {
+    "english": "ward (law, custody)",
+    "german": "Gewahrsam (m, 76)"
+  },
+  {
+    "english": "ward (law)",
+    "german": "Schutzbefohlener (Rechtssprache, sonst, veraltend, geh, m, 75)"
+  },
+  {
+    "english": "ward (admin., pol.)",
+    "german": "Wahlbezirk (m, 68)"
+  },
+  {
+    "english": "ward (of, a, guardian, an, institution)",
+    "german": "Pflegling (m, 63)"
+  },
+  {
+    "english": "ward (admin., pol.)",
+    "german": "Wahlkreis (m, 56)"
+  },
+  {
+    "english": "ward (law, female)",
+    "german": "Schutzbefohlene (f, 56)"
+  },
+  {
+    "english": "ward (med., in, a, hospital)",
+    "german": "Krankensaal (m, 54)"
+  },
+  {
+    "english": "ward (pol., urban)",
+    "german": "Stadtteil (m, 30)"
+  },
+  {
+    "english": "ward (law)",
+    "german": "Pupill / (veraltet, Schutz, Pflegebefohlener, Mndel, m, 20)"
+  },
+  {
+    "english": "ward (archi., open, court)",
+    "german": "Burghof (m, 14)"
+  },
+  {
+    "english": "ward (relig.)",
+    "german": "Kirchengemeinde (Mormonen, f, 7)"
+  },
+  {
+    "english": "ward (tech., lock)",
+    "german": "Besatzung (Trschloss, f, 6)"
+  },
+  {
+    "english": "ward (tech., of, a, key)",
+    "german": "Einschnitt (im, Schlsselbart, m, 5)"
+  },
+  {
+    "english": "aft ward (naut., adj)",
+    "german": "achteraus"
+  },
+  {
+    "english": "in ward (adv)",
+    "german": "in Gewahrsam"
+  },
+  {
+    "english": "under ward (adv)",
+    "german": "unter Aufsicht"
+  },
+  {
+    "english": "to ward off",
+    "german": "abwenden"
+  },
+  {
+    "english": "to ward off",
+    "german": "bannen (abwenden)"
+  },
+  {
+    "english": "to ward off",
+    "german": "erwehren (geh)"
+  },
+  {
+    "english": "to ward off sb./sth.",
+    "german": "jdn./etw. abwehren"
+  },
+  {
+    "english": "to ward sb./sth. (from sb./sth.) (archaic)",
+    "german": "jdn./etw. (vor jdm./etw.) beschützen"
+  },
+  {
+    "english": "to ward sth. off",
+    "german": "etw. abwenden"
+  },
+  {
+    "english": "(inpatient) ward (med.)",
+    "german": "Bettenstation (f)"
+  },
+  {
+    "english": "accident ward (med.)",
+    "german": "Unfallabteilung (f)"
+  },
+  {
+    "english": "accident ward (med.)",
+    "german": "Unfallstation (f)"
+  },
+  {
+    "english": "accident ward (med.)",
+    "german": "traumatologische Abteilung (f)"
+  },
+  {
+    "english": "admission ward (med.)",
+    "german": "Aufnahmeabteilung (f)"
+  },
+  {
+    "english": "casual ward (hist., sociol., Br, obs)",
+    "german": "Obdachlosenasyl (n)"
+  },
+  {
+    "english": "casualty ward (med.)",
+    "german": "Unfallstation (f)"
+  },
+  {
+    "english": "casualty ward (med., Br)",
+    "german": "Unfallchirurgie (Abteilung, f)"
+  },
+  {
+    "english": "children\u0027s ward (med.)",
+    "german": "Kinderabteilung (f)"
+  },
+  {
+    "english": "children\u0027s ward (med.)",
+    "german": "Kinderstation (f)"
+  },
+  {
+    "english": "city ward (hist.)",
+    "german": "Stadtwache (f)"
+  },
+  {
+    "english": "condemned ward",
+    "german": "Abteilung der Verurteilten (f)"
+  },
+  {
+    "english": "day ward (med.)",
+    "german": "ambulante Tagesstation (f)"
+  },
+  {
+    "english": "day ward (hist., jobs, obs)",
+    "german": "Tagwächter (m)"
+  },
+  {
+    "english": "delivery ward (med.)",
+    "german": "Entbindungsstation (f)"
+  },
+  {
+    "english": "delivery ward",
+    "german": "Geburtsabteilung (f)"
+  },
+  {
+    "english": "emergency (ward) \u003cEW\u003e (FireResc, med.)",
+    "german": "Notaufnahmeabteilung (f)"
+  },
+  {
+    "english": "emergency ward \u003cEW\u003e (FireResc, med.)",
+    "german": "Unfallnotaufnahme (f)"
+  },
+  {
+    "english": "emergency ward \u003cEW\u003e (FireResc, med.)",
+    "german": "Unfallstation (f)"
+  }
+]

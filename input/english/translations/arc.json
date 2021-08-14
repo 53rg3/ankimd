@@ -1,0 +1,202 @@
+[
+  {
+    "english": "to arc",
+    "german": "kurven (Ball, Rakete, etc, 241)"
+  },
+  {
+    "english": "arc (math.)",
+    "german": "Bogen (m, 603)"
+  },
+  {
+    "english": "arc (electr.)",
+    "german": "Lichtbogen (m, 142)"
+  },
+  {
+    "english": "arc (math.)",
+    "german": "Kreisbogen (m, 56)"
+  },
+  {
+    "english": "arc (math., segment, of, a, circle)",
+    "german": "Kreissegment (n, 33)"
+  },
+  {
+    "english": "arc (math.)",
+    "german": "Arkus (m, 7)"
+  },
+  {
+    "english": "arc-connected (math., adj)",
+    "german": "bogenweise zusammenhängend"
+  },
+  {
+    "english": "arc-shaped (adj)",
+    "german": "bogenförmig"
+  },
+  {
+    "english": "to air-arc (electr., phys.)",
+    "german": "abbrennen (mit, Elektrode)"
+  },
+  {
+    "english": "to arc up (Aus, coll)",
+    "german": "sich aufregen"
+  },
+  {
+    "english": "(story) arc (film, lit.)",
+    "german": "Handlungsbogen (m)"
+  },
+  {
+    "english": "AC arc (electr.)",
+    "german": "Wechselstrombogen (m)"
+  },
+  {
+    "english": "arc chute (electr.)",
+    "german": "Löschkammer (Lichtbogenlschkammer, f)"
+  },
+  {
+    "english": "arc chute (electr., IEC, 60050)",
+    "german": "Lichtbogenkammer (IEC, 60050, f)"
+  },
+  {
+    "english": "arc connectivity (math.)",
+    "german": "Bogenzusammenhang (m)"
+  },
+  {
+    "english": "arc cosecant \u003carccsc, acsc\u003e (math.)",
+    "german": "Arcuscosekans \u003carccsc, acsc\u003e (m)"
+  },
+  {
+    "english": "arc cosecant \u003carccsc, acsc\u003e (math.)",
+    "german": "Arkuskosekans \u003carccsc, acsc\u003e (m)"
+  },
+  {
+    "english": "arc cosine \u003carccos, acos, cos^-1\u003e (math.)",
+    "german": "Arcuscosinus \u003carccos, acos, cos^-1\u003e (m)"
+  },
+  {
+    "english": "arc cosine \u003carccos, acos\u003e (math.)",
+    "german": "Arkuskosinus \u003carccos, acos\u003e (m)"
+  },
+  {
+    "english": "arc cotangent \u003carccot, acot \u003e (math.)",
+    "german": "Arcuscotangens \u003carccot, acot\u003e (m)"
+  },
+  {
+    "english": "arc cotangent \u003carccot, acot\u003e (math.)",
+    "german": "Arkuskotangens \u003carccot, acot\u003e (m)"
+  },
+  {
+    "english": "arc cutting",
+    "german": "Lichtbogenschneiden (n)"
+  },
+  {
+    "english": "arc discharge (electr.)",
+    "german": "Bogenentladung (f)"
+  },
+  {
+    "english": "arc elasticity",
+    "german": "Bogenelastizität (f)"
+  },
+  {
+    "english": "arc erosion",
+    "german": "Abtragung (elektrische, f)"
+  },
+  {
+    "english": "arc eye (med., photokeratitis)",
+    "german": "Verblitzung (Photokeratitis, f)"
+  },
+  {
+    "english": "arc flow",
+    "german": "Kantenfluss (m)"
+  },
+  {
+    "english": "arc function (math.)",
+    "german": "Arkusfunktion (f)"
+  },
+  {
+    "english": "arc generator (electr., tech.)",
+    "german": "Lichtbogengenerator (m)"
+  },
+  {
+    "english": "arc horn (electr., sometimes, also, arcing, horn)",
+    "german": "Lichtbogenhorn (n)"
+  },
+  {
+    "english": "arc ignition",
+    "german": "Lichtbogenzündung (f)"
+  },
+  {
+    "english": "arc information",
+    "german": "Linieninformation (f)"
+  },
+  {
+    "english": "arc lamp (electr.)",
+    "german": "Bogenlampe (f)"
+  },
+  {
+    "english": "arc length (math.)",
+    "german": "Bogenlänge (f)"
+  },
+  {
+    "english": "arc light (electr.)",
+    "german": "Bogenlicht (n)"
+  },
+  {
+    "english": "arc minute (math.)",
+    "german": "Bogenminute (f)"
+  },
+  {
+    "english": "arc oscillation (phys.)",
+    "german": "Lichtbogenschwingung (f)"
+  },
+  {
+    "english": "arc quenching (electr.)",
+    "german": "Lichtbogenlöschung (f)"
+  },
+  {
+    "english": "arc secant \u003carcsec, asec\u003e (math.)",
+    "german": "Arcussekans \u003carcsec, asec\u003e (m)"
+  },
+  {
+    "english": "arc secant \u003carcsec, asec\u003e (math.)",
+    "german": "Arkussekans \u003carcsec, asec\u003e (m)"
+  },
+  {
+    "english": "arc second (math.)",
+    "german": "Bogensekunde (f)"
+  },
+  {
+    "english": "arc shot (film, photo., tech.)",
+    "german": "Kreisfahrt (Kamera, f)"
+  },
+  {
+    "english": "arc shot (film, photo., tech.)",
+    "german": "Rundfahrt (Kamera, f)"
+  },
+  {
+    "english": "arc sine \u003carcsin, asin\u003e (math.)",
+    "german": "Arcussinus \u003carcsin, asin\u003e (m)"
+  },
+  {
+    "english": "arc sine \u003carcsin, asin\u003e (math.)",
+    "german": "Arkussinus \u003carcsin, asin\u003e (m)"
+  },
+  {
+    "english": "arc spectrum (phys.)",
+    "german": "Bogenspektrum (n)"
+  },
+  {
+    "english": "arc strike (engin.)",
+    "german": "Zündstelle (f)"
+  },
+  {
+    "english": "arc suppression",
+    "german": "Lichtbogenunterdrückung (f)"
+  },
+  {
+    "english": "arc tangent",
+    "german": "inverse Tangente (f)"
+  },
+  {
+    "english": "arc tangent \u003carctan, atan\u003e (math.)",
+    "german": "Arcustangens \u003carctan, atan\u003e (m)"
+  }
+]

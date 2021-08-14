@@ -1,0 +1,162 @@
+[
+  {
+    "english": "grating (adj, presp)",
+    "german": "knirschend (773)"
+  },
+  {
+    "english": "grating (voice, adj)",
+    "german": "grell (Stimme, 702)"
+  },
+  {
+    "english": "grating (voice, adj, presp)",
+    "german": "quietschend (Stimme, 56)"
+  },
+  {
+    "english": "grating",
+    "german": "Gitter (n, 228)"
+  },
+  {
+    "english": "grating",
+    "german": "Gitterrost (m, 135)"
+  },
+  {
+    "english": "grating",
+    "german": "Abdeckgitter (n, 22)"
+  },
+  {
+    "english": "grating (med.)",
+    "german": "Knirschen (z, B, Gelenk, n, 14)"
+  },
+  {
+    "english": "grating",
+    "german": "Gatter (Rost, n, 9)"
+  },
+  {
+    "english": "grating",
+    "german": "Lüftungsgitter (n, 7)"
+  },
+  {
+    "english": "grating (eg, of, cheese)",
+    "german": "Raspeln (z, B, von, Kse, n, 6)"
+  },
+  {
+    "english": "grating",
+    "german": "Abdeckrost (inoffiziell, auch, n, m)"
+  },
+  {
+    "english": "grating",
+    "german": "Beugungsgitter (n)"
+  },
+  {
+    "english": "grating",
+    "german": "Bildraster (n)"
+  },
+  {
+    "english": "grating",
+    "german": "Rasterung (f)"
+  },
+  {
+    "english": "amplitude grating",
+    "german": "Amplitudengitter (n)"
+  },
+  {
+    "english": "blazed grating (optics, phys.)",
+    "german": "Blazegitter (n)"
+  },
+  {
+    "english": "crystal grating (mineral.)",
+    "german": "Kristallgitter (n)"
+  },
+  {
+    "english": "diffraction grating (optics, phys.)",
+    "german": "Beugungsgitter (n)"
+  },
+  {
+    "english": "diffraction grating (optics, phys.)",
+    "german": "optisches Gitter (Beugungsgitter, n)"
+  },
+  {
+    "english": "echelette grating (optics, phys.)",
+    "german": "Echelettegitter (n)"
+  },
+  {
+    "english": "echelle grating (optics, phys.)",
+    "german": "Echelle-Gitter (auch, chellegitter, n)"
+  },
+  {
+    "english": "grating spectrometer (optics, diffraction)",
+    "german": "Gitterspektroskop (n)"
+  },
+  {
+    "english": "grating cheese (gastr.)",
+    "german": "Reibekäse (m)"
+  },
+  {
+    "english": "grating cheese (gastr.)",
+    "german": "Reibkäse (vor, dem, Reiben, m)"
+  },
+  {
+    "english": "grating constant",
+    "german": "Gitterkonstante (f)"
+  },
+  {
+    "english": "grating door",
+    "german": "knarrende Tür (f)"
+  },
+  {
+    "english": "Unverified grating lobes (electr., engin., tech.)",
+    "german": "Gitterkeulen (pl)"
+  },
+  {
+    "english": "grating mill (gastr.)",
+    "german": "Reibemühle (f)"
+  },
+  {
+    "english": "grating prism (optics)",
+    "german": "Gitterprisma (n)"
+  },
+  {
+    "english": "grating reflector",
+    "german": "Rasterreflektor (m)"
+  },
+  {
+    "english": "grating spectroscopy (optics)",
+    "german": "Gitterspektroskopie (f)"
+  },
+  {
+    "english": "Ronchi grating (optics)",
+    "german": "Ronchi-Gitter (n)"
+  },
+  {
+    "english": "ruled grating (optics)",
+    "german": "geritztes Gitter (n)"
+  },
+  {
+    "english": "steel grating",
+    "german": "Stahlgitter (Rost, n)"
+  },
+  {
+    "english": "steel grating",
+    "german": "Stahlrost (eines, Ofens, m)"
+  },
+  {
+    "english": "wire grating (tech.)",
+    "german": "Drahtgitter (n)"
+  },
+  {
+    "english": "fiber Bragg grating \u003cFBG\u003e (electr., phys.)",
+    "german": "Faser-Bragg-Gitter \u003cFBG\u003e (n)"
+  },
+  {
+    "english": "grating (diffraction) spectrometer (optics)",
+    "german": "Gitterspektrometer (n)"
+  },
+  {
+    "english": "grating (normal) spectrum (optics)",
+    "german": "Gitterspektrum (n)"
+  },
+  {
+    "english": "spectroscopy by diffraction grating (optics)",
+    "german": "Gitterspektroskopie (f)"
+  }
+]

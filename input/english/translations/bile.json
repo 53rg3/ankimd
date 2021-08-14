@@ -1,0 +1,226 @@
+[
+  {
+    "english": "bile (anat.)",
+    "german": "Galle (Flssigkeit, f, 1705)"
+  },
+  {
+    "english": "bile",
+    "german": "Zorn (m, 187)"
+  },
+  {
+    "english": "bile",
+    "german": "Gallenflüssigkeit (f, 89)"
+  },
+  {
+    "english": "bile (anat.)",
+    "german": "Gallensaft (m, 18)"
+  },
+  {
+    "english": "bile",
+    "german": "Gallensekret (n, 18)"
+  },
+  {
+    "english": "bile acid",
+    "german": "Gallensäure (f)"
+  },
+  {
+    "english": "bile acids (biol.)",
+    "german": "Gallensäuren (pl)"
+  },
+  {
+    "english": "bile bear (pharm., zool.)",
+    "german": "Gallenbär (m)"
+  },
+  {
+    "english": "bile broth (med.)",
+    "german": "Gallebouillon (f)"
+  },
+  {
+    "english": "bile components (chem., med.)",
+    "german": "Gallenbestandteile (der, Gallenflssigkeit, pl)"
+  },
+  {
+    "english": "bile components (chem., med.)",
+    "german": "Gallenkomponenten (der, Gallenflssigkeit, pl)"
+  },
+  {
+    "english": "bile drainage (anat.)",
+    "german": "Gallenabfluss (m)"
+  },
+  {
+    "english": "bile duct (anat.)",
+    "german": "Gallengang (m)"
+  },
+  {
+    "english": "bile duct (anat.)",
+    "german": "Gallenweg (m)"
+  },
+  {
+    "english": "bile ducts (anat.)",
+    "german": "Gallengänge (pl)"
+  },
+  {
+    "english": "bile flow (med.)",
+    "german": "Gallenfluss (m)"
+  },
+  {
+    "english": "bile fluid",
+    "german": "Gallenflüssigkeit (f)"
+  },
+  {
+    "english": "bile pigment (biol.)",
+    "german": "Gallenfarbstoff (m)"
+  },
+  {
+    "english": "bile pigment (biol.)",
+    "german": "Gallenpigment (n)"
+  },
+  {
+    "english": "bile pigments (biol.)",
+    "german": "Gallenfarbstoffe (pl)"
+  },
+  {
+    "english": "bile pigments (biol.)",
+    "german": "Gallenpigmente (pl)"
+  },
+  {
+    "english": "bile production (med., VetMed.)",
+    "german": "Gallenproduktion (f)"
+  },
+  {
+    "english": "bile reflux (med.)",
+    "german": "Gallenrückfluss (bilirer, Reflux, m)"
+  },
+  {
+    "english": "bile salt (med.)",
+    "german": "Gallensalz (n)"
+  },
+  {
+    "english": "bile salts (biochem.)",
+    "german": "Gallensalze (pl)"
+  },
+  {
+    "english": "bile soap",
+    "german": "Gallseife (f)"
+  },
+  {
+    "english": "bile stasis (med.)",
+    "german": "Gallenstauung (f)"
+  },
+  {
+    "english": "bile stasis (med.)",
+    "german": "Gallestauung (f)"
+  },
+  {
+    "english": "bile vomiting (med.)",
+    "german": "Gallenerbrechen (auch, Galleerbrechen, n)"
+  },
+  {
+    "english": "bile-stone (med.)",
+    "german": "Gallenstein (m)"
+  },
+  {
+    "english": "black bile (hist., med.)",
+    "german": "schwarze Galle (f)"
+  },
+  {
+    "english": "C bile (med.)",
+    "german": "Gallengangsgalle (f)"
+  },
+  {
+    "english": "C bile (med.)",
+    "german": "C-Galle (f)"
+  },
+  {
+    "english": "gallbladder bile (anat.)",
+    "german": "Blasengalle (f)"
+  },
+  {
+    "english": "hepatic bile (anat.)",
+    "german": "Lebergalle (f)"
+  },
+  {
+    "english": "pleochromatic bile (med.)",
+    "german": "pleiochrome Galle (f)"
+  },
+  {
+    "english": "white bile (med.)",
+    "german": "weiße Galle (f)"
+  },
+  {
+    "english": "yellow bile (hist., med.)",
+    "german": "gelbe Galle (f)"
+  },
+  {
+    "english": "(common) bile duct (anat.)",
+    "german": "Gallengang (m)"
+  },
+  {
+    "english": "bile acid assay (med.)",
+    "german": "Gallensäurebestimmung (f)"
+  },
+  {
+    "english": "bile duct adenoma (med.)",
+    "german": "Gallengangadenom (n)"
+  },
+  {
+    "english": "bile duct cancer (med.)",
+    "german": "Gallengangkrebs (m)"
+  },
+  {
+    "english": "bile duct cancer (med.)",
+    "german": "Gallenwegkrebs (m)"
+  },
+  {
+    "english": "bile duct proliferation (med.)",
+    "german": "Gallengangwucherung (f)"
+  },
+  {
+    "english": "bile salt uptake (biol.)",
+    "german": "Gallensalzaufnahme (f)"
+  },
+  {
+    "english": "common bile duct (anat.)",
+    "german": "Ductus choledochus (m)"
+  },
+  {
+    "english": "common bile duct (anat., Ductus, choledochus)",
+    "german": "Hauptgallengang (m)"
+  },
+  {
+    "english": "common bile duct \u003cCBD\u003e (anat., VetMed., Ductus, choledochus)",
+    "german": "Choledochus (kurz, Ductus, choledochus, m)"
+  },
+  {
+    "english": "common bile duct \u003cCBD\u003e (anat., VetMed., Ductus, choledochus)",
+    "german": "großer Gallengang (m)"
+  },
+  {
+    "english": "interlobular bile duct (anat., Ductus, biliferus)",
+    "german": "interlobulärer Gallengang (m)"
+  },
+  {
+    "english": "liver bile duct (anat.)",
+    "german": "Lebergallengang (m)"
+  },
+  {
+    "english": "That roused his bile. (fig)",
+    "german": "Das erregte seinen Zorn."
+  },
+  {
+    "english": "That roused his bile. (fig)",
+    "german": "Das brachte ihn in Wut."
+  },
+  {
+    "english": "bifurcation of the bile duct (anat., med.)",
+    "german": "Hepaticusgabel (Rsv, f)"
+  },
+  {
+    "english": "bifurcation of the bile duct (anat., med.)",
+    "german": "Hepatikusgabel (f)"
+  },
+  {
+    "english": "carcinoma of the bile duct (med.)",
+    "german": "Gallengangkarzinom (n)"
+  }
+]

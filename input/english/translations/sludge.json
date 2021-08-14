@@ -1,0 +1,202 @@
+[
+  {
+    "english": "sludge",
+    "german": "Schlamm (m, 1278)"
+  },
+  {
+    "english": "sludge",
+    "german": "Matsch (m, 227)"
+  },
+  {
+    "english": "sludge",
+    "german": "Abwasserschlamm (m, 108)"
+  },
+  {
+    "english": "sludge",
+    "german": "Brühe (schmutzige, Flssigkeit, f, 99)"
+  },
+  {
+    "english": "sludge (formed, in, sewage, treatment)",
+    "german": "Klärschlamm (m, 48)"
+  },
+  {
+    "english": "sludge (wet, mud)",
+    "german": "Gatsch (bayer, sterr, ugs, Schmutz, breiige, Masse, m, 11)"
+  },
+  {
+    "english": "sludge",
+    "german": "Eisbrei (m, 8)"
+  },
+  {
+    "english": "sludge",
+    "german": "Schlicker (m, 8)"
+  },
+  {
+    "english": "sludge (med., short, biliary, sludge)",
+    "german": "Gallengrieß (m, 5)"
+  },
+  {
+    "english": "acid sludge (geol.)",
+    "german": "Säureschlamm (m)"
+  },
+  {
+    "english": "activated sludge",
+    "german": "Aktivschlamm (m)"
+  },
+  {
+    "english": "activated sludge",
+    "german": "Belebtschlamm (Abwasserreinigung, m)"
+  },
+  {
+    "english": "activated sludge (constr., tech.)",
+    "german": "Belebungsschlamm (m)"
+  },
+  {
+    "english": "aqueous sludge",
+    "german": "wasserreicher Schlamm (m)"
+  },
+  {
+    "english": "bladder sludge (VetMed.)",
+    "german": "Blasengrieß (m)"
+  },
+  {
+    "english": "bladder sludge (VetMed.)",
+    "german": "Blasenschlamm (m)"
+  },
+  {
+    "english": "bulking sludge",
+    "german": "Blähschlamm (m)"
+  },
+  {
+    "english": "carbide sludge (engin.)",
+    "german": "Hartmetallschlamm (m)"
+  },
+  {
+    "english": "cement sludge",
+    "german": "Zementbrühe (f)"
+  },
+  {
+    "english": "cement sludge",
+    "german": "Zementschlamm (eher, dickflssig, m)"
+  },
+  {
+    "english": "dehydrated sludge",
+    "german": "entwässerter Schlamm (m)"
+  },
+  {
+    "english": "digested sludge",
+    "german": "Faulschlamm (m)"
+  },
+  {
+    "english": "dried sludge",
+    "german": "getrockneter Schlamm (m)"
+  },
+  {
+    "english": "excess sludge (ecol., hydro., tech.)",
+    "german": "Überschussschlamm (m)"
+  },
+  {
+    "english": "faecal sludge (Br)",
+    "german": "Fäkalschlamm (Abwasserreinigung, m)"
+  },
+  {
+    "english": "floating sludge",
+    "german": "Schwimmschlamm (m)"
+  },
+  {
+    "english": "gallbladder sludge (med.)",
+    "german": "Gallengries (m)"
+  },
+  {
+    "english": "grinding sludge (tools)",
+    "german": "Schleifschlamm (m)"
+  },
+  {
+    "english": "lime sludge (material)",
+    "german": "Kalkschlamm (m)"
+  },
+  {
+    "english": "oil sludge (tech.)",
+    "german": "Ölschlamm (m)"
+  },
+  {
+    "english": "oily sludge",
+    "german": "Ölschlamm (m)"
+  },
+  {
+    "english": "paint sludge",
+    "german": "Farbschlamm (m)"
+  },
+  {
+    "english": "polishing sludge",
+    "german": "Schleifschlamm (Steinbearbeitung, m)"
+  },
+  {
+    "english": "raw sludge",
+    "german": "Rohschlamm (m)"
+  },
+  {
+    "english": "secondary sludge (ecol., hydro., tech.)",
+    "german": "Sekundärschlamm (m)"
+  },
+  {
+    "english": "sewage sludge",
+    "german": "Klärschlamm (m)"
+  },
+  {
+    "english": "sludge age",
+    "german": "Schlammalter (n)"
+  },
+  {
+    "english": "sludge basin",
+    "german": "Schlammbecken (n)"
+  },
+  {
+    "english": "sludge blanket",
+    "german": "Schlammspiegel (m)"
+  },
+  {
+    "english": "sludge bulking",
+    "german": "Schlammtreiben (n)"
+  },
+  {
+    "english": "sludge cake (ecol., gastr.)",
+    "german": "Schlammkuchen (m)"
+  },
+  {
+    "english": "sludge concentrator (hydro., tech.)",
+    "german": "Schlammeindicker (m)"
+  },
+  {
+    "english": "sludge deposits",
+    "german": "Schlammablagerungen (pl)"
+  },
+  {
+    "english": "sludge dewatering",
+    "german": "Schlammentwässerung (f)"
+  },
+  {
+    "english": "sludge digestion (ecol., hydro.)",
+    "german": "Schlammfaulung (f)"
+  },
+  {
+    "english": "sludge disposal",
+    "german": "Schlammentsorgung (f)"
+  },
+  {
+    "english": "sludge drying (ecol.)",
+    "german": "Schlammtrocknung (f)"
+  },
+  {
+    "english": "sludge formation (ecol.)",
+    "german": "Schlammbildung (f)"
+  },
+  {
+    "english": "sludge incineration",
+    "german": "Schlammverbrennung (f)"
+  },
+  {
+    "english": "sludge insert (tech.)",
+    "german": "Schlammeinsatz (m)"
+  }
+]

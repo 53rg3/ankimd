@@ -1,0 +1,282 @@
+[
+  {
+    "english": "plexus",
+    "german": "Nervengeflecht (n, 14)"
+  },
+  {
+    "english": "plexus (anat.)",
+    "german": "Adergeflecht (n, 9)"
+  },
+  {
+    "english": "plexus (anat.)",
+    "german": "Plexus (m, 8)"
+  },
+  {
+    "english": "Auerbach\u0027s plexus (anat., VetMed., Plexus, myentericus, Plexus, Auerbachi)",
+    "german": "Auerbach-Plexus (Plexus, myentericus, m, m)"
+  },
+  {
+    "english": "Auerbach\u0027s plexus (anat., VetMed., Plexus, myentericus, Plexus, Auerbachi)",
+    "german": "Auerbach\u0027scher Plexus (m)"
+  },
+  {
+    "english": "brachial plexus (anat., Plexus, brachialis)",
+    "german": "Armgeflecht (n)"
+  },
+  {
+    "english": "brachial plexus (anat., Plexus, brachialis)",
+    "german": "Brachialnervenplexus (m)"
+  },
+  {
+    "english": "brachial plexus (anat., Plexus, brachialis)",
+    "german": "Brachialplexus (m)"
+  },
+  {
+    "english": "cardiac plexus (anat., Plexus, cardiacus)",
+    "german": "Herzgeflecht (n)"
+  },
+  {
+    "english": "carotid plexus (anat., Plexus, caroticus)",
+    "german": "Karotisplexus (m)"
+  },
+  {
+    "english": "celiac plexus (anat., Am, solar, plexus)",
+    "german": "Sonnengeflecht (n)"
+  },
+  {
+    "english": "celiac plexus (anat., solar, plexus, Am)",
+    "german": "Solarplexus (m)"
+  },
+  {
+    "english": "cervical plexus (anat., Plexus, cervicalis)",
+    "german": "Halsgeflecht (n)"
+  },
+  {
+    "english": "choroid plexus (anat.)",
+    "german": "Choroidplexus (m)"
+  },
+  {
+    "english": "choroid plexus (med.)",
+    "german": "Plexus (venosus) choroideus (m)"
+  },
+  {
+    "english": "choroid plexus (anat., biol., Plexus, choroideus, Plexus, chorioideus, Plexus, chorioides)",
+    "german": "Plexus chorioideus (Plexus, choroideus, m)"
+  },
+  {
+    "english": "choroid plexus (anat., Plexus, choroideus)",
+    "german": "Adergeflecht (im, Hohlraumsystem, des, Gehirns, n)"
+  },
+  {
+    "english": "coeliac plexus (anat., Br, solar, plexus)",
+    "german": "Sonnengeflecht (n)"
+  },
+  {
+    "english": "coeliac plexus (anat., solar, plexus, Br)",
+    "german": "Solarplexus (m)"
+  },
+  {
+    "english": "lumbal plexus (anat., rare, Plexus, lumbalis)",
+    "german": "Lendengeflecht (n)"
+  },
+  {
+    "english": "lumbal plexus (anat., rare, Plexus, lumbalis)",
+    "german": "Lendennervengeflecht (n)"
+  },
+  {
+    "english": "lumbal plexus (anat., rare, Plexus, lumbalis)",
+    "german": "Lendenplexus (m)"
+  },
+  {
+    "english": "lumbar plexus (anat., Plexus, lumbalis)",
+    "german": "Lendengeflecht (n)"
+  },
+  {
+    "english": "lumbar plexus (anat., Plexus, lumbalis)",
+    "german": "Lendennervengeflecht (n)"
+  },
+  {
+    "english": "lumbar plexus (anat., Plexus, lumbalis)",
+    "german": "Lendenplexus (m)"
+  },
+  {
+    "english": "lumbosacral plexus (anat., Plexus, lumbosacralis)",
+    "german": "Lenden-Kreuz-Geflecht (n)"
+  },
+  {
+    "english": "Meissner\u0027s plexus (anat., VetMed.)",
+    "german": "Meissner-Plexus (m)"
+  },
+  {
+    "english": "myenteric plexus (anat., VetMed., Plexus, myentericus, Plexus, Auerbachi)",
+    "german": "Auerbach-Plexus (m)"
+  },
+  {
+    "english": "myenteric plexus (anat., VetMed., Plexus, myentericus, Plexus, Auerbachi)",
+    "german": "Auerbach\u0027scher Plexus (m)"
+  },
+  {
+    "english": "nerve plexus (anat.)",
+    "german": "Nervenplexus (m)"
+  },
+  {
+    "english": "pharyngeal plexus (anat.)",
+    "german": "Plexus (venosus) pharyngeus / (Venengeflecht, des, Rachens, Pharynx, m)"
+  },
+  {
+    "english": "plexus anaesthesia (med., Br)",
+    "german": "Plexusanästhesie (f)"
+  },
+  {
+    "english": "plexus anesthesia (med., Am)",
+    "german": "Plexusanästhesie (f)"
+  },
+  {
+    "english": "plexus haemorrhage (med., Br)",
+    "german": "Plexusblutung (f)"
+  },
+  {
+    "english": "plexus hemorrhage (med., Am)",
+    "german": "Plexusblutung (f)"
+  },
+  {
+    "english": "plexus injury (med.)",
+    "german": "Plexusverletzung (f)"
+  },
+  {
+    "english": "plexus neuralgia (med.)",
+    "german": "Plexusneuralgie (f)"
+  },
+  {
+    "english": "plexus papilloma (med.)",
+    "german": "Plexuspapillom (n)"
+  },
+  {
+    "english": "plexus paralysis (med.)",
+    "german": "Plexuslähmung (f)"
+  },
+  {
+    "english": "plexus submucosus (anat., VetMed., Plexus, nervosus, submucosus, Plexus, Meissneri)",
+    "german": "innerer submuköser Plexus (selten, MeissnerPlexus, m)"
+  },
+  {
+    "english": "pudendal plexus (anat., Plexus, pudendus)",
+    "german": "Schamgeflecht (n)"
+  },
+  {
+    "english": "pulmonary plexus (anat., Plexus, pulmonalis)",
+    "german": "Lungengeflecht (n)"
+  },
+  {
+    "english": "renal plexus (anat., Plexus, renalis)",
+    "german": "Nierengeflecht (n)"
+  },
+  {
+    "english": "renal plexus (anat., Plexus, renalis)",
+    "german": "Nierennervengeflecht (n)"
+  },
+  {
+    "english": "sacral plexus (anat., Plexus, sacralis)",
+    "german": "Kreuzbeingeflecht (n)"
+  },
+  {
+    "english": "sacral plexus (anat., Plexus, sacralis)",
+    "german": "Kreuzgeflecht (n)"
+  },
+  {
+    "english": "solar plexus (anat.)",
+    "german": "Solarplexus (m)"
+  },
+  {
+    "english": "solar plexus (anat.)",
+    "german": "Sonnengeflecht (n)"
+  },
+  {
+    "english": "submucosal plexus (anat., VetMed., Plexus, nervosus, submucosus, Plexus, submucosus, Plexus, Meissneri)",
+    "german": "Meissner-Plexus (m)"
+  },
+  {
+    "english": "submucous plexus (anat., VetMed., Plexus, nervosus, submucosus, Plexus, submucosus, Plexus, Meissneri)",
+    "german": "Meissner-Plexus (m)"
+  },
+  {
+    "english": "tympanic plexus (anat., Plexus, tympanicus)",
+    "german": "Paukengeflecht (n)"
+  },
+  {
+    "english": "vascular plexus (anat.)",
+    "german": "Gefäßgeflecht (n)"
+  },
+  {
+    "english": "brachial plexus injury \u003cBPI\u003e (med.)",
+    "german": "Brachialplexusverletzung (auch, BrachialplexusVerletzung, f)"
+  },
+  {
+    "english": "brachial plexus injury \u003cBPI\u003e (med.)",
+    "german": "Plexus-brachialis-Verletzung (f)"
+  },
+  {
+    "english": "choroid plexus carcinoma \u003cCPC\u003e (med.)",
+    "german": "Plexuskarzinom (n)"
+  },
+  {
+    "english": "choroid plexus cyst \u003cCPC\u003e (med.)",
+    "german": "Plexuszyste (PlexuschorioideusZyste, PlexuschoroideusZyste, f)"
+  },
+  {
+    "english": "choroid plexus papilloma \u003cCPP\u003e (med.)",
+    "german": "Plexuspapillom (n)"
+  },
+  {
+    "english": "inner submucous plexus \u003cISP\u003e (anat., VetMed., Plexus, nervosus, submucosus, Plexus, Meissneri)",
+    "german": "Meissner-Plexus (m)"
+  },
+  {
+    "english": "outer submucous plexus \u003cOSP\u003e (anat., VetMed.)",
+    "german": "äußerer submuköser Plexus (m)"
+  },
+  {
+    "english": "Unverified pampiniform (venous) plexus (anat., biol., Plexus, venosus, pampiniformis)",
+    "german": "Plexus pampiniformis (m)"
+  },
+  {
+    "english": "pterygoid (venous) plexus (anat., biol., Plexus, venosus, pterygoideus)",
+    "german": "Plexus (venosus) pterygoideus (m)"
+  },
+  {
+    "english": "solar plexus shock (med.)",
+    "german": "Solarplexusschock (m)"
+  },
+  {
+    "english": "vaginal venous plexus (anat.)",
+    "german": "Plexus venosus vaginalis (m)"
+  },
+  {
+    "english": "atypical (choroid) plexus papilloma \u003cAPP\u003e (med.)",
+    "german": "atypisches Plexuspapillom (n)"
+  },
+  {
+    "english": "lower brachial plexus paralysis \u003clower BPP\u003e (med., Klumpke, type)",
+    "german": "untere Armplexuslähmung (DjerineKlumpkeLhmung, f)"
+  },
+  {
+    "english": "plexus of the submucosa (anat., VetMed., Plexus, nervosus, submucosus, Plexus, submucosus, Plexus, Meissneri)",
+    "german": "Meissner-Plexus (Plexus, submucosus, m, m)"
+  },
+  {
+    "english": "plexus of the submucosa (anat., VetMed., Plexus, nervosus, submucosus, Plexus, submucosus, Plexus, Meissneri)",
+    "german": "Meissner\u0027scher Plexus (seltener, MeissnerPlexus, m)"
+  },
+  {
+    "english": "upper brachial plexus palsy \u003cupper BPP\u003e (med., type, Erbs, palsy)",
+    "german": "obere Armplexuslähmung (Erbsche, Lhmung, f)"
+  },
+  {
+    "english": "punch in / to the solar plexus (also, fig)",
+    "german": "Schlag in die Magengrube (auch, fig, m)"
+  },
+  {
+    "english": "Plexus (lit., F, Henry, Miller)",
+    "german": "Plexus"
+  }
+]

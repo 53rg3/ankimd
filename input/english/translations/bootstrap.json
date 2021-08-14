@@ -1,0 +1,70 @@
+[
+  {
+    "english": "to bootstrap sth. (comp.)",
+    "german": "etw. laden (171)"
+  },
+  {
+    "english": "to bootstrap (comp.)",
+    "german": "urladen (37)"
+  },
+  {
+    "english": "to bootstrap",
+    "german": "sichDat. selbst helfen"
+  },
+  {
+    "english": "bootstrap (comp.)",
+    "german": "Startprogramm (n, 137)"
+  },
+  {
+    "english": "bootstrap (cloth.)",
+    "german": "Stiefelriemen (m, 77)"
+  },
+  {
+    "english": "bootstrap (cloth.)",
+    "german": "Stiefelschlaufe (f, 17)"
+  },
+  {
+    "english": "bootstrap (comp.)",
+    "german": "Urlader (m, 9)"
+  },
+  {
+    "english": "bootstrap analysis (stat.)",
+    "german": "Bootstrap-Analyse (f)"
+  },
+  {
+    "english": "bootstrap code (comp.)",
+    "german": "Bootstrap-Code (m)"
+  },
+  {
+    "english": "bootstrap loader (comp.)",
+    "german": "Ladeprogramm (n)"
+  },
+  {
+    "english": "bootstrap loader (comp.)",
+    "german": "Urladeprogramm (n)"
+  },
+  {
+    "english": "bootstrap memory (comp.)",
+    "german": "Urladerspeicher (m)"
+  },
+  {
+    "english": "bootstrap method (math., variance, estimation)",
+    "german": "Bootstrap-Verfahren (n)"
+  },
+  {
+    "english": "bootstrap routine (comp.)",
+    "german": "Startroutine (f)"
+  },
+  {
+    "english": "bootstrap value",
+    "german": "Bootstrap-Wert (m)"
+  },
+  {
+    "english": "hardware bootstrap",
+    "german": "Hardware-Urlader (m)"
+  },
+  {
+    "english": "bootstrap initialization switch",
+    "german": "Urladeschalter (m)"
+  }
+]

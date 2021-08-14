@@ -1,0 +1,278 @@
+[
+  {
+    "english": "staple (attr, basic, adj)",
+    "german": "Grund- (z, B, Nahrungsmittel, 139)"
+  },
+  {
+    "english": "staple (attr, main, adj)",
+    "german": "Haupt- (82)"
+  },
+  {
+    "english": "to staple (with, a, tacker)",
+    "german": "tackern (ugs, 339)"
+  },
+  {
+    "english": "to staple sth.",
+    "german": "etw.Akk. klammern / (heften, Wunde, klammern, 175)"
+  },
+  {
+    "english": "to staple (med.)",
+    "german": "Klammern setzen (klammern)"
+  },
+  {
+    "english": "staple",
+    "german": "Grundnahrungsmittel (n, 876)"
+  },
+  {
+    "english": "staple (material, basic, material)",
+    "german": "Ausgangsmaterial (n, 493)"
+  },
+  {
+    "english": "staple (for, paper)",
+    "german": "Klammer (Heftklammer, f, 339)"
+  },
+  {
+    "english": "staple (for, paper)",
+    "german": "Heftklammer (f, 263)"
+  },
+  {
+    "english": "staple (comm.)",
+    "german": "Hauptware (f, 68)"
+  },
+  {
+    "english": "staple (agr., econ., ind., main, product)",
+    "german": "Haupterzeugnis (n, 68)"
+  },
+  {
+    "english": "staple (gastr.)",
+    "german": "Hauptnahrung (f, 41)"
+  },
+  {
+    "english": "staple (comm.)",
+    "german": "Stapelware (f, 15)"
+  },
+  {
+    "english": "staple (fastener)",
+    "german": "Krampe (f, 11)"
+  },
+  {
+    "english": "staple (hist.)",
+    "german": "Niederlege (sdd, f)"
+  },
+  {
+    "english": "staple (hist.)",
+    "german": "Stapelrecht (n)"
+  },
+  {
+    "english": "to staple sth. (to sth.)",
+    "german": "etw. festtackern (an etw.) (ugs)"
+  },
+  {
+    "english": "to staple sth. (to)",
+    "german": "etw. antackern (an) (ugs, mit, Heftklammern, befestigen)"
+  },
+  {
+    "english": "to staple sth. together (paper)",
+    "german": "etw. zusammenheften"
+  },
+  {
+    "english": "(dietary) staple",
+    "german": "Hauptnahrungsmittel (n)"
+  },
+  {
+    "english": "(surgical) staple (med., MedTech.)",
+    "german": "Wundklammer (f)"
+  },
+  {
+    "english": "(surgical) staple (med.)",
+    "german": "(chirurgische) Klammer (f)"
+  },
+  {
+    "english": "compulsory staple (comm., hist., spec.)",
+    "german": "Stapelzwang (m)"
+  },
+  {
+    "english": "rayon staple",
+    "german": "Zellwolle (f)"
+  },
+  {
+    "english": "staple article",
+    "german": "Massenprodukt (n)"
+  },
+  {
+    "english": "staple articles (comm.)",
+    "german": "Massenartikel (pl)"
+  },
+  {
+    "english": "staple commodities",
+    "german": "Stapelgut (n)"
+  },
+  {
+    "english": "staple crop (agr., cereal)",
+    "german": "Hauptgetreide (n)"
+  },
+  {
+    "english": "staple diet (gastr.)",
+    "german": "Grundnahrung (f)"
+  },
+  {
+    "english": "staple diet (gastr.)",
+    "german": "Hauptnahrung (f)"
+  },
+  {
+    "english": "staple diet (FoodInd., gastr.)",
+    "german": "Hauptnahrungsmittel (n)"
+  },
+  {
+    "english": "staple drink (FoodInd., gastr.)",
+    "german": "Volksgetränk (ugs, n)"
+  },
+  {
+    "english": "staple fibre (chem., textil., Br)",
+    "german": "Stapelfaser (f)"
+  },
+  {
+    "english": "staple fibres (ind., Br)",
+    "german": "Stapelfasern (pl)"
+  },
+  {
+    "english": "staple food (FoodInd.)",
+    "german": "Grundnahrungsmittel (n)"
+  },
+  {
+    "english": "staple food",
+    "german": "Hauptnahrung (f)"
+  },
+  {
+    "english": "staple food",
+    "german": "Hauptnahrungsmittel (n)"
+  },
+  {
+    "english": "staple goods (comm., pl)",
+    "german": "Massenware (f)"
+  },
+  {
+    "english": "staple goods (comm., pl)",
+    "german": "Stapelware (f)"
+  },
+  {
+    "english": "staple goods (comm., pl)",
+    "german": "gängige Ware (f)"
+  },
+  {
+    "english": "staple gun (tools)",
+    "german": "Klammeraffe (ugs, hum, Heftapparat, Klammergert, m)"
+  },
+  {
+    "english": "staple gun (tools)",
+    "german": "Klammergerät (n)"
+  },
+  {
+    "english": "staple gun",
+    "german": "Tacker (Klammerpistole, Klammernagler, m)"
+  },
+  {
+    "english": "staple length (textil.)",
+    "german": "Stapellänge (f)"
+  },
+  {
+    "english": "staple line (med., stapled, wound, closure)",
+    "german": "Wundverschluss (mit, Klammern, m)"
+  },
+  {
+    "english": "staple market (comm.)",
+    "german": "Stapelplatz (m)"
+  },
+  {
+    "english": "staple place (hist.)",
+    "german": "Stadt mit Stapelrecht (f)"
+  },
+  {
+    "english": "staple products",
+    "german": "Grundnahrungsmittel (pl)"
+  },
+  {
+    "english": "staple puller (tools, to, remove, staples, from, paper)",
+    "german": "Enthefter (Heftklammernentferner, m)"
+  },
+  {
+    "english": "staple puller (tools, to, remove, staples, from, paper)",
+    "german": "Heftklammernentferner (m)"
+  },
+  {
+    "english": "staple puller (tools, to, remove, staples, from, paper)",
+    "german": "Heftklammern-Enthefter (m)"
+  },
+  {
+    "english": "staple remover",
+    "german": "Enthefter (m)"
+  },
+  {
+    "english": "staple remover",
+    "german": "Entklammerer (m)"
+  },
+  {
+    "english": "staple remover",
+    "german": "Enttackerer (m)"
+  },
+  {
+    "english": "staple remover",
+    "german": "Heftklammerentferner (m)"
+  },
+  {
+    "english": "staple remover (tools)",
+    "german": "Schwiegermutter (ugs, Klammerentferner, f)"
+  },
+  {
+    "english": "staple right (comm., hist., law)",
+    "german": "Stapelrecht (n)"
+  },
+  {
+    "english": "staple town (hist.)",
+    "german": "Stadt mit Stapelrecht (f)"
+  },
+  {
+    "english": "staple-house (hist.)",
+    "german": "Niederleghaus (sdd, n)"
+  },
+  {
+    "english": "staple-house (hist.)",
+    "german": "Stapelhof (m)"
+  },
+  {
+    "english": "steel staple",
+    "german": "Stahlklammer (zum, Heften, f)"
+  },
+  {
+    "english": "to be a staple",
+    "german": "eine feste Größe sein"
+  },
+  {
+    "english": "a staple commodity",
+    "german": "Stapelware (f)"
+  },
+  {
+    "english": "long-staple cotton (textil.)",
+    "german": "langstapelige Baumwolle (f)"
+  },
+  {
+    "english": "medical staple remover (MedTech.)",
+    "german": "Klammerentferner (m)"
+  },
+  {
+    "english": "medium-staple cotton (textil.)",
+    "german": "mittelstapelige Baumwolle (f)"
+  },
+  {
+    "english": "short-staple cotton (textil.)",
+    "german": "kurzstapelige Baumwolle (f)"
+  },
+  {
+    "english": "staple remover pincers (pl)",
+    "german": "Enthefterzange (Klammerentfernerzange, f)"
+  },
+  {
+    "english": "to re-order staple goods",
+    "german": "Stapelware nachbestellen"
+  }
+]

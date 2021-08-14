@@ -1,0 +1,74 @@
+[
+  {
+    "english": "reverberation",
+    "german": "Echo (n, 221)"
+  },
+  {
+    "english": "reverberation",
+    "german": "Nachhall (m, 138)"
+  },
+  {
+    "english": "reverberation (mus.)",
+    "german": "Hall (m, 48)"
+  },
+  {
+    "english": "reverberation",
+    "german": "Widerhall (m, 44)"
+  },
+  {
+    "english": "reverberation (light)",
+    "german": "Widerschein (m, 31)"
+  },
+  {
+    "english": "reverberation",
+    "german": "Zurückstrahlen (n, 8)"
+  },
+  {
+    "english": "reverberation (audio, MedTech.)",
+    "german": "Reverberation (f, 7)"
+  },
+  {
+    "english": "reverberation (audio)",
+    "german": "Halligkeit (f)"
+  },
+  {
+    "english": "reverberation artefact (audio, MedTech., esp, Br)",
+    "german": "Wiederholungsartefakt (ugs, auch, m, n)"
+  },
+  {
+    "english": "reverberation artifact (audio, MedTech., Am)",
+    "german": "Wiederholungsartefakt (ugs, auch, m, n)"
+  },
+  {
+    "english": "reverberation chamber \u003cRC\u003e (electr.)",
+    "german": "Modenverwirbelungskammer \u003cMVK\u003e (f)"
+  },
+  {
+    "english": "reverberation curve (audio, engin.)",
+    "german": "Nachhallkurve (f)"
+  },
+  {
+    "english": "reverberation effect (desired, or, unwanted)",
+    "german": "Halleffekt (erwnschtes, oder, unerwnschtes, Auftreten, von, Hall, m)"
+  },
+  {
+    "english": "reverberation radius (audio, phys.)",
+    "german": "Hallradius (m)"
+  },
+  {
+    "english": "reverberation room (audio)",
+    "german": "Hallraum (m)"
+  },
+  {
+    "english": "reverberation time \u003cRT\u003e (audio, tech.)",
+    "german": "Nachhallzeit \u003cRT\u003e (f)"
+  },
+  {
+    "english": "electromagnetic reverberation chamber (electr.)",
+    "german": "Modenverwirbelungskammer \u003cMVK\u003e (f)"
+  },
+  {
+    "english": "suppression of reverberation (audio)",
+    "german": "Nachhallunterdrückung (f)"
+  }
+]

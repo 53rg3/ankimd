@@ -1,0 +1,226 @@
+[
+  {
+    "english": "dim (light, colour, fig, prospects, adj)",
+    "german": "trübe (Licht, Farbe, fig, Aussichten, 891)"
+  },
+  {
+    "english": "dim (adj)",
+    "german": "dämmerig (656)"
+  },
+  {
+    "english": "dim (not, bright, adj)",
+    "german": "schummrig (ugs, nicht, hell, 483)"
+  },
+  {
+    "english": "dim (adj)",
+    "german": "dunkel (479)"
+  },
+  {
+    "english": "dim (coll, pej, slowwitted, adj)",
+    "german": "begriffsstutzig (pej, 405)"
+  },
+  {
+    "english": "dim (adj)",
+    "german": "matt (Licht, 396)"
+  },
+  {
+    "english": "dim (light, source, of, light, adj)",
+    "german": "trüb (Licht, Lichtquelle, 383)"
+  },
+  {
+    "english": "dim (adj)",
+    "german": "halbdunkel (345)"
+  },
+  {
+    "english": "dim (not, bright, adj)",
+    "german": "schummerig (ugs, nicht, hell, 321)"
+  },
+  {
+    "english": "dim (not, bright, adj)",
+    "german": "funzelig (ugs, pej, 5)"
+  },
+  {
+    "english": "dim (adj)",
+    "german": "dämmrig"
+  },
+  {
+    "english": "dim (coll, pej, slowwitted, adj)",
+    "german": "schwer von Begriff (nur, prdikativ, ugs, pej)"
+  },
+  {
+    "english": "dim (coll, dimwitted, rather, stupid, adj)",
+    "german": "(geistig) beschränkt (pej)"
+  },
+  {
+    "english": "dim (lamp, bulb, etc, adj)",
+    "german": "funzlig (ugs, pej)"
+  },
+  {
+    "english": "to dim",
+    "german": "trüben (606)"
+  },
+  {
+    "english": "to dim",
+    "german": "abblenden (421)"
+  },
+  {
+    "english": "to dim (light)",
+    "german": "dimmen (353)"
+  },
+  {
+    "english": "to dim",
+    "german": "verdunkeln (346)"
+  },
+  {
+    "english": "to dim (light)",
+    "german": "abdunkeln (65)"
+  },
+  {
+    "english": "to dim (light)",
+    "german": "dämpfen (Licht, 21)"
+  },
+  {
+    "english": "to dim (darken)",
+    "german": "verdüstern (8)"
+  },
+  {
+    "english": "dim",
+    "german": "Dämmerung (f, 186)"
+  },
+  {
+    "english": "dim",
+    "german": "Trübheit (f, 22)"
+  },
+  {
+    "english": "dim-sighted (med., adj)",
+    "german": "schwachsichtig"
+  },
+  {
+    "english": "dim-witted (coll, adj)",
+    "german": "blöd (ugs, nicht, intelligent)"
+  },
+  {
+    "english": "dim-witted (coll, adj)",
+    "german": "geistlos"
+  },
+  {
+    "english": "dim-witted (coll, pej, adj)",
+    "german": "begriffsstutzig (pej)"
+  },
+  {
+    "english": "dim-witted (coll, pej, adj)",
+    "german": "dämlich (ugs, pej, dumm, einfltig)"
+  },
+  {
+    "english": "dim-witted (coll, pej, adj)",
+    "german": "(geistig) beschränkt (pej)"
+  },
+  {
+    "english": "to dim out",
+    "german": "abblenden"
+  },
+  {
+    "english": "to dim out",
+    "german": "verdunkeln"
+  },
+  {
+    "english": "to dim sth. (down) (lamp, etc)",
+    "german": "etw. herunterdimmen (Lampe, etc)"
+  },
+  {
+    "english": "to grow dim (vision)",
+    "german": "sich trüben (Blick)"
+  },
+  {
+    "english": "dim light (automot.)",
+    "german": "Abblendlicht (n)"
+  },
+  {
+    "english": "dim light",
+    "german": "gedämpftes Licht (n)"
+  },
+  {
+    "english": "dim light",
+    "german": "trübes Licht (n)"
+  },
+  {
+    "english": "dim light (lamp)",
+    "german": "Funsel (ugs, f)"
+  },
+  {
+    "english": "dim light (lamp)",
+    "german": "Funzel (ugs, f)"
+  },
+  {
+    "english": "dim sum (gastr.)",
+    "german": "Dim Sum (n)"
+  },
+  {
+    "english": "dim weight (aviat., transp., short, for, dimensional, weight)",
+    "german": "Volumengewicht (n)"
+  },
+  {
+    "english": "dimensional weight \u003cdim. wt.\u003e (aviat., transp.)",
+    "german": "Volumengewicht (n)"
+  },
+  {
+    "english": "a bit dim (pred, coll, pej, of, a, person, adj)",
+    "german": "geistig unterbelichtet (ugs, pej)"
+  },
+  {
+    "english": "nice-but-dim (Br, coll, adj)",
+    "german": "nett, aber nicht helle (ugs, regional)"
+  },
+  {
+    "english": "(very) dim light (lamp)",
+    "german": "Tranfunsel (ugs, pej, sehr, schwache, Lampe, selten, neben, Tranfunzel, f)"
+  },
+  {
+    "english": "(very) dim light (lamp)",
+    "german": "Tranfunzel (ugs, sehr, schwache, Lampe, f)"
+  },
+  {
+    "english": "dim-witted people (coll, pej)",
+    "german": "Begriffsstutzige (pej, pl)"
+  },
+  {
+    "english": "dim-witted person",
+    "german": "Begriffsstutziger (m)"
+  },
+  {
+    "english": "dim-witted person (female)",
+    "german": "Begriffsstutzige (f)"
+  },
+  {
+    "english": "dimensional weight calculator \u003cDIM weight calculator\u003e (logistics)",
+    "german": "Volumengewichtrechner (auch, VolumengewichtRechner, Logistik, m)"
+  },
+  {
+    "english": "sb.\u0027s eyes grow dim (idiom, idiom, sb, dies, passes, away)",
+    "german": "jds. Augen brechen (geh, Redewendung, jd, stirbt, verscheidet)"
+  },
+  {
+    "english": "sb.\u0027s eyes grow dim (idiom, idiom, sb, dies, passes, away)",
+    "german": "jdm. brechen die Augen (geh, Redewendung, jd, stirbt, verscheidet)"
+  },
+  {
+    "english": "A knight on the rim is dim. (games, proverb, chess)",
+    "german": "Ein Springer am Rand bringt Kummer und Schand. (Schach)"
+  },
+  {
+    "english": "to be as dim as a glow worm\u0027s armpit (coll, rare)",
+    "german": "dumm wie Brot sein (ugs)"
+  },
+  {
+    "english": "to take a dim view of sth.",
+    "german": "etw. missbilligen"
+  },
+  {
+    "english": "to take a dim view of sth. (idiom)",
+    "german": "von etw. nicht erbaut sein (geh)"
+  },
+  {
+    "english": "Dim Witty (comics, F, Disney)",
+    "german": "Doofy"
+  }
+]

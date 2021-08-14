@@ -1,0 +1,202 @@
+[
+  {
+    "english": "axle",
+    "german": "Achse (f, 237)"
+  },
+  {
+    "english": "axle",
+    "german": "Radachse (f, 102)"
+  },
+  {
+    "english": "four-axle \u003c4-axle\u003e (tech., attr, adj)",
+    "german": "vierachsig \u003c4-achsig\u003e"
+  },
+  {
+    "english": "multi-axle (attr, adj)",
+    "german": "mehrachsig"
+  },
+  {
+    "english": "single-axle (tech., attr, adj)",
+    "german": "einachsig"
+  },
+  {
+    "english": "six-axle \u003c6-axle\u003e (attr, adj)",
+    "german": "sechsachsig \u003c6-achsig\u003e"
+  },
+  {
+    "english": "three-axle (tech., attr, adj)",
+    "german": "dreiachsig"
+  },
+  {
+    "english": "two-axle (tech., attr, adj)",
+    "german": "zweiachsig"
+  },
+  {
+    "english": "(axle) journal (tech.)",
+    "german": "Achsstummel (m)"
+  },
+  {
+    "english": "(axle) journal (tech.)",
+    "german": "Achszapfen (m)"
+  },
+  {
+    "english": "axle alignment",
+    "german": "Achsvermessung (f)"
+  },
+  {
+    "english": "axle arrangement",
+    "german": "Achsanordnung (f)"
+  },
+  {
+    "english": "axle arrangement",
+    "german": "Radsatzfolge (f)"
+  },
+  {
+    "english": "axle assembly",
+    "german": "Achsaggregat (n)"
+  },
+  {
+    "english": "axle base (automot., tech.)",
+    "german": "Achsstand (Achsabstand, m)"
+  },
+  {
+    "english": "axle bearing (tech.)",
+    "german": "Achslager (n)"
+  },
+  {
+    "english": "axle bearing (tech.)",
+    "german": "Kugellager (n)"
+  },
+  {
+    "english": "axle boot (automot.)",
+    "german": "Achsmanschette (f)"
+  },
+  {
+    "english": "axle box (tech.)",
+    "german": "Achslager (n)"
+  },
+  {
+    "english": "axle casing (automot., Br)",
+    "german": "Achsgehäuse (n)"
+  },
+  {
+    "english": "axle configuration (automot.)",
+    "german": "Radachsenkonfiguration (f)"
+  },
+  {
+    "english": "axle counter (rail)",
+    "german": "Achszähler (m)"
+  },
+  {
+    "english": "axle drive (automot., tech.)",
+    "german": "Achsantrieb (m)"
+  },
+  {
+    "english": "axle drive",
+    "german": "Achsgetriebe (n)"
+  },
+  {
+    "english": "axle end (tech.)",
+    "german": "Achsstummel (m)"
+  },
+  {
+    "english": "axle flange (automot., wheels)",
+    "german": "Achsflansch (Rder, m)"
+  },
+  {
+    "english": "axle fracture (rail)",
+    "german": "Achsbruch (m)"
+  },
+  {
+    "english": "axle fracture (automot., rail)",
+    "german": "Achsenbruch (m)"
+  },
+  {
+    "english": "axle geometry (math.)",
+    "german": "Achsgeometrie (f)"
+  },
+  {
+    "english": "axle guide (automot., rail)",
+    "german": "Achslenker (m)"
+  },
+  {
+    "english": "axle holder (automot., tech.)",
+    "german": "Achshalter (DIN, 15058, m)"
+  },
+  {
+    "english": "axle housing (automot., Am)",
+    "german": "Achsgehäuse (n)"
+  },
+  {
+    "english": "axle journal (tech.)",
+    "german": "Achsschenkel (m)"
+  },
+  {
+    "english": "axle load (rail, transp.)",
+    "german": "Achsfahrmasse (f)"
+  },
+  {
+    "english": "axle load (transp.)",
+    "german": "Achslast (f)"
+  },
+  {
+    "english": "axle load (rail)",
+    "german": "Radsatzlast (f)"
+  },
+  {
+    "english": "axle loads (transp.)",
+    "german": "Achslasten (pl)"
+  },
+  {
+    "english": "axle mounting (automot., tech.)",
+    "german": "Achsaufhängung (f)"
+  },
+  {
+    "english": "axle sensor",
+    "german": "Achssensor (m)"
+  },
+  {
+    "english": "axle shaft (tech.)",
+    "german": "Achswelle (f)"
+  },
+  {
+    "english": "axle spacing (automot., rail, tech.)",
+    "german": "Achsabstand (m)"
+  },
+  {
+    "english": "axle spacing (automot., rail, tech.)",
+    "german": "Radsatzabstand (m)"
+  },
+  {
+    "english": "axle spring (tech.)",
+    "german": "Achsfeder (f)"
+  },
+  {
+    "english": "axle stand (Br)",
+    "german": "Abstützbock (m)"
+  },
+  {
+    "english": "axle stand (Br)",
+    "german": "Dreibock (m)"
+  },
+  {
+    "english": "axle stand (Br)",
+    "german": "Stützbock (fr, Fahrzeug, m)"
+  },
+  {
+    "english": "axle stand (Br)",
+    "german": "Unterstellbock (m)"
+  },
+  {
+    "english": "axle tap (automot.)",
+    "german": "Achszapfen (m)"
+  },
+  {
+    "english": "axle tube (tech.)",
+    "german": "Achsrohr (n)"
+  },
+  {
+    "english": "axle weight",
+    "german": "Achslast (f)"
+  }
+]

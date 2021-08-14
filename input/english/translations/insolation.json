@@ -1,0 +1,46 @@
+[
+  {
+    "english": "insolation",
+    "german": "Sonnenbestrahlung (f, 39)"
+  },
+  {
+    "english": "insolation (med.)",
+    "german": "Sonnenstich (m, 21)"
+  },
+  {
+    "english": "insolation (tech.)",
+    "german": "Einstrahlung (z, B, Solartechnik, f, 12)"
+  },
+  {
+    "english": "insolation (tech.)",
+    "german": "Sonneneinstrahlung (f, 11)"
+  },
+  {
+    "english": "insolation",
+    "german": "Insolation (f)"
+  },
+  {
+    "english": "insolation (tech.)",
+    "german": "solare Einstrahlung (f)"
+  },
+  {
+    "english": "daily irradiation (ecol., meteo., daily, solar, radiation)",
+    "german": "tägliche Insolation (f)"
+  },
+  {
+    "english": "hourly irradiation (ecol., meteo., hourly, solar, radiation)",
+    "german": "stündliche Insolation (f)"
+  },
+  {
+    "english": "insolation encephalopathy (med.)",
+    "german": "Insolationsenzephalitis (Sonnenstich, f)"
+  },
+  {
+    "english": "insolation encephalopathy (med.)",
+    "german": "Sonnenstich (m)"
+  },
+  {
+    "english": "solar irradiation (ecol., phys.)",
+    "german": "Insolation (Einfall, der, Sonnenstrahlung, f)"
+  }
+]

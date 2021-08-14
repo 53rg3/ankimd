@@ -1,0 +1,202 @@
+[
+  {
+    "english": "line item",
+    "german": "Auftragsposition (f)"
+  },
+  {
+    "english": "line item",
+    "german": "Belegposition (f)"
+  },
+  {
+    "english": "line item",
+    "german": "Einzelposten (m)"
+  },
+  {
+    "english": "account line item (fin.)",
+    "german": "Kontoposition (f)"
+  },
+  {
+    "english": "clearing line item (fin.)",
+    "german": "Verrechnungsposition (f)"
+  },
+  {
+    "english": "invoice line item",
+    "german": "Rechnungsposition (f)"
+  },
+  {
+    "english": "line item budget (acc., admin.)",
+    "german": "Einzeletat (m)"
+  },
+  {
+    "english": "below-the-line item (acc., entry)",
+    "german": "bilanzunwirksamer Posten (m)"
+  },
+  {
+    "english": "offensive line \u003cO-line, OL\u003e (sports, American, Football)",
+    "german": "O-Linie \u003cOL\u003e (Offensive, Line, American, Football, f)"
+  },
+  {
+    "english": "distant early warning line \u003cDEW line\u003e (mil.)",
+    "german": "Distant Early Warning Line \u003cDEW-Line\u003e (Kette, von, Radarstationen, entlang, der, USamerik, und, kanadischen, Arktis, f)"
+  },
+  {
+    "english": "item (comm., journ.)",
+    "german": "Artikel (z, B, Produkt, auch, in, Zeitung, m)"
+  },
+  {
+    "english": "item (acc.)",
+    "german": "Buchungsposten (m)"
+  },
+  {
+    "english": "item",
+    "german": "Eintrag (Liste, m)"
+  },
+  {
+    "english": "item (comm., transp.)",
+    "german": "Gut (Ware, Frachtgut, n)"
+  },
+  {
+    "english": "item",
+    "german": "Posten (Gegenstand, Ware, m)"
+  },
+  {
+    "english": "item (acc.)",
+    "german": "Rechnungsposten (m)"
+  },
+  {
+    "english": "item (acc.)",
+    "german": "Teilbetrag (einer, Rechnung, m)"
+  },
+  {
+    "english": "line-by-line scanning (comp.)",
+    "german": "zeilenweise Abtastung (f)"
+  },
+  {
+    "english": "first-line service \u003c1st line service\u003e (med., tech., also, first, line, service)",
+    "german": "First-Line-Service (m)"
+  },
+  {
+    "english": "item (archaic, adv)",
+    "german": "auch"
+  },
+  {
+    "english": "item (archaic, adv)",
+    "german": "außerdem"
+  },
+  {
+    "english": "item (number)",
+    "german": "Ziffer \u003cZi.\u003e (f)"
+  },
+  {
+    "english": "item (object)",
+    "german": "Gegenstand (m)"
+  },
+  {
+    "english": "item (part)",
+    "german": "Element (Teil, eines, Ganzen, n)"
+  },
+  {
+    "english": "item (thing)",
+    "german": "Sache (Gegenstand, Stck, f)"
+  },
+  {
+    "english": "item (topic)",
+    "german": "Thema (n)"
+  },
+  {
+    "english": "item (econ., unit)",
+    "german": "Einheit (f)"
+  },
+  {
+    "english": "ABC item (econ.)",
+    "german": "ABC-Artikel (m)"
+  },
+  {
+    "english": "accessory item",
+    "german": "Zubehörteil (n)"
+  },
+  {
+    "english": "accrued item",
+    "german": "Rechnungsabrechnungsposten (m)"
+  },
+  {
+    "english": "adjustment item",
+    "german": "Ausgleichsposten (m)"
+  },
+  {
+    "english": "adjustment item",
+    "german": "Berichtigungsposten (m)"
+  },
+  {
+    "english": "agenda item",
+    "german": "Tagesordnungspunkt \u003cTOP\u003e (m)"
+  },
+  {
+    "english": "agenda item",
+    "german": "Traktand (schweiz, n)"
+  },
+  {
+    "english": "agenda item",
+    "german": "Traktandum (schweiz, n)"
+  },
+  {
+    "english": "agenda item",
+    "german": "Verhandlungsgegenstand (m)"
+  },
+  {
+    "english": "asset item",
+    "german": "Aktivposten (m)"
+  },
+  {
+    "english": "audit item",
+    "german": "Prüfungsposten (m)"
+  },
+  {
+    "english": "balancing item",
+    "german": "Ausgleichsposten (m)"
+  },
+  {
+    "english": "base item",
+    "german": "Grundgröße (f)"
+  },
+  {
+    "english": "branded item",
+    "german": "Markenartikel (m)"
+  },
+  {
+    "english": "budget item (admin.)",
+    "german": "Etatposten (m)"
+  },
+  {
+    "english": "budget item (econ., fin.)",
+    "german": "Haushaltsposten (m)"
+  },
+  {
+    "english": "budget item",
+    "german": "Haushaltstitel (m)"
+  },
+  {
+    "english": "budgetary item (econ., fin.)",
+    "german": "Budgetposten (m)"
+  },
+  {
+    "english": "bullet item",
+    "german": "Stichpunkt (m)"
+  },
+  {
+    "english": "carnival item",
+    "german": "Karnevalsartikel (m)"
+  },
+  {
+    "english": "check item (tech.)",
+    "german": "Checkpunkt (m)"
+  },
+  {
+    "english": "checklist item (tech.)",
+    "german": "Checkpunkt (in, einer, Liste, m)"
+  },
+  {
+    "english": "Christmas item",
+    "german": "Weihnachtsartikel (m)"
+  }
+]

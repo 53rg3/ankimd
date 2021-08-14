@@ -1,0 +1,226 @@
+[
+  {
+    "english": "coagulation",
+    "german": "Gerinnung (f, 82)"
+  },
+  {
+    "english": "coagulation (tech., textil.)",
+    "german": "Flockung (f, 23)"
+  },
+  {
+    "english": "coagulation",
+    "german": "Gerinnen (n, 12)"
+  },
+  {
+    "english": "coagulation (chem., geol.)",
+    "german": "Ausfällung (f, 6)"
+  },
+  {
+    "english": "coagulation",
+    "german": "Koagulation (f, 5)"
+  },
+  {
+    "english": "coagulation",
+    "german": "Koagulieren (n)"
+  },
+  {
+    "english": "coagulation (med., MedTech., of, tissue)",
+    "german": "Verkochen (des, Gewebes, n)"
+  },
+  {
+    "english": "coagulation (MedTech., tissue)",
+    "german": "Verkochung (Gewebe, f)"
+  },
+  {
+    "english": "blood coagulation (biol.)",
+    "german": "Blutgerinnung (f)"
+  },
+  {
+    "english": "chemical coagulation (chem., hydro.)",
+    "german": "chemische Koagulation (f)"
+  },
+  {
+    "english": "coagulation cascade (biochem., med.)",
+    "german": "Gerinnungskaskade (f)"
+  },
+  {
+    "english": "coagulation cascade (biochem.)",
+    "german": "Koagulationskaskade (f)"
+  },
+  {
+    "english": "coagulation conditions (chem., material)",
+    "german": "Koagulationsbedingungen (pl)"
+  },
+  {
+    "english": "coagulation defect (med.)",
+    "german": "Gerinnungsdefekt (m)"
+  },
+  {
+    "english": "coagulation defect (med.)",
+    "german": "Gerinnungsstörung (f)"
+  },
+  {
+    "english": "coagulation disorder (med.)",
+    "german": "Gerinnungsstörung (f)"
+  },
+  {
+    "english": "coagulation enzyme (biochem.)",
+    "german": "Gerinnungsenzym (n)"
+  },
+  {
+    "english": "coagulation factor (med.)",
+    "german": "Gerinnungsfaktor (m)"
+  },
+  {
+    "english": "coagulation inhibitor (med., pharm.)",
+    "german": "Gerinnungsinhibitor (m)"
+  },
+  {
+    "english": "coagulation necrosis \u003cCN\u003e (med., Necrosis, coagulativa)",
+    "german": "Koagulationsnekrose (f)"
+  },
+  {
+    "english": "coagulation phase (biochem., med.)",
+    "german": "Koagulationsphase (f)"
+  },
+  {
+    "english": "coagulation probe (MedTech.)",
+    "german": "Koagulationssonde (f)"
+  },
+  {
+    "english": "coagulation process",
+    "german": "Gerinnungsprozess (m)"
+  },
+  {
+    "english": "coagulation process",
+    "german": "Koagulationsprozess (m)"
+  },
+  {
+    "english": "coagulation reaction (biol.)",
+    "german": "Gerinnungsreaktion (f)"
+  },
+  {
+    "english": "coagulation status (med.)",
+    "german": "Gerinnungsstatus (m)"
+  },
+  {
+    "english": "coagulation system (med.)",
+    "german": "Gerinnungssystem (n)"
+  },
+  {
+    "english": "coagulation system (biol.)",
+    "german": "Koagulationssystem (n)"
+  },
+  {
+    "english": "coagulation thrombus (med.)",
+    "german": "Gerinnungsthrombus (m)"
+  },
+  {
+    "english": "coagulation time (med.)",
+    "german": "Blutgerinnungszeit (f)"
+  },
+  {
+    "english": "coagulation time",
+    "german": "Gerinnungszeit (f)"
+  },
+  {
+    "english": "coagulation time (med.)",
+    "german": "Koagulationszeit (f)"
+  },
+  {
+    "english": "haemolymph coagulation (biol., Br)",
+    "german": "Hämolymphgerinnung (f)"
+  },
+  {
+    "english": "heat coagulation (biol., med.)",
+    "german": "Hitzekoagulation (f)"
+  },
+  {
+    "english": "hemolymph coagulation (biol., Am)",
+    "german": "Hämolymphgerinnung (f)"
+  },
+  {
+    "english": "impaired coagulation (med.)",
+    "german": "Gerinnungsstörung (f)"
+  },
+  {
+    "english": "impaired coagulation (med.)",
+    "german": "Koagulopathie (f)"
+  },
+  {
+    "english": "laser coagulation (med.)",
+    "german": "Laserkoagulation (f)"
+  },
+  {
+    "english": "protein coagulation (biochem.)",
+    "german": "Eiweißgerinnung (f)"
+  },
+  {
+    "english": "protein coagulation (biochem.)",
+    "german": "Eiweißkoagulation (f)"
+  },
+  {
+    "english": "rennet coagulation",
+    "german": "Labgerinnung (f)"
+  },
+  {
+    "english": "thermal coagulation (med.)",
+    "german": "Thermokoagulation (f)"
+  },
+  {
+    "english": "thermo-coagulation (med.)",
+    "german": "Thermokoagulation (f)"
+  },
+  {
+    "english": "blood coagulation cascade (biochem.)",
+    "german": "Blutgerinnungskaskade (f)"
+  },
+  {
+    "english": "blood coagulation factor (med.)",
+    "german": "Blutgerinnungsfaktor (m)"
+  },
+  {
+    "english": "blood coagulation system (biochem., med.)",
+    "german": "Blutgerinnungssystem (n)"
+  },
+  {
+    "english": "blood coagulation time (med.)",
+    "german": "Blutgerinnungszeit (f)"
+  },
+  {
+    "english": "coagulation time test (med.)",
+    "german": "Messung der Gerinnungszeit (f)"
+  },
+  {
+    "english": "disseminated intravascular coagulation \u003cDIC\u003e (med.)",
+    "german": "Verbrauchskoagulopathie (f)"
+  },
+  {
+    "english": "disseminated intravascular coagulation \u003cDIC\u003e (med.)",
+    "german": "disseminierte intravasale Gerinnung (f)"
+  },
+  {
+    "english": "disseminated intravascular coagulation \u003cDIC\u003e (med.)",
+    "german": "disseminierte intravasale Koagulopathie \u003cDIC\u003e (f)"
+  },
+  {
+    "english": "coagulation of (the) blood (med.)",
+    "german": "Gerinnung des Blutes (f)"
+  },
+  {
+    "english": "disseminated intravascular coagulation syndrome \u003cDIC syndrome\u003e (med.)",
+    "german": "Defibrinationssyndrom (Verbrauchskoagulopathie, n)"
+  },
+  {
+    "english": "disseminated intravascular coagulation syndrome \u003cDIC syndrome\u003e (med.)",
+    "german": "DIC-Syndrom (ugs, n)"
+  },
+  {
+    "english": "extrinsic blood coagulation system (biochem., med.)",
+    "german": "extrinsisches Blutgerinnungssystem (n)"
+  },
+  {
+    "english": "intrinsic blood coagulation system (biochem., med.)",
+    "german": "intrinsisches Blutgerinnungssystem (n)"
+  }
+]

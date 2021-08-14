@@ -1,0 +1,294 @@
+[
+  {
+    "english": "inverse (adj)",
+    "german": "umgekehrt (209)"
+  },
+  {
+    "english": "inverse (adj)",
+    "german": "entgegengesetzt (60)"
+  },
+  {
+    "english": "inverse (adj)",
+    "german": "reziprok (39)"
+  },
+  {
+    "english": "inverse (adj)",
+    "german": "invers (8)"
+  },
+  {
+    "english": "inverse (adj)",
+    "german": "invertiert"
+  },
+  {
+    "english": "to inverse",
+    "german": "umkehren (44)"
+  },
+  {
+    "english": "inverse (math.)",
+    "german": "Umkehrfunktion (f, 67)"
+  },
+  {
+    "english": "inverse",
+    "german": "Gegenteil (n, 51)"
+  },
+  {
+    "english": "inverse (math.)",
+    "german": "Kehrwert (m, 32)"
+  },
+  {
+    "english": "inverse",
+    "german": "Umkehrung (f, 17)"
+  },
+  {
+    "english": "inverse (math.)",
+    "german": "Inverse (f, 14)"
+  },
+  {
+    "english": "left inverse (math., adj)",
+    "german": "linksinvers"
+  },
+  {
+    "english": "right inverse (math., adj)",
+    "german": "rechtsinvers"
+  },
+  {
+    "english": "additive inverse (math.)",
+    "german": "Gegenzahl (f)"
+  },
+  {
+    "english": "arc tangent",
+    "german": "inverse Tangente (f)"
+  },
+  {
+    "english": "generalized inverse (math., also, ginverse)",
+    "german": "verallgemeinerte Inverse (f)"
+  },
+  {
+    "english": "inverse action",
+    "german": "inverser Betrieb (m)"
+  },
+  {
+    "english": "inverse agonist (pharm.)",
+    "german": "inverser Agonist (m)"
+  },
+  {
+    "english": "inverse amplifier",
+    "german": "Umkehrverstärker (m)"
+  },
+  {
+    "english": "inverse direction",
+    "german": "umgekehrte Richtung (f)"
+  },
+  {
+    "english": "inverse element (math.)",
+    "german": "inverses Element (n)"
+  },
+  {
+    "english": "inverse function (math.)",
+    "german": "Umkehrfunktion (f)"
+  },
+  {
+    "english": "inverse image (math.)",
+    "german": "Urbild (n)"
+  },
+  {
+    "english": "inverse limit (math.)",
+    "german": "inverser Limes (m)"
+  },
+  {
+    "english": "inverse mapping (math.)",
+    "german": "Umkehrabbildung (f)"
+  },
+  {
+    "english": "inverse matrix (math.)",
+    "german": "Kehrmatrix (f)"
+  },
+  {
+    "english": "inverse matrix (math.)",
+    "german": "inverse Matrix (f)"
+  },
+  {
+    "english": "inverse operation",
+    "german": "inverser Betrieb (m)"
+  },
+  {
+    "english": "inverse photoemission \u003cIPE\u003e (phys.)",
+    "german": "inverse Photoemission \u003cIPE\u003e (f)"
+  },
+  {
+    "english": "inverse relation (math., spec.)",
+    "german": "umgekehrtes Verhältnis (n)"
+  },
+  {
+    "english": "inverse relationship (math., spec.)",
+    "german": "umgekehrtes Verhältnis (n)"
+  },
+  {
+    "english": "inverse transform (math.)",
+    "german": "Rücktransformation (f)"
+  },
+  {
+    "english": "inverse value",
+    "german": "Kehrwert (m)"
+  },
+  {
+    "english": "inverted breathing (med.)",
+    "german": "inverse Atmung (f)"
+  },
+  {
+    "english": "multiplicative inverse (math.)",
+    "german": "Kehrwert (m)"
+  },
+  {
+    "english": "multiplicatory inverse (math.)",
+    "german": "Kehrzahl (Kehrwert, Reziproke, f)"
+  },
+  {
+    "english": "stripping voltammetry \u003cSV\u003e (chem., electr.)",
+    "german": "inverse Voltammetrie \u003cIVA\u003e (f)"
+  },
+  {
+    "english": "inverse Compton effect (phys.)",
+    "german": "inverser Comptoneffekt (m)"
+  },
+  {
+    "english": "inverse Compton effect (phys.)",
+    "german": "inverser Compton-Effekt (m)"
+  },
+  {
+    "english": "inverse function theorem (math.)",
+    "german": "Satz von der Umkehrfunktion (m)"
+  },
+  {
+    "english": "inverse Gaussian distribution (math., stat.)",
+    "german": "inverse Normalverteilung (f)"
+  },
+  {
+    "english": "inverse hyperbolic cosecant \u003carcsch\u003e (math.)",
+    "german": "Areacosekans Hyperbolicus \u003carcsch\u003e (m)"
+  },
+  {
+    "english": "inverse hyperbolic cosecant \u003carcsch\u003e (math.)",
+    "german": "Areakosekans Hyperbolicus \u003carcsch\u003e (m)"
+  },
+  {
+    "english": "inverse hyperbolic cosine \u003carcosh\u003e (math.)",
+    "german": "Areacosinus Hyperbolicus \u003carcosh\u003e (m)"
+  },
+  {
+    "english": "inverse hyperbolic cosine \u003carcosh\u003e (math.)",
+    "german": "Areakosinus Hyperbolicus \u003carcosh\u003e (m)"
+  },
+  {
+    "english": "inverse hyperbolic cotangent \u003carcoth\u003e (math.)",
+    "german": "Areacotangens Hyperbolicus \u003carcoth\u003e (m)"
+  },
+  {
+    "english": "inverse hyperbolic cotangent \u003carcoth\u003e (math.)",
+    "german": "Areakotangens Hyperbolicus \u003carcoth\u003e (m)"
+  },
+  {
+    "english": "inverse hyperbolic functions (math.)",
+    "german": "Areafunktionen (pl)"
+  },
+  {
+    "english": "inverse hyperbolic secant \u003carsech\u003e (math.)",
+    "german": "Areasekans Hyperbolicus \u003carsech\u003e (m)"
+  },
+  {
+    "english": "inverse hyperbolic sine \u003carsinh\u003e (math.)",
+    "german": "Areasinus Hyperbolicus \u003carsinh\u003e (m)"
+  },
+  {
+    "english": "inverse hyperbolic tangent \u003cartanh\u003e (math.)",
+    "german": "Areatangens Hyperbolicus \u003cartanh\u003e (m)"
+  },
+  {
+    "english": "inverse Laplace transform (math.)",
+    "german": "inverse Laplace-Transformation (f)"
+  },
+  {
+    "english": "inverse photoemission spectroscopy \u003cIPES\u003e (phys.)",
+    "german": "inverse Photoelektronenspektroskopie \u003cIPES\u003e (f)"
+  },
+  {
+    "english": "inverse power function (biol.)",
+    "german": "inverse Potenzfunktion (f)"
+  },
+  {
+    "english": "inverse ratio ventilation \u003cIRV\u003e (med., MedTech.)",
+    "german": "inverse Beatmung (f)"
+  },
+  {
+    "english": "inverse ratio ventilation \u003cIRV\u003e (med., MedTech.)",
+    "german": "Beatmung mit umgekehrten Atemphasen (inverse, Beatmung, f)"
+  },
+  {
+    "english": "inverse ratio ventilation \u003cIRV\u003e (med., MedTech.)",
+    "german": "Beatmung mit umgekehrtem Zeit-Verhältnis (inverse, Beatmung, f)"
+  },
+  {
+    "english": "inverse saturation current (electr.)",
+    "german": "Sperrsättigungsstrom (m)"
+  },
+  {
+    "english": "inverse scattering transform \u003cIST\u003e (math.)",
+    "german": "inverse Streutransformation \u003cIST\u003e (f)"
+  },
+  {
+    "english": "inverse square law (phys.)",
+    "german": "Abstandsgesetz (n)"
+  },
+  {
+    "english": "inverse square law (phys.)",
+    "german": "Quadratabstandsgesetz (n)"
+  },
+  {
+    "english": "inverse square law (audio, phys.)",
+    "german": "inverses Quadratgesetz (n)"
+  },
+  {
+    "english": "inverse square law (phys.)",
+    "german": "quadratisches Abstandsgesetz (n)"
+  },
+  {
+    "english": "inverse square law (audio, phys.)",
+    "german": "reziprokes Quadratgesetz (n)"
+  },
+  {
+    "english": "inverse-square law \u003cISL\u003e (audio, phys.)",
+    "german": "Entfernungsgesetz (n)"
+  },
+  {
+    "english": "Moore-Penrose inverse (math.)",
+    "german": "Moore-Penrose-Inverse (f)"
+  },
+  {
+    "english": "in (an) inverse ratio (adv)",
+    "german": "im umgekehrten Verhältnis"
+  },
+  {
+    "english": "in inverse proportion to (prep)",
+    "german": "im umgekehrten Verhältnis zu (Dat)"
+  },
+  {
+    "english": "in the inverse order (adv)",
+    "german": "in umgekehrter Reihenfolge"
+  },
+  {
+    "english": "inverse polymerase chain reaction \u003cinverse PCR\u003e (biol., biotech.)",
+    "german": "inverse Polymerase-Kettenreaktion \u003cinverse PCR\u003e (f)"
+  },
+  {
+    "english": "to be in inverse proportion to sth.",
+    "german": "im umgekehrten Verhältnis zu etw. stehen"
+  },
+  {
+    "english": "inverse of a square matrix (math.)",
+    "german": "Kehrmatrix (f)"
+  },
+  {
+    "english": "inverse time overcurrent / over-current protection (electr.)",
+    "german": "abhängiger Überstromzeitschutz (m)"
+  }
+]

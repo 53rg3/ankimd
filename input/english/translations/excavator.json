@@ -1,0 +1,218 @@
+[
+  {
+    "english": "excavator",
+    "german": "Bagger (m, 440)"
+  },
+  {
+    "english": "excavator (archaeo.)",
+    "german": "Ausgräber (m, 22)"
+  },
+  {
+    "english": "excavator",
+    "german": "Erdbagger (m, 19)"
+  },
+  {
+    "english": "excavator (dent.)",
+    "german": "Exkavator (m, 5)"
+  },
+  {
+    "english": "excavator (med.)",
+    "german": "Auskratzer (ugs, Exkavator, m)"
+  },
+  {
+    "english": "excavator (dent.)",
+    "german": "Excavator (Rsv, m)"
+  },
+  {
+    "english": "excavator",
+    "german": "Löffelbagger (m)"
+  },
+  {
+    "english": "excavator (Am)",
+    "german": "Erdarbeiter (m)"
+  },
+  {
+    "english": "excavator (archaeo., female)",
+    "german": "Ausgräberin (f)"
+  },
+  {
+    "english": "(excavator) bucket",
+    "german": "Löffel (von, Bagger, etc, m)"
+  },
+  {
+    "english": "articulated excavator",
+    "german": "Gelenkbagger (m)"
+  },
+  {
+    "english": "backhoe (excavator) (constr.)",
+    "german": "Tieflöffelbagger (m)"
+  },
+  {
+    "english": "bucket excavator",
+    "german": "Schaufelradbagger (m)"
+  },
+  {
+    "english": "cable excavator",
+    "german": "Seilbagger (m)"
+  },
+  {
+    "english": "cableway excavator",
+    "german": "Kabelbagger (m)"
+  },
+  {
+    "english": "crawler excavator",
+    "german": "Kettenbagger (m)"
+  },
+  {
+    "english": "crawler excavator (constr.)",
+    "german": "Raupenbagger (m)"
+  },
+  {
+    "english": "dental excavator (dent.)",
+    "german": "Exkavator (m)"
+  },
+  {
+    "english": "ditch excavator",
+    "german": "Grabenbagger (m)"
+  },
+  {
+    "english": "dragline excavator",
+    "german": "Schlepplöffelbagger (m)"
+  },
+  {
+    "english": "dragline excavator",
+    "german": "Schleppschaufelbagger (m)"
+  },
+  {
+    "english": "dragline excavator",
+    "german": "Schürfkübelbagger (m)"
+  },
+  {
+    "english": "evolving excavator",
+    "german": "Schwenkbagger (m)"
+  },
+  {
+    "english": "excavator boom",
+    "german": "Baggerausleger (m)"
+  },
+  {
+    "english": "excavator bucket",
+    "german": "Baggereimer (m)"
+  },
+  {
+    "english": "excavator driver (constr., jobs)",
+    "german": "Baggerfahrer (m)"
+  },
+  {
+    "english": "excavator driver (constr., jobs)",
+    "german": "Baggerführer (m)"
+  },
+  {
+    "english": "excavator grab",
+    "german": "Baggergreifer (m)"
+  },
+  {
+    "english": "excavator loader",
+    "german": "Ladebagger (m)"
+  },
+  {
+    "english": "excavator operator (constr., jobs)",
+    "german": "Baggerfahrer (m)"
+  },
+  {
+    "english": "excavator operator (constr., jobs)",
+    "german": "Baggerführer (m)"
+  },
+  {
+    "english": "excavator shovel (constr.)",
+    "german": "Baggerschaufel (f)"
+  },
+  {
+    "english": "excavator track",
+    "german": "Baggergleis (n)"
+  },
+  {
+    "english": "hydraulic excavator",
+    "german": "Hydraulikbagger (m)"
+  },
+  {
+    "english": "mini-excavator",
+    "german": "Kleinbagger (m)"
+  },
+  {
+    "english": "mini-excavator",
+    "german": "Minibagger (m)"
+  },
+  {
+    "english": "mobile excavator",
+    "german": "Mobilbagger (m)"
+  },
+  {
+    "english": "rotary excavator",
+    "german": "Schaufelradbagger (m)"
+  },
+  {
+    "english": "shovel excavator",
+    "german": "Schaufelbagger (m)"
+  },
+  {
+    "english": "spider excavator (constr.)",
+    "german": "Spinnenbagger (m)"
+  },
+  {
+    "english": "spoon excavator (dent.)",
+    "german": "Löffelexkavator (m)"
+  },
+  {
+    "english": "suction excavator (constr.)",
+    "german": "Saugbagger (Baumaschine, an, Land, m)"
+  },
+  {
+    "english": "walking excavator",
+    "german": "Schreitbagger (m)"
+  },
+  {
+    "english": "wheeled excavator (automot., constr.)",
+    "german": "Radbagger (m)"
+  },
+  {
+    "english": "White excavator (dent.)",
+    "german": "White-Exkavator (m)"
+  },
+  {
+    "english": "back-acting excavator",
+    "german": "Tieflöffelbagger (m)"
+  },
+  {
+    "english": "bucket (chain) excavator (mining, tech.)",
+    "german": "Eimerbagger (m)"
+  },
+  {
+    "english": "bucket (chain) excavator (tech.)",
+    "german": "Eimerkettentrockenbagger (m)"
+  },
+  {
+    "english": "bucket-ladder excavator",
+    "german": "Eimerkettentrockenbagger (m)"
+  },
+  {
+    "english": "bucket-wheel excavator",
+    "german": "Schaufelradbagger (m)"
+  },
+  {
+    "english": "continuous-bucket excavator",
+    "german": "Eimerkettentrockenbagger (m)"
+  },
+  {
+    "english": "excavator support mat (constr., tech.)",
+    "german": "Baggermatratze (f)"
+  },
+  {
+    "english": "excavator track level",
+    "german": "Baggerplanum (n)"
+  },
+  {
+    "english": "self-propelled excavator",
+    "german": "Mobilbagger (m)"
+  }
+]

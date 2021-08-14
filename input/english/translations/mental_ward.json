@@ -1,0 +1,202 @@
+[
+  {
+    "english": "mental ward (med.)",
+    "german": "psychiatrische Station (f)"
+  },
+  {
+    "english": "to ward",
+    "german": "abhalten"
+  },
+  {
+    "english": "to ward",
+    "german": "abwehren"
+  },
+  {
+    "english": "ward (admin., med.)",
+    "german": "Abteilung (f)"
+  },
+  {
+    "english": "ward (relig.)",
+    "german": "Kirchengemeinde (Mormonen, f)"
+  },
+  {
+    "english": "ward (law)",
+    "german": "Mündel (n)"
+  },
+  {
+    "english": "ward (law)",
+    "german": "Pupill / (veraltet, Schutz, Pflegebefohlener, Mndel, m)"
+  },
+  {
+    "english": "ward (law)",
+    "german": "Schutzbefohlener (Rechtssprache, sonst, veraltend, geh, m)"
+  },
+  {
+    "english": "ward (pol., urban)",
+    "german": "Stadtteil (m)"
+  },
+  {
+    "english": "ward (admin., pol.)",
+    "german": "Wahlbezirk (m)"
+  },
+  {
+    "english": "ward (admin., pol.)",
+    "german": "Wahlkreis (m)"
+  },
+  {
+    "english": "ward (law, custody)",
+    "german": "Gewahrsam (m)"
+  },
+  {
+    "english": "ward (law, female)",
+    "german": "Schutzbefohlene (f)"
+  },
+  {
+    "english": "ward (med., hospital)",
+    "german": "Station (Krankenhaus, f)"
+  },
+  {
+    "english": "ward (tech., lock)",
+    "german": "Besatzung (Trschloss, f)"
+  },
+  {
+    "english": "aft ward (naut., adj)",
+    "german": "achteraus"
+  },
+  {
+    "english": "in ward (adv)",
+    "german": "in Gewahrsam"
+  },
+  {
+    "english": "under ward (adv)",
+    "german": "unter Aufsicht"
+  },
+  {
+    "english": "to ward off",
+    "german": "abwenden"
+  },
+  {
+    "english": "to ward off",
+    "german": "bannen (abwenden)"
+  },
+  {
+    "english": "to ward off",
+    "german": "erwehren (geh)"
+  },
+  {
+    "english": "(inpatient) ward (med.)",
+    "german": "Bettenstation (f)"
+  },
+  {
+    "english": "accident ward (med.)",
+    "german": "traumatologische Abteilung (f)"
+  },
+  {
+    "english": "accident ward (med.)",
+    "german": "Unfallabteilung (f)"
+  },
+  {
+    "english": "accident ward (med.)",
+    "german": "Unfallstation (f)"
+  },
+  {
+    "english": "admission ward (med.)",
+    "german": "Aufnahmeabteilung (f)"
+  },
+  {
+    "english": "casualty ward (med.)",
+    "german": "Unfallstation (f)"
+  },
+  {
+    "english": "city ward (hist.)",
+    "german": "Stadtwache (f)"
+  },
+  {
+    "english": "condemned ward",
+    "german": "Abteilung der Verurteilten (f)"
+  },
+  {
+    "english": "day ward (med.)",
+    "german": "ambulante Tagesstation (f)"
+  },
+  {
+    "english": "delivery ward (med.)",
+    "german": "Entbindungsstation (f)"
+  },
+  {
+    "english": "delivery ward",
+    "german": "Geburtsabteilung (f)"
+  },
+  {
+    "english": "hospital ward (med.)",
+    "german": "Krankenstation (f)"
+  },
+  {
+    "english": "inner ward (archi.)",
+    "german": "Burghof (m)"
+  },
+  {
+    "english": "inpatient ward (med.)",
+    "german": "Bettenabteilung (Bettenstation, f)"
+  },
+  {
+    "english": "isolation ward (med.)",
+    "german": "Infektionsabteilung (f)"
+  },
+  {
+    "english": "isolation ward (med.)",
+    "german": "Isolationsstation (Krankenhaus, f)"
+  },
+  {
+    "english": "isolation ward (med.)",
+    "german": "Isolierstation (f)"
+  },
+  {
+    "english": "maternity (ward) (med.)",
+    "german": "Maternité (sterr, schweiz, f)"
+  },
+  {
+    "english": "maternity ward (med.)",
+    "german": "Entbindungsstation (f)"
+  },
+  {
+    "english": "maternity ward (med.)",
+    "german": "Gebärabteilung (schweiz, Geburtsstation, f)"
+  },
+  {
+    "english": "maternity ward (med.)",
+    "german": "Wöchnerinnenabteilung (f)"
+  },
+  {
+    "english": "maternity ward (med.)",
+    "german": "Wöchnerinnenstation (f)"
+  },
+  {
+    "english": "neonatal ward (med.)",
+    "german": "Neugeborenenabteilung (f)"
+  },
+  {
+    "english": "neonatal ward (med.)",
+    "german": "Neugeborenenstation (f)"
+  },
+  {
+    "english": "nursing ward (med.)",
+    "german": "Pflegestation (f)"
+  },
+  {
+    "english": "observation ward (med.)",
+    "german": "Beobachtungsstation (f)"
+  },
+  {
+    "english": "observation ward (med.)",
+    "german": "Wachstation (f)"
+  },
+  {
+    "english": "obstetric ward (med.)",
+    "german": "Geburtshilfestation (f)"
+  },
+  {
+    "english": "oncology ward (med.)",
+    "german": "Onkologiestation (f)"
+  }
+]

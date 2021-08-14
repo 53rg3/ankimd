@@ -10,6 +10,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
 
 import static config.Config.*;
@@ -20,7 +21,7 @@ public class WaveNetApiScraper {
     private final AudioConfig audioConfig;
     private final TextToSpeechSettings textToSpeechSettings;
 
-    WaveNetApiScraper(String languageCode, String voiceName) {
+    public WaveNetApiScraper(String languageCode, String voiceName) {
         this.voice = VoiceSelectionParams.newBuilder()
                 .setLanguageCode(languageCode)
                 .setName(voiceName)
@@ -39,12 +40,12 @@ public class WaveNetApiScraper {
         }
     }
 
-    public void create(final String textToAudioFrom, String absolutePathToFile) {
+    public void create(final String textToAudioFrom, Path pathToFile) {
         try (final TextToSpeechClient textToSpeechClient = TextToSpeechClient.create(this.textToSpeechSettings)) {
             final SynthesisInput input = SynthesisInput.newBuilder().setText(textToAudioFrom).build();
             final SynthesizeSpeechResponse response = textToSpeechClient.synthesizeSpeech(input, this.voice, this.audioConfig);
             final ByteString audioContents = response.getAudioContent();
-            this.writeToFile(audioContents, absolutePathToFile);
+            this.writeToFile(audioContents, pathToFile.toAbsolutePath().toString());
         } catch (final Exception e) {
             throw new IllegalStateException("Couldn't create mp3.", e);
         }

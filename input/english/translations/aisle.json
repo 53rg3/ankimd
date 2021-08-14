@@ -1,0 +1,238 @@
+[
+  {
+    "english": "-aisle (attr, eg, warehouse, adj)",
+    "german": "-gassig (z, B, Regallager)"
+  },
+  {
+    "english": "aisle",
+    "german": "Gang (zwischen, Sitzbnken, etc, m, 3444)"
+  },
+  {
+    "english": "aisle",
+    "german": "Gangreihe (Gang, f, 194)"
+  },
+  {
+    "english": "aisle (archi.)",
+    "german": "Schiff (in, einer, Kirche, n, 172)"
+  },
+  {
+    "english": "aisle (archi., lateral, section, of, church)",
+    "german": "Seitenschiff (n, 75)"
+  },
+  {
+    "english": "aisle (archi., relig.)",
+    "german": "Wandelgang (m, 44)"
+  },
+  {
+    "english": "aisle (archi.)",
+    "german": "Seitenchor (m, 34)"
+  },
+  {
+    "english": "eight-aisle (tech., attr, eg, warehouse, adj)",
+    "german": "achtgassig (z, B, Regallager)"
+  },
+  {
+    "english": "five-aisle (archi., attr, adj)",
+    "german": "fünfschiffig"
+  },
+  {
+    "english": "aisle seat (aviat., TrVocab.)",
+    "german": "Gangplatz (m)"
+  },
+  {
+    "english": "aisle seat",
+    "german": "Platz am Gang (m)"
+  },
+  {
+    "english": "aisle seat",
+    "german": "Sitz am Gang (m)"
+  },
+  {
+    "english": "aisle sitter (jobs, theatre, esp, Am, coll)",
+    "german": "Theaterkritiker (m)"
+  },
+  {
+    "english": "aisle sitter (jobs, theatre, female, esp, Am, coll, theater, critic)",
+    "german": "Theaterkritikerin (f)"
+  },
+  {
+    "english": "aisle-vault (archi.)",
+    "german": "Schiffgewölbe (n)"
+  },
+  {
+    "english": "aisle-vault (archi.)",
+    "german": "Seitenschiffgewölbe (n)"
+  },
+  {
+    "english": "apse aisle (archi.)",
+    "german": "Apsisschiff (n)"
+  },
+  {
+    "english": "beverage aisle",
+    "german": "Getränkegang (in, einem, Laden, Supermarkt, m)"
+  },
+  {
+    "english": "bread aisle (comm.)",
+    "german": "Backwarenabteilung (f)"
+  },
+  {
+    "english": "center aisle (Am)",
+    "german": "Mittelgang (m)"
+  },
+  {
+    "english": "central aisle",
+    "german": "Mitteldurchgang (m)"
+  },
+  {
+    "english": "central aisle",
+    "german": "Mittelgang (m)"
+  },
+  {
+    "english": "central aisle (archi., in, church, theatre)",
+    "german": "Hauptgang (m)"
+  },
+  {
+    "english": "central aisle (archi., of, a, basilica)",
+    "german": "Mittelschiff (n)"
+  },
+  {
+    "english": "centre aisle (Br)",
+    "german": "Mittelgang (m)"
+  },
+  {
+    "english": "drive aisle (archi., traffic, vehicle, passageway)",
+    "german": "Fahrgasse (zwischen, Fahrzeugstellpltzen, f)"
+  },
+  {
+    "english": "fire aisle (FireResc)",
+    "german": "Fluchtweg (Gang, z, B, im, Hochregallager, m)"
+  },
+  {
+    "english": "flanking aisle (archi., of, a, basilica)",
+    "german": "Seitenschiff (n)"
+  },
+  {
+    "english": "forest aisle (for.)",
+    "german": "Schneise (f)"
+  },
+  {
+    "english": "forest aisle (for.)",
+    "german": "Waldschneise (f)"
+  },
+  {
+    "english": "main aisle (archi.)",
+    "german": "Hauptschiff (einer, Kirche, n)"
+  },
+  {
+    "english": "narrow aisle",
+    "german": "Schmalgang (m)"
+  },
+  {
+    "english": "nave aisle (archi.)",
+    "german": "Abseite (f)"
+  },
+  {
+    "english": "nave aisle (archi.)",
+    "german": "Seitenschiff (n)"
+  },
+  {
+    "english": "produce aisle (comm., Am)",
+    "german": "Obst- und Gemüseabteilung (f)"
+  },
+  {
+    "english": "quire aisle (archi.)",
+    "german": "Chorseitenschiff (n)"
+  },
+  {
+    "english": "quire aisle (archi.)",
+    "german": "Chorumgang (m)"
+  },
+  {
+    "english": "side aisle (archi.)",
+    "german": "Seitenschiff (n)"
+  },
+  {
+    "english": "warehouse aisle (comm.)",
+    "german": "Lagergasse (f)"
+  },
+  {
+    "english": "cold aisle containment (comp.)",
+    "german": "Kaltgangeinhausung (f)"
+  },
+  {
+    "english": "end of aisle (market., in, the, supermarket)",
+    "german": "Gondelkopf (Regalende, im, Supermarkt, m)"
+  },
+  {
+    "english": "mobile aisle shelving",
+    "german": "Hebelschubanlage (f)"
+  },
+  {
+    "english": "mobile aisle shelving",
+    "german": "verfahrbares Regalsystem (n)"
+  },
+  {
+    "english": "narrow aisle warehouse (ind.)",
+    "german": "Schmalganglager (n)"
+  },
+  {
+    "english": "narrow-aisle stacker (ind.)",
+    "german": "Schmalgangstapler (m)"
+  },
+  {
+    "english": "nave aisle bay (archi.)",
+    "german": "Abseitenjoch (n)"
+  },
+  {
+    "english": "nave aisle bay (archi.)",
+    "german": "Seitenschiffjoch (n)"
+  },
+  {
+    "english": "nave aisle gallery (archi.)",
+    "german": "Abseitenempore (f)"
+  },
+  {
+    "english": "nave aisle gallery (archi.)",
+    "german": "Seitenschiffempore (f)"
+  },
+  {
+    "english": "nave aisle window (archi.)",
+    "german": "Seitenschifffenster (n)"
+  },
+  {
+    "english": "very narrow aisle \u003cVNA\u003e (ind.)",
+    "german": "Schmalgang (m)"
+  },
+  {
+    "english": "to go down the aisle (idiom)",
+    "german": "vor den Traualtar treten (Redewendung)"
+  },
+  {
+    "english": "to walk down the aisle (also, fig, get, married)",
+    "german": "vor den Altar treten (auch, fig, kirchlich, heiraten)"
+  },
+  {
+    "english": "to walk sb. down the aisle (idiom)",
+    "german": "jdn. zum Traualtar führen (Redewendung)"
+  },
+  {
+    "english": "(very) narrow-aisle truck \u003cVNA\u003e (ind.)",
+    "german": "Schmalgangstapler (m)"
+  },
+  {
+    "english": "aisle of a church",
+    "german": "Schiff einer Kirche (n)"
+  },
+  {
+    "english": "head of the aisle",
+    "german": "Regalkopfseite (f)"
+  },
+  {
+    "english": "from both sides of the political aisle (pol.)",
+    "german": "aus beiden politischen Lagern"
+  },
+  {
+    "english": "narrow-aisle order picker truck",
+    "german": "Hochregal- und Kommissionierstapler (m)"
+  }
+]

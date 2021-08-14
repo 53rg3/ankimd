@@ -1,0 +1,210 @@
+[
+  {
+    "english": "stellar (fig, outstanding, adj)",
+    "german": "herausragend (fig, exzellent, 877)"
+  },
+  {
+    "english": "stellar (astron., eg, collision, explosion, map, system, adj)",
+    "german": "Stern- (z, B, Kollision, Explosion, Karte, System, 72)"
+  },
+  {
+    "english": "stellar (adj)",
+    "german": "sternenförmig (37)"
+  },
+  {
+    "english": "stellar (astron., eg, calendar, dust, mass, adj)",
+    "german": "Sternen- (z, B, Kalender, Staub, Masse, 15)"
+  },
+  {
+    "english": "stellar (astron., adj)",
+    "german": "stellar (11)"
+  },
+  {
+    "english": "nonstellar (astron., also, nonstellar, adj)",
+    "german": "nicht stellar"
+  },
+  {
+    "english": "stellar ascent",
+    "german": "kometenhafter Aufstieg (m)"
+  },
+  {
+    "english": "stellar association (astron.)",
+    "german": "Sternassoziation (f)"
+  },
+  {
+    "english": "stellar astronomy (acad., astron.)",
+    "german": "Stellarastronomie (f)"
+  },
+  {
+    "english": "stellar atmosphere (astron.)",
+    "german": "Sternatmosphäre (f)"
+  },
+  {
+    "english": "stellar calendar",
+    "german": "Sternenkalender (m)"
+  },
+  {
+    "english": "stellar career (idiom)",
+    "german": "steile Karriere (f)"
+  },
+  {
+    "english": "stellar chart (astron.)",
+    "german": "Sternkarte (f)"
+  },
+  {
+    "english": "stellar cluster (astron.)",
+    "german": "Sternenhaufen (m)"
+  },
+  {
+    "english": "stellar collision (astron.)",
+    "german": "Sternkollision (f)"
+  },
+  {
+    "english": "stellar collision (astron.)",
+    "german": "Sternzusammenstoß (m)"
+  },
+  {
+    "english": "stellar constellation (astron.)",
+    "german": "Sternenkonstellation (f)"
+  },
+  {
+    "english": "stellar constellation (astron.)",
+    "german": "Sternkonstellation (f)"
+  },
+  {
+    "english": "stellar crystal (meteo.)",
+    "german": "Stern (Schneekristall, m)"
+  },
+  {
+    "english": "stellar debris (astron., sg)",
+    "german": "Sterntrümmer (pl)"
+  },
+  {
+    "english": "stellar distribution (astron.)",
+    "german": "Sternverteilung (f)"
+  },
+  {
+    "english": "stellar dust (astron.)",
+    "german": "Sternenstaub (m)"
+  },
+  {
+    "english": "stellar dynamics (acad., astron., treated, as, sg)",
+    "german": "Stellardynamik (f)"
+  },
+  {
+    "english": "stellar evolution (astron.)",
+    "german": "Sternenentwicklung (f)"
+  },
+  {
+    "english": "stellar evolution (astron.)",
+    "german": "Sternentwicklung (f)"
+  },
+  {
+    "english": "stellar explosion (astron.)",
+    "german": "Sternexplosion (f)"
+  },
+  {
+    "english": "stellar generation (astron.)",
+    "german": "Sternengeneration (f)"
+  },
+  {
+    "english": "stellar interior (astron.)",
+    "german": "Sterninneres (n)"
+  },
+  {
+    "english": "stellar map (astron.)",
+    "german": "Sternkarte (f)"
+  },
+  {
+    "english": "stellar mass (astron.)",
+    "german": "Sternenmasse (f)"
+  },
+  {
+    "english": "stellar mass (astron.)",
+    "german": "Sternmasse (f)"
+  },
+  {
+    "english": "stellar model (astron.)",
+    "german": "Sternmodell (n)"
+  },
+  {
+    "english": "stellar nucleosynthesis (astron., phys.)",
+    "german": "stellare Nukleosynthese (f)"
+  },
+  {
+    "english": "stellar nursery (astron.)",
+    "german": "Sternenwiege (f)"
+  },
+  {
+    "english": "stellar nursery (astron.)",
+    "german": "Sternkinderstube (f)"
+  },
+  {
+    "english": "stellar parallax (astron.)",
+    "german": "Sternparallaxe (f)"
+  },
+  {
+    "english": "stellar population (astron.)",
+    "german": "Sternpopulation (auch, Sternenpopulation, f)"
+  },
+  {
+    "english": "stellar remnant (astron.)",
+    "german": "Sternleiche (f)"
+  },
+  {
+    "english": "stellar remnant (astron., compact, star)",
+    "german": "Sternenrest (berbleibsel, eines, ehemaligen, Sterns, z, B, ein, Neutronenstern, m)"
+  },
+  {
+    "english": "stellar spectrum (astron.)",
+    "german": "Sternspektrum (n)"
+  },
+  {
+    "english": "stellar structure (astron.)",
+    "german": "Sternaufbau (auch, Sternenaufbau, m)"
+  },
+  {
+    "english": "stellar structure (astron.)",
+    "german": "Sternstruktur (f)"
+  },
+  {
+    "english": "stellar surface (astron.)",
+    "german": "Sternenoberfläche (f)"
+  },
+  {
+    "english": "stellar surface (astron.)",
+    "german": "Sternoberfläche (f)"
+  },
+  {
+    "english": "stellar system (astron.)",
+    "german": "Sternsystem (n)"
+  },
+  {
+    "english": "stellar wind (astron.)",
+    "german": "Sternenwind (selten, fr, Sternwind, m)"
+  },
+  {
+    "english": "stellar wind (astron.)",
+    "german": "Sternwind (m)"
+  },
+  {
+    "english": "less than stellar (adj)",
+    "german": "alles andere als herausragend"
+  },
+  {
+    "english": "hypercompact stellar system \u003cHCSS\u003e (astron.)",
+    "german": "hyperkompaktes Sternsystem (n)"
+  },
+  {
+    "english": "stellar black hole \u003cSBH\u003e (astron., phys.)",
+    "german": "stellares Schwarzes Loch (n)"
+  },
+  {
+    "english": "quasi-stellar radio source (astron.)",
+    "german": "quasistellare Radioquelle (f)"
+  },
+  {
+    "english": "stellar-mass black hole \u003csMBH\u003e (astron., phys.)",
+    "german": "Schwarzes Loch stellarer Masse (stellares, Schwarzes, Loch, n)"
+  }
+]

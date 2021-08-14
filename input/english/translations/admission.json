@@ -1,0 +1,202 @@
+[
+  {
+    "english": "admission",
+    "german": "Eintritt (m, 2163)"
+  },
+  {
+    "english": "admission",
+    "german": "Zulassung (f, 1140)"
+  },
+  {
+    "english": "admission (to, hospital, etc)",
+    "german": "Aufnahme (ins, Krankenhaus, etc, f, 863)"
+  },
+  {
+    "english": "admission",
+    "german": "Erlaubnis (f, 410)"
+  },
+  {
+    "english": "admission (confession)",
+    "german": "Eingeständnis (n, 358)"
+  },
+  {
+    "english": "admission",
+    "german": "Zugeständnis (n, 355)"
+  },
+  {
+    "english": "admission",
+    "german": "Zugang (m, 264)"
+  },
+  {
+    "english": "admission",
+    "german": "Annahme (Zulassung, f, 110)"
+  },
+  {
+    "english": "admission",
+    "german": "Einlass (m, 98)"
+  },
+  {
+    "english": "admission (law)",
+    "german": "Geständnis (n, 92)"
+  },
+  {
+    "english": "admission (med.)",
+    "german": "Einlieferung (ins, Krankenhaus, f, 89)"
+  },
+  {
+    "english": "admission",
+    "german": "Zutritt (m, 63)"
+  },
+  {
+    "english": "admission (relig., of, guilt, sin)",
+    "german": "Beichte (f, 60)"
+  },
+  {
+    "english": "admission \u003cAdm\u003e \u003cADM\u003e (med.)",
+    "german": "Einweisung (Nomenklatur, f, 47)"
+  },
+  {
+    "english": "admission (entry, fee)",
+    "german": "Eintrittsgebühr (f, 44)"
+  },
+  {
+    "english": "admission",
+    "german": "Einräumung (f, 36)"
+  },
+  {
+    "english": "admission (fee)",
+    "german": "Eintritt (Eintrittspreis, m, 28)"
+  },
+  {
+    "english": "admission (to, a, country)",
+    "german": "Einreiseerlaubnis (f, 26)"
+  },
+  {
+    "english": "admission",
+    "german": "Zulass (m, 16)"
+  },
+  {
+    "english": "Admission free!",
+    "german": "Eintritt frei!"
+  },
+  {
+    "english": "free admission",
+    "german": "Eintritt frei"
+  },
+  {
+    "english": "Free admission!",
+    "german": "Eintritt frei!"
+  },
+  {
+    "english": "Free admission.",
+    "german": "Eintritt frei."
+  },
+  {
+    "english": "to charge admission",
+    "german": "Eintritt nehmen (Eintrittsgeld, verlangen)"
+  },
+  {
+    "english": "to gain admission",
+    "german": "Zutritt erhalten"
+  },
+  {
+    "english": "to obtain admission",
+    "german": "Zugang erhalten"
+  },
+  {
+    "english": "to refuse admission",
+    "german": "den Einlass verweigern"
+  },
+  {
+    "english": "to request admission",
+    "german": "Einlass begehren (geh, um, Einlass, bitten)"
+  },
+  {
+    "english": "admission board",
+    "german": "Zulassungsbehörde (f)"
+  },
+  {
+    "english": "admission card",
+    "german": "Einlasskarte (f)"
+  },
+  {
+    "english": "admission card",
+    "german": "Eintrittskarte (f)"
+  },
+  {
+    "english": "admission center (Am)",
+    "german": "Zulassungszentrum (n)"
+  },
+  {
+    "english": "admission centre (Br)",
+    "german": "Zulassungszentrum (n)"
+  },
+  {
+    "english": "admission charge",
+    "german": "Aufnahmegebühr (f)"
+  },
+  {
+    "english": "admission charge",
+    "german": "Einlassgebühr (f)"
+  },
+  {
+    "english": "admission charge",
+    "german": "Eintrittsgebühr (f)"
+  },
+  {
+    "english": "admission charge",
+    "german": "Eintrittsgeld (n)"
+  },
+  {
+    "english": "admission charge",
+    "german": "Eintrittspreis (m)"
+  },
+  {
+    "english": "admission charges",
+    "german": "Eintrittsgelder (pl)"
+  },
+  {
+    "english": "admission control",
+    "german": "Zugangskontrolle (f)"
+  },
+  {
+    "english": "admission control",
+    "german": "Zugangsüberwachung (f)"
+  },
+  {
+    "english": "admission criteria",
+    "german": "Aufnahmekriterien (pl)"
+  },
+  {
+    "english": "admission criteria (eg, into, a, nightlife, establishment)",
+    "german": "Einlassbestimmungen (pl)"
+  },
+  {
+    "english": "admission diagnosis (med.)",
+    "german": "Aufnahmediagnose (f)"
+  },
+  {
+    "english": "admission diagnosis (med.)",
+    "german": "Einweisungsdiagnose (f)"
+  },
+  {
+    "english": "admission exam (educ.)",
+    "german": "Aufnahmeprüfung (f)"
+  },
+  {
+    "english": "admission exam (educ.)",
+    "german": "Aufnahmsprüfung (sterr, f)"
+  },
+  {
+    "english": "admission examination (educ.)",
+    "german": "Aufnahmeprüfung (f)"
+  },
+  {
+    "english": "admission examination (educ.)",
+    "german": "Aufnahmsprüfung (sterr, f)"
+  },
+  {
+    "english": "admission examination (educ.)",
+    "german": "Zulassungsprüfung (f)"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "english": "reactance (electr.)",
+    "german": "Reaktanz (f, 82)"
+  },
+  {
+    "english": "reactance (electr.)",
+    "german": "Blindwiderstand (m, 43)"
+  },
+  {
+    "english": "acoustic reactance (audio, electr.)",
+    "german": "akustische Reaktanz (f)"
+  },
+  {
+    "english": "capacitive reactance (electr.)",
+    "german": "kapazitiver Blindwiderstand (m)"
+  },
+  {
+    "english": "capacity reactance (electr.)",
+    "german": "kapazitiver Blindwiderstand (m)"
+  },
+  {
+    "english": "inductive reactance (electr.)",
+    "german": "induktiver Blindwiderstand (m)"
+  },
+  {
+    "english": "reactance coil (electr.)",
+    "german": "Drosselspule (f)"
+  },
+  {
+    "english": "reactance modulator (electr.)",
+    "german": "Blindmodulator (m)"
+  },
+  {
+    "english": "reactance relay (electr.)",
+    "german": "Reaktanzrelais (n)"
+  },
+  {
+    "english": "reactance voltage (electr.)",
+    "german": "Blindspannung (f)"
+  },
+  {
+    "english": "specific acoustic reactance (audio)",
+    "german": "Feldreaktanz (f)"
+  },
+  {
+    "english": "specific acoustic reactance (audio)",
+    "german": "spezifische Schallreaktanz (f)"
+  }
+]

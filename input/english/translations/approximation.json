@@ -1,0 +1,258 @@
+[
+  {
+    "english": "approximation",
+    "german": "Annäherung (f, 598)"
+  },
+  {
+    "english": "approximation (math.)",
+    "german": "Näherung (f, 133)"
+  },
+  {
+    "english": "approximation",
+    "german": "Angleichung (f, 53)"
+  },
+  {
+    "english": "approximation (math.)",
+    "german": "Approximation \u003cAppr., Approx.\u003e (f, 15)"
+  },
+  {
+    "english": "approximation (estimate)",
+    "german": "Annäherungswert (m, 12)"
+  },
+  {
+    "english": "approximation",
+    "german": "Approximierung (f)"
+  },
+  {
+    "english": "by approximation (adv)",
+    "german": "näherungsweise"
+  },
+  {
+    "english": "approximation algorithm (comp.)",
+    "german": "Approximationsalgorithmus (m)"
+  },
+  {
+    "english": "approximation error (math.)",
+    "german": "Näherungsfehler (m)"
+  },
+  {
+    "english": "approximation error \u003cAE\u003e (comp., ind., math.)",
+    "german": "Fehlergrenze (Fehlerschranke, f)"
+  },
+  {
+    "english": "approximation error \u003cAE\u003e (comp., ind., math.)",
+    "german": "Fehlerschranke (Fehlermanagement, f)"
+  },
+  {
+    "english": "approximation formula (fin., math.)",
+    "german": "Näherungsformel (f)"
+  },
+  {
+    "english": "approximation method",
+    "german": "Annäherungsverfahren (n)"
+  },
+  {
+    "english": "approximation method (math.)",
+    "german": "Näherungsmethode (f)"
+  },
+  {
+    "english": "approximation method (math.)",
+    "german": "Näherungsverfahren (n)"
+  },
+  {
+    "english": "approximation procedure (math.)",
+    "german": "Näherungsverfahren (n)"
+  },
+  {
+    "english": "approximation solution (acad.)",
+    "german": "Näherungslösung (f)"
+  },
+  {
+    "english": "approximation technique",
+    "german": "Annäherungsverfahren (n)"
+  },
+  {
+    "english": "approximation theory (math.)",
+    "german": "Approximationstheorie (f)"
+  },
+  {
+    "english": "asymptotic approximation (math.)",
+    "german": "asymptotische Annäherung (f)"
+  },
+  {
+    "english": "Bloch approximation (phys.)",
+    "german": "blochsche Näherung (f)"
+  },
+  {
+    "english": "Chebyshev approximation (math.)",
+    "german": "Tschebyscheff-Approximation (f)"
+  },
+  {
+    "english": "depletion approximation \u003cDA\u003e (electr.)",
+    "german": "Verarmungsnäherung (auch, SchottkyNherung, f)"
+  },
+  {
+    "english": "Diophantine approximation (math.)",
+    "german": "diophantische Approximation (f)"
+  },
+  {
+    "english": "impulse approximation (phys.)",
+    "german": "Stoßnäherung (f)"
+  },
+  {
+    "english": "Korovkin approximation (math.)",
+    "german": "Korowkin-Approximation (f)"
+  },
+  {
+    "english": "linear approximation",
+    "german": "lineare Annäherung (f)"
+  },
+  {
+    "english": "multiscale approximation \u003cMSA\u003e (audio, comp.)",
+    "german": "Multiskalenapproximation (f)"
+  },
+  {
+    "english": "Padé approximant (math.)",
+    "german": "Padé-Approximation (f)"
+  },
+  {
+    "english": "Padé approximation (math.)",
+    "german": "Padé-Approximation (f)"
+  },
+  {
+    "english": "phase approximation (phys.)",
+    "german": "Phasenapproximation (f)"
+  },
+  {
+    "english": "rough approximation",
+    "german": "grobe Annäherung (f)"
+  },
+  {
+    "english": "Schottky approximation (electr.)",
+    "german": "Schottky-Näherung (auch, Schottkynherung, f)"
+  },
+  {
+    "english": "semiclassical approximation (phys.)",
+    "german": "semiklassische Näherung (f)"
+  },
+  {
+    "english": "Stirling\u0027s approximation (math.)",
+    "german": "stirlingsche Näherung (StirlingFormel, f)"
+  },
+  {
+    "english": "successive approximation",
+    "german": "schrittweise Annäherung (f)"
+  },
+  {
+    "english": "Wien approximation (phys.)",
+    "german": "Wien\u0027sche Näherung (f)"
+  },
+  {
+    "english": "Wien approximation (phys.)",
+    "german": "wiensche Näherung (f)"
+  },
+  {
+    "english": "in good approximation",
+    "german": "in guter Näherung"
+  },
+  {
+    "english": "approximation of law (law)",
+    "german": "Angleichung der Rechtsprechung (f)"
+  },
+  {
+    "english": "approximation of laws (law)",
+    "german": "Rechtsangleichung (f)"
+  },
+  {
+    "english": "approximation of prices",
+    "german": "Kursannäherung (f)"
+  },
+  {
+    "english": "approximation of volume (math.)",
+    "german": "Volumenapproximation (f)"
+  },
+  {
+    "english": "Born-Oppenheimer approximation \u003cBO approximation\u003e (chem.)",
+    "german": "Born-Oppenheimer-Approximation (f)"
+  },
+  {
+    "english": "Born-Oppenheimer approximation \u003cBO approximation\u003e (chem.)",
+    "german": "Born-Oppenheimer-Näherung (f)"
+  },
+  {
+    "english": "Dirichlet\u0027s approximation theorem (math., also, approximation, theorem, of, Dirichlet)",
+    "german": "dirichletscher Approximationssatz (m)"
+  },
+  {
+    "english": "Dixmier approximation theorem (math., also, Dixmiers, approximation, theorem)",
+    "german": "Approximationssatz von Dixmier (m)"
+  },
+  {
+    "english": "first-order approximation (math.)",
+    "german": "erste Näherung (f)"
+  },
+  {
+    "english": "Kronecker approximation theorem (math., also, Kroneckers, approximation, theorem, approximation, theorem, of, Kronecker)",
+    "german": "Approximationssatz von Kronecker (m)"
+  },
+  {
+    "english": "nonnegative matrix approximation \u003cNNMA, NMA\u003e (math., spv)",
+    "german": "nichtnegative Matrixfaktorisierung \u003cNMF\u003e (f)"
+  },
+  {
+    "english": "one-electron approximation (phys.)",
+    "german": "Einelektronennäherung (f)"
+  },
+  {
+    "english": "rotating wave approximation \u003cRWA\u003e (phys.)",
+    "german": "Drehwellennäherung \u003cDWN\u003e (f)"
+  },
+  {
+    "english": "Runge\u0027s (approximation) theorem (math.)",
+    "german": "Satz von Runge (m)"
+  },
+  {
+    "english": "Runge\u0027s approximation theorem (math., also, Runge, approximation, theorem, approximation, theorem, of, Runge)",
+    "german": "Runge\u0027scher Approximationssatz (m)"
+  },
+  {
+    "english": "small-angle approximation (math.)",
+    "german": "Kleinwinkelnäherung (f)"
+  },
+  {
+    "english": "in the first approximation (math., adv)",
+    "german": "in erster Näherung"
+  },
+  {
+    "english": "approximation of freight rates",
+    "german": "Annäherung der Frachtsätze (f)"
+  },
+  {
+    "english": "approximation of interest rates (fin.)",
+    "german": "Annäherung der Zinsen (f)"
+  },
+  {
+    "english": "Newton\u0027s method of approximation (math.)",
+    "german": "Newton\u0027sche Näherungsmethode (f)"
+  },
+  {
+    "english": "non-negative matrix approximation \u003cNNMA, NMA\u003e (math.)",
+    "german": "nichtnegative Matrixfaktorisierung \u003cNMF\u003e (f)"
+  },
+  {
+    "english": "Directive on the approximation of laws of the Member States relating to trademarks // ] (law, 89, 104, EEC)",
+    "german": "Richtlinie zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Marken // (Markenrichtlinie, 89, 104, EEC, f)"
+  },
+  {
+    "english": "Dirichlet\u0027s theorem on Diophantine approximation (math., Dirichlets, approximation, theorem)",
+    "german": "dirichletscher Approximationssatz (m)"
+  },
+  {
+    "english": "Runge\u0027s theorem on rational approximation (math.)",
+    "german": "Satz von Runge über rationale Approximation (m)"
+  },
+  {
+    "english": "Weierstrass / Stone-Weierstrass approximation theorem (math.)",
+    "german": "Approximationssatz von Weierstraß / Stone-Weierstraß (m)"
+  }
+]

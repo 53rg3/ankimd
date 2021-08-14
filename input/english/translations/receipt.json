@@ -1,0 +1,202 @@
+[
+  {
+    "english": "to receipt",
+    "german": "empfangen (1126)"
+  },
+  {
+    "english": "to receipt",
+    "german": "quittieren (321)"
+  },
+  {
+    "english": "to receipt",
+    "german": "den Empfang bescheinigen"
+  },
+  {
+    "english": "to receipt",
+    "german": "den Empfang bestätigen"
+  },
+  {
+    "english": "receipt",
+    "german": "Quittung (f, 4136)"
+  },
+  {
+    "english": "receipt (comm.)",
+    "german": "Beleg (Kassenzettel, m, 1051)"
+  },
+  {
+    "english": "receipt",
+    "german": "Kassenzettel (m, 653)"
+  },
+  {
+    "english": "receipt",
+    "german": "Erhalt (m, 447)"
+  },
+  {
+    "english": "receipt",
+    "german": "Empfang (Ware, Brief, etc, m, 353)"
+  },
+  {
+    "english": "receipt",
+    "german": "Kassenbon (m, 297)"
+  },
+  {
+    "english": "receipt",
+    "german": "Kassenbeleg (m, 192)"
+  },
+  {
+    "english": "receipt (acc., fin.)",
+    "german": "Abrechnungsbeleg (m, 150)"
+  },
+  {
+    "english": "receipt (admin., comm., fin., of, a, letter, of, goods, of, money, etc)",
+    "german": "Eingang (eines, Briefes, von, Waren, von, Geld, etc, m, 140)"
+  },
+  {
+    "english": "receipt (gastr., archaic, recipe)",
+    "german": "Rezept (n, 123)"
+  },
+  {
+    "english": "receipt",
+    "german": "Empfangsbestätigung (f, 117)"
+  },
+  {
+    "english": "receipt",
+    "german": "Bon (Kassenzettel, m, 104)"
+  },
+  {
+    "english": "receipt (comm.)",
+    "german": "Zugang (Neueingang, von, Waren, m, 89)"
+  },
+  {
+    "english": "receipt",
+    "german": "Zettel (m, 61)"
+  },
+  {
+    "english": "receipt",
+    "german": "Annahme (An, Entgegennehmen, f, 51)"
+  },
+  {
+    "english": "receipt (admin., fin., of, a, benefit, pension, etc)",
+    "german": "Bezug (einer, Leistung, einer, Rente, usw, m, 35)"
+  },
+  {
+    "english": "receipt",
+    "german": "Entgegennahme (f, 32)"
+  },
+  {
+    "english": "receipt",
+    "german": "Rechnungsbeleg (m, 20)"
+  },
+  {
+    "english": "receipt",
+    "german": "Übernahme (f, 14)"
+  },
+  {
+    "english": "receipt",
+    "german": "Empfangnahme (f, 9)"
+  },
+  {
+    "english": "receipt",
+    "german": "Quittungsbeleg (m, 9)"
+  },
+  {
+    "english": "receipt (fin.)",
+    "german": "Acquit (veraltet, n)"
+  },
+  {
+    "english": "against receipt (adv)",
+    "german": "gegen Quittung"
+  },
+  {
+    "english": "on receipt",
+    "german": "sofort nach Erhalt"
+  },
+  {
+    "english": "upon receipt",
+    "german": "nach Eingang"
+  },
+  {
+    "english": "to confirm receipt",
+    "german": "rezepissieren (veraltet)"
+  },
+  {
+    "english": "advance receipt",
+    "german": "Vorempfang (m)"
+  },
+  {
+    "english": "application receipt",
+    "german": "Antragsbestätigung (f)"
+  },
+  {
+    "english": "bank receipt (fin.)",
+    "german": "Bankbeleg (m)"
+  },
+  {
+    "english": "bank receipt",
+    "german": "Bankquittung (f)"
+  },
+  {
+    "english": "bill receipt (Br)",
+    "german": "Rechnungseingang (m)"
+  },
+  {
+    "english": "binding receipt",
+    "german": "Deckungszusage (f)"
+  },
+  {
+    "english": "blank receipt",
+    "german": "Blankoquittung (f)"
+  },
+  {
+    "english": "Unverified cancellation receipt",
+    "german": "löschungsfähige Quittung (f)"
+  },
+  {
+    "english": "carrier\u0027s receipt (econ.)",
+    "german": "Speditionsübergabequittung (f)"
+  },
+  {
+    "english": "carrier\u0027s receipt (econ.)",
+    "german": "Speditionsübernahmeschein (m)"
+  },
+  {
+    "english": "cash receipt",
+    "german": "Kassenquittung (f)"
+  },
+  {
+    "english": "check receipt (Am)",
+    "german": "Rechnungseingang (m)"
+  },
+  {
+    "english": "clean receipt",
+    "german": "Quittung ohne Einschränkung (f)"
+  },
+  {
+    "english": "cloakroom receipt",
+    "german": "Garderobenannahmeschein (m)"
+  },
+  {
+    "english": "conditional receipt",
+    "german": "Deckungszusage (f)"
+  },
+  {
+    "english": "confirmation receipt",
+    "german": "Empfangsschein (m)"
+  },
+  {
+    "english": "consignment receipt",
+    "german": "Empfangsquittung (f)"
+  },
+  {
+    "english": "customs receipt",
+    "german": "Zollquittung (f)"
+  },
+  {
+    "english": "deposit receipt",
+    "german": "Depotschein (m)"
+  },
+  {
+    "english": "deposit receipt",
+    "german": "Einzahlungsbestätigung (f)"
+  }
+]

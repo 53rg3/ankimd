@@ -1,0 +1,242 @@
+[
+  {
+    "english": "girder (archi., constr.)",
+    "german": "Träger (m, 355)"
+  },
+  {
+    "english": "girder (constr.)",
+    "german": "Tragbalken (m, 117)"
+  },
+  {
+    "english": "girder (constr.)",
+    "german": "Binder (als, Trger, m, 56)"
+  },
+  {
+    "english": "girder (constr., engin.)",
+    "german": "Unterzug (m, 13)"
+  },
+  {
+    "english": "(girder) grillage (engin.)",
+    "german": "Trägerrost (Trgerkreuzwerk, m)"
+  },
+  {
+    "english": "bowstring girder (archi., constr.)",
+    "german": "Langer\u0027scher Balken (m)"
+  },
+  {
+    "english": "bowstring girder (archi., constr.)",
+    "german": "Langerscher Balken (alt, m)"
+  },
+  {
+    "english": "box girder",
+    "german": "Hohlkasten (m)"
+  },
+  {
+    "english": "box girder (constr.)",
+    "german": "Kastenträger (m)"
+  },
+  {
+    "english": "box girder (constr.)",
+    "german": "kastenförmiger Träger (m)"
+  },
+  {
+    "english": "bridge girder (constr.)",
+    "german": "Brückenträger (m)"
+  },
+  {
+    "english": "bulkhead girder (naut.)",
+    "german": "Schottträger (m)"
+  },
+  {
+    "english": "ceiling girder (constr.)",
+    "german": "Deckenträger (m)"
+  },
+  {
+    "english": "continuous girder (constr.)",
+    "german": "durchlaufender Träger (m)"
+  },
+  {
+    "english": "crane girder",
+    "german": "Kranbahnträger (m)"
+  },
+  {
+    "english": "crane girder",
+    "german": "Kranbrückenträger (m)"
+  },
+  {
+    "english": "crane girder",
+    "german": "Kranträger (m)"
+  },
+  {
+    "english": "girder bridge (constr.)",
+    "german": "Balkenbrücke (f)"
+  },
+  {
+    "english": "girder grid (constr.)",
+    "german": "Trägerraster (m)"
+  },
+  {
+    "english": "girder section (tech.)",
+    "german": "Schwerterprofil (Schwerterrahmenprofil, n)"
+  },
+  {
+    "english": "girder section (tech.)",
+    "german": "Trägerprofil (n)"
+  },
+  {
+    "english": "girder sections (constr., tech.)",
+    "german": "Schwerter (pl)"
+  },
+  {
+    "english": "iron girder (constr.)",
+    "german": "Eisenträger (m)"
+  },
+  {
+    "english": "Langer\u0027s girder (constr., archsupported, beam)",
+    "german": "langerscher Balken (m)"
+  },
+  {
+    "english": "lattice girder (constr.)",
+    "german": "Gitterträger (m)"
+  },
+  {
+    "english": "launching girder (constr.)",
+    "german": "Vorschubrüstung (f)"
+  },
+  {
+    "english": "longitudinal girder",
+    "german": "Längsträger (m)"
+  },
+  {
+    "english": "main girder (constr.)",
+    "german": "Hauptträger (m)"
+  },
+  {
+    "english": "main girder (constr.)",
+    "german": "Längsträger (m)"
+  },
+  {
+    "english": "plate girder (constr., engin.)",
+    "german": "Blechträger (m)"
+  },
+  {
+    "english": "plate girder (constr.)",
+    "german": "geschweißter Träger (m)"
+  },
+  {
+    "english": "roof girder (constr.)",
+    "german": "Dachträger (m)"
+  },
+  {
+    "english": "steel girder",
+    "german": "Stahlbramme (f)"
+  },
+  {
+    "english": "steel girder (constr.)",
+    "german": "Stahlträger (m)"
+  },
+  {
+    "english": "T-girder (constr.)",
+    "german": "T-Träger (m)"
+  },
+  {
+    "english": "trussed girder (constr.)",
+    "german": "Fachwerkträger (m)"
+  },
+  {
+    "english": "bowstring-girder bridge (constr.)",
+    "german": "Stabbogenbrücke (f)"
+  },
+  {
+    "english": "concrete girder bridge (constr.)",
+    "german": "Stahlbetonbrücke (f)"
+  },
+  {
+    "english": "continuous girder bridge (constr.)",
+    "german": "durchlaufende Balkenbrücke (f)"
+  },
+  {
+    "english": "continuous girder bridge (constr.)",
+    "german": "Mehrfeld-Balkenbrücke (f)"
+  },
+  {
+    "english": "double T-girder (constr.)",
+    "german": "Doppel-T-Träger (m)"
+  },
+  {
+    "english": "girder connection plate (constr.)",
+    "german": "Trägeranschlussplatte (f)"
+  },
+  {
+    "english": "hinged girder system (archi.)",
+    "german": "Gerberträger (pl)"
+  },
+  {
+    "english": "polygonal bowstring girder (archi.)",
+    "german": "Bogensehnenträger (m)"
+  },
+  {
+    "english": "polygonal bowstring girder (archi.)",
+    "german": "Segmentträger (m)"
+  },
+  {
+    "english": "steel hull (girder)",
+    "german": "Stahlrumpf (groer, Schiffsrumpf, m)"
+  },
+  {
+    "english": "steel-girder construction (constr.)",
+    "german": "Stahlbau (Bauwerk, m)"
+  },
+  {
+    "english": "steel-girder frame",
+    "german": "Stahlgerüst (Gerippe, n)"
+  },
+  {
+    "english": "deck plate girder bridge (constr.)",
+    "german": "Vollwandbrücke (f)"
+  },
+  {
+    "english": "deck plate girder bridge (constr.)",
+    "german": "Vollwandträgerbrücke (f)"
+  },
+  {
+    "english": "double girder suspension crane (ind.)",
+    "german": "Zweiträgerhängekran (m)"
+  },
+  {
+    "english": "girder trolley with crank (tech.)",
+    "german": "Laufkatze mit Kurbel (f)"
+  },
+  {
+    "english": "single girder suspension crane (ind.)",
+    "german": "Einträgerhängekran (m)"
+  },
+  {
+    "english": "single girder underslung crane",
+    "german": "Einträger-Deckenkran (m)"
+  },
+  {
+    "english": "arched girder with polygonal outline (archi.)",
+    "german": "Polygonbogenträger (m)"
+  },
+  {
+    "english": "box-girder / box girder bridge (constr.)",
+    "german": "Hohlträgerbrücke (f)"
+  },
+  {
+    "english": "box-girder / box girder bridge (constr.)",
+    "german": "Kastenträgerbrücke (f)"
+  },
+  {
+    "english": "double girder overhead travelling crane (ind.)",
+    "german": "Zweiträgerlaufkran (m)"
+  },
+  {
+    "english": "single girder overhead travelling crane (ind.)",
+    "german": "Einträgerlaufkran (m)"
+  },
+  {
+    "english": "single girder overhead travelling crane (ind.)",
+    "german": "Einträger-Laufkran (m)"
+  }
+]

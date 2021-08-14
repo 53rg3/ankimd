@@ -1,0 +1,202 @@
+[
+  {
+    "english": "to debit (fin.)",
+    "german": "belasten (709)"
+  },
+  {
+    "english": "to debit (fin., bank, account)",
+    "german": "abbuchen (Bankkonto, 366)"
+  },
+  {
+    "english": "to debit sb./sth.",
+    "german": "jdn./etw. debitieren"
+  },
+  {
+    "english": "debit (fin.)",
+    "german": "Lastschrift (f, 1085)"
+  },
+  {
+    "english": "debit (acc.)",
+    "german": "Soll (n, 659)"
+  },
+  {
+    "english": "debit (econ.)",
+    "german": "Belastung (f, 241)"
+  },
+  {
+    "english": "debit",
+    "german": "Schuldposten (m, 104)"
+  },
+  {
+    "english": "debit (acc.)",
+    "german": "Debet (n, 59)"
+  },
+  {
+    "english": "debit (acc.)",
+    "german": "Sollseite (f, 14)"
+  },
+  {
+    "english": "debit",
+    "german": "Lastposten (m, 9)"
+  },
+  {
+    "english": "debit",
+    "german": "Sollposten (m, 6)"
+  },
+  {
+    "english": "debit",
+    "german": "Debetseite (f)"
+  },
+  {
+    "english": "in debit (acc.)",
+    "german": "im Soll"
+  },
+  {
+    "english": "to debit afterwards (fin.)",
+    "german": "nachträglich belasten"
+  },
+  {
+    "english": "bank debit",
+    "german": "Kontobelastung (f)"
+  },
+  {
+    "english": "current debit",
+    "german": "aktuelle Belastung (f)"
+  },
+  {
+    "english": "debit account",
+    "german": "Schuldkonto (n)"
+  },
+  {
+    "english": "debit advice",
+    "german": "Belastungsanzeige (f)"
+  },
+  {
+    "english": "debit advice",
+    "german": "Lastschrift (f)"
+  },
+  {
+    "english": "debit balance (acc.)",
+    "german": "Passivsaldo (m)"
+  },
+  {
+    "english": "debit balance (acc.)",
+    "german": "Überdeckung (f)"
+  },
+  {
+    "english": "debit balance (acc.)",
+    "german": "Soll-Saldo (m)"
+  },
+  {
+    "english": "debit balance",
+    "german": "Saldo zu Ihren Lasten (m)"
+  },
+  {
+    "english": "debit card (fin.)",
+    "german": "Bankomatkarte (sterr, f)"
+  },
+  {
+    "english": "debit card (fin.)",
+    "german": "Debitkarte (f)"
+  },
+  {
+    "english": "debit card",
+    "german": "Kundenkarte (f)"
+  },
+  {
+    "english": "debit column",
+    "german": "Sollspalte (f)"
+  },
+  {
+    "english": "debit entry (acc.)",
+    "german": "Belastungsbuchung (f)"
+  },
+  {
+    "english": "debit entry (acc.)",
+    "german": "Lastschrift (f)"
+  },
+  {
+    "english": "debit interest (fin., sg)",
+    "german": "Sollzinsen (pl)"
+  },
+  {
+    "english": "debit item",
+    "german": "Debitposten (m)"
+  },
+  {
+    "english": "debit item",
+    "german": "Passivposten (m)"
+  },
+  {
+    "english": "debit kiting (fin., law)",
+    "german": "Lastschriftreiterei (f)"
+  },
+  {
+    "english": "debit note",
+    "german": "Belastungsanzeige (f)"
+  },
+  {
+    "english": "debit note",
+    "german": "Lastschrift (f)"
+  },
+  {
+    "english": "debit note",
+    "german": "Lastschriftanzeige (f)"
+  },
+  {
+    "english": "debit order (fin.)",
+    "german": "Abbuchungsauftrag (m)"
+  },
+  {
+    "english": "debit side (acc.)",
+    "german": "Soll (n)"
+  },
+  {
+    "english": "debit side (acc.)",
+    "german": "Sollseite (f)"
+  },
+  {
+    "english": "debit sign",
+    "german": "Debitzeichen (n)"
+  },
+  {
+    "english": "debit slip (fin.)",
+    "german": "Lastschriftbeleg (m)"
+  },
+  {
+    "english": "debit symbol",
+    "german": "Debetzeichen (n)"
+  },
+  {
+    "english": "debit turnover (acc.)",
+    "german": "Sollumsatz (m)"
+  },
+  {
+    "english": "debit withdrawal (fin.)",
+    "german": "Lastschriftabbuchung (f)"
+  },
+  {
+    "english": "direct debit (fin.)",
+    "german": "Abbuchung (f)"
+  },
+  {
+    "english": "direct debit (fin.)",
+    "german": "direkte Belastung (f)"
+  },
+  {
+    "english": "direct debit \u003cD/D\u003e (fin.)",
+    "german": "Bankeinzug (Lastschrift, m)"
+  },
+  {
+    "english": "direct debit \u003cDD\u003e (fin.)",
+    "german": "Lastschrift \u003cLS\u003e (f)"
+  },
+  {
+    "english": "net debit",
+    "german": "Nettobelastung (f)"
+  },
+  {
+    "english": "return debit",
+    "german": "Rückbelastung (f)"
+  }
+]

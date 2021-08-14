@@ -1,0 +1,202 @@
+[
+  {
+    "english": "to fatigue",
+    "german": "ermüden (1037)"
+  },
+  {
+    "english": "fatigue",
+    "german": "Ermüdung (f, 1861)"
+  },
+  {
+    "english": "fatigue",
+    "german": "Erschöpfung (f, 652)"
+  },
+  {
+    "english": "fatigue (tech.)",
+    "german": "Materialermüdung (f, 374)"
+  },
+  {
+    "english": "fatigue",
+    "german": "Müdigkeit (f, 295)"
+  },
+  {
+    "english": "fatigue",
+    "german": "Schlappheit (ugs, f, 78)"
+  },
+  {
+    "english": "fatigue (med.)",
+    "german": "Abgeschlagenheit (f, 75)"
+  },
+  {
+    "english": "fatigue",
+    "german": "Ermattung (f, 62)"
+  },
+  {
+    "english": "fatigue",
+    "german": "Übermüdung (f, 53)"
+  },
+  {
+    "english": "fatigue (tech.)",
+    "german": "Werkstoffermüdung (f, 29)"
+  },
+  {
+    "english": "fatigue",
+    "german": "Abspannung (Ermdung, etc, f, 21)"
+  },
+  {
+    "english": "fatigue (dent.)",
+    "german": "Ermüdungsverschleiß (m, 17)"
+  },
+  {
+    "english": "fatigue (med.)",
+    "german": "Fatigue (Ermdungssyndrom, f)"
+  },
+  {
+    "english": "fatigue resistant (tech., materials, adj)",
+    "german": "ermüdungsfest (Materialien)"
+  },
+  {
+    "english": "fatigue-proof (adj)",
+    "german": "ermüdungsfrei"
+  },
+  {
+    "english": "fatigue-proof (adj)",
+    "german": "ermüdungssicher"
+  },
+  {
+    "english": "low-fatigue (material, tech., attr, adj)",
+    "german": "ermüdungsarm"
+  },
+  {
+    "english": "to combat fatigue",
+    "german": "die Müdigkeit bekämpfen"
+  },
+  {
+    "english": "(general) fatigue (med., sg)",
+    "german": "Erschöpfungszustände (pl)"
+  },
+  {
+    "english": "battle fatigue (mil.)",
+    "german": "Kampfmüdigkeit (f)"
+  },
+  {
+    "english": "battle fatigue (psych.)",
+    "german": "Kriegsneurose (f)"
+  },
+  {
+    "english": "battle fatigue",
+    "german": "Übermüdung im Kampf (f)"
+  },
+  {
+    "english": "bodily fatigue",
+    "german": "körperliche Ermüdung (f)"
+  },
+  {
+    "english": "chronic fatigue (med.)",
+    "german": "chronische Müdigkeit (f)"
+  },
+  {
+    "english": "climate fatigue (pol., Br)",
+    "german": "Klimamüdigkeit (des, Themas, Klima, berdrssig, sein, f)"
+  },
+  {
+    "english": "combat fatigue",
+    "german": "Kriegsmüdigkeit (f)"
+  },
+  {
+    "english": "combat fatigue (psych.)",
+    "german": "Kriegsneurose (f)"
+  },
+  {
+    "english": "compassion fatigue (med., psych.)",
+    "german": "Beziehungsmüdigkeit (f)"
+  },
+  {
+    "english": "compassion fatigue (med., psych.)",
+    "german": "Mitgefühlserschöpfungssyndrom (n)"
+  },
+  {
+    "english": "compassion fatigue (psych.)",
+    "german": "Mitgefühlsmüdigkeit (f)"
+  },
+  {
+    "english": "compassion fatigue (med., psych.)",
+    "german": "Burn-out in Pflegeberufen (nicht, fachspr, n)"
+  },
+  {
+    "english": "corrosion fatigue (chem., material)",
+    "german": "Korrosionsermüdung (f)"
+  },
+  {
+    "english": "corrosion fatigue (material, eg, of, stainless, steels)",
+    "german": "Schwingungsrisskorrosion (z, B, an, nichtrostenden, Sthlen, f)"
+  },
+  {
+    "english": "creep fatigue",
+    "german": "Langzeitermüdung (f)"
+  },
+  {
+    "english": "donor fatigue",
+    "german": "Spendenmüdigkeit (f)"
+  },
+  {
+    "english": "fatigue (duty) (mil.)",
+    "german": "Arbeitsdienst (m)"
+  },
+  {
+    "english": "fatigue accident",
+    "german": "Unfall durch Ermüdung (m)"
+  },
+  {
+    "english": "fatigue accident",
+    "german": "Unfall wegen Ermüdung (m)"
+  },
+  {
+    "english": "fatigue allowance",
+    "german": "Erholungszuschlag (m)"
+  },
+  {
+    "english": "fatigue behavior (engin., material, tech., Am)",
+    "german": "Ermüdungsverhalten (n)"
+  },
+  {
+    "english": "fatigue behaviour (engin., material, tech., Br)",
+    "german": "Ermüdungsverhalten (n)"
+  },
+  {
+    "english": "fatigue behaviour \u003cFB\u003e (material, Br)",
+    "german": "Schwingfestigkeit \u003cSF\u003e (f)"
+  },
+  {
+    "english": "fatigue break",
+    "german": "Ermüdungsbruch (m)"
+  },
+  {
+    "english": "fatigue corrosion (material, tech.)",
+    "german": "Ermüdungskorrosion (f)"
+  },
+  {
+    "english": "fatigue crack (material)",
+    "german": "Ermüdungsriss (m)"
+  },
+  {
+    "english": "fatigue curve",
+    "german": "Ermüdungskurve (f)"
+  },
+  {
+    "english": "fatigue detail",
+    "german": "Arbeitskommando (n)"
+  },
+  {
+    "english": "fatigue dress (cloth.)",
+    "german": "Arbeitsanzug (m)"
+  },
+  {
+    "english": "fatigue dress (mil.)",
+    "german": "Arbeitsuniform (f)"
+  },
+  {
+    "english": "fatigue duties",
+    "german": "Kasernendienste (pl)"
+  }
+]
