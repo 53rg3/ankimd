@@ -2,6 +2,7 @@ package english;
 
 import config.Config;
 import core.tts.WaveNetApiScraper;
+import english.mdcreator.EnglishMarkdownCreator;
 import english.models.DictCcTranslation;
 import english.models.EnglishWord;
 import english.models.MerriamDefinition;
@@ -31,6 +32,7 @@ public class Main {
     private static final DictCcScraper dictCcScraper = new DictCcScraper();
     private static final Set<EnglishWord> corpus = normalizedUnsortedSetOfWords(Config.ENGLISH_INPUT_FOLDER.resolve("words"));
     private static final AtomicInteger count = new AtomicInteger();
+    private static final EnglishMarkdownCreator markdownCreator = new EnglishMarkdownCreator();
 
     public static void main(final String[] args) throws Exception {
         for (final EnglishWord word : corpus) {
@@ -65,6 +67,7 @@ public class Main {
             }
             System.out.print("\n");
         }
+        markdownCreator.create(corpus);
     }
 
     private static Set<EnglishWord> normalizedUnsortedSetOfWords(final Path pathToWordsFile) {

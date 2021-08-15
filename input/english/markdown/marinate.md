@@ -1,0 +1,32 @@
+---
+sound: [sound:ankimd/english/mp3/marinate.mp3]
+---
+
+\### marinate
+
+[Merriam-Webster](https://www.merriam-webster.com/dictionary/marinate)
+
+- to steep (food such as meat, fish, or vegetables) in a marinade, to coat or cover (food) with herbs, spices, etc. and let rest before cooking or serving
+    - … fillet of beef, marinated in rice wine with tamarind, cardamom and vegetable pilaf.
+    - — Matthew Fort
+    - The immense variety of salads, marinated vegetables and beans, frittatas and little tarts that appear on Italian antipasto tables and Spanish tapas bars also provide ideas for this approach.
+    - — Susan Jane Cheney
+    - … a new-fangled brochette of shrimp marinated in spices and skewered with sweet, creamy chunks of date.
+    - — William Grimes
+    - … herb-marinated cashew cheese served with garnishes like olives, honey and dates.
+    - — Florence Fabricant
+    - … had the genius idea to fill a tender crust with thinly sliced lemons marinated in sugar.
+    - — Monica Micahel Willis
+- to become marinated
+    - Have rabbit cleaned and cut into small serving pieces. Place in bowl. Pour burgundy over it. Allow to marinate for 6 hours.
+    - — Maria Lo Pinto
+    - Ceviche, a Peruvian appetizer also popular in the Caribbean and Central America, is prepared by combining bite-size pieces of raw fish with lime or lemon juice and allowing the mixture to marinate overnight in the refrigerator.
+    - — Bon Appetit
+
+[dict.cc](https://www.dict.cc/marinate)
+
+| English        | German       |
+| -------------- | ------------ |
+| to marinate (gastr.) | marinieren (63) |
+| to marinate sth. (gastr.) | etw. einlegen (marinieren, 25) |
+| to marinate (gastr.) | beizen (19) |

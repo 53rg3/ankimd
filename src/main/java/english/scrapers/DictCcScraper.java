@@ -111,7 +111,7 @@ public class DictCcScraper {
 
     public List<DictCcTranslation> loadDefinitionsFromFile(final EnglishWord englishWord) {
         try {
-            return GSON.fromJson(Files.readString(englishWord.pathToDefinitionsFile), listType);
+            return GSON.fromJson(Files.readString(englishWord.pathToTranslationsFile), listType);
         } catch (final IOException e) {
             throw new IllegalStateException(e);
         }

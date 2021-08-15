@@ -1,0 +1,29 @@
+---
+sound: [sound:ankimd/english/mp3/nonplussed.mp3]
+---
+
+\### nonplussed
+
+[Merriam-Webster](https://www.merriam-webster.com/dictionary/nonplussed)
+
+- unsure about what to say, think, or do : perplexed
+    - She was nonplussed, but quickly collected herself, explained that the plumbing had been acting up for days, and told them to pay it no mind.
+    - — Diane Ackerman
+    - Cedric looked nonplussed. He looked from Bagman to Harry and back again as though sure he must have misheard what Bagman had said.
+    - — J. K. Rowling
+- not bothered, surprised, or impressed by something
+    - Employees took to the sidewalks, throwing T-shirts and 20 percent off coupons at the few people who passed by. Still, an H&M spokesman in New York was nonplussed by the lack of fanfare. Opening day varies, he said, from location to location. "It's only one day."
+    - — Saint Paul (Minnesota) Pioneer Press
+    - For all his daring down the world's steepest hills, Sasaki is remarkably laid back off the slopes and nonplussed by all the sudden interest in him.
+    - — The New York Times
+    - One of the things that most vexes language purists … is when the meaning of a word changes over time. For example, it appears that the traditional sense of the word nonplussed, "bewildered and at a loss as to what to think," is slowly giving way to a new (and opposite) sense: "unfazed." Even experienced writers are using the new sense.
+    - — Paul McFedries
+
+[dict.cc](https://www.dict.cc/nonplussed)
+
+| English        | German       |
+| -------------- | ------------ |
+| nonplussed (adj, pastp) | verblüfft (313) |
+| nonplussed (adj) | perplex (ugs, 106) |
+| sb./sth. nonplussed | jd./etw. verblüffte (16) |
+| nonplussed (adj, pastp) | verlegen gemacht |

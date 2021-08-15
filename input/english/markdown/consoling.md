@@ -1,0 +1,24 @@
+---
+sound: [sound:ankimd/english/mp3/consoling.mp3]
+---
+
+\### consoling
+
+[Merriam-Webster](https://www.merriam-webster.com/dictionary/consoling)
+
+- an architectural member projecting from a wall to form a bracket or from a keystone for ornament
+- console table
+- an upright case that houses the keyboards and controlling mechanisms of an organ and from which the organ is played
+- a combination of readouts or displays and an input device (such as a keyboard or switches) by which an operator can monitor and interact with a system (such as a computer or dubber)
+- a cabinet (as for a radio or television set) designed to rest directly on the floor
+- a small storage cabinet between bucket seats in an automobile
+- an electronic system that connects to a display (such as a television set) and is used primarily to play video games
+- to alleviate the grief, sense of loss, or trouble of : comfort
+    - console a widow
+    - I consoled myself with the thought that things could be much worse.
+
+[dict.cc](https://www.dict.cc/consoling)
+
+| English        | German       |
+| -------------- | ------------ |
+| consoling (adj) | tröstend (528) |

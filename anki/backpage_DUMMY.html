@@ -9,34 +9,16 @@
 <!-- COPY FROM HERE -->
 <!-- ===================================================================== -->
 <link rel="stylesheet" type="text/css" href="ankimd/style.css">
-<div style='display:none' id='markdown'>
----
-sound: [ankimd/english/some_word.mp3]
----
-# Heading
-
-- sadfsadf
-    - asdfdfg
-    - asdfdfg
-- qwerweqr
-- sdfgdfsg
-
-| Tables        | Are           |
-| ------------- |:-------------:|
-| **col 3 is**  | right-aligned |
-| col 2 is      | *centered*    |
-| zebra stripes | ~~are neat~~  |
+<div id='markdown'>
+---<br>sound: [sound:ankimd/english/mp3/tangy.mp3]<br>---<br><br>\### tangy<br><br>[Merriam-Webster](https://www.merriam-webster.com/dictionary/tangy)<br><br>- having or suggestive of a tang<br><br>[dict.cc](https://www.dict.cc/tangy)<br><br>| English        | German       |<br>| -------------- | ------------ |<br>| tangy (gastr., spicy, adj) | würzig (164) |<br>| tangy (adj) | streng (Geruch, Geschmack, 153) |<br>| tangy (adj) | scharf (Geschmack, Geruch, 60) |<br>| tangy (adj) | herb (Duft, Parfum, 44) |<br>| tangy (adj) | durchdringend (23) |<br>| tangy (adj) | mit scharfem Beigeschmack |<br>| perfume with a tangy quality | Parfüm mit einer herben Note (n) |<br>
 </div>
-<div id="html"></div>
+<div id="root-container">
+    <div id="html"></div>
+</div>
 
-<script type="application/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
-<script type="application/javascript">
-    var converter = new showdown.Converter({tables: true, strikethrough: true});
-    var elem = document.getElementById("markdown");
-    var html = converter.makeHtml(elem.innerHTML);
-    document.getElementById("html").innerHTML = html;
-</script>
+<div id="notes" class="anki-field">Shit has some meaning</div>
+<script type="application/javascript" src="ankimd/showdown.min.js"></script>
+<script type="application/javascript" src="ankimd/backpage.js"></script>
 
 
 <!-- ===================================================================== -->

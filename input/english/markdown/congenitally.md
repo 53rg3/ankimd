@@ -1,0 +1,36 @@
+---
+sound: [sound:ankimd/english/mp3/congenitally.mp3]
+---
+
+\### congenitally
+
+[Merriam-Webster](https://www.merriam-webster.com/dictionary/congenitally)
+
+- existing at or dating from birth
+    - congenital deafness
+    - … a congenital neuromuscular disease that stiffens joints and weakens muscles.
+    - — Lara Cerri
+    - … scientists hope to also understand more common malformations that are congenital but not inherited.
+    - — Lee Siegel
+    - The skin markings are a benign congenital developmental condition and, on palpation, feel no different to normal skin.
+    - — Elizabeth Symes
+- constituting an essential characteristic : inherent
+    - A congenital taste for Greco-Roman themes, which had once found expression in his own paintings, now took the form of a pronounced weakness for buying up statuettes and medallions depicting gods and heroes of classical times.
+    - — Anthony Powell
+    - At each roll, the ship favored its congenital list, easing farther and farther toward that soft starboard side …
+    - — Robert Stone
+- acquired during development in the uterus and not through heredity
+    - Antiparasitic treatment is recommended in acute or congenital infection, in children with chronic infection, and in immunosuppressed patients.
+    - — Eric M. Isselbacher et al.
+    - PCBs pass through the placenta, cause congenital poisoning, and remain in human tissues for long intervals.
+    - — Scientific American Medicine Bulletin
+- being such by nature
+    - a congenital liar
+    - The truth was that Ward was a congenital name-dropper and snob who—though he was undoubtedly treated unfairly—largely brought his troubles upon himself.
+    - — Anthony Howard
+
+[dict.cc](https://www.dict.cc/congenitally)
+
+| English        | German       |
+| -------------- | ------------ |
+| congenitally (adv) | angeboren (372) |
